@@ -11,3 +11,13 @@ Location : Germany
 Contact : something.host
 ```
 ---
+Hosted by @ [Thnks_CJ](https://github.com/ThnksCJ)
+```bash
+Host : lavalink.cjstevenson.xyz & lavalink.cjstevenson.com
+Port : 443
+Password : lookbehindyou
+Secure: True
+Location : UK
+Contact : Thnks_CJ#0001 or admin@cjstevenson.com
+```
+
