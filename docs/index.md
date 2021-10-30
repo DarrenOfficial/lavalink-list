@@ -2,7 +2,7 @@
 description: list of free lavalink hosting, Lavalink is a standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards. It is a great alternative to Youtube API.
 authors:
     - Darren Nathanael
-og_title: lavalink list.
+og_title: Lavalink Hosting
 og_image: https://cdn.darrennathanael.com/assets/java.png
 ---
 
