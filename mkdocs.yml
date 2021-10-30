@@ -1,0 +1,37 @@
+site_name: Public Lavalink List
+theme: 
+  name: 'material'
+  logo: 'https://cdn.darrennathanael.com/assets/java.png'
+  palette:
+    scheme: slate
+    primary: 'deep purple'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Fira Mono'
+  favicon:
+    'https://cdn.darrennathanael.com/assets/java64.png'
+  features:
+    - tabs
+    - navigation.tracking
+    - header.autohide
+repo_name: 'lavalink-list'
+repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.betterem:
+      smart_enable: all
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/DarrenNathans
+    - icon: 'fontawesome/brands/github-alt'
+      link: 'https://github.com/DarrenOfficial'
+      
+      
+copyright: 'Copyright &copy; 2020 - 2021 Darren (lavalink@darrennathanael.com)'
