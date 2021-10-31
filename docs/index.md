@@ -1,28 +1,38 @@
+<div align="center">
+  <a href="https://github.com/DarrenOfficial/lavalink-list">
+    <img src="https://cdn.darrennathanael.com/assets/java.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">lavalink-list</h3>
+
+  <p align="center">
+    A listing site for lavalink because lavalink.org is down. Feel free to make a pull request.
+    <br />
+    <a href="https://lavalink-list.darrennathanael.com/"><strong>Open Website »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    ·
+    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
+  </p>
+</div>
+
 ---
-description: list of free lavalink hosting, Lavalink is a standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards. It is a great alternative to Youtube API.
-authors:
-    - Darren Nathanael
-og_title: Lavalink Hosting
-og_image: https://cdn.darrennathanael.com/assets/java.png
----
 
-# Home
-
----
-
-# A list of public lavalink
-
-You can add yours by making a pull request [here](https://github.com/DarrenOfficial/lavalink-list)
 
 ## Directory
 
-* [Lavalink server located in US](/Location/United%20States/) 
-* [Lavalink server located in Europe](/Location/Europe)
-* [Lavalink server located in Asia](/Location/Asia)
+* [Lavalink server located in US](/location/United-States/) 
+* [Lavalink server located in Europe](/location/Europe)
+* [Lavalink server located in Asia](/location/Asia)
 
 ---
 
-# Pull Request Template
+## Pull Request Template
 Make sure to only open pull request in the location with the ending `.md` **Don't create a new file/folder**
 ```md
 
@@ -45,5 +55,3 @@ Contact : Discord#0001
 - Port Well the port number.
 - Password pretty self explanatory.
 - Contact Just incase your lavalink is down, where to contact ect ect.
-
-
