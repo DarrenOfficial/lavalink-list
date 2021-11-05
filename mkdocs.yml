@@ -3,18 +3,19 @@ site_url: https://lavalink-list.darrennathanael.com
 site_description: List of free lavalink hosting, Lavalink is a standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards. It is a great alternative to Youtube API.
 theme: 
   name: 'material'
-  logo: 'https://cdn.darrennathanael.com/assets/java.png'
+  logo: 'https://www.darrennathanael.com/faviconalt-min.png'
   palette:
     scheme: slate
-    primary: 'orange'
+    primary: 'white'
     accent: 'indigo'
   font:
-    text: 'Roboto'
-    code: 'Fira Mono'
+    text: 'Ubuntu'
+    code: 'Source Code Pro'
   favicon:
-    'https://cdn.darrennathanael.com/assets/java64.png'
+    'https://www.darrennathanael.com/faviconalt-min.png'
   features:
     - tabs
+    - instantsite
     - navigation.tracking
     - navigation.expand
     - header.autohide
@@ -35,6 +36,6 @@ extra:
       link: https://twitter.com/DarrenNathans
     - icon: 'fontawesome/brands/github-alt'
       link: 'https://github.com/DarrenOfficial' 
-copyright: 'Copyright &copy; 2020 - 2021 Darren Nathanael'
+copyright: 'Copyright &copy; 2020 - 2021 Darren Nathanael; All rights reserved.'
 extra:
   generator: false
