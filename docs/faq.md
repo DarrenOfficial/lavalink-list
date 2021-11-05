@@ -1,14 +1,14 @@
 # FAQ
 
-### What if one or more of these server are down?
+### What if one or more of these servers are down?
 
 Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
 
 ### What is the difference between `NoSSL` and `SSL`
-SSL Uses Secure WS connection, whilist NoSSL uses standard ws.
-Tho if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
+SSL Uses Secure WS connection, whilst No SSL uses standard WS.
+Tho, if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 
-### Is these server free?
+### Is these servers free?
 
 Yes it is!
 
@@ -18,9 +18,9 @@ Just open a pull request and I will merge it!
 
 ### Where is this site hosted?
 
-The site is hosted @ [cloudflare pages](https://pages.dev)
+The site is hosted @ [Cloudflare pages](https://pages.dev)
 
 
 ### I want to help redesign the site, how and what software do I use?
 
-Well you can design the site with mkdocs and make a pull request, if it's good I will merge it!
+Well you can design the site with [mkdocs](https://squidfunk.github.io/mkdocs-material/) and make a pull request, if it's good I will merge it!
