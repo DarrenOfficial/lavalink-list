@@ -1,0 +1,15 @@
+{
+  "name": "lavalink-list",
+  "version": "1.0.0",
+  "description": "A listing site for lavalink servers",
+  "main": "mkdocs.yml",
+  "repository": "git@github.com:DarrenOfficial/lavalink-list.git",
+  "author": "DarrenOfficial <github@darrennathanael.com>",
+  "license": "MIT",
+  "scripts": {
+    "setup": "pip install -r requirements.txt",
+    "start": "mkdocs serve",
+    "build": "mkdocs build",
+    "preview": "ngrok http 8000"
+  }
+}
