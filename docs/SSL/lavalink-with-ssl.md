@@ -25,3 +25,12 @@ Port : 443
 Password : LAVA
 Secure : true
 ```
+Hosted by @ [Priyam] (https://expy.bio/mrpriyamyt)
+```bash
+Host : lavalink.mrpriyamyt.repl.co
+Port : 443
+Password : methisbigbrain
+Location : Asia
+Secure : true
+Contact : Æ尺Ø 么 P尺Ī¥ĀM#7557
+```
