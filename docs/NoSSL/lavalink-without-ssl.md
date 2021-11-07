@@ -7,8 +7,6 @@ Password : "clover"
 Location : Chicago IL
 Contact : DarrenOfficial#3451
 ```
----
----
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link

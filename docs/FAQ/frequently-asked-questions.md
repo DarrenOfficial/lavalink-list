@@ -1,4 +1,4 @@
-# FAQ
+# Frequently asked Question
 
 ### What if one or more of these servers are down?
 
