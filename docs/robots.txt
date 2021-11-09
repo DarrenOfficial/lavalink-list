@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lavalink-list.darrennathanael.com/sitemap.xml
