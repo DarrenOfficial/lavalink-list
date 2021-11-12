@@ -41,7 +41,6 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 
 ## pr template
 ```md
-
 Hosted by @ [Your Name Here](https://example.com)
 
 Host / IP : 192.168.0.1 or lavalink.example.com
@@ -50,3 +49,9 @@ Password : somepasswordhere
 Location : Chicago IL
 Contact : Discord#0001
 ```
+
+
+
+## Domains
+
+You can find this website via [lavalink-list.darrennathanael.com](https://lavalink-list.darrennathanael.com) or [mylavalink.cf](https://mylavalink.cf)

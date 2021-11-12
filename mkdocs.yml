@@ -52,4 +52,7 @@ extra:
     - icon: 'fontawesome/brands/discord'
       link: 'https://discord.gg/MEuxp7uQcg'
   generator: false
+  analytics:
+    provider: google
+    property: G-47EVTLTVF7
 copyright: 'Copyright &copy; 2020 - 2021 Darren; License under apache-2.0'
