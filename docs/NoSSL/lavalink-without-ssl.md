@@ -15,3 +15,9 @@ Password : anything as password
 Location : Germany
 Contact : something.host
 ```
+Hosted by @ Unknown
+```bash
+Host : lavalinknl.ml
+Port : 2333
+Password : Raccoon
+```
