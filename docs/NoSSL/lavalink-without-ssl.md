@@ -19,5 +19,6 @@ Hosted by @ Unknown
 ```bash
 Host : lavalinknl.ml
 Port : 2333
-Password : Raccoon
+Password : "Raccoon"
 ```
+---
