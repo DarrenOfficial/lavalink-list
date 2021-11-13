@@ -34,3 +34,11 @@ Location : Asia
 Secure : true
 Contact : Æ尺Ø 么 P尺Ī¥ĀM#7557
 ```
+
+Hosted by [JotaroKujo0525](https://github.com/JotaroKujo0525)
+```js
+Host: "lavalink-replit.rainandrewandre.repl.co",
+Port: 443,
+password: "maybeiwasboring", 
+secure: true
+```
