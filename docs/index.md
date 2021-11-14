@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://cdn.darrennathanael.com/assets/java.png" alt="Logo" width="80" height="80">
+    <img src="https://www.darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </a>
 
-<h3 align="center">lavalink-list</h3>
+<h3 align="center">lavalink list</h3>
 
   <p align="center">
     A listing site for lavalink hosting because there isn't a lot of lavalink listing site, feel free to make a pull request.
@@ -39,7 +39,7 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 
 
 
-## pr template
+## Pull Request Template
 ```md
 Hosted by @ [Your Name Here](https://example.com)
 

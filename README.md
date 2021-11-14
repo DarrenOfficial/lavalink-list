@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://cdn.darrennathanael.com/assets/java.png" alt="Logo" width="80" height="80">
+    <img src="https://www.darrennathanael.com/cdn/springtext.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Lavalink List</h3>
@@ -19,3 +19,7 @@
   </p>
 </div>
 
+
+### Why spring logo?
+
+Because lavalink is based off spring.
