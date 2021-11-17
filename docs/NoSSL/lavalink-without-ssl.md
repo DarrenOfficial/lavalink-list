@@ -27,4 +27,11 @@ Port : 25504
 Password : "lookbehindyou"
 secure: false
 ```
+Hosted By @ [Emily](https://github.com/Emily8733)
+```bash
+Host : unit1.nighthost.tech
+Port : 23549
+Password : "emilylava"
+secure : false
+```
 ---
