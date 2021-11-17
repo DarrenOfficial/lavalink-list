@@ -20,7 +20,7 @@ Port : 2333
 Password : "Raccoon"
 secure: false
 ```
-Hosted by @ [Darren Nathanael](https://cjstevenson.com/)
+Hosted by @ [CJ](https://cjstevenson.com/)
 ```bash
 Host : node1.cjstevenson.com
 Port : 25504
