@@ -10,7 +10,7 @@ Tho, if you want to use the SSL lavalink you need to make sure your bot uses tha
 
 ### Why Spring boot logo?
 
-Because lavalink is made using springboot, and theres so "lavalink" logo so spring boot it is :)
+Because lavalink is made using springboot.
 
 ### How can I share my server?
 
