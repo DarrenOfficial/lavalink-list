@@ -27,13 +27,6 @@ Port : 80
 Password : anything as password
 secure: false
 ```
-Hosted by @ Unknown
-```bash
-Host : lavalinknl.ml
-Port : 2333
-Password : "Raccoon"
-secure: false
-```
 Hosted by @ [CJ](https://cjstevenson.com/)
 ```bash
 Host : node1.cjstevenson.com
