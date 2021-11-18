@@ -1,12 +1,3 @@
----
-Hosted by @ [Thnks_CJ](https://github.com/ThnksCJ)
-```bash
-Host : lavalink.cjstevenson.com
-Port : 443
-Password : "lookbehindyou"
-Secure : true
-```
-
 Hosted by @ [Mathiscool and Happy 3G](https://discord.io/botsuniversity)
 ```bash
 Host : lavalink.devz.cloud & lavalink2.devz.cloud
