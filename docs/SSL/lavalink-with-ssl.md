@@ -1,7 +1,7 @@
 ---
 Hosted by @ [Thnks_CJ](https://github.com/ThnksCJ)
 ```bash
-Host : lavalink.cjstevenson.xyz / lavalink.cjstevenson.com
+Host : lavalink.cjstevenson.com
 Port : 443
 Password : "lookbehindyou"
 Secure : true
