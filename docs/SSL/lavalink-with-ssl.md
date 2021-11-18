@@ -1,4 +1,3 @@
-
 Hosted by @ [Mathiscool and Happy 3G](https://discord.io/botsuniversity)
 ```bash
 Host : lavalink.devz.cloud & lavalink2.devz.cloud
@@ -13,9 +12,9 @@ Port : 443
 Password : "LAVA"
 Secure : true
 ```
-Hosted by @ [Priyam](https://expy.bio/mrpriyamyt)
+Hosted by @ [Priyam](https://www.priyam.ml)
 ```bash
-Host : lavalink.mrpriyamyt.repl.co
+Host : www.lavalink-priyam.ml
 Port : 443
 Password : "methisbigbrain"
 Secure : true
