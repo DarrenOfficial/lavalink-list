@@ -34,4 +34,10 @@ Port : 25503
 Password : "lookbehindyou"
 secure: false
 ```
-
+Hosted by @ [Youwho](https://github.com/Youwho1234567)
+```bash
+Host : lavalink.youwho.com
+Port : 80
+Password : "anime"
+secure: false
+```
