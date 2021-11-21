@@ -36,25 +36,3 @@ These lavalink are group into two different categories.
 
 One with SSL, one without SSL.
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
-
-
-
-## Pull Request Template
-```md
-Hosted by @ [Your Name Here](https://example.com)
-
-Host / IP : 192.168.0.1 or lavalink.example.com
-Port : 6969
-Password : somepasswordhere
-```
-
-
-
-## Domains
-
-You can find this website via [lavalink-list.darrennathanael.com](https://lavalink-list.darrennathanael.com) or [mylavalink.cf](https://mylavalink.cf)
-
-If you don't want long replit name, you can request your own `someone.mylavalink.cf` by emailing your replit domain and what do you want your subdomain to be
-
-
-Send it here -> lavalinksubdomain@darrennathanael.com
