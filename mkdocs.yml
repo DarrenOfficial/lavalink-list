@@ -14,8 +14,8 @@ theme:
   search_index_only: true
   palette:
     scheme: slate
-    primary: 'green'
-    accent: 'teal'
+    primary: 'teal'
+    accent: 'green'
   font:
     text: 'Ubuntu'
     code: 'Source Code Pro'
