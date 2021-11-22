@@ -38,7 +38,7 @@ Secure : true
 Hosted by @ [Server Developer#9447](https://duck.is-a.dev)
 ```bash
 Host : lavalinkrailway.herokuapp.com
-Port : Intregated in link. No need to specify port
+Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
