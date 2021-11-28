@@ -7,9 +7,9 @@ Port : 3876 or 3799
 Password : "pumpisfree"
 secure : false
 ```
-Hosted by @ Unknown
+Hosted by @ [Fireball#3727](https://www.lavalink.eu)
 ```bash
-Host : lavalinknl.ml
+Host : lavalink.eu
 Port : 2333
 Password : "Raccoon"
 secure: false
