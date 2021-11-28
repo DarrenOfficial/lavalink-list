@@ -2,20 +2,11 @@
 
 Hosted by @ [Pump#3583](https://pumpdev.org)
 ```bash
-Host : lavalink.pumpdev.org
-Port : 3876
+Host : lavalink.pumpdev.org or lava.pumpdev.org
+Port : 3876 or 3799
 Password : "pumpisfree"
 secure : false
 ```
-
-Hosted by @ [Pump#3583](https://pumpdev.org)
-```bash
-Host : lava.pumpdev.org
-Port : 3799
-Password : "pumpisfree"
-secure : false
-```
-
 Hosted by @ Unknown
 ```bash
 Host : lavalinknl.ml
