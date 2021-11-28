@@ -8,6 +8,14 @@ Password : "pumpisfree"
 secure : false
 ```
 
+Hosted by @ [Pump#3583](https://pumpdev.org)
+```bash
+Host : lava.pumpdev.org
+Port : 3799
+Password : "pumpisfree"
+secure : false
+```
+
 Hosted by @ Unknown
 ```bash
 Host : lavalinknl.ml
