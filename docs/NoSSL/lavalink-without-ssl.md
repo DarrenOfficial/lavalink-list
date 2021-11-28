@@ -5,7 +5,7 @@ Hosted by @ [Pump#3583](https://pumpdev.org)
 Host : lavalink.pumpdev.org
 Port : 3876
 Password : "pumpisfree"
-Secure : false
+secure : false
 ```
 
 Hosted by @ Unknown
