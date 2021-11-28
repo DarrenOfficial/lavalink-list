@@ -6,7 +6,7 @@
 <h3 align="center">Lavalink List</h3>
 
   <p align="center">
-    A listing site for lavalink because lavalink.org is down. Feel free to make a pull request. :)
+    A listing site for lavalink. Feel free to make a pull request. :)
     <br />
     <a href="https://lavalink-list.darrennathanael.com"><strong>Open Website »</strong></a>
     <br />
