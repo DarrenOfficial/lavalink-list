@@ -42,3 +42,11 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+Hosted by @ [Pump#3583](https://pumpdev.org)
+```bash
+Host : lavalink.pumpdev.org
+Port : 3876
+Password : "pumpisfree"
+Secure : true
+```
