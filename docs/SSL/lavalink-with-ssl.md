@@ -21,7 +21,7 @@ Secure : true
 ```
 Hosted by @ [Priyam](https://www.priyam.ml)
 ```bash
-Host : www.lavalink-priyam.ml
+Host : www.lavalink-priyam.ml or www.lavalink-backup.ml
 Port : 443
 Password : "methisbigbrain"
 Secure : true
@@ -42,5 +42,4 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
-
 
