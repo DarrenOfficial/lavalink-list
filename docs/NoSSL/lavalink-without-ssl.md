@@ -42,10 +42,3 @@ Port : 25567
 Password : akshay
 secure: false
 ```
-Hosted by @ [Fireball#3727](https://github.com/Fireball0201)
-```bash
-Host : lavalinknl.ml
-Port : 2333
-Password : Raccoon
-secure: false
-```
