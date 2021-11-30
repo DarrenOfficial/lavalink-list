@@ -35,4 +35,10 @@ Port : 25503
 Password : "lookbehindyou"
 secure: false
 ```
-
+Hosted by @ [Akshay Sharma#2046](https://discord.com/users/860041361423859714)
+```bash
+Host : lavalink.pikamusics.live
+Port : 25567
+Password : akshay
+secure: false
+```
