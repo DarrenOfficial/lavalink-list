@@ -14,13 +14,6 @@ Port : 2333
 Password : "Raccoon"
 secure: false
 ```
-Hosted By @ [Emily](https://github.com/Emily8733)
-```bash
-Host : unit1.nighthost.tech
-Port : 23549
-Password : "emilylava"
-secure : false
-```
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link
