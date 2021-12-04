@@ -23,8 +23,15 @@ secure: false
 ```
 Hosted by @ [CJ](https://cjstevenson.com/)
 ```bash
-Host : node1.cjstevenson.com
+Host : linklava.cjstevenson.com
 Port : 25503
+Password : "lookbehindyou"
+secure: false
+```
+Hosted by @ [CJ](https://cjstevenson.com/)
+```bash
+Host : node1.cjstevenson.com
+Port : 25600
 Password : "lookbehindyou"
 secure: false
 ```
