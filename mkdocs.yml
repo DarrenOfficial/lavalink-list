@@ -9,7 +9,7 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 theme: 
   name: 'material'
-  logo: 'https://darrennathanael.com/cdn/springboot.svg'
+  logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
   include_search_page: false
   search_index_only: true
   palette:
@@ -20,7 +20,7 @@ theme:
     text: 'Ubuntu'
     code: 'Source Code Pro'
   favicon:
-    'https://www.darrennathanael.com/cdn/favicon.ico'
+    'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
   features:
     - tabs
     - instantsite
