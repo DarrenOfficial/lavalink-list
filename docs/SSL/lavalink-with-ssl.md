@@ -1,10 +1,3 @@
-Hosted by @ WetDream
-```bash
-Host : wetdream.lavalink.id
-Port : 443
-Password : "wetdream2212"
-Secure : true
-```
 Hosted by @ [Mathiscool and Happy 3G](https://discord.io/botsuniversity)
 ```bash
 Host : lavalink.devz.cloud or lavalink2.devz.cloud
