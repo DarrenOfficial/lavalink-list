@@ -7,7 +7,7 @@ Secure : true
 ```
 Hosted by @ [Devin#3583](https://github.com/DevinOfficial)
 ```bash
-Host : lavalink.devin-dev.xyz or lava.devin-dev.xyz
+Host : lavalink.devin-dev.xyz
 Port : 443
 Password : "lava123"
 Secure : true
