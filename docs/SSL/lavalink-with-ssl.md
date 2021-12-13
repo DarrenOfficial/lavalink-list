@@ -42,4 +42,9 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
-
+Hosted by @ [nkno](https://nkno.site)
+```
+Host : lava.nkno.site
+Port : 80
+Password : LAVA
+```
