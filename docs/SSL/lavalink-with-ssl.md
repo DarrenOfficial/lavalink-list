@@ -45,6 +45,7 @@ Secure : true
 Hosted by @ [nkno](https://nkno.site)
 ```
 Host : lava.nkno.site
-Port : 80
+Port : 443
 Password : LAVA
+Secure : true
 ```
