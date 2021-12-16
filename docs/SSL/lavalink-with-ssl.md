@@ -1,4 +1,4 @@
-Hosted by @ [Darren ](https://discord.darrennathanael.com)
+Hosted by @ [Darren](https://discord.darrennathanael.com)
 ```bash
 Host : soot.darrennathanael.com
 Port : 443
