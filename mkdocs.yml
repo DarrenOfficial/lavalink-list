@@ -43,6 +43,11 @@ markdown_extensions:
   - attr_list
   - pymdownx.betterem:
       smart_enable: all
+nav:
+  - Home: index.md
+  - Lavalink with ssl: SSL/lavalink-with-ssl.md
+  - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
+  - FAQs: FAQ/frequently-asked-questions.md
 extra:
   social:
     - icon: 'fontawesome/brands/twitter'
