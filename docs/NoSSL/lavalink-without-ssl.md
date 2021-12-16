@@ -7,6 +7,13 @@ Port : 3876 or 3799
 Password : "pumpisfree"
 secure : false
 ```
+Hosted by @ [Darren](https://discord.darrennathanael.com)
+```bash
+Host : soot.darrennathanael.com
+Port : 80
+Password : "soothouse"
+Secure : false
+```
 Hosted by @ [Fireball#3727](https://www.lavalink.eu)
 ```bash
 Host : lavalink.eu
