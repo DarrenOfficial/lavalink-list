@@ -1,8 +1,8 @@
-Hosted by @ [Mathiscool and Happy 3G](https://discord.io/botsuniversity)
+Hosted by @ [Darren ](https://discord.darrennathanael.com)
 ```bash
-Host : lavalink.devz.cloud or lavalink2.devz.cloud
+Host : soot.darrennathanael.com
 Port : 443
-Password : "mathiscool"
+Password : "soothouse"
 Secure : true
 ```
 Hosted by @ [Devin#3583](https://github.com/DevinOfficial)
@@ -10,6 +10,13 @@ Hosted by @ [Devin#3583](https://github.com/DevinOfficial)
 Host : lavalink.devin-dev.xyz
 Port : 443
 Password : "lava123"
+Secure : true
+```
+Hosted by @ [Mathiscool and Happy 3G](https://discord.io/botsuniversity)
+```bash
+Host : lavalink.devz.cloud or lavalink2.devz.cloud
+Port : 443
+Password : "mathiscool"
 Secure : true
 ```
 Hosted by @ Unknown
