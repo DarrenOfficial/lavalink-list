@@ -23,9 +23,9 @@
 ---
 
   <p align="center">
-  [Lavalink with ssl](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/){ .md-button } 
-  [Lavalink without ssl](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/){ .md-button } 
-  </p>
+  <a href="https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/"><img src="https://img.shields.io/badge/Lavalink%20Without%20SSL-10A0CC?style=for-the-badge&logoColor=white" alt="Lavalink without ssl" style="60%"></a>
+    <a href="https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/"><img src="https://img.shields.io/badge/Lavalink%20With%20SSL-1793D1?style=for-the-badge&logoColor=white" alt="Lavalink with ssl" style="60%"></a>
+   </p>
 
 ## Info
 These lavalink are group into two different categories.
