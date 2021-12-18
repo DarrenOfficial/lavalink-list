@@ -35,13 +35,7 @@ Port : 443
 Password : "maybeiwasboring",
 Secure : true
 ```
-Hosted by @ [Darren](https://discord.darrennathanael.com)
-```bash
-Host : soot.darrennathanael.com
-Port : 443
-Password : "soothouse"
-Secure : true
-```
+
 Hosted by @ [Server Developer#9447](https://duck.is-a.dev)
 ```bash
 Host : lavalinkrailway.herokuapp.com
