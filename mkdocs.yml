@@ -14,7 +14,7 @@ theme:
   search_index_only: true
   palette:
     scheme: slate
-    primary: 'teal'
+    primary: 'indigo'
     accent: 'green'
   font:
     text: 'Ubuntu'
