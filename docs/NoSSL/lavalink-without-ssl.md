@@ -28,13 +28,6 @@ Port : 80
 Password : anything as password
 secure: false
 ```
-Hosted by @ [Darren](https://discord.darrennathanael.com)
-```bash
-Host : soot.darrennathanael.com
-Port : 80
-Password : "soothouse"
-Secure : false
-```
 Hosted by @ [CJ](https://cjstevenson.com/)
 ```bash
 Host : linklava.cjstevenson.com
