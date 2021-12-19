@@ -6,7 +6,7 @@
 <h3 align="center">lavalink list</h3>
 
   <p align="center">
-    A listing site for lavalink hosting because there isn't a lot of lavalink listing site, feel free to make a pull request.
+    A list of free lavalink servers! feel free to make a pull request if you wanna share yours.
     <br />
     <br />
     <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
