@@ -42,10 +42,3 @@ Port : 25600
 Password : "lookbehindyou"
 secure: false
 ```
-Hosted by @ [AnonDev](https://anondev.ml)
-```bash
-Host : anondev.lavalink.fupl.ml
-Port : 2010
-Password : "anonIsCool"
-secure: false
-```
