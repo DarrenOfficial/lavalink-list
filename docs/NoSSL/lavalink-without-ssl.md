@@ -14,13 +14,6 @@ Port : 2333
 Password : "Raccoon"
 secure: false
 ```
-Hosted by @ [Devin#3583](https://devin-dev.xyz)
-```bash
-Host : lava.devin-dev.xyz
-Port : 3888
-Password : "ayraiscute"
-secure: false
-```
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link
