@@ -1,5 +1,10 @@
 # Frequently asked Question
 
+
+### What do I put in ID / Identifier
+
+Put it as anything, it doesn't matter as long as it's one sentence and there's no `'`
+
 ### What if one or more of these servers are down?
 
 Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
