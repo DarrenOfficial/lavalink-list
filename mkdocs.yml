@@ -1,7 +1,7 @@
 site_name: lavalink hosting
 site_author: DarrenOfficial
 site_url: https://lavalink-list.darrennathanael.com
-site_description: List of free lavalink hosting, Lavalink is a standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards. It is a great alternative to Youtube API.
+site_description: List of free lavalink servers! Sharing is caring, so if you have lavalink that you can share feel free to make a pull request!
 repo_name: 'lavalink list'
 repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
 edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
@@ -9,18 +9,18 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 theme: 
   name: 'material'
-  logo: 'https://darrennathanael.com/cdn/springboot.svg'
+  logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
   include_search_page: false
   search_index_only: true
   palette:
     scheme: slate
-    primary: 'teal'
+    primary: 'indigo'
     accent: 'green'
   font:
     text: 'Ubuntu'
     code: 'Source Code Pro'
   favicon:
-    'https://www.darrennathanael.com/cdn/favicon.ico'
+    'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
   features:
     - tabs
     - instantsite
@@ -43,16 +43,21 @@ markdown_extensions:
   - attr_list
   - pymdownx.betterem:
       smart_enable: all
+nav:
+  - Home: index.md
+  - Lavalink with ssl: SSL/lavalink-with-ssl.md
+  - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
+  - FAQs: FAQ/frequently-asked-questions.md
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/DarrenNathans
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/darrenuselinux'
     - icon: 'fontawesome/brands/github-alt'
-      link: 'https://github.com/DarrenOfficial' 
+      link: 'https://github.com/darrenofficial' 
     - icon: 'fontawesome/brands/discord'
-      link: 'https://discord.gg/MEuxp7uQcg'
+      link: 'https://discord.darrennathanael.com'
   generator: false
   analytics:
     provider: google
     property: G-47EVTLTVF7
-copyright: 'Copyright &copy; 2020 - 2021 Darren; Lavalink is based off Spring software'
+copyright: 'Copyright &copy; 2020 - 2021 Darren Nathanael'

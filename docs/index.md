@@ -6,7 +6,7 @@
 <h3 align="center">lavalink list</h3>
 
   <p align="center">
-    A listing site for lavalink hosting because there isn't a lot of lavalink listing site, feel free to make a pull request.
+    A list of free lavalink servers! feel free to make a pull request if you wanna share yours.
     <br />
     <br />
     <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
@@ -20,19 +20,15 @@
 </div>
 
 
-<div>
-  <p align="center">
-    <a href="/NoSSL/lavalink-without-ssl/">lavalink without ssl</a>
-    ·
-    <a href="/SSL/lavalink-with-ssl/">lavalink with ssl</a>
-  </p>
-</div>
 
 ---
 
+[📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button } 
+[📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
+[FAQs](FAQ/frequently-asked-questions.md){ .md-button }
+[Contributing](Hosting-Guide){ .md-button }
+
 ## Info
 These lavalink are group into two different categories.
-> see sidebar
-
-One with SSL, one without SSL.
+[With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
