@@ -36,13 +36,6 @@ Password : "maybeiwasboring",
 Secure : true
 ```
 
-Hosted by @ [Server Developer#9447](https://duck.is-a.dev)
-```bash
-Host : n3.danbot.host
-Port : 2039
-Password : "youshallnotpass"
-Secure : true
-```
 Hosted by @ [nkno](https://nkno.site)
 ```
 Host : lava.nkno.site
