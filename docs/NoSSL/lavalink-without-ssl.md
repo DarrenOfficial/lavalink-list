@@ -21,11 +21,3 @@ Port : 80
 Password : anything as password
 secure: false
 ```
-
-Hosted by @ [Server Developer#9447](https://duck.is-a.dev)
-```bash
-Host : n3.danbot.host
-Port : 2039
-Password : "youshallnotpass"
-Secure : true
-```
