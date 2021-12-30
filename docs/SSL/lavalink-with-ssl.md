@@ -27,19 +27,17 @@ Port : 443
 Password : "methisbigbrain"
 Secure : true
 ```
-
-Hosted by [JotaroKujo0525](https://github.com/JotaroKujo0525)
-```bash
-Host : lavalink-replit.rainandrewandre.repl.co
-Port : 443
-Password : "maybeiwasboring",
-Secure : true
-```
-
 Hosted by @ [nkno](https://nkno.site)
 ```
 Host : lava.nkno.site
 Port : 443
 Password : LAVA
+Secure : true
+```
+Hosted by [JotaroKujo0525](https://github.com/JotaroKujo0525) 
+```
+Host : lavalink-replit.rainandrewandr1.repl.co
+Port : 443
+Password : "maybeiwasboring", 
 Secure : true
 ```
