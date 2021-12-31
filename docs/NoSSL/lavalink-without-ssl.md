@@ -7,6 +7,20 @@ Port : 3876 or 3799
 Password : "pumpisfree"
 secure : false
 ```
+Hosted by @ [CJ](https://cjstevenson.com/)
+```bash
+Host : linklava.cjstevenson.com
+Port : 25503
+Password : "lookbehindyou"
+secure: false
+```
+Hosted by @ [CJ](https://cjstevenson.com/)
+```bash
+Host : node1.cjstevenson.com
+Port : 25600
+Password : "lookbehindyou"
+secure: false
+```
 Hosted by @ [Fireball#3727](https://www.lavalink.eu)
 ```bash
 Host : lavalink.eu
