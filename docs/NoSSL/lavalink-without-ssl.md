@@ -18,6 +18,6 @@ Hosted by @ [something.host](https://support.something.host/en/article/lavalink-
 ```bash
 Host : lava.link
 Port : 80
-Password : anything as password
+Password : "anything as a password"
 secure: false
 ```
