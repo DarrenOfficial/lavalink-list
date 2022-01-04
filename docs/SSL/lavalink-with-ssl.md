@@ -31,7 +31,7 @@ Hosted by @ [nkno](https://nkno.site)
 ```bash
 Host : lava.nkno.site
 Port : 443
-Password : LAVA
+Password : "LAVA"
 Secure : true
 ```
 Hosted by @ [JotaroKujo0525](https://github.com/JotaroKujo0525) 
