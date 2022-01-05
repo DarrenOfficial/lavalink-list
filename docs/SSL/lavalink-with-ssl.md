@@ -44,7 +44,7 @@ Secure : true
 
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
-Host : IRC.mrmasrozytlive.repl.co or lavalink.scpcl.site (Both is same, just different domains)
+Host : lavalink.scpcl.site
 Port : 443
 Password : "lvserver"
 Secure : true
