@@ -38,6 +38,14 @@ Hosted by @ [JotaroKujo0525](https://github.com/JotaroKujo0525)
 ```bash
 Host : lavalink-replit.rainandrewandr1.repl.co
 Port : 443
-Password : "maybeiwasboring", 
+Password : "maybeiwasboring"
+Secure : true
+```
+
+Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
+```bash
+Host : IRC.mrmasrozytlive.repl.co or lavalink.scpcl.site (Both is same, just different domains)
+Port : 443
+Password : "lvserver"
 Secure : true
 ```
