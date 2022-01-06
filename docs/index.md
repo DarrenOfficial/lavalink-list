@@ -6,7 +6,7 @@
 <h3 align="center">lavalink list</h3>
 
   <p align="center">
-    A list of free lavalink servers! feel free to make a pull request if you wanna share yours.
+    A list of free and available public lavalink. Feel free to make a pull request!
     <br />
     <br />
     <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
@@ -32,3 +32,11 @@
 These lavalink are group into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
+
+
+## How2Host
+
+On replit: https://github.com/DarrenOfficial/lavalink-replit
+
+On Windows, MacOS, or Linux: https://code.darrennathanael.com/how-to-lavalink
+
