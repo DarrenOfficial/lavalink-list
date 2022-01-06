@@ -21,3 +21,10 @@ Port : 80
 Password : anything as password
 secure: false
 ```
+Hosted by @ [Knyaoo](https://github.com/knyaoo)
+```bash
+Host : 134.122.28.5
+Port : 8001
+Password : authlink
+secure: false
+```
