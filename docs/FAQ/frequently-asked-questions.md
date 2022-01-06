@@ -1,3 +1,8 @@
+---
+title: Frequently asked Question
+description: FAQ about lavalink and this site!
+---
+
 # Frequently asked Question
 
 
