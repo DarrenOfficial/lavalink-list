@@ -35,6 +35,7 @@ theme:
     - search.highlight
     - search.suggest
 markdown_extensions:
+  - meta
   - admonition
   - pymdownx.details
   - pymdownx.superfences
