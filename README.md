@@ -30,4 +30,4 @@ Because lavalink is based off spring.
 
 
 
-### If you find this usefull give it a star ⭐️
+### If you find this useful give it a star ⭐️
