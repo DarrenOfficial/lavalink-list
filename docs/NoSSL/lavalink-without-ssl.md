@@ -1,4 +1,9 @@
 ---
+title: Lavalink without SSL
+description: Without SSL should work out of the box!
+---
+
+---
 
 Hosted by @ [CJ](https://cjstevenson.com/)
 ```bash
