@@ -5,13 +5,6 @@ description: Without SSL should work out of the box!
 
 ---
 
-Hosted by @ [CJ](https://cjstevenson.com/)
-```bash
-Host : linklava.cjstevenson.com or node1.cjstevenson.com
-Port : 25503 or 25600
-Password : "lookbehindyou"
-secure: false
-```
 Hosted by @ [Fireball#3727](https://www.lavalink.eu)
 ```bash
 Host : lavalink.eu
