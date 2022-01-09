@@ -17,7 +17,7 @@ theme:
     primary: 'indigo'
     accent: 'green'
   font:
-    text: 'Ubuntu'
+    text: 'Poppins'
     code: 'Source Code Pro'
   favicon:
     'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
