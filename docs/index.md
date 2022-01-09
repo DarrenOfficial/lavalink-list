@@ -36,7 +36,7 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 
 ## How2Host
 
-On replit: https://github.com/DarrenOfficial/lavalink-replit
+On replit: [https://github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 
-On Windows, MacOS, or Linux: https://code.darrennathanael.com/how-to-lavalink
+On Windows, MacOS, or Linux: [https://code.darrennathanael.com/how-to-lavalink](https://code.darrennathanael.com/how-to-lavalink)
 
