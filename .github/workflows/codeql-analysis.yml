@@ -62,9 +62,8 @@ jobs:
     #    and modify them (or add more) to build your code if your project
     #    uses a compiled language
 
-    - run: |
-       pip install -r requirements.txt
-       mkdocs build
+    #- run: |
+    #   mkdocs build
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
