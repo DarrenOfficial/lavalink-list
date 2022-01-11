@@ -54,3 +54,10 @@ Port : 443
 Password : "lvserver"
 Secure : true
 ```
+Hosted by @ [Marina Octoling Hub](https://github.com/Mariliun)
+```bash
+Host : lavalink.mariliun.ml
+Port : 443
+Password : "lavaliun"
+Secure : true
+```
