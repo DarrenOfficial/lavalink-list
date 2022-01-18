@@ -49,6 +49,7 @@ nav:
   - Lavalink with ssl: SSL/lavalink-with-ssl.md
   - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
   - FAQs: FAQ/frequently-asked-questions.md
+  - API: api/index.md
 extra:
   social:
     - icon: 'fontawesome/brands/twitter'
