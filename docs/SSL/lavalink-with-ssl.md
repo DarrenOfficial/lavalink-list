@@ -54,3 +54,10 @@ Port : 443
 Password : "lavaliun"
 Secure : true
 ```
+Hosted by @ TFs-Incognito
+```bash
+Host : lavalinkinc.ml
+Port : 443
+Password : "incognito"
+Secure : true
+```
