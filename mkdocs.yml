@@ -59,7 +59,4 @@ extra:
     - icon: 'fontawesome/brands/discord'
       link: 'https://discord.darrennathanael.com'
   generator: false
-  analytics:
-    provider: google
-    property: G-47EVTLTVF7
 copyright: 'Copyright &copy; 2020 - 2022 Darren Nathanael'
