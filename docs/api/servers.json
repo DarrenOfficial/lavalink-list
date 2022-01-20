@@ -44,6 +44,11 @@
          "host":"lavalink.mariliun.ml",
          "port":"443",
          "password":"lavaliun"
+      }, 
+      {
+         "host":"lavalinkinc.ml",
+         "port":"443",
+         "password":"incognito"
       }
    ],
    "nossl":[
