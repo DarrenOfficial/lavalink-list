@@ -26,7 +26,7 @@
 [📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button } 
 [📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
-[Contributing](Hosting-Guide){ .md-button }
+
 [API](api/index.md){ .md-button }
 
 ## Info
