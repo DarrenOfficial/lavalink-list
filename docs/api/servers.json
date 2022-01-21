@@ -73,6 +73,12 @@
          "port":"80",
          "password":"123",
          "identifier":"lava.link"
+      },
+      {
+         "host":"losingtime.dpaste.org",
+         "port":"2124",
+         "password":"SleepingOnTrains",
+         "identifier":"dpaste"
       }
    ]
 }
