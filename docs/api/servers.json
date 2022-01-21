@@ -4,61 +4,61 @@
          "host":"lavalink.devin-dev.xyz",
          "port":"443",
          "password":"lava123",
-         "identifier":"lavalink devin-dev.xyz server"
+         "identifier":"devin-dev"
       },
       {
          "host":"lavalink.devz.cloud",
          "port":"443",
          "password":"mathiscool",
-         "identifier":"lavalink devz.cloud server"
+         "identifier":"devz"
       },
       {
          "host":"lavalink2.devz.cloud",
          "port":"443",
          "password":"mathiscool",
-         "identifier":"lavalink devz.cloud server 2"
+         "identifier":"devz 2"
       },
       {
          "host":"disbotlistlavalink.ml",
          "port":"443",
          "password":"LAVA",
-         "identifier":"lavalink disbotlink server"
+         "identifier":"disbotlistlavalink"
       },
       {
          "host":"www.lavalink-priyam.ml",
          "port":"443",
          "password":"methisbigbrain",
-         "identifier":"lavalink pryam server"
+         "identifier":"lavalink-pryam"
       },
       {
          "host":"www.lavalink-backup.ml",
          "port":"443",
          "password":"methisbigbrain",
-         "identifier":"lavalink pryam backup server"
+         "identifier":"lavalink-backup"
       },
       {
          "host":"lavalink-replit.rainandrewandr1.repl.co",
          "port":"443",
          "password":"maybeiwasboring",
-         "identifier":"lavalink rainandrewandr1 server"
+         "identifier":"rainandrewandr1"
       },
       {
          "host":"lavalink.scpcl.site",
          "port":"443",
          "password":"lvserver",
-         "identifier":"lavalink scpcl.site server"
+         "identifier":"scpcl"
       },
       {
          "host":"lavalink.mariliun.ml",
          "port":"443",
          "password":"lavaliun",
-         "identifier":"lavalink mariliun.ml server"
+         "identifier":"mariliun"
       }, 
       {
          "host":"lavalinkinc.ml",
          "port":"443",
          "password":"incognito",
-         "identifier":"lavalinkinc.ml server"
+         "identifier":"lavalinkinc"
       }
    ],
    "nossl":[
@@ -66,13 +66,13 @@
          "host":"lavalink.eu",
          "port":"2333",
          "password":"Raccoon",
-         "identifier":"lavalink.eu server"
+         "identifier":"lavalink"
       },
       {
          "host":"lava.link",
          "port":"80",
          "password":"123",
-         "identifier":"lava.link server"
+         "identifier":"lava.link"
       }
    ]
 }
