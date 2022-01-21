@@ -12,6 +12,13 @@ Port : 2333
 Password : "Raccoon"
 secure: false
 ```
+Hosted by @ [darren](https://darrennathanael.com/)
+```bash
+Host : losingtime.dpaste.org
+Port : 2124
+Password : "SleepingOnTrains"
+secure: false
+```
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link
