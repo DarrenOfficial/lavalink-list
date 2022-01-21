@@ -3,64 +3,76 @@
       {
          "host":"lavalink.devin-dev.xyz",
          "port":"443",
-         "password":"lava123"
+         "password":"lava123",
+         "identifier":"devin-dev"
       },
       {
          "host":"lavalink.devz.cloud",
          "port":"443",
-         "password":"mathiscool"
+         "password":"mathiscool",
+         "identifier":"devz"
       },
       {
          "host":"lavalink2.devz.cloud",
          "port":"443",
-         "password":"mathiscool"
+         "password":"mathiscool",
+         "identifier":"devz 2"
       },
       {
          "host":"disbotlistlavalink.ml",
          "port":"443",
-         "password":"LAVA"
+         "password":"LAVA",
+         "identifier":"disbotlistlavalink"
       },
       {
          "host":"www.lavalink-priyam.ml",
          "port":"443",
-         "password":"methisbigbrain"
+         "password":"methisbigbrain",
+         "identifier":"lavalink-pryam"
       },
       {
          "host":"www.lavalink-backup.ml",
          "port":"443",
-         "password":"methisbigbrain"
+         "password":"methisbigbrain",
+         "identifier":"lavalink-backup"
       },
       {
          "host":"lavalink-replit.rainandrewandr1.repl.co",
          "port":"443",
-         "password":"maybeiwasboring"
+         "password":"maybeiwasboring",
+         "identifier":"rainandrewandr1"
       },
       {
          "host":"lavalink.scpcl.site",
          "port":"443",
-         "password":"lvserver"
+         "password":"lvserver",
+         "identifier":"scpcl"
       },
       {
          "host":"lavalink.mariliun.ml",
          "port":"443",
-         "password":"lavaliun"
+         "password":"lavaliun",
+         "identifier":"mariliun"
       }, 
       {
          "host":"lavalinkinc.ml",
          "port":"443",
-         "password":"incognito"
+         "password":"incognito",
+         "identifier":"lavalinkinc"
       }
    ],
    "nossl":[
       {
          "host":"lavalink.eu",
          "port":"2333",
-         "password":"Raccoon"
+         "password":"Raccoon",
+         "identifier":"lavalink"
       },
       {
          "host":"lava.link",
          "port":"80",
-         "password":"123"
+         "password":"123",
+         "identifier":"lava.link"
       }
    ]
 }
