@@ -61,3 +61,11 @@ Port : 443
 Password : "incognito"
 Secure : true
 ```
+---
+Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
+```bash
+Host : lavalink.trgop.gq
+Port : 443
+Password : "onionisbest"
+Secure : true
+```
