@@ -59,6 +59,12 @@
          "port":"443",
          "password":"incognito",
          "identifier":"lavalinkinc"
+      }, 
+      {
+         "host":"lavalink.trgop.gq",
+         "port":"443",
+         "password":"onionisbest",
+         "identifier":"trgop"
       }
    ],
    "nossl":[
