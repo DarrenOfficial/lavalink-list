@@ -63,8 +63,40 @@ Secure : true
 ```
 Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
 ```bash
-Host : lavalink.trgop.gq
+Host : node1.lavalink.trgop.gq
+Port : 443
+Password : "onionispro"
+Secure : true
+```
+
+Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
+```bash
+Host : node2.lavalink.trgop.gq
 Port : 443
 Password : "onionisbest"
+Secure : true
+```
+
+Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
+```bash
+Host : node3.lavalink.trgop.gq
+Port : 443
+Password : "onionop"
+Secure : true
+```
+
+Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
+```bash
+Host : node4.lavalink.trgop.gq
+Port : 443
+Password : "trgop"
+Secure : true
+```
+
+Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
+```bash
+Host : node5.lavalink.trgop.gq
+Port : 443
+Password : "htandsm"
 Secure : true
 ```
