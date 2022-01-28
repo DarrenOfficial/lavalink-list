@@ -61,10 +61,34 @@
          "identifier":"lavalinkinc"
       }, 
       {
-         "host":"lavalink.trgop.gq",
+         "host":"node1.lavalink.trgop.gq",
+         "port":"443",
+         "password":"onionispro",
+         "identifier":"trgop-1"
+      }, 
+      {
+         "host":"node2.lavalink.trgop.gq",
          "port":"443",
          "password":"onionisbest",
-         "identifier":"trgop"
+         "identifier":"trgop-2"
+      }, 
+      {
+         "host":"node3.lavalink.trgop.gq",
+         "port":"443",
+         "password":"onionop",
+         "identifier":"trgop-3"
+      }, 
+      {
+         "host":"node4.lavalink.trgop.gq",
+         "port":"443",
+         "password":"trgop",
+         "identifier":"trgop-4"
+      }, 
+      {
+         "host":"node5.lavalink.trgop.gq",
+         "port":"443",
+         "password":"htandsm",
+         "identifier":"trgop-5"
       }
    ],
    "nossl":[
