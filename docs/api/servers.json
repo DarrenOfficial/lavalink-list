@@ -79,12 +79,6 @@
          "identifier":"trgop-3"
       }, 
       {
-         "host":"node4.lavalink.trgop.gq",
-         "port":"443",
-         "password":"trgop",
-         "identifier":"trgop-4"
-      }, 
-      {
          "host":"node5.lavalink.trgop.gq",
          "port":"443",
          "password":"htandsm",
