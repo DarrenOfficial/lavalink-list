@@ -91,3 +91,9 @@ Port : 443
 Password : "htandsm"
 Secure : true
 ```
+HOSTED BY [@👑MR EXTINCT CODE'S#6646] 
+id: "Main"
+Host: "www.lavalinknodepublic.ml"
+Port: 443
+Password:"mrextinctcodes"
+Secure:"true"
