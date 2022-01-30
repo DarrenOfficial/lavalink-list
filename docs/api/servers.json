@@ -83,6 +83,12 @@
          "port":"443",
          "password":"htandsm",
          "identifier":"trgop-5"
+      }, 
+      {
+         "host":"www.lavalinknodepublic.ml",
+         "port":"443",
+         "password":"mrextinctcodes",
+         "identifier":"lavalinknodepublic"
       }
    ],
    "nossl":[
