@@ -71,14 +71,6 @@ Secure : true
 
 Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
 ```bash
-Host : node2.lavalink.trgop.gq
-Port : 443
-Password : "onionisbest"
-Secure : true
-```
-
-Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
-```bash
 Host : node3.lavalink.trgop.gq
 Port : 443
 Password : "onionop"
