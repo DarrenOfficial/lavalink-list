@@ -67,12 +67,6 @@
          "identifier":"trgop-1"
       }, 
       {
-         "host":"node2.lavalink.trgop.gq",
-         "port":"443",
-         "password":"onionisbest",
-         "identifier":"trgop-2"
-      }, 
-      {
          "host":"node3.lavalink.trgop.gq",
          "port":"443",
          "password":"onionop",
@@ -86,6 +80,12 @@
       }, 
       {
          "host":"www.lavalinknodepublic.ml",
+         "port":"443",
+         "password":"mrextinctcodes",
+         "identifier":"lavalinknodepublic"
+      },
+      {
+         "host":"www.lavalinknodepublic2.ml",
          "port":"443",
          "password":"mrextinctcodes",
          "identifier":"lavalinknodepublic"
