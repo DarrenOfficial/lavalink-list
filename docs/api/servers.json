@@ -109,6 +109,12 @@
          "port":"2124",
          "password":"SleepingOnTrains",
          "identifier":"dpaste"
+      },
+      {
+         "host":"lavalink.islantay.tk",
+         "port":"8880",
+         "password":"waifufufufu",
+         "identifier":"dpaste"
       }
    ]
 }
