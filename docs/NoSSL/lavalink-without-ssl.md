@@ -26,3 +26,9 @@ Port : 80
 Password : anything as password
 secure: false
 ```
+Hosted by @ [Islantay]
+```bash
+Host : lavalink.islantay.tk
+Port : 8880
+Password : "waifufufufu"
+secure: false
