@@ -89,6 +89,12 @@
          "port":"443",
          "password":"mrextinctcodes",
          "identifier":"lavalinknodepublic"
+      },
+      {
+         "host":"lavalink.cobaltonline.net",
+         "port":"443",
+         "password":"cobaltlavanode23@",
+         "identifier":"cobaltonline"
       }
    ],
    "nossl":[
@@ -114,7 +120,7 @@
          "host":"lavalink.islantay.tk",
          "port":"8880",
          "password":"waifufufufu",
-         "identifier":"dpaste"
+         "identifier":"islantay"
       }
    ]
 }

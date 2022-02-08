@@ -94,28 +94,17 @@ Secure:"true"
 HOSTED BY [@👑MR EXTINCT CODE'S#6646]
 
 ```bash
-
 id: "Main"
-
 Host: www.lavalinknodepublic2.ml
-
 Port: 443
-
 Password:"mrextinctcodes"
-
 Secure:"true"
-
 ```
+Hosted by [Cobalt](https://github.com/cobaltgit)
 
-
-
-
-
-
-
-
-
-
-
-
-
+```bash
+Host: lavalink.cobaltonline.net
+Port: 443
+Password: cobaltlavanode23@
+Secure: true
+```
