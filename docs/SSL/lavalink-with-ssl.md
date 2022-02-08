@@ -100,7 +100,7 @@ Port: 443
 Password:"mrextinctcodes"
 Secure:"true"
 ```
-Hosted by @cobalt#9144
+Hosted by [Cobalt](https://github.com/cobaltgit)
 
 ```bash
 Host: lavalink.cobaltonline.net
