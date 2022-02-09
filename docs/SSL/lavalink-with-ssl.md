@@ -18,28 +18,13 @@ Port : 443
 Password : "mathiscool"
 Secure : true
 ```
-Hosted by @ Unknown
-```bash
-Host : disbotlistlavalink.ml
-Port : 443
-Password : "LAVA"
-Secure : true
-```
 Hosted by @ [Priyam](https://www.priyam.ml)
 ```bash
-Host : www.lavalink-priyam.ml or www.lavalink-backup.ml
+Host : www.lavalink-priyam.ml
 Port : 443
 Password : "methisbigbrain"
 Secure : true
 ```
-Hosted by @ [JotaroKujo0525](https://github.com/JotaroKujo0525) 
-```bash
-Host : lavalink-replit.rainandrewandr1.repl.co
-Port : 443
-Password : "maybeiwasboring"
-Secure : true
-```
-
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
 Host : lavalink.scpcl.site
@@ -61,44 +46,13 @@ Port : 443
 Password : "incognito"
 Secure : true
 ```
-Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
-```bash
-Host : node1.lavalink.trgop.gq
-Port : 443
-Password : "onionispro"
-Secure : true
-```
-
-Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
-```bash
-Host : node3.lavalink.trgop.gq
-Port : 443
-Password : "onionop"
-Secure : true
-```
-Hosted by @ [💳 Onionᴰᵉᵛ#1885](https://trgop.gq/youtube)
-```bash
-Host : node5.lavalink.trgop.gq
-Port : 443
-Password : "htandsm"
-Secure : true
-```
 HOSTED BY [@👑MR EXTINCT CODE'S#6646]
 ```bash
 id: "Main"
 Host: www.lavalinknodepublic.ml
 Port: 443
-Password:"mrextinctcodes"
-Secure:"true"
-```
-HOSTED BY [@👑MR EXTINCT CODE'S#6646]
-
-```bash
-id: "Main"
-Host: www.lavalinknodepublic2.ml
-Port: 443
-Password:"mrextinctcodes"
-Secure:"true"
+Password: "mrextinctcodes"
+Secure: true
 ```
 Hosted by [Cobalt](https://github.com/cobaltgit)
 
