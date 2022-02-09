@@ -4,14 +4,6 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-
-Hosted by @ [Fireball#3727](https://www.lavalink.eu)
-```bash
-Host : lavalink.eu
-Port : 2333
-Password : "Raccoon"
-secure: false
-```
 Hosted by @ [darren](https://darrennathanael.com/)
 ```bash
 Host : losingtime.dpaste.org

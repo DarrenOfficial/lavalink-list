@@ -99,12 +99,6 @@
    ],
    "nossl":[
       {
-         "host":"lavalink.eu",
-         "port":"2333",
-         "password":"Raccoon",
-         "identifier":"lavalink"
-      },
-      {
          "host":"lava.link",
          "port":"80",
          "password":"123",
