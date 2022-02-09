@@ -19,28 +19,10 @@
          "identifier":"devz 2"
       },
       {
-         "host":"disbotlistlavalink.ml",
-         "port":"443",
-         "password":"LAVA",
-         "identifier":"disbotlistlavalink"
-      },
-      {
          "host":"www.lavalink-priyam.ml",
          "port":"443",
          "password":"methisbigbrain",
          "identifier":"lavalink-pryam"
-      },
-      {
-         "host":"www.lavalink-backup.ml",
-         "port":"443",
-         "password":"methisbigbrain",
-         "identifier":"lavalink-backup"
-      },
-      {
-         "host":"lavalink-replit.rainandrewandr1.repl.co",
-         "port":"443",
-         "password":"maybeiwasboring",
-         "identifier":"rainandrewandr1"
       },
       {
          "host":"lavalink.scpcl.site",
@@ -61,31 +43,7 @@
          "identifier":"lavalinkinc"
       }, 
       {
-         "host":"node1.lavalink.trgop.gq",
-         "port":"443",
-         "password":"onionispro",
-         "identifier":"trgop-1"
-      }, 
-      {
-         "host":"node3.lavalink.trgop.gq",
-         "port":"443",
-         "password":"onionop",
-         "identifier":"trgop-3"
-      }, 
-      {
-         "host":"node5.lavalink.trgop.gq",
-         "port":"443",
-         "password":"htandsm",
-         "identifier":"trgop-5"
-      }, 
-      {
          "host":"www.lavalinknodepublic.ml",
-         "port":"443",
-         "password":"mrextinctcodes",
-         "identifier":"lavalinknodepublic"
-      },
-      {
-         "host":"www.lavalinknodepublic2.ml",
          "port":"443",
          "password":"mrextinctcodes",
          "identifier":"lavalinknodepublic"
