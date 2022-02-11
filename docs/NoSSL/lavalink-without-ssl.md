@@ -4,7 +4,7 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-Hosted by @ [darren](https://darrennathanael.com/)
+Hosted by @ [darren](https://losingtime.dpaste.org/)
 ```bash
 Host : losingtime.dpaste.org
 Port : 2124
