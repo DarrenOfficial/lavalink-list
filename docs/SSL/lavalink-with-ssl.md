@@ -62,3 +62,11 @@ Port: 443
 Password: cobaltlavanode23@
 Secure: true
 ```
+Hosted by [ZeroX0001](https://github.com/ZeroX0001)
+
+```bash
+Host: icylavalink.ml
+Port: 443
+Password: icy
+Secure: true
+```
