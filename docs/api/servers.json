@@ -35,13 +35,13 @@
          "port":"443",
          "password":"lavaliun",
          "identifier":"mariliun"
-      }, 
+      },
       {
          "host":"lavalinkinc.ml",
          "port":"443",
          "password":"incognito",
          "identifier":"lavalinkinc"
-      }, 
+      },
       {
          "host":"www.lavalinknodepublic.ml",
          "port":"443",
@@ -73,6 +73,12 @@
          "port":"8880",
          "password":"waifufufufu",
          "identifier":"islantay"
+      },
+      {
+         "host":"kartadharta.xyz",
+         "port":"3000",
+         "password":"kdlavalink",
+         "identifier":"kartadharta"
       }
    ]
 }
