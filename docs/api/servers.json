@@ -79,6 +79,18 @@
          "port":"3000",
          "password":"kdlavalink",
          "identifier":"kartadharta"
+      },
+      {
+         "host":"usa.lavalink.mitask.tech",
+         "port":"2333",
+         "password":"lvserver",
+         "identifier":"usa-mitask"
+      },
+      {
+         "host":"ger.lavalink.mitask.tech",
+         "port":"2333",
+         "password":"lvserver",
+         "identifier":"ger-mitask"
       }
    ]
 }
