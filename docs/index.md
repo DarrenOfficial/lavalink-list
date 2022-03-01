@@ -35,9 +35,16 @@ These lavalink are group into two different categories.
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
 
 
-## How2Host
+## Hosting guide:
 
-On replit: [https://github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
 
-On Windows, MacOS, or Linux: [https://code.darrennathanael.com/how-to-lavalink](https://code.darrennathanael.com/how-to-lavalink)
+For Repl.it: [github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+
+---
+### TunnelBroker / Ratelimit Guide
+
+For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
+
+For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 
