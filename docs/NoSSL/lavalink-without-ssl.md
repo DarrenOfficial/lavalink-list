@@ -33,3 +33,20 @@ Port : 3000
 Password : "kdlavalink"
 secure: false
 ```
+
+Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
+German Lavalink:
+```bash
+Host : ger.lavalink.mitask.tech
+Port : 2333
+Password : "lvserver"
+Secure : false
+```
+
+US Lavalink:
+```bash
+Host : usa.lavalink.mitask.tech
+Port : 2333
+Password : "lvserver"
+Secure : false
+```
