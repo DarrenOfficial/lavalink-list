@@ -11,11 +11,19 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-Hosted by [Cobalt](https://github.com/cobaltgit)
 
+Hosted by [Cobalt](https://github.com/cobaltgit)
 ```bash
 Host: lavalink.cobaltonline.net
 Port: 443
 Password: cobaltlavanode23@
 Secure: true
+```
+
+Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
+```bash
+Host : lavalink.scpcl.site
+Port : 443
+Password : "lvserver"
+Secure : true
 ```
