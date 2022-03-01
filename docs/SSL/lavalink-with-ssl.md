@@ -4,6 +4,13 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
+Hosted by @ [OGGY#9889](https://bit.ly/freelavalink)
+```bash
+Host : connect.freelavalink.ga
+Port : 443
+Password : "www.freelavalink.ga"
+Secure : true
+```
 Hosted by @ [Devin#3583](https://github.com/DevinOfficial)
 ```bash
 Host : lavalink.devin-dev.xyz
