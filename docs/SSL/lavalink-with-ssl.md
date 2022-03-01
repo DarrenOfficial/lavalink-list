@@ -16,7 +16,7 @@ Hosted by [Cobalt](https://github.com/cobaltgit)
 ```bash
 Host: lavalink.cobaltonline.net
 Port: 443
-Password: cobaltlavanode23@
+Password: "cobaltlavanode23@"
 Secure: true
 ```
 
