@@ -34,7 +34,7 @@ Password : "kdlavalink"
 secure: false
 ```
 
-Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
+Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)\n
 German Lavalink:
 ```bash
 Host : ger.lavalink.mitask.tech
