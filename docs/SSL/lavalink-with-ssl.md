@@ -21,6 +21,7 @@ Secure: true
 ```
 
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
+Repl.it Lavalink:
 ```bash
 Host : lavalink.scpcl.site
 Port : 443
