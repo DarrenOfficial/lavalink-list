@@ -53,12 +53,6 @@
          "port":"443",
          "password":"cobaltlavanode23@",
          "identifier":"cobaltonline"
-      },
-      {
-         "host":"usa.lavalink.mitask.tech",
-         "port":"443",
-         "password":"lvserver",
-         "identifier":"usa-mitask"
       }
    ],
    "nossl":[
@@ -91,6 +85,12 @@
          "port":"2333",
          "password":"lvserver",
          "identifier":"ger-mitask"
+      },
+      {
+         "host":"usa.lavalink.mitask.tech",
+         "port":"2333",
+         "password":"lvserver",
+         "identifier":"usa-mitask"
       }
    ]
 }
