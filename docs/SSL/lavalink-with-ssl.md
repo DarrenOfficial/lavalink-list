@@ -28,3 +28,11 @@ Port : 443
 Password : "lvserver"
 Secure : true
 ```
+
+US Lavalink:
+```bash
+Host : usa.lavalink.mitask.tech
+Port : 2333
+Password : "lvserver"
+Secure : false
+```
