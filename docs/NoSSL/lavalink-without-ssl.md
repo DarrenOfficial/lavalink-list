@@ -4,6 +4,13 @@ description: Without SSL should work out of the box!
 ---
 
 ---
+Hosted by @ [OGGY#9889](https://bit.ly/freelavalink)
+```bash
+Host : lavalink.oops.wtf
+Port : 2000
+Password : "www.freelavalink.ga"
+Secure : false
+```
 Hosted by @ [darren](https://losingtime.dpaste.org/)
 ```bash
 Host : losingtime.dpaste.org
