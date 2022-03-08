@@ -21,3 +21,12 @@ Port : 443
 Password : "lvserver"
 Secure : true
 ```
+Hosted by @ [Jie#0001](https://github.com/ImGudBlue)
+
+Repl.it Lavalink:
+```bash
+Host : lavalink.jayden.sh
+Port : 443
+Password : "lavalink"
+Secure : true
+```
