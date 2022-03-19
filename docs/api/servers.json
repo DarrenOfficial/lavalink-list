@@ -91,6 +91,12 @@
          "port":"2333",
          "password":"lvserver",
          "identifier":"usa-mitask"
+      },
+      {
+         "host":"us1.lavalink.creavite.co",
+         "port":"20080",
+         "password":"auto.creavite.co",
+         "identifier":"creavite-us1"
       }
    ]
 }
