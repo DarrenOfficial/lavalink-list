@@ -30,7 +30,6 @@ Port : 443
 Password : "lavalink"
 Secure : true
 ```
----
 Hosted by @ [Hardik#7077](https://hardik.live)
 ```bash
 Host : lavalink.hardik.live
