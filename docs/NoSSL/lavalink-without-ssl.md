@@ -6,7 +6,7 @@ description: Without SSL should work out of the box!
 ---
 Hosted by @ [Blacky](https://github.com/brblacky)
 ```bash
-host: "perobot.xyz",
+host: "lavalink-coders.ml",
 password: "janemon",
 port: 80,
 secure: false
