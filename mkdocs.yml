@@ -1,7 +1,7 @@
 site_name: lavalink hosting
 site_author: DarrenOfficial
 site_url: https://lavalink.darrennathanael.com
-site_description: List of free lavalink servers! If you have lavalink that you can share feel free to make a pull request! A standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards.
+site_description: List of free lavalink servers! If you have lavalink that you can share feel free to make a pull request! Lavalink is a standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards.
 repo_name: 'lavalink list'
 repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
 edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
