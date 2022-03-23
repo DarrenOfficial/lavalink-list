@@ -11,6 +11,12 @@ password: "janemon",
 port: 80,
 secure: false
 ```
+```bash
+host: "disbotlistlavalink.ml",
+password: "LAVA",
+port: 80,
+secure: false
+```
 Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
 ```bash
 Host : us1.lavalink.creavite.co
