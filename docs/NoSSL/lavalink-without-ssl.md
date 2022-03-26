@@ -4,6 +4,14 @@ description: Without SSL should work out of the box!
 ---
 
 ---
+
+Hosted by @ [Weez](https://github.com/Weez-Dev)
+```bash
+Host : weez-node.cf
+Port : 2333
+Password : "FreeLava"
+Secure : false
+```
 Hosted by @ [Blacky](https://github.com/brblacky)
 ```bash
 Host : lavalink-coders.ml
