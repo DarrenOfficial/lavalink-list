@@ -27,22 +27,25 @@
 [📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
 
-[API](api/index.md){ .md-button }
 
 ## Info
 These lavalink are group into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
-SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
+SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
+
+Is there a difference between those two? no there isn't. Just try it and see. :D
 
 
-## Hosting guide:
+## Need a domain?
+If you want your own yournamehere.lavalinks.xyz? well DM DarrenOfficial#3451 on discord 👍
+
+
+### Hosting guide:
 
 For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
 
-For Repl.it: [github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-
 ---
-### TunnelBroker / Ratelimit Guide
+### TunnelBroker Guide
 
 For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
 
