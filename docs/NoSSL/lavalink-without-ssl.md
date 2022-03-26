@@ -40,6 +40,13 @@ Port : 2124
 Password : "SleepingOnTrains"
 secure: false
 ```
+Hosted by @ [brblacky](https://github.com/brblacky/lavamusic)
+```bash
+Host : lavamusic.lavalinks.xyz
+Port : 80
+Password : "LAVA"
+secure: false
+```
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link
