@@ -7,18 +7,28 @@ repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
 edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 
-theme: 
+theme:
+  palette: 
+    - scheme: slate 
+      primary: 'black'
+      accent: 'green'
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: 'teal'
+      accent: 'green'
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
   name: 'material'
   logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
   include_search_page: false
   search_index_only: true
-  palette:
-    scheme: slate
-    primary: 'indigo'
-    accent: 'green'
+
   font:
-    text: 'Poppins'
-    code: 'Source Code Pro'
+    text: "Red Hat Text"
+    code: "Roboto Mono"
   favicon:
     'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
   features:
@@ -42,6 +52,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.keys
   - attr_list
+  - footnotes
   - pymdownx.betterem:
       smart_enable: all
 nav:

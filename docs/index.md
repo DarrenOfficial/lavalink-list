@@ -36,18 +36,15 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 Is there a difference between those two? no there isn't. Just try it and see. :D
 
 
-## Need a domain?
-If you want your own yournamehere.lavalinks.xyz? well DM DarrenOfficial#3451 on discord 👍
-
-
 ### Hosting guide:
 
 For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
 
----
-### TunnelBroker Guide
+### TunnelBroker Guide:
 
 For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
 
 For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 
+## Want your own lavalinks.xyz domain?
+If you want your own custom.lavalinks.xyz? well join [discord.darrennathanael.com](https://discord.darrennathanael.com) and ask darren
