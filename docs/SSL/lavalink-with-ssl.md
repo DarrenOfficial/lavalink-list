@@ -11,3 +11,11 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
+Hosted by @ [](https://dsc.gg/extinctop)
+```bash
+Id : Main (If Required)
+Host : www.exlink.ml
+Port : 443
+Password : "exlava"
+Secure : true
+```
