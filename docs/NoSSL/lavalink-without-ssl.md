@@ -6,10 +6,10 @@ description: Without SSL should work out of the box!
 ---
 Hosted by @ [Blacky](https://github.com/brblacky)
 ```bash
-host: "lavalink-coders.ml",
-password: "janemon",
-port: 80,
-secure: false
+Host : lavalink-coders.ml
+Port : 80
+Password : "janemon"
+Secure : false
 ```
 Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
 ```bash
