@@ -11,20 +11,3 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-
-Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
-
-Repl.it Lavalink:
-```bash
-Host : lavalink.scpcl.site
-Port : 443
-Password : "lvserver"
-Secure : true
-```
-Hosted by @ [Jie#0001](https://github.com/ImGudBlue)
-```bash
-Host : lavalink.jayden.sh
-Port : 443
-Password : "lava"
-Secure : true
-```
