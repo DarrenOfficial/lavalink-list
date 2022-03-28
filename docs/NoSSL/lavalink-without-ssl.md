@@ -71,8 +71,6 @@ secure: false
 ```
 
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
-
-US Lavalink:
 ```bash
 Host : usa.lavalink.mitask.tech
 Port : 2333
