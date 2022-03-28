@@ -36,7 +36,6 @@ theme:
     - instantsite
     - navigation.tracking
     - navigation.expand
-    - header.autohide
     - content.code.annotate
     - navigation.indexes
     - navigation.instant
