@@ -11,3 +11,24 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
+Hosted by @ [cepheid#0001](https://marshalxp.xyz)
+```bash
+Host : node01.marshalxp.xyz
+Port : 443
+Password : "marshal"
+Secure : true
+```
+Hosted by @ [cepheid#0001](https://marshalxp.xyz)
+```bash
+Host : node02.marshalxp.xyz
+Port : 443
+Password : "marshal"
+Secure : true
+```
+Hosted by @ [cepheid#0001](https://marshalxp.xyz)
+```bash
+Host : node03.marshalxp.xyz
+Port : 443
+Password : "marshal"
+Secure : true
+```
