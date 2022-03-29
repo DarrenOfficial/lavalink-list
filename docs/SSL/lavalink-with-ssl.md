@@ -6,7 +6,7 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 Hosted by @ [Usui#0256](https://kadantte.moe)
 ```bash
-Host : usui.linku.kadantte.moe
+Host : usui-linku.kadantte.moe
 Port : 443
 Password : "Usui#0256"
 Secure : true
