@@ -62,13 +62,6 @@ Password : "waifufufufu"
 secure: false
 ```
 
-Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
-```bash
-Host : kartadharta.xyz
-Port : 3000
-Password : "kdlavalink"
-secure: false
-```
 
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
