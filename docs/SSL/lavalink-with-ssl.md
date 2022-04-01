@@ -39,3 +39,10 @@ Port : 443
 Password : "marshal"
 Secure : true
 ```
+Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
+```bash
+Host : node1.kartadharta.xyz
+Port : 443
+Password : "kdlavalink"
+secure: true
+```
