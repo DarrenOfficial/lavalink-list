@@ -77,3 +77,11 @@ Port : 2333
 Password : "lvserver"
 Secure : false
 ```
+
+Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
+```bash
+Host : node1.annnekkk.tech
+Port : 17131
+Password : "youshallnotpass"
+Secure : false
+```
