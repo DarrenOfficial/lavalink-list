@@ -78,3 +78,19 @@ Port : 17131
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
+```bash
+Host : f1lavalink.ratiohost.gq
+Port : 20067
+Password : "BITSNetwork|Lavalink1"
+Secure : false
+```
+
+Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
+```bash
+Host : f2lavalink.ratiohost.gq
+Port : 20061
+Password : "BITSNetwork|Lavalink2"
+Secure : false
+```
