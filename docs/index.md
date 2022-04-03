@@ -33,7 +33,21 @@ These lavalink hosts are grouped into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
 
-Is there a difference between those two? no there isn't. Just try it and see. :D
+### F.A.S.Q. (Frequently Asked Stupid Questions)
+
+Is there a difference between SSL and Without SSL?
+> No there isn't. one uses a certificate and one doesn't. For website it is crucial to have an SSL cert for credibility, but for lavalink no. it is unnecessary. plus You don't wanna be the next [manjaro dev](https://manjarno.snorlax.sh/) right? :3
+
+Is it true that SSL are more secure?
+> No.
+
+Is lavalink with SSL faster?
+> Depends, most lavalink that has SSL usually are hosted on replit *and others* free hosting provider, interms of reliability they're most likely to restart every few days or so.
+> 
+> You can argue that the without SSL one also sometimes uses free hosting *danbothosting, mcworld.cc, and such.*. but interms of reliability & speed they're more reliable unlike replit.
+
+If I wanted to host lavalink and make it public, should I use cloudflare?
+> tbh, no. Cloudflare [drops websocket connection randomly](https://stackoverflow.com/questions/39668410/whats-disconnecting-my-websocket-connection-cloudflare-apaches-mod-proxy), thus if you want your public lavalink to be reliable you shouldn't use cloudflare. If you're worried about ddos, consider getting server host that has ddos protection. such as [oxide.host](https://billing.oxide.host/aff.php?aff=133), [servarica](https://clients.servarica.com/aff.php?aff=519).
 
 
 ### Hosting guide:
