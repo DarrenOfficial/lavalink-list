@@ -29,7 +29,7 @@
 
 
 ## Info
-These lavalink are group into two different categories.
+These lavalink hosts are grouped into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
 
