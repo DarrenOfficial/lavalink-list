@@ -31,7 +31,7 @@
 ## Info
 These lavalink hosts are grouped into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
-SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
+SSL one needed `”secure”` to be set to true at client side & using port 433, whilst the one without SSL should just works.
 
 Is there a difference between those two? no there isn't. Just try it and see. :D
 
