@@ -102,4 +102,10 @@ Port : 28112
 Password : "f82263yh75f6r5"
 Secure : false
 ```
-
+Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
+```bash
+Host : f3lavalink.ratiohost.gq
+Port : 44017
+Password : "BITS_Network|Node3"
+Secure : false
+```
