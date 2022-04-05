@@ -33,9 +33,9 @@ Port : 2000
 Password : "www.freelavalink.ga"
 Secure : false
 ```
-Hosted by @ [darren](https://losingtime.dpaste.org/)
+Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
-Host : losingtime.dpaste.org
+Host : kerosine.darrennathanael.com
 Port : 2124
 Password : "SleepingOnTrains"
 secure: false
