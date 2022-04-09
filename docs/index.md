@@ -57,6 +57,3 @@ For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https:
 For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
 
 For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
-
-## Want your own lavalinks.xyz domain?
-If you want your own custom.lavalinks.xyz? well join [discord.darrennathanael.com](https://discord.darrennathanael.com) and ask darren
