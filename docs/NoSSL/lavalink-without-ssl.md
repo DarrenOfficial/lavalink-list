@@ -79,22 +79,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
-```bash
-Host : f1lavalink.ratiohost.gq
-Port : 1860
-Password : "BITS_Network|Node1"
-Secure : false
-```
-
-Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
-```bash
-Host : f2lavalink.ratiohost.gq
-Port : 50070
-Password : "BITS_Network|Node2"
-Secure : false
-```
-
 Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
 ```bash
 Host : uk1.buckytm.com
@@ -102,10 +86,19 @@ Port : 28112
 Password : "f82263yh75f6r5"
 Secure : false
 ```
+
 Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
 ```bash
-Host : f3lavalink.ratiohost.gq
+Host : f1lavalink.ratiohost.gq
 Port : 44017
-Password : "BITS_Network|Node3"
+Password : "BITS_Network|Node1"
+Secure : false
+```
+
+Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
+```bash
+Host : f2lavalink.ratiohost.gq
+Port : 20116
+Password : "BITS_Network|Node2"
 Secure : false
 ```
