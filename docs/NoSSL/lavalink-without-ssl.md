@@ -12,6 +12,7 @@ Port : 2333
 Password : "FreeLava"
 Secure : false
 ```
+
 Hosted by @ [Blacky](https://github.com/brblacky)
 ```bash
 Host : lavalink-coders.ml
@@ -19,6 +20,7 @@ Port : 80
 Password : "janemon"
 Secure : false
 ```
+
 Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
 ```bash
 Host : us1.lavalink.creavite.co
@@ -26,6 +28,7 @@ Port : 20080
 Password : "auto.creavite.co"
 Secure : false
 ```
+
 Hosted by @ [OGGY#9889](https://bit.ly/freelavalink)
 ```bash
 Host : lavalink.oops.wtf
@@ -33,6 +36,7 @@ Port : 2000
 Password : "www.freelavalink.ga"
 Secure : false
 ```
+
 Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
 Host : kerosine.darrennathanael.com
@@ -40,6 +44,7 @@ Port : 2124
 Password : "SleepingOnTrains"
 secure: false
 ```
+
 Hosted by @ [brblacky](https://github.com/brblacky/lavamusic)
 ```bash
 Host : lavamusic.lavalinks.xyz
@@ -47,6 +52,7 @@ Port : 80
 Password : "LAVA"
 secure: false
 ```
+
 Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
 Host : lava.link
@@ -54,6 +60,7 @@ Port : 80
 Password : anything as password
 secure: false
 ```
+
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink.islantay.tk
@@ -61,7 +68,6 @@ Port : 8880
 Password : "waifufufufu"
 secure: false
 ```
-
 
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
@@ -84,21 +90,5 @@ Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
 Host : uk1.buckytm.com
 Port : 28112
 Password : "f82263yh75f6r5"
-Secure : false
-```
-
-Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
-```bash
-Host : f1lavalink.ratiohost.gq
-Port : 44017
-Password : "BITS_Network|Node1"
-Secure : false
-```
-
-Hosted by @ [BITS_gamer50082#4908](https://github.com/gamer50082)
-```bash
-Host : f2lavalink.ratiohost.gq
-Port : 20116
-Password : "BITS_Network|Node2"
 Secure : false
 ```
