@@ -53,14 +53,6 @@ Password : "LAVA"
 secure: false
 ```
 
-Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
-```bash
-Host : lava.link
-Port : 80
-Password : anything as password
-secure: false
-```
-
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink.islantay.tk
