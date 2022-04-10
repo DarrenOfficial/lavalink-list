@@ -92,3 +92,11 @@ Port : 28112
 Password : "f82263yh75f6r5"
 Secure : false
 ```
+
+Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
+```bash
+Host : lavalink.houseofgamers.xyz
+Port : 2333
+Password : "lavalink"
+Secure : false
+```
