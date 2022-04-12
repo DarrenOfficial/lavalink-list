@@ -39,9 +39,9 @@ Secure : false
 
 Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
-Host : lavalink.darrenofficial.com
-Port : 80
-Password : anything as a password
+Host : kerosine.darrennathanael.com
+Port : 2124
+Password : "SleepingOnTrains"
 secure: false
 ```
 
