@@ -46,3 +46,10 @@ Port : 443
 Password : "kdlavalink"
 secure: true
 ```
+Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
+```
+Host : node6.lavalink.chiquicalris.me
+Port : 443
+Password : "lavalink_is_cool"
+secure: true
+```
