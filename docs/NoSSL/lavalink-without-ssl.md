@@ -69,14 +69,6 @@ Password : "lvserver"
 Secure : false
 ```
 
-Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
-```bash
-Host : node1.annnekkk.tech
-Port : 17131
-Password : "youshallnotpass"
-Secure : false
-```
-
 Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
 ```bash
 Host : uk1.buckytm.com
@@ -90,5 +82,13 @@ Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
 Host : lavalink.houseofgamers.xyz
 Port : 2333
 Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
+```bash
+Host : node.annnekkk.com
+Port : 2333
+Password : "youshallnotpass"
 Secure : false
 ```
