@@ -4,6 +4,15 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
+
+
+Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
+```
+Host : node6.lavalink.chiquicalris.me
+Port : 443
+Password : "lavalink_is_cool"
+secure: true
+```
 Hosted by @ [Usui#0256](https://kadantte.moe)
 ```bash
 Host : usui-linku.kadantte.moe
@@ -44,12 +53,5 @@ Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
 Host : node1.kartadharta.xyz
 Port : 443
 Password : "kdlavalink"
-secure: true
-```
-Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
-```
-Host : node6.lavalink.chiquicalris.me
-Port : 443
-Password : "lavalink_is_cool"
 secure: true
 ```
