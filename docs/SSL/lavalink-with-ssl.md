@@ -13,6 +13,27 @@ Port : 443
 Password : "lavalink_is_cool"
 secure: true
 ```
+Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
+```
+Host : node7.lavalink.chiquicalris.me
+Port : 443
+Password : "lavalink_is_cool"
+secure: true
+```
+Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
+```
+Host : node8.lavalink.chiquicalris.me
+Port : 443
+Password : "lavalink_is_cool"
+secure: true
+```
+Hosted by @ [Chiqui](https://ko-fi.com/chiquidev)
+```
+Host : node9.lavalink.chiquicalris.me
+Port : 443
+Password : "lavalink_is_cool"
+secure: true
+```
 Hosted by @ [Usui#0256](https://kadantte.moe)
 ```bash
 Host : usui-linku.kadantte.moe
