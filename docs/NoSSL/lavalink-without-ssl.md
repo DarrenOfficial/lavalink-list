@@ -5,6 +5,49 @@ description: Without SSL should work out of the box!
 
 ---
 
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : node1.lavalink.chiquicalris.me
+Port : 2391
+Password : ""
+Secure : false
+```
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : node2.lavalink.chiquicalris.me
+Port : 2392
+Password : ""
+Secure : false
+```
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : node3.lavalink.chiquicalris.me
+Port : 2393
+Password : ""
+Secure : false
+```
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : node4.lavalink.chiquicalris.me
+Port : 2394
+Password : ""
+Secure : false
+```
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : node5.lavalink.chiquicalris.me
+Port : 2395
+Password : ""
+Secure : false
+```
+Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
+```bash
+Host : lavalink.chiquicalris.me
+Port : 2330
+Password : ""
+Secure : false
+```
+
 Hosted by @ [Weez](https://github.com/Weez-Dev)
 ```bash
 Host : weez-node.cf
