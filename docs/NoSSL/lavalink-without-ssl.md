@@ -5,6 +5,13 @@ description: Without SSL should work out of the box!
 
 ---
 
+Hosted by @ [Gaprok Network](https://dsc.gg/bagusnfriends)
+```bash
+Host : lavalink.gaproknetwork.xyz
+Port : 2333
+Password : "gaproklavalink"
+Secure : false
+```
 Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
 ```bash
 Host : node1.lavalink.chiquicalris.me
