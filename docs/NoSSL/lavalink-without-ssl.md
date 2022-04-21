@@ -4,7 +4,7 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-Hosted by @ [OGGY#9889](https://bit.ly/3JZthot)
+Hosted by @ [OGGY#9889](https://u.oggy.ga/fll)
 ```bash
 Host : lavalink.oops.wtf
 Port : 2000
