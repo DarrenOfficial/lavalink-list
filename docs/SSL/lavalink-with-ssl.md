@@ -4,7 +4,7 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [OGGY#9889](https://bit.ly/3JZthot)
+Hosted by @ [OGGY#9889](https://u.oggy.ga/fllssl)
 ```bash
 Host : lavalink.oops.wtf
 Port : 443
