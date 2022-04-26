@@ -36,14 +36,6 @@ Password : anything as a password
 secure: false
 ```
 
-Hosted by @ [brblacky](https://github.com/brblacky/lavamusic)
-```bash
-Host : lavamusic.lavalinks.xyz
-Port : 80
-Password : "LAVA"
-secure: false
-```
-
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink.islantay.tk
@@ -81,5 +73,13 @@ Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
 Host : node.annnekkk.com
 Port : 2333
 Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Weez](https://github.com/Weez-Dev)
+```bash
+Host : weez-node.cf
+Port : 2333
+Password : "FreeLava"
 Secure : false
 ```
