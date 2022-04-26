@@ -62,22 +62,6 @@ Password : "lavalink_is_cool"
 Secure : false
 ```
 
-Hosted by @ [Weez](https://github.com/Weez-Dev)
-```bash
-Host : weez-node.cf
-Port : 2333
-Password : "FreeLava"
-Secure : false
-```
-
-Hosted by @ [Blacky](https://github.com/brblacky)
-```bash
-Host : lavalink-coders.ml
-Port : 80
-Password : "janemon"
-Secure : false
-```
-
 Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
 ```bash
 Host : us1.lavalink.creavite.co
