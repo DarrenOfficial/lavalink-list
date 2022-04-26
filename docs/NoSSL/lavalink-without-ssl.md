@@ -19,48 +19,6 @@ Port : 2333
 Password : "gaproklavalink"
 Secure : false
 ```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : node1.lavalink.chiquicalris.me
-Port : 2391
-Password : "lavalink_is_cool"
-Secure : false
-```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : node2.lavalink.chiquicalris.me
-Port : 2392
-Password : "lavalink_is_cool"
-Secure : false
-```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : node3.lavalink.chiquicalris.me
-Port : 2393
-Password : "lavalink_is_cool"
-Secure : false
-```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : node4.lavalink.chiquicalris.me
-Port : 2394
-Password : "lavalink_is_cool"
-Secure : false
-```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : node5.lavalink.chiquicalris.me
-Port : 2395
-Password : "lavalink_is_cool"
-Secure : false
-```
-Hosted by @ [Chiqui (172563866755137538)](https://ko-fi.com/chiquidev)
-```bash
-Host : lavalink.chiquicalris.me
-Port : 2330
-Password : "lavalink_is_cool"
-Secure : false
-```
 
 Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
 ```bash
