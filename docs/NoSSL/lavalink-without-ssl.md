@@ -83,3 +83,11 @@ Port : 2333
 Password : "FreeLava"
 Secure : false
 ```
+
+Hosted by @ [MJ1532](https://mj1532.cf)
+```bash
+Host / IP : dislavalink.gq
+Port : 2760
+Password : gemzandmj
+Secure : false
+```
