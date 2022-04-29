@@ -67,15 +67,6 @@ Port : 2333
 Password : "lavalink"
 Secure : false
 ```
-
-Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
-```bash
-Host : node.annnekkk.com
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 Hosted by @ [Weez](https://github.com/Weez-Dev)
 ```bash
 Host : weez-node.cf
@@ -86,7 +77,7 @@ Secure : false
 
 Hosted by @ [MJ1532](https://mj1532.cf)
 ```bash
-Host / IP : dislavalink.gq
+Host : dislavalink.gq
 Port : 2760
 Password : gemzandmj
 Secure : false
