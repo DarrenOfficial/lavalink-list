@@ -46,3 +46,11 @@ Port : 443
 Password : "kdlavalink"
 secure: true
 ```
+
+Hosted by @ [MJ1532#2533](https://github.com/MJ1532)
+```bash
+Host : ssl.dislavalink.gq
+Port : 443
+Password : "gemzandmj"
+secure: true
+```
