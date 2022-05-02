@@ -54,3 +54,10 @@ Port : 443
 Password : "gemzandmj"
 secure: true
 ```
+Hosted by @ [atlas-chan#8899](https://github.com/reef1447)
+```bash
+Host : lavalink.roreef.com
+Port : 443
+Password : "youshallnotpass"
+secure: true
+```
