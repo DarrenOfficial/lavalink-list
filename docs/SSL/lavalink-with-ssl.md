@@ -63,7 +63,7 @@ secure: true
 ```
 Hosted by @ [SleepyKitten#4894](https://github.com/xcgc)
 ```bash
-Host / IP : lavalink.synn.host
+Host : lavalink.synn.host
 Port : 443
 Password : "Binnic123!"
 secure: true
