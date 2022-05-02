@@ -68,3 +68,24 @@ Port : 443
 Password : "Binnic123!"
 secure: true
 ```
+Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+```bash
+Host : www.exlink.ml
+Port : 443
+Password : "exlava"
+Secure : true
+```
+Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+```bash
+Host : www.lavalinknodepublic.ml
+Port : 443
+Password : "mrextinctcodes"
+Secure : true
+```
+Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+```bash
+Host : www.lavalinknodepublic2.ml
+Port : 443
+Password : "mrextinctcodes"
+Secure : true
+```
