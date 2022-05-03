@@ -58,7 +58,7 @@ Hosted by @ [atlas-chan#8899](https://github.com/reef1447)
 ```bash
 Host : lavalink.roreef.com
 Port : 443
-Password : "youshallnotpass"
+Password : "ATLAS01"
 secure: true
 ```
 Hosted by @ [SleepyKitten#4894](https://github.com/xcgc)
