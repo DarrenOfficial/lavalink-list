@@ -89,3 +89,11 @@ Port : 443
 Password : "mrextinctcodes"
 Secure : true
 ```
+
+Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
+```bash
+Host : ssl.annnekkk.tech
+Port : 443
+Password : "lavafreefromannnekkk"
+Secure : true
+```
