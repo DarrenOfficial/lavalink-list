@@ -4,13 +4,6 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [Aitronssesin#2503](https://aitronbots.tk)
-```bash
-Host : aitronlavalink.tk
-Port : 443
-Password : "aitronbots.tk"
-Secure : true
-```
 Hosted by @ [OGGY#9889](https://u.oggy.ga/fllssl)
 ```bash
 Host : lavalink.oops.wtf
