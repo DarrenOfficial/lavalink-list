@@ -44,14 +44,6 @@ Password : "waifufufufu"
 secure: false
 ```
 
-Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
-```bash
-Host : usa.lavalink.mitask.tech
-Port : 2333
-Password : "lvserver"
-Secure : false
-```
-
 Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
 ```bash
 Host : uk1.buckytm.com
