@@ -67,7 +67,7 @@ Password : "FreeLava"
 Secure : false
 ```
 
-Hosted by @ [MJ1532#2533](https://mj1532.cf)
+Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
 ```bash
 Host : dislavalink.gq
 Port : 2760
