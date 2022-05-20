@@ -74,3 +74,11 @@ Port : 2760
 Password : "gemzandmj"
 Secure : false
 ```
+
+Hosted by @ [sinkaroid / scathach.dev](https://scathach.dev)
+```bash
+Host : lancer.scathach.dev
+Port : 1945
+Password : "eulamoncrot"
+Secure : false
+```
