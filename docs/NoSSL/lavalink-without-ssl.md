@@ -95,6 +95,6 @@ Hosted by @ [Faris](https://github.com/flkapes)
 ```bash
 IP : 194.163.153.236
 Port : 2222
-Password : lavalinkplay
+Password : "lavalinkplay"
 Secure : false
 ```
