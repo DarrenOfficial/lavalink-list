@@ -98,3 +98,11 @@ Port : 2222
 Password : "lavalinkplay"
 Secure : false
 ```
+
+Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
+```bash
+IP : 181.214.231.105
+Port : 6665
+Password : "syslink"
+Secure : false
+```
