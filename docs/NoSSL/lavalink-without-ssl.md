@@ -123,3 +123,11 @@ Port : 10421
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [ro-reef](https://github.com/reef1447)
+```bash
+Host : 62.171.128.234
+Port : 3139
+Password : "Minato_Aqua"
+Secure : false
+```
