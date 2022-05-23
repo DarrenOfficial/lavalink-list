@@ -91,9 +91,9 @@ Password : "lvserver"
 Secure : false
 ```
 
-Hosted by @ [Faris](https://github.com/flkapes)
+Hosted by @ [FK](https://github.com/flkapes)
 ```bash
-IP : 194.163.153.236
+Host : lavalink.kapes.eu
 Port : 2222
 Password : "lavalinkplay"
 Secure : false
