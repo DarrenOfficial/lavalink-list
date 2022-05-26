@@ -115,15 +115,6 @@ Password : "derpilava"
 Secure : false
 ```
 
-Hosted by @ [Artem Curious#3691](https://twitter.com/curiousartem)
-
-```bash
-IP : 51.161.130.134
-Port : 10421
-Password : "youshallnotpass"
-Secure : false
-```
-
 Hosted by @ [ro-reef](https://github.com/reef1447)
 ```bash
 Host : 62.171.128.234
