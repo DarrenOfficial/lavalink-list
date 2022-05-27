@@ -4,20 +4,19 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-
-Hosted by @ [Weez](https://github.com/Weez-Dev)
+Hosted by @ [OGGY#9889](https://u.oggy.ga/fll)
 ```bash
-Host : weez-node.cf
-Port : 2333
-Password : "FreeLava"
+Host : lavalink.oops.wtf
+Port : 2000
+Password : "www.freelavalink.ga"
 Secure : false
 ```
 
-Hosted by @ [Blacky](https://github.com/brblacky)
+Hosted by @ [Gaprok Network](https://dsc.gg/bagusnfriends)
 ```bash
-Host : lavalink-coders.ml
-Port : 80
-Password : "janemon"
+Host : lavalink.gaproknetwork.xyz
+Port : 2333
+Password : "gaproklavalink"
 Secure : false
 ```
 
@@ -29,35 +28,11 @@ Password : "auto.creavite.co"
 Secure : false
 ```
 
-Hosted by @ [OGGY#9889](https://bit.ly/freelavalink)
-```bash
-Host : lavalink.oops.wtf
-Port : 2000
-Password : "www.freelavalink.ga"
-Secure : false
-```
-
 Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
-Host : kerosine.darrennathanael.com
-Port : 2124
-Password : "SleepingOnTrains"
-secure: false
-```
-
-Hosted by @ [brblacky](https://github.com/brblacky/lavamusic)
-```bash
-Host : lavamusic.lavalinks.xyz
+Host : lavalink.darrenofficial.com
 Port : 80
-Password : "LAVA"
-secure: false
-```
-
-Hosted by @ [something.host](https://support.something.host/en/article/lavalink-hosting-okm26z/)
-```bash
-Host : lava.link
-Port : 80
-Password : anything as password
+Password : anything as a password
 secure: false
 ```
 
@@ -69,6 +44,45 @@ Password : "waifufufufu"
 secure: false
 ```
 
+Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
+```bash
+Host : uk1.buckytm.com
+Port : 28112
+Password : "f82263yh75f6r5"
+Secure : false
+```
+
+Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
+```bash
+Host : lavalink.houseofgamers.xyz
+Port : 2333
+Password : "lavalink"
+Secure : false
+```
+Hosted by @ [Weez](https://github.com/Weez-Dev)
+```bash
+Host : weez-node.cf
+Port : 2333
+Password : "FreeLava"
+Secure : false
+```
+
+Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
+```bash
+Host : dislavalink.gq
+Port : 2760
+Password : "gemzandmj"
+Secure : false
+```
+
+Hosted by @ [sinkaroid / scathach.dev](https://scathach.dev)
+```bash
+Host : lancer.scathach.dev
+Port : 1945
+Password : "eulamoncrot"
+Secure : false
+```
+
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
 Host : usa.lavalink.mitask.tech
@@ -77,19 +91,35 @@ Password : "lvserver"
 Secure : false
 ```
 
-Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
+Hosted by @ [FK](https://github.com/flkapes)
 ```bash
-Host : node1.annnekkk.tech
-Port : 17131
-Password : "youshallnotpass"
+Host : lavalink.kapes.eu
+Port : 2222
+Password : "lavalinkplay"
 Secure : false
 ```
 
-Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
+Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
 ```bash
-Host : uk1.buckytm.com
-Port : 28112
-Password : "f82263yh75f6r5"
+IP : 181.214.231.105
+Port : 6665
+Password : "syslink"
+Secure : false
+```
+
+Hosted by @ [derpi#5702](https://vellerius.tk)
+```bash
+Host : lv.vellerius.tk
+Port : 2333
+Password : "derpilava"
+Secure : false
+```
+
+Hosted by @ [ro-reef](https://github.com/reef1447)
+```bash
+Host : 62.171.128.234
+Port : 3139
+Password : "Minato_Aqua"
 Secure : false
 ```
 
