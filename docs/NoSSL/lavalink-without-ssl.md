@@ -55,7 +55,7 @@ Secure : false
 Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
 ```bash
 Host : lavalink.houseofgamers.xyz
-Port : 2333
+Port : 2000
 Password : "lavalink"
 Secure : false
 ```
