@@ -55,7 +55,7 @@ Secure : false
 Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
 ```bash
 Host : lavalink.houseofgamers.xyz
-Port : 2333
+Port : 2000
 Password : "lavalink"
 Secure : false
 ```
@@ -120,5 +120,13 @@ Hosted by @ [ro-reef](https://github.com/reef1447)
 Host : 62.171.128.234
 Port : 3139
 Password : "Minato_Aqua"
+Secure : false
+```
+
+Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
+```bash
+Host : lavalink.houseofgamers.xyz
+Port : 2333
+Password : "lavalink"
 Secure : false
 ```
