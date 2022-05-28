@@ -55,7 +55,7 @@ Secure : false
 Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
 ```bash
 Host : lavalink.houseofgamers.xyz
-Port : 2333
+Port : 2000
 Password : "lavalink"
 Secure : false
 ```
@@ -91,9 +91,9 @@ Password : "lvserver"
 Secure : false
 ```
 
-Hosted by @ [Faris](https://github.com/flkapes)
+Hosted by @ [FK](https://github.com/flkapes)
 ```bash
-IP : 194.163.153.236
+Host : lavalink.kapes.eu
 Port : 2222
 Password : "lavalinkplay"
 Secure : false
@@ -115,11 +115,26 @@ Password : "derpilava"
 Secure : false
 ```
 
-Hosted by @ [Artem Curious#3691](https://twitter.com/curiousartem)
-
+Hosted by @ [Artem Curious](https://twitter.com/curiousartem)
 ```bash
 IP : 51.161.130.134
-Port : 10421
+Port : 10402
 Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [ro-reef](https://github.com/reef1447)
+```bash
+Host : 62.171.128.234
+Port : 3139
+Password : "Minato_Aqua"
+Secure : false
+```
+
+Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
+```bash
+Host : lavalink.houseofgamers.xyz
+Port : 2333
+Password : "lavalink"
 Secure : false
 ```
