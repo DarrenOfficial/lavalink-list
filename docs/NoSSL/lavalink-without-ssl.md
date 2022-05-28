@@ -130,3 +130,10 @@ Port : 2333
 Password : "lavalink"
 Secure : false
 ```
+Hosted by @ [Internet](https://cloudblue.ml/my-github)
+```bash
+Host : lavalink.cloudblue.ml
+Port : 1251
+Password : "danbotbest"
+Secure : false
+```
