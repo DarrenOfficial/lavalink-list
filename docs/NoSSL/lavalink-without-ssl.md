@@ -133,7 +133,7 @@ Secure : false
 
 Hosted by @ [Internet](https://cloudblue.ml/my-github/)
 ```bash
-Host : lavalink.cloudblue.ml | 192.95.42.73:1251
+Host : lavalink.cloudblue.ml
 Port : 1251
 Password : "danbotbest"
 Secure : false
