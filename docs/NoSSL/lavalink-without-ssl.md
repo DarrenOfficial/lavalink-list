@@ -20,14 +20,6 @@ Password : "gaproklavalink"
 Secure : false
 ```
 
-Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
-```bash
-Host : us1.lavalink.creavite.co
-Port : 20080
-Password : "auto.creavite.co"
-Secure : false
-```
-
 Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
 Host : lavalink.darrenofficial.com
