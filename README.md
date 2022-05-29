@@ -6,7 +6,7 @@
 <h3 align="center">Lavalink List</h3>
 
   <p align="center">
-    A listing site for lavalink. Feel free to make a pull request. :)
+    For quality control I checked on these servers per weekly basis, if the lavalink is offline / unreachable it will be removed.
     <br />
     <a href="https://lavalink-list.darrennathanael.com"><strong>Open Website »</strong></a>
     <br />
