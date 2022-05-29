@@ -55,7 +55,7 @@ Secure : false
 Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
 ```bash
 Host : dislavalink.gq
-Port : 2760
+Port : 2333
 Password : "gemzandmj"
 Secure : false
 ```
