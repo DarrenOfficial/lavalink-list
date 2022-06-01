@@ -64,7 +64,7 @@ Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
 Host : usa.lavalink.mitask.tech
 Port : 2333
-Password : "lvserver"
+Password : "lvs"
 Secure : false
 ```
 
