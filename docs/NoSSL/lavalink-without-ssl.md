@@ -99,3 +99,10 @@ Port : 1555
 Password : "danbotbest"
 Secure : false
 ```
+
+Hosted by @ [timelessnesses](https://rukchadisa.live)
+```bash
+Host : lavalink.rukchadisa.live
+Port : 8080
+Password : "youshallnotpass"
+Secure : false
