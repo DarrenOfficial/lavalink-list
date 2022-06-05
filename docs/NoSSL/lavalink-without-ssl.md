@@ -107,3 +107,11 @@ Port : 8080
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [AlexanderOF](https://alexanderof.xyz/2022/05/03/free-lavalink/)
+```bash
+Host : audio.alexanderof.xyz
+Port : 2000
+Password : "lavalink"
+Secure : false
+```
