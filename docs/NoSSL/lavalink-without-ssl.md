@@ -36,14 +36,6 @@ Password : "waifufufufu"
 secure: false
 ```
 
-Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
-```bash
-Host : uk1.buckytm.com
-Port : 28112
-Password : "f82263yh75f6r5"
-Secure : false
-```
-
 Hosted by @ [Weez](https://github.com/Weez-Dev)
 ```bash
 Host : weez-node.cf
