@@ -107,3 +107,11 @@ Port : 2000
 Password : "lavalink"
 Secure : false
 ```
+
+Hosted by @ [Thermal Hosting](https://thermalhosting.com)
+```bash
+Host : lava-ny-01.thermalhosting.com
+Port : 4018
+Password : thermalhosting.com
+Secure : false
+```
