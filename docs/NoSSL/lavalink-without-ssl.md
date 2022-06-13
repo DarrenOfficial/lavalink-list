@@ -100,13 +100,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Hosted by @ [Thermal Hosting](https://thermalhosting.com)
-```bash
-Host : lava-ny-01.thermalhosting.com
-Port : 4018
-Password : thermalhosting.com
-```
-
 Hosted by @ [AlexanderOF](https://alexanderof.xyz/2022/05/03/free-lavalink/)
 ```bash
 Host : audio.alexanderof.xyz
@@ -114,6 +107,7 @@ Port : 2000
 Password : "lavalink"
 Secure : false
 ```
+
 Hosted by @ [Thermal Hosting](https://thermalhosting.com)
 ```bash
 Host : lava-ny-01.thermalhosting.com
