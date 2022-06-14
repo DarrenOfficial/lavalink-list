@@ -118,7 +118,7 @@ Secure : false
 
 Hosted my @ [ItzCuteAkemi#4453](https://github.com/ItzCuteAkemi)
 ```bash
-Host : cnn-winning-accessories-cinema.trycloudflare.com
+Host : friendly-elementary-gel-room.trycloudflare.com
 Port : 80
 Password : animex3
 Secure : false
