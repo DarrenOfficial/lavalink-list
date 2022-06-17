@@ -11,13 +11,6 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-Hosted by @ [SleepyKitten#4894](https://github.com/xcgc)
-```bash
-Host : lavalink.synn.host
-Port : 443
-Password : "Binnic123!"
-secure: true
-```
 Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
 ```bash
 Host : www.exlink.ml
