@@ -115,3 +115,11 @@ Port : 4018
 Password : thermalhosting.com
 Secure : false
 ```
+
+Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
+```bash
+IP : 116.202.215.103:25580
+Port : 25580
+Password : "pieperjugend.de"
+Secure : false
+```
