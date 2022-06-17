@@ -118,8 +118,8 @@ Secure : false
 
 Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
 ```bash
-IP : 181.214.231.105
-Port : 6665
-Password : "syslink"
+IP : 116.202.215.103:25580
+Port : 25580
+Password : "pieperjugend.de"
 Secure : false
 ```
