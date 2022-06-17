@@ -90,3 +90,19 @@ Port : 443
 Password : "lavafreefromannnekkk"
 Secure : true
 ```
+
+Hosted by @ [Priyam](https://www.priyam.ml)
+```bash
+Host : publiclavalinkbypriyam.tk
+Port : 443
+Password : "Priyam"
+Secure : true
+```
+
+Hosted by @ [Priyam](https://www.priyam.ml)
+```bash
+Host : publiclavalinkbypriyam2.tk
+Port : 443
+Password : "Priyam"
+Secure : true
+```
