@@ -20,14 +20,6 @@ Password : "gaproklavalink"
 Secure : false
 ```
 
-Hosted by @ [Creavite Auto](https://auto.creavite.co/?utm_source=lavalinklist&utm_medium=display&utm_campaign=lavalinklist)
-```bash
-Host : us1.lavalink.creavite.co
-Port : 20080
-Password : "auto.creavite.co"
-Secure : false
-```
-
 Hosted by @ [darren](https://paypal.me/darrenofficial)
 ```bash
 Host : lavalink.darrenofficial.com
@@ -44,21 +36,6 @@ Password : "waifufufufu"
 secure: false
 ```
 
-Hosted by @ [Bucky™#7977](https://github.com/BuckyTM)
-```bash
-Host : uk1.buckytm.com
-Port : 28112
-Password : "f82263yh75f6r5"
-Secure : false
-```
-
-Hosted by @ [House Of Gamers](https://www.houseofgamers.xyz)
-```bash
-Host : lavalink.houseofgamers.xyz
-Port : 2333
-Password : "lavalink"
-Secure : false
-```
 Hosted by @ [Weez](https://github.com/Weez-Dev)
 ```bash
 Host : weez-node.cf
@@ -70,16 +47,8 @@ Secure : false
 Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
 ```bash
 Host : dislavalink.gq
-Port : 2760
+Port : 2333
 Password : "gemzandmj"
-Secure : false
-```
-
-Hosted by @ [sinkaroid / scathach.dev](https://scathach.dev)
-```bash
-Host : lancer.scathach.dev
-Port : 1945
-Password : "eulamoncrot"
 Secure : false
 ```
 
@@ -87,15 +56,63 @@ Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
 Host : usa.lavalink.mitask.tech
 Port : 2333
-Password : "lvserver"
+Password : "lvs"
 Secure : false
 ```
 
-Hosted by @ [Faris](https://github.com/flkapes)
+Hosted by @ [FK](https://github.com/flkapes)
 ```bash
-IP : 194.163.153.236
+Host : lavalink.kapes.eu
 Port : 2222
 Password : "lavalinkplay"
+Secure : false
+```
+
+Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
+```bash
+IP : 181.214.231.105
+Port : 6665
+Password : "syslink"
+Secure : false
+```
+
+Hosted by @ [derpi#5702](https://vellerius.tk)
+```bash
+Host : lv.vellerius.tk
+Port : 2333
+Password : "derpilava"
+Secure : false
+```
+
+Hosted by @ [Internet](https://cloudblue.ml/my-github)
+```bash
+Host : lavalink.cloudblue.ml
+Port : 1555
+Password : "danbotbest"
+Secure : false
+```
+
+Hosted by @ [timelessnesses](https://rukchadisa.live)
+```bash
+Host : lavalink.rukchadisa.live
+Port : 8080
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [AlexanderOF](https://alexanderof.xyz/2022/05/03/free-lavalink/)
+```bash
+Host : audio.alexanderof.xyz
+Port : 2000
+Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [Thermal Hosting](https://thermalhosting.com)
+```bash
+Host : lava-ny-01.thermalhosting.com
+Port : 4018
+Password : thermalhosting.com
 Secure : false
 ```
 
