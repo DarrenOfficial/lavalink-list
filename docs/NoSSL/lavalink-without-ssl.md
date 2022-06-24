@@ -20,14 +20,6 @@ Password : "gaproklavalink"
 Secure : false
 ```
 
-Hosted by @ [darren](https://paypal.me/darrenofficial)
-```bash
-Host : lavalink.darrenofficial.com
-Port : 80
-Password : anything as a password
-secure: false
-```
-
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink.islantay.tk
