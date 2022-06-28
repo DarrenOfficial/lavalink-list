@@ -5,6 +5,9 @@ description: FAQ about lavalink and this site!
 
 # Frequently asked Question
 
+### What is lavalink?
+
+Lavalink is a standalone program, written in Java. Lavalink allows for sending audio without it ever reaching any of your shards. It is a great alternative to youtube-dl. Unlike raw voice solutions, such as VoiceNext, Lavalink can handle hundreds of concurrent streams, and supports sharding.
 
 ### What do I put in ID / Identifier
 
@@ -29,11 +32,6 @@ Just open a pull request and I will merge it!
 ### Where is this site hosted?
 
 The site is hosted @ [Cloudflare pages](https://pages.dev)
-
-
-### I want to help redesign the site, how and what software do I use?
-
-Well you can design the site with [mkdocs](https://squidfunk.github.io/mkdocs-material/) and make a pull request, if it's good I will merge it!
 
 
 
