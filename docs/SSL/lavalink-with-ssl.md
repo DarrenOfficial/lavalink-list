@@ -11,21 +11,6 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
-```bash
-Host : www.exlink.ml
-Port : 443
-Password : "exlava"
-Secure : true
-```
-Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
-```bash
-Host : www.lavalinknodepublic.ml
-Port : 443
-Password : "mrextinctcodes"
-Secure : true
-```
-
 Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
 ```bash
 Host : node1.kartadharta.xyz

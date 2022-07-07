@@ -3,31 +3,7 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
-
-Hosted by @ [Weez](https://github.com/Weez-Dev)
-```bash
-Host : weez-node.cf
-Port : 2333
-Password : "FreeLava"
-Secure : false
-```
-
-Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
-```bash
-Host : dislavalink.gq
-Port : 2333
-Password : "gemzandmj"
-Secure : false
-```
-
-Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
-```bash
-Host : usa.lavalink.mitask.tech
-Port : 2333
-Password : "lvs"
-Secure : false
-```
-
+---
 Hosted by @ [FK](https://github.com/flkapes)
 ```bash
 Host : lavalink.kapes.eu
@@ -36,27 +12,11 @@ Password : "lavalinkplay"
 Secure : false
 ```
 
-Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
-```bash
-IP : 181.214.231.105
-Port : 6665
-Password : "syslink"
-Secure : false
-```
-
 Hosted by @ [derpi#5702](https://vellerius.tk)
 ```bash
 Host : lv.vellerius.tk
 Port : 2333
 Password : "derpilava"
-Secure : false
-```
-
-Hosted by @ [Internet](https://cloudblue.ml/my-github)
-```bash
-Host : lavalink.cloudblue.ml
-Port : 1555
-Password : "danbotbest"
 Secure : false
 ```
 
@@ -81,14 +41,6 @@ Hosted by @ [Thermal Hosting](https://thermalhosting.com)
 Host : lava-ny-01.thermalhosting.com
 Port : 4018
 Password : thermalhosting.com
-Secure : false
-```
-
-Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
-```bash
-IP : 116.202.215.103
-Port : 25580
-Password : "pieperjugend.de"
 Secure : false
 ```
 
