@@ -3,30 +3,6 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
----
-Hosted by @ [OGGY#9889](https://u.oggy.ga/fll)
-```bash
-Host : lavalink.oops.wtf
-Port : 2000
-Password : "www.freelavalink.ga"
-Secure : false
-```
-
-Hosted by @ [Gaprok Network](https://dsc.gg/bagusnfriends)
-```bash
-Host : lavalink.gaproknetwork.xyz
-Port : 2333
-Password : "gaproklavalink"
-Secure : false
-```
-
-Hosted by @ [Islantay](https://github.com/Dep0s1t)
-```bash
-Host : lavalink.islantay.tk
-Port : 8880
-Password : "waifufufufu"
-secure: false
-```
 
 Hosted by @ [Weez](https://github.com/Weez-Dev)
 ```bash
