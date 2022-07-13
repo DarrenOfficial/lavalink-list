@@ -12,14 +12,6 @@ Password : "lavalinkplay"
 Secure : false
 ```
 
-Hosted by @ [derpi#5702](https://vellerius.tk)
-```bash
-Host : lv.vellerius.tk
-Port : 2333
-Password : "derpilava"
-Secure : false
-```
-
 Hosted by @ [timelessnesses](https://rukchadisa.live)
 ```bash
 Host : lavalink.rukchadisa.live
