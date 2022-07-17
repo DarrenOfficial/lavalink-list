@@ -43,3 +43,17 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
+Hosted by @ [Gamer3514](https://github.com/thegamer3514)
+```bash
+IP : 95.214.52.241
+Port : 1623
+Password : "youshallnotpass"
+Secure : false
+```
+Hosted by @ [Gamer3514](https://github.com/thegamer3514)
+```bash
+IP : 146.59.45.254
+Port : 4100
+Password : "youshallnotpass"
+Secure : false
+```
