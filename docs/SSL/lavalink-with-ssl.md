@@ -11,10 +11,33 @@ Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
+Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
 ```bash
-Host : node1.kartadharta.xyz
+Host : www.exlink.ml
 Port : 443
-Password : "kdlavalink"
-secure: true
+Password : "exlava"
+Secure : true
+```
+Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+```bash
+Host : www.lavalinknodepublic.ml
+Port : 443
+Password : "mrextinctcodes"
+Secure : true
+```
+
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node1.gglvxd.tk
+Port : 443
+Password : "free"
+Secure : true
+```
+
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node2.gglvxd.tk
+Port : 443
+Password : "free"
+Secure : true
 ```
