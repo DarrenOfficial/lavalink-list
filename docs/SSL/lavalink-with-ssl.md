@@ -1,20 +1,12 @@
----
-title: Lavalink with SSL
-description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
----
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+Host : node1.gglvxd.tk
+Port : 443
+Password : free
+secure : true
 
----
-Hosted by @ [OGGY#9889](https://u.oggy.ga/fllssl)
-```bash
-Host : lavalink.oops.wtf
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+
+Host : node2.gglvxd.tk
 Port : 443
-Password : "www.freelavalink.ga"
-Secure : true
-```
-Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
-```bash
-Host : node1.kartadharta.xyz
-Port : 443
-Password : "kdlavalink"
-secure: true
-```
+Password : free
+secure : true
