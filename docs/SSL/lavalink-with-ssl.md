@@ -25,3 +25,19 @@ Port : 443
 Password : "mrextinctcodes"
 Secure : true
 ```
+
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node1.gglvxd.tk
+Port : 443
+Password : "free"
+Secure : true
+```
+
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node2.gglvxd.tk
+Port : 443
+Password : "free"
+Secure : true
+```
