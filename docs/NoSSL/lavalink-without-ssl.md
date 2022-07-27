@@ -51,3 +51,11 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
+
+Hosted by @ [Hatry4](https:/www.hatry4.xyz)
+```bash
+IP : 159.69.62.164
+Port : 25648
+Password : "@hatry4qt"
+Secure : false
+```
