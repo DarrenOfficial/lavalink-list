@@ -51,11 +51,3 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
-
-Hosted by @ [Hatry4](https://www.hatry4.xyz)
-```bash
-IP: 116.202.85.52
-Port: 25694
-Password: "waterlink"
-Secure: false
-```
