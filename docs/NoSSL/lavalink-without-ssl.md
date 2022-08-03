@@ -4,6 +4,14 @@ description: Without SSL should work out of the box!
 ---
 
 ---
+Hosted by @ [ItzJarvis#6966](https://discord.gg/Q75jZjk9X2)
+```bash
+Host : lavalink-nitrixexe.ml
+Port : 19147
+Password : "dsc.gg/nitrixexe"
+Secure : false
+```
+
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
@@ -54,8 +62,9 @@ Secure : false
 
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
-IP: 116.202.85.52
-Port: 25694
-Password: "waterlink"
-Secure: false
+IP : 88.99.252.173
+Port : 25610
+Password : "@hatry4qt"
+Secure : false
 ```
+
