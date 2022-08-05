@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
+  <a href="https://gitlab.com/DarrenOfficial/lavalink-list">
     <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </a>
 
@@ -9,13 +9,13 @@
     A list of free and available public lavalink. Feel free to make a pull request!
     <br />
     <br />
-    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    <a href="https://gitlab.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="https://gitlab.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="https://gitlab.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
+    <a href="https://gitlab.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
   </p>
 </div>
 
