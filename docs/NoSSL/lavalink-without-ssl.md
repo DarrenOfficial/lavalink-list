@@ -70,8 +70,8 @@ Secure : false
 
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
-IP : 88.99.252.173
-Port : 25610
+Host : lavalink.hatry4.xyz 
+Port : 26404
 Password : "@hatry4qt"
 Secure : false
 ```
