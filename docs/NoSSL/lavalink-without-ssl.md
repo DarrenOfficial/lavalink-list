@@ -15,8 +15,8 @@ Secure : false
 
 Hosted by @ [Thermal Hosting](https://thermalhosting.com)
 ```bash
-Host : lava-ny-01.thermalhosting.com
-Port : 4018
+Host : ash-01.thermalhosting.com
+Port : 2003
 Password : thermalhosting.com
 Secure : false
 ```
