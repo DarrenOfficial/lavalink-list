@@ -33,3 +33,10 @@ Port : 443
 Password : "free"
 Secure : true
 ```
+Hosted by @ [hrka](https://github.com/xcgc)
+```bash
+Host : lavalink.luminode.systems
+Port : 443
+Password : "asyouwish"
+Secure : true
+```
