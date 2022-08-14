@@ -36,14 +36,6 @@ Password : "FreeLava"
 Secure : false
 ```
 
-Hosted by @ [MJ1532 & Gemz](https://github.com/ATBDevs)
-```bash
-Host : dislavalink.gq
-Port : 2333
-Password : "gemzandmj"
-Secure : false
-```
-
 Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
 ```bash
 Host : usa.lavalink.mitask.tech
@@ -113,5 +105,13 @@ Hosted by @ [MrUnknownDE](https://github.com/MrUnknownDE)
 IP : 116.202.215.103
 Port : 25580
 Password : "pieperjugend.de"
+Secure : false
+```
+
+Hosted by @ [MJ1532](https://mj1532.cf)
+```bash
+Host : dislavalink.gq
+Port : 2333
+Password : "gemzandmj"
 Secure : false
 ```
