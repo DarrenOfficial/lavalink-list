@@ -28,6 +28,12 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
+```bash
+Host : lavalink.cloudblue.ml
+Port : 1555
+Password : "lava"
+Secure : false
+```
 
 Hosted by @ [Thermal Hosting](https://thermalhosting.com)
 ```bash
