@@ -22,11 +22,11 @@
 
 
 ---
-
+<center>
 [📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button } 
 [📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
-
+</center>
 
 ## Info
 These lavalink hosts are grouped into two different categories.
