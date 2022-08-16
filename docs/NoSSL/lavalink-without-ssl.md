@@ -28,12 +28,3 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
-
-Hosted by @ [Thermal Hosting](https://thermalhosting.com)
-```bash
-Host : nyc-04.thermalhosting.com
-Port : 2014
-Password : NYC-04
-Secure : false
-```
-
