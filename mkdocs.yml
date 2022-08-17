@@ -42,6 +42,7 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.top
+    - navigation.tabs
     - search.highlight
     - search.suggest
 markdown_extensions:
