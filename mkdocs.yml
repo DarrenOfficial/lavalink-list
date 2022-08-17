@@ -42,6 +42,7 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.top
+    - navigation.tabs
     - search.highlight
     - search.suggest
 markdown_extensions:
@@ -69,7 +70,7 @@ extra:
     - icon: 'fontawesome/brands/discord'
       link: 'https://discord.darrennathanael.com'
   generator: false
-copyright: 'Copyright &copy; 2020 Darren Nathanael'
+copyright: 'Copyright &copy; Darren Nathanael'
 plugins:
   - search
   - minify:

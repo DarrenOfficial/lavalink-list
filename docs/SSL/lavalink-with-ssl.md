@@ -4,24 +4,46 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [OGGY#9889](https://u.oggy.ga/fllssl)
+Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
 Port : 443
 Password : "www.freelavalink.ga"
 Secure : true
 ```
-Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
 ```bash
-Host : www.exlink.ml
+Host : node1.kartadharta.xyz
 Port : 443
-Password : "exlava"
+Password : "kdlavalink"
+secure: true
+```
+
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node1.gglvxd.tk
+Port : 443
+Password : "free"
+secure: true
+```
+Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+```bash
+Host : node2.gglvxd.tk
+Port : 443
+Password : "free"
 Secure : true
 ```
-Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+Hosted by @ [hrka](https://github.com/xcgc)
 ```bash
-Host : www.lavalinknodepublic.ml
+Host : lavalink.luminode.systems
 Port : 443
-Password : "mrextinctcodes"
+Password : "asyouwish"
+Secure : true
+```
+Hosted by @ [Islantay](https://github.com/Dep0s1t)
+```bash
+Host : lava.islantay.tk
+Port : 443
+Password : "AmeliaWatsonisTheBest**!"
 Secure : true
 ```
