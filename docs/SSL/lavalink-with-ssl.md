@@ -40,3 +40,10 @@ Port : 443
 Password : "asyouwish"
 Secure : true
 ```
+Hosted by @ [Islantay](https://github.com/Dep0s1t)
+```bash
+Host : lava.islantay.tk
+Port : 443
+Password : "AmeliaWatsonisTheBest**!"
+Secure : true
+```
