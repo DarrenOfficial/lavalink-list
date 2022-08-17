@@ -21,6 +21,14 @@ Password : ASH-01
 Secure : false
 ```
 
+Hosted by @ [Internet#8856](http://cloudblue.ml/)
+```bash
+IP : lavalink.cloudblue.ml
+Port : 1555
+Password : "lava"
+Secure : false
+```
+
 Hosted by @ [Blacky](https://blacky-dev.me/)
 ```bash
 IP : 54.37.6.86
