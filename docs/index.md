@@ -34,7 +34,7 @@ These lavalink hosts are grouped into two different categories.
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
 
 
-
+<center>
 This website is brought to you by our glorious sponsor, [ThermalHosting](https://thermalhosting.com/), please check out this video for more information.
 
 <video controls>
@@ -42,8 +42,8 @@ This website is brought to you by our glorious sponsor, [ThermalHosting](https:/
 Your browser does not support the video tag.
 </video>
 
-
 *For ads inquiry please ask darren @ discord.darrennathanael.com*
+</center>
 
 ### Hosting guide:
 
