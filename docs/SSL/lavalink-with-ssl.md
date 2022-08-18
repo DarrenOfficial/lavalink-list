@@ -47,3 +47,10 @@ Port : 443
 Password : "AmeliaWatsonisTheBest**!"
 Secure : true
 ```
+Hosted by @ [Islantay](https://github.com/Dep0s1t)
+```bash
+Host : jp-lava.islantay.tk
+Port : 443
+Password : "AmeliaWatsonisTheBest**!"
+Secure : true
+```
