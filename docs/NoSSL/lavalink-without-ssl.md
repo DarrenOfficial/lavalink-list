@@ -20,6 +20,13 @@ Port : 2008
 Password : ASH-01
 Secure : false
 ```
+Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
+```bash
+IP : lavalink.cloudblue.ml
+Port : 1555
+Password : "lava"
+Secure : false
+```
 
 Hosted by @ [Blacky](https://blacky-dev.me/)
 ```bash
