@@ -28,3 +28,11 @@ Port : 80
 Password : "Blacky#9125"
 Secure : false
 ```
+
+Hosted by @ [Hatry4](https://www.hatry4.xyz)
+```bash
+Host : lavalink.hatry4.xyz
+Port : 10424
+Password : "youshallpasslol"
+Secure : false
+```
