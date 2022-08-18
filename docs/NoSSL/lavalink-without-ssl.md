@@ -29,7 +29,7 @@ Password : "Blacky#9125"
 Secure : false
 ```
 
-Hosted by @ [hatry4](https://www.hatry4.xyz)
+Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
 Port : 10424
