@@ -43,3 +43,12 @@ Port : 10424
 Password : "youshallpasslol"
 Secure : false
 ```
+
+Hosted by @ [Hatry4](https://www.hatry4.xyz)
+```bash
+Host : haruki-lavalink.hatry4.xyz
+Port : 15305
+Password : "harukibot.tk"
+Secure : false
+```
+
