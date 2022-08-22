@@ -12,14 +12,6 @@ Port : 2000
 Password : "www.freehosts.ga"
 Secure : false
 ```
-
-Hosted by @ [Thermal Hosting](https://thermalhosting.com)
-```bash
-Host : ash-01.thermalhosting.com
-Port : 2008
-Password : ASH-01
-Secure : false
-```
 Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
 ```bash
 IP : lavalink.cloudblue.ml
