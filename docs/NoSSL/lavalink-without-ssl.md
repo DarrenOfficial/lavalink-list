@@ -43,4 +43,10 @@ Port : 15305
 Password : "harukibot.tk"
 Secure : false
 ```
-
+Hosted by @ [Diona#0674](https://dionabot.tk)
+```bash
+Host : 194.156.79.56
+Port : 8313
+Password : "Dionyan~"
+Secure : false
+```
