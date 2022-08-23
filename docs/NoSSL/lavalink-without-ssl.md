@@ -9,7 +9,7 @@ Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
 Port : 2000
-Password : "www.freehosts.ga"
+Password : "www.freelavalink.ga"
 Secure : false
 ```
 Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
