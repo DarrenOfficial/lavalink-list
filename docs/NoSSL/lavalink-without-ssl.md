@@ -9,15 +9,14 @@ Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
 Port : 2000
-Password : "www.freehosts.ga"
+Password : "www.freelavalink.ga"
 Secure : false
 ```
-
-Hosted by @ [Thermal Hosting](https://thermalhosting.com)
+Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
 ```bash
-Host : ash-01.thermalhosting.com
-Port : 2008
-Password : ASH-01
+IP : lavalink.cloudblue.ml
+Port : 1555
+Password : "lava"
 Secure : false
 ```
 
@@ -34,5 +33,21 @@ Hosted by @ [Hatry4](https://www.hatry4.xyz)
 Host : lavalink.hatry4.xyz
 Port : 10424
 Password : "youshallpasslol"
+Secure : false
+```
+
+Hosted by @ [Hatry4](https://www.hatry4.xyz)
+```bash
+Host : haruki-lavalink.hatry4.xyz
+Port : 15305
+Password : "harukibot.tk"
+Secure : false
+```
+
+Hosted by @ [Diona#0674](https://dionabot.tk)
+```bash
+Host : 194.156.79.56
+Port : 8313
+Password : "Dionyan~"
 Secure : false
 ```

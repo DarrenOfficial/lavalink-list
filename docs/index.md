@@ -33,6 +33,18 @@ These lavalink hosts are grouped into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
 
+
+<center>
+This website is brought to you by our glorious sponsor, [ThermalHosting](https://thermalhosting.com/), please check out this video for more information.
+
+<video controls>
+  <source src="https://cdn.darrennathanael.com/video/golf_kart_vibes.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+*For ads inquiry please ask darren @ discord.darrennathanael.com*
+</center>
+
 ### Hosting guide:
 
 For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
