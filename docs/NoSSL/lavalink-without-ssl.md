@@ -51,3 +51,11 @@ Port : 8313
 Password : "Dionyan~"
 Secure : false
 ```
+
+Hosted by @ [Islantay](https://github.com/Dep0s1t)
+```bash
+Host : lavalink4africa.islantay.tk
+Port : 8880
+Password : "AmeliaWatsonisTheBest**!"
+Secure : false
+```
