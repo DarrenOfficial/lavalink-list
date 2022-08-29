@@ -39,7 +39,7 @@ Secure : false
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : haruki-lavalink.hatry4.xyz
-Port : 15305
+Port : 27136
 Password : "harukibot.tk"
 Secure : false
 ```
