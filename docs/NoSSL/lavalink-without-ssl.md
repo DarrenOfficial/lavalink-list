@@ -12,6 +12,15 @@ Port : 2000
 Password : "www.freelavalink.ga"
 Secure : false
 ```
+
+Hosted by @ [Fernandopek21#6236](https://github.com/Fernandopek211)
+```bash
+IP : 185.199.95.100
+Port : 10544
+Password : "leefernando"
+Secure : false
+```
+
 Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
 ```bash
 IP : lavalink.cloudblue.ml
