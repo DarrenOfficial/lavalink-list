@@ -29,6 +29,14 @@ Password : "lava"
 Secure : false
 ```
 
+Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
+```bash
+IP : 152.67.161.64
+Port : 8804
+Password : "whyareyougay"
+Secure : false
+ ```
+
 Hosted by @ [Blacky](https://blacky-dev.me/)
 ```bash
 IP : 54.37.6.86
