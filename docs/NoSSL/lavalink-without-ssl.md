@@ -75,3 +75,12 @@ Port : 8880
 Password : "AmeliaWatsonisTheBest**!"
 Secure : false
 ```
+
+Hosted by @ [ur name](link to ur website or discord or github)
+```bash
+Host : lavalink.oops.wtf
+Port : 2000
+Password : "www.freelavalink.ga"
+Secure : tutoriale
+```
+
