@@ -75,11 +75,3 @@ Port : 8880
 Password : "AmeliaWatsonisTheBest**!"
 Secure : false
 ```
-
-Hosted by @ [ItsLeon15](https://github.com/ItsLeon15)
-```bash
-Host : lavalink.platinumhost.uk
-Port : 2333
-Password : "lavalink"
-Secure : false
-```
