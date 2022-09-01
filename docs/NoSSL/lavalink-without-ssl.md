@@ -36,14 +36,6 @@ Password : "whyareyougay"
 Secure : false
 ```
 
-Hosted by @ [Blacky](https://blacky-dev.me/)
-```bash
-IP : 54.37.6.86
-Port : 80
-Password : "Blacky#9125"
-Secure : false
-```
-
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
