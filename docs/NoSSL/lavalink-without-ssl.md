@@ -30,7 +30,7 @@ Secure : false
 ```
 Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
 ```bash
-Host : 152.67.161.64
+Host : lavalink.tapori.xyz
 Port : 8804
 Password : "whyareyougay"
 Secure : false
