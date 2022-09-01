@@ -5,6 +5,14 @@ description: Without SSL should work out of the box!
 
 ---
 
+Hosted by @ [Pxzlz#4373](https://github.com/Pxzlzz)
+```bash
+Host : lavalink.incognito.software
+Port : 8082
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
