@@ -99,3 +99,11 @@ Port : 80
 Password : "cruzstudio.tech"
 Secure : false
 ```
+
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+host: 57.128.136.145
+port: 30191
+password: leefernando
+Secure: false
+```
