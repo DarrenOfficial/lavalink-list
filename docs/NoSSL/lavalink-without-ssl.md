@@ -36,22 +36,6 @@ Password : "youshallpasslol"
 Secure : false
 ```
 
-Hosted by @ [Hatry4](https://www.hatry4.xyz)
-```bash
-Host : haruki-lavalink.hatry4.xyz
-Port : 27136
-Password : "harukibot.tk"
-Secure : false
-```
-
-Hosted by @ [Diona#0674](https://dionabot.tk)
-```bash
-Host : kawaii.dionabot.tk
-Port : 8313
-Password : "Dionyan~"
-Secure : false
-```
-
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink4africa.islantay.tk
