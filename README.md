@@ -29,9 +29,4 @@ Because lavalink is based off spring.
 </a>
 
 
-
-## Dear all lavalink hosting owners.
-If you can, please join this [discord server](https://discord.darrennathanael.com) just in case your lavalink goes down so I or someone else can contact you easily. Thanks, have a nice day!
-
-
 ### If you find this useful give it a star ⭐️
