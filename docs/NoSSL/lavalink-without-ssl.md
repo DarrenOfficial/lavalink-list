@@ -95,7 +95,7 @@ Secure: false
 Hosted by @ [Diona#0674](https://dionabot.tk)
 ```bash
 host: nyan.dionakawaii.tk
-port: 8313
+port: 9233
 password: Dionyan~
 Secure: false
 ```
