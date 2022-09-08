@@ -99,5 +99,13 @@ port: 9233
 password: Dionyan~
 Secure: false
 ```
+Hosted by @ [invaliduser#9707](https://discord.gg/mTp8suHPaR)
+```bash
+host: 45.134.11.134
+port: 1026
+password: youshallnotpass
+Secure: false
+```
+
 
 
