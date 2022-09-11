@@ -86,7 +86,7 @@ Secure : false
 
 Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
-host: 57.128.136.145
+host: 57.128.136.143
 port: 30191
 password: leefernando
 Secure: false
