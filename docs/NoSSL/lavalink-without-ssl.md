@@ -5,7 +5,7 @@ description: Without SSL should work out of the box!
 
 ---
 
-Hosted by @ [Hatry4](https://minicode.net)
+Hosted by @ [' Seyfo is Ra.#1998](https://discord.gg/syf)
 ```bash
 Host : lava.minicode.nl
 Port : 445
