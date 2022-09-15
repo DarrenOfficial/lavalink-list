@@ -5,6 +5,14 @@ description: Without SSL should work out of the box!
 
 ---
 
+Hosted by @ [Hatry4](https://minicode.net)
+```bash
+Host : lava.minicode.nl
+Port : 445
+Password : "seyfooksck"
+Secure : false
+```
+
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
