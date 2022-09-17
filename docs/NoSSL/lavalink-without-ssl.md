@@ -28,6 +28,14 @@ Password : "whyareyougay"
 Secure : false
 ```
 
+Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
+```bash
+Host : 138.201.56.61
+Port : 1033
+Password : "whyareyougay"
+Secure : false
+```
+
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
@@ -86,7 +94,7 @@ Secure : false
 
 Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
-host: 57.128.136.145
+host: 57.128.136.143
 port: 30191
 password: leefernando
 Secure: false
