@@ -62,17 +62,3 @@ Port : 443
 Password : "mathiscool"
 Secure : true
 ```
-Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
-```bash
-Host : lavalink3.botsuniversity.ml
-Port : 443
-Password : "mathiscool"
-Secure : true
-```
-Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
-```bash
-Host : lavalink4.botsuniversity.ml
-Port : 443
-Password : "mathiscool"
-Secure : true
-```
