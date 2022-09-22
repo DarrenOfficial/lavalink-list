@@ -13,13 +13,6 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
-Hosted by @ [Internet#8856](https://github.com/MrInternetGitHub)
-```bash
-IP : lavalink.cloudblue.ml
-Port : 1555
-Password : "lava"
-Secure : false
-```
 Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
 ```bash
 Host : lavalink.tapori.xyz
