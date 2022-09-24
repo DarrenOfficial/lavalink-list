@@ -47,7 +47,7 @@ Secure : false
 
 Hosted by @ [ItsLeon15](https://github.com/ItsLeon15)
 ```bash
-Host : lavalink.platinumhost.uk
+Host : uk.lavalink.platinumhost.uk
 Port : 2333
 Password : "lavalink"
 Secure : false
