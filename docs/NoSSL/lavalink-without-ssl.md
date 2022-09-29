@@ -12,6 +12,13 @@ Port : 2000
 Password : "www.freelavalink.ga"
 Secure : false
 ```
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : 149.129.215.50 or gs.alfari.id
+Port : 2333
+Password : alfarimusic
+Secure : false
+```
 
 Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
 ```bash
