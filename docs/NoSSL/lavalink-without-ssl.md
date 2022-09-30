@@ -93,13 +93,22 @@ password: leefernando
 Secure: false
 ```
 
-Hosted by @ [Diona#0674](https://dionabot.tk)
+Hosted by @ [Aiko](https://aikomechawaii.live)
 ```bash
-host: nyan.dionakawaii.tk
-port: 9233
-password: Dionyan~
+Host: puff.aikomechawaii.live
+Port: 5052
+Password: "aikomechawaii.live"
 Secure: false
 ```
+
+Hosted by @ [Aiko](https://aikomechawaii.live)
+```bash
+Host: kyun.aikomechawaii.live
+Port: 29058
+Password: "aikomechawaii.live"
+Secure: false
+```
+
 Hosted by @ [invaliduser#9707](https://discord.gg/mTp8suHPaR)
 ```bash
 host: 45.134.11.134
