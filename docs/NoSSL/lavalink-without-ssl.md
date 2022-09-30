@@ -123,7 +123,13 @@ Port : 27084
 Password : "sowadop"
 Secure : false
 ```
-
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : 149.129.215.50
+Port : 2333
+Password : alfarimusic
+Secure : false
+```
 
 
 
