@@ -33,13 +33,7 @@ Port : 443
 Password : "free"
 Secure : true
 ```
-Hosted by @ [hrka](https://github.com/xcgc)
-```bash
-Host : lavalink.luminode.systems
-Port : 443
-Password : "asyouwish"
-Secure : true
-```
+
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lava.islantay.tk
@@ -52,5 +46,19 @@ Hosted by @ [Islantay](https://github.com/Dep0s1t)
 Host : jp-lava.islantay.tk
 Port : 443
 Password : "AmeliaWatsonisTheBest**!"
+Secure : true
+```
+Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
+```bash
+Host : lavalink.botsuniversity.ml
+Port : 443
+Password : "mathiscool"
+Secure : true
+```
+Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
+```bash
+Host : lavalink2.botsuniversity.ml
+Port : 443
+Password : "mathiscool"
 Secure : true
 ```
