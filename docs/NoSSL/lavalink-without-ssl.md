@@ -120,7 +120,7 @@ Secure: false
 Hosted by @ [Sowad#6969](https://discord.gg/yTvhknzeW6)
 ```bash
 Host : lava1.sowad.tk
-Port : 30099
+Port : 27009
 Password : "sowadop"
 Secure : false
 ```
