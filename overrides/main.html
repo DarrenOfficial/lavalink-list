@@ -3,4 +3,34 @@
 {% block extrahead %}
 <!-- I open my eyes and it's November, And I am in a freight elevator. And I'm in Las Vegas, but I haven't won any money, And everyone here is wearing clothing that I find confusing, And I wonder if they've won any money. -->
 <script async defer data-website-id="fda2d84c-c337-46cd-be91-2cbb3b5a7697" src="https://november.darrenofficial.com/buildingtheark.js"></script>
+<script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
+
 {% endblock %}
+
+{% block site_nav %}
+            {% if nav %}
+              {% if page and page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+              {% endif %}
+            {% endif %}
+            <!-- Table of contents -->
+            {% if not "toc.integrate" in features %}
+              {% if page and page.meta and page.meta.hide %}
+                {% set hidden = "hidden" if "toc" in page.meta.hide %}
+              {% endif %}
+              <div
+                class="md-sidebar md-sidebar--secondary"
+                data-md-component="sidebar"
+                data-md-type="toc"
+                {{ hidden }}
+              >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/toc.html" %}
+                    <!-- Show an image ad -->
+                    <div data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+          {% endblock %}
