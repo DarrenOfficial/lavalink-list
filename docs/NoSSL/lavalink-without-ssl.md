@@ -139,6 +139,10 @@ Port : 2333
 Password : alfarimusic
 Secure : false
 ```
-
-
-
+Hosted by @ [timelessnesses](https://rukchadisa.live)
+```bash
+Host : lavalink.api.rukchadisa.live
+Port : 80
+Password : youshallnotpass
+Secure : false
+```
