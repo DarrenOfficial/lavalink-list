@@ -4,13 +4,6 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [RXNationGaming#2896](https://www.rxnationgaming.cf)
-```bash
-Host : lavalink-api.rxnationgaming.cf
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
@@ -67,5 +60,12 @@ Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniv
 Host : lavalink2.botsuniversity.ml
 Port : 443
 Password : "mathiscool"
+Secure : true
+```
+Hosted by @ [RXNationGaming#2896](https://www.rxnationgaming.cf)
+```bash
+Host : lavalink-api.rxnationgaming.cf
+Port : 443
+Password : "youshallnotpass"
 Secure : true
 ```
