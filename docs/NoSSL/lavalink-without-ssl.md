@@ -154,3 +154,11 @@ Port : 27005
 Password : discord.cyberdev.host
 Secure : false
 ```
+
+Hosted by @ [derpy#1000]([https://discord.cyberdev.host](https://discord.gg/YHS6nYEPB4))
+```bash
+Host : lv.cowcat.cf
+Port : 27005
+Password : derpylava
+Secure : false
+```
