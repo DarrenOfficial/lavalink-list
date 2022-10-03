@@ -154,3 +154,10 @@ Port : 27005
 Password : discord.cyberdev.host
 Secure : false
 ```
+Hosted by @ [RXNationGaming#2896](https://www.rxnationgaming.cf)
+```bash
+Host : lavalink-api.rxnationgaming.cf
+Port : 443
+Password : "youshallnotpass"
+Secure : false
+```
