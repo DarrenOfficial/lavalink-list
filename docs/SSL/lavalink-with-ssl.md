@@ -62,7 +62,7 @@ Port : 443
 Password : "mathiscool"
 Secure : true
 ```
-Hosted by @ [RXNationGaming#2896](https://www.rxnationgaming.cf)
+Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
 ```bash
 Host : lavalink-api.rxnationgaming.cf
 Port : 443
