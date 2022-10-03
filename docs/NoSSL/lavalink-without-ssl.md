@@ -155,8 +155,7 @@ Password : discord.cyberdev.host
 Secure : false
 ```
 
-Hosted by @ [derpy#1000](	
-[172.105.22.16](https://discord.gg/YHS6nYEPB4))
+Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
 ```bash
 Host : lv.cowcat.cf
 Port : 2333
