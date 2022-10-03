@@ -11,7 +11,6 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
----
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
