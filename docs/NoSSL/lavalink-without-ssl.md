@@ -53,35 +53,35 @@ Password : "lavalink"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava1.cruzstudio.tech
+Host : lava1.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava2.cruzstudio.tech
+Host : lava2.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava3.cruzstudio.tech
+Host : lava3.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava4.cruzstudio.tech
+Host : lava4.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
