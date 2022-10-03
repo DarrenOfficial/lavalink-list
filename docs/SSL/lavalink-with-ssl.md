@@ -4,6 +4,14 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
+Hosted by @ [RXNationGaming#2896](https://www.rxnationgaming.cf)
+```bash
+Host : lavalink-api.rxnationgaming.cf
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+---
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
