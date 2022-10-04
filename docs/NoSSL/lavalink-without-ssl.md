@@ -156,8 +156,8 @@ Secure : false
 ```
 Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
 ```bash
-Host : lavalink-api.rxnationgaming.cf
-Port : 443
-Password : "youshallnotpass"
+Host : 139.162.196.121
+Port : 1152
+Password : "rxnationgamingyt"
 Secure : false
 ```
