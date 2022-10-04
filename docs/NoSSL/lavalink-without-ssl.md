@@ -162,3 +162,10 @@ Port : 2333
 Password : derpylava
 Secure : false
 ```
+
+Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
+```bash
+Host : 139.162.196.121
+Port : 1152
+Password : "rxnationgamingyt"
+Secure : false 
