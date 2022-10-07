@@ -162,3 +162,11 @@ Port : 1152
 Password : rxnationgamingyt
 Secure : false 
 ```
+
+Hosted by @ [melike2d](https://2d.gay)
+```bash
+Host : krn.2d.gay
+Port : 80
+Password : "AWP)JQ$Gv9}dm.u"
+Secure : false
+```
