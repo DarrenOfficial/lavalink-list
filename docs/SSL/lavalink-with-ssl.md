@@ -62,3 +62,10 @@ Port : 443
 Password : "mathiscool"
 Secure : true
 ```
+Hosted by @ [melike2d](https://2d.gay)
+```bash
+Host : krn.2d.gay
+Port : 443
+Password : "AWP)JQ$Gv9}dm.u"
+Secure : true
+```
