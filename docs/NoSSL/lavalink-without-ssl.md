@@ -95,14 +95,6 @@ Secure: false
 
 Hosted by @ [Aiko](https://aikomechawaii.live)
 ```bash
-Host: puff.aikomechawaii.live
-Port: 5052
-Password: "aikomechawaii.live"
-Secure: false
-```
-
-Hosted by @ [Aiko](https://aikomechawaii.live)
-```bash
 Host: kyun.aikomechawaii.live
 Port: 29058
 Password: "aikomechawaii.live"
