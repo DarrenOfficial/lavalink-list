@@ -53,35 +53,35 @@ Password : "lavalink"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava1.cruzstudio.tech
+Host : lava1.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava2.cruzstudio.tech
+Host : lava2.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava3.cruzstudio.tech
+Host : lava3.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6524](https://cruzstudio.tech/)
+Hosted by @ [Draxler#6920](https://horizxon.studio/)
 ```bash
-Host : lava4.cruzstudio.tech
+Host : lava4.horizxon.studio
 Port : 80
-Password : "cruzstudio.tech"
+Password : "horizxon.studio"
 Secure : false
 ```
 
@@ -120,7 +120,7 @@ Secure: false
 Hosted by @ [Sowad#6969](https://discord.gg/yTvhknzeW6)
 ```bash
 Host : lava1.sowad.tk
-Port : 30099
+Port : 27009
 Password : "sowadop"
 Secure : false
 ```
@@ -132,7 +132,41 @@ Port : 27084
 Password : "sowadop"
 Secure : false
 ```
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : 149.129.215.50
+Port : 2333
+Password : alfarimusic
+Secure : false
+```
+Hosted by @ [timelessnesses](https://rukchadisa.live)
+```bash
+Host : lavalink.api.rukchadisa.live
+Port : 80
+Password : youshallnotpass
+Secure : false
+```
 
+Hosted by @ [Radiant#1106](https://discord.cyberdev.host)
+```bash
+Host : game.cyberdev.host
+Port : 27005
+Password : discord.cyberdev.host
+Secure : false
+```
 
+Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
+```bash
+Host : lv.cowcat.cf
+Port : 2333
+Password : derpylava
+Secure : false
+```
 
-
+Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
+```bash
+Host : 139.162.196.121
+Port : 1152
+Password : rxnationgamingyt
+Secure : false 
+```

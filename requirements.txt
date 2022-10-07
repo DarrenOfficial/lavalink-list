@@ -3,3 +3,4 @@ mkdocs
 mkdocs-material
 markdown-meta-extension
 mkdocs-minify-plugin
+mkdocs-toc-sidebar-plugin

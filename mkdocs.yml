@@ -9,18 +9,18 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 theme:
   palette: 
-    - scheme: slate 
-      primary: 'black'
-      accent: 'green'
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
     - scheme: default
       primary: 'teal'
       accent: 'green'
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+    - scheme: slate 
+      primary: 'black'
+      accent: 'green'
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   name: 'material'
   custom_dir: overrides
   logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
@@ -73,5 +73,6 @@ extra:
 copyright: 'Copyright &copy; Darren Nathanael'
 plugins:
   - search
+  # - toc-sidebar
   - minify:
       minify_html: true
