@@ -4,7 +4,13 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-
+Hosted by @ [👑MR EXTINCT CODE'S#6646 ](https://dsc.gg/extinctop)
+```bash
+Host : 57.128.136.143
+Port : 30411
+Password : "maybeiwasboring"
+Secure : false
+```
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
