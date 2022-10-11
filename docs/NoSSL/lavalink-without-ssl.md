@@ -43,8 +43,6 @@ Password : "youshallpasslol"
 Secure : false
 ```
 
-Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
-
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink4africa.islantay.tk
@@ -179,6 +177,7 @@ Password : "AWP)JQ$Gv9}dm.u"
 Secure : false
 ```
 
+Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
 Host : musictune.miraclecherrypie.cf
 Port : 8880
