@@ -44,12 +44,6 @@ Secure : false
 ```
 
 Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
-```bash
-Host : musictune.miraclecherrypie.cf
-Port : 8880
-Password : KawaiiOnyanisbetter!!!!
-Secure : false
-```
 
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
@@ -182,5 +176,12 @@ Hosted by @ [melike2d](https://2d.gay)
 Host : krn.2d.gay
 Port : 80
 Password : "AWP)JQ$Gv9}dm.u"
+Secure : false
+```
+
+```bash
+Host : musictune.miraclecherrypie.cf
+Port : 8880
+Password : KawaiiOnyanisbetter!!!!
 Secure : false
 ```
