@@ -176,3 +176,11 @@ Port : 80
 Password : "AWP)JQ$Gv9}dm.u"
 Secure : false
 ```
+
+Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
+```bash
+Host : musictune.miraclecherrypie.cf
+Port : 8880
+Password : KawaiiOnyanisbetter!!!!
+Secure : false
+```
