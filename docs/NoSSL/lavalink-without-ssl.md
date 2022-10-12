@@ -169,14 +169,6 @@ Password : rxnationgamingyt
 Secure : false 
 ```
 
-Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
-```bash
-Host : 135.181.140.203
-Port : 25627
-Password : LavaNode2
-Secure : false 
-```
-
 Hosted by @ [melike2d](https://2d.gay)
 ```bash
 Host : krn.2d.gay
