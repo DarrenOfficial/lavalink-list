@@ -115,21 +115,6 @@ password: youshallnotpass
 Secure: false
 ```
 
-Hosted by @ [Sowad#6969](https://discord.gg/yTvhknzeW6)
-```bash
-Host : lava1.sowad.tk
-Port : 27009
-Password : "sowadop"
-Secure : false
-```
-
-Hosted by @ [Sowad#6969](https://discord.gg/yTvhknzeW6)
-```bash
-Host : lava2.sowad.tk
-Port : 27084
-Password : "sowadop"
-Secure : false
-```
 Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
 Host : 149.129.215.50
@@ -190,5 +175,14 @@ Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 Host : musictune.miraclecherrypie.cf
 Port : 8880
 Password : KawaiiOnyanisbetter!!!!
+Secure : false
+```
+
+
+Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
+```bash
+Host : moe.aikomechawaii.live
+Port : 5052 
+Password : aikomechawaii.live
 Secure : false
 ```
