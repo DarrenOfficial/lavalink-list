@@ -27,22 +27,6 @@ Password : "whyareyougay"
 Secure : false
 ```
 
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
-```bash
-IP: 158.69.54.158
-Port: 31593
-Password: leefernando
-Secure: false
-```
-
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
-```bash
-IP: 57.128.136.144
-Port: 30017
-password: youshallnotpass
-Secure: false
-```
-
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
@@ -185,4 +169,21 @@ Host : moe.aikomechawaii.live
 Port : 5052 
 Password : aikomechawaii.live
 Secure : false
+```
+
+
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP: 158.69.54.158
+Port: 31593
+Password: leefernando
+Secure: false
+```
+
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP: 57.128.136.144
+Port: 30017
+password: youshallnotpass
+Secure: false
 ```
