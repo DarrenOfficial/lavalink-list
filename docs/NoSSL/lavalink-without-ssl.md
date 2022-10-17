@@ -83,14 +83,6 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
-```bash
-host: 57.128.136.143
-port: 30191
-password: leefernando
-Secure: false
-```
-
 Hosted by @ [Aiko](https://aikomechawaii.live)
 ```bash
 Host: kyun.aikomechawaii.live
@@ -177,4 +169,21 @@ Host : moe.aikomechawaii.live
 Port : 5052 
 Password : aikomechawaii.live
 Secure : false
+```
+
+
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP: 158.69.54.158
+Port: 31593
+Password: leefernando
+Secure: false
+```
+
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP: 57.128.136.144
+Port: 30017
+password: youshallnotpass
+Secure: false
 ```
