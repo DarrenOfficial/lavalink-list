@@ -83,14 +83,6 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Aiko](https://aikomechawaii.live)
-```bash
-Host: kyun.aikomechawaii.live
-Port: 29058
-Password: "aikomechawaii.live"
-Secure: false
-```
-
 Hosted by @ [invaliduser#9707](https://discord.gg/mTp8suHPaR)
 ```bash
 host: 45.134.11.134
