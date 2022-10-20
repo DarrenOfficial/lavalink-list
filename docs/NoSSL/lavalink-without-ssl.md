@@ -171,6 +171,13 @@ Password : aikomechawaii.live
 Secure : false
 ```
 
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP: 57.128.136.143
+Port: 30191
+Password: leefernando
+Secure: false
+```
 
 Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
@@ -184,6 +191,6 @@ Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
 IP: 57.128.136.144
 Port: 30017
-password: youshallnotpass
+Password: youshallnotpass
 Secure: false
 ```
