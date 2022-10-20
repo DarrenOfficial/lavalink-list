@@ -179,3 +179,10 @@ Port: 30017
 password: youshallnotpass
 Secure: false
 ```
+Hosted by @ [Snoopee110](https://www.snoopee.co.uk)
+```bash
+Host : lavalink.snoopee.co.uk
+Port : 2333
+Password : "realserver"
+secure: false
+```
