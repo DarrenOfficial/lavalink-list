@@ -186,3 +186,10 @@ Port : 2333
 Password : "realserver"
 secure: false
 ```
+Hosted by @ [LewdHuTao](https://lewdhutao.me)
+```bash
+Host : node1.lewdhutao.tech
+Port : 1183
+Password : "lewdhutao"
+secure: false
+```
