@@ -171,22 +171,6 @@ Password : aikomechawaii.live
 Secure : false
 ```
 
-
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
-```bash
-IP: 158.69.54.158
-Port: 31593
-Password: leefernando
-Secure: false
-```
-
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
-```bash
-IP: 57.128.136.144
-Port: 30017
-password: youshallnotpass
-Secure: false
-```
 Hosted by @ [Snoopee110](https://www.snoopee.co.uk)
 ```bash
 Host : lavalink.snoopee.co.uk
@@ -200,4 +184,25 @@ Host : node1.lewdhutao.tech
 Port : 1183
 Password : "lewdhutao"
 secure: false
+```
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP : 57.128.136.143
+Port : 30191
+Password : leefernando
+Secure : false
+```
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP : 57.128.136.144
+Port : 30017
+Password : leefernando
+Secure : false
+```
+Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+```bash
+IP : 158.69.54.158
+Port : 31593
+Password : leefernando
+Secure : false
 ```
