@@ -157,7 +157,7 @@ Secure : false
 Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
 Host : musictune.miraclecherrypie.cf
-Port : 8880
+Port : 5689
 Password : KawaiiOnyanisbetter!!!!
 Secure : false
 ```
