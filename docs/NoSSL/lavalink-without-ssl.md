@@ -114,14 +114,6 @@ Password : youshallnotpass
 Secure : false
 ```
 
-Hosted by @ [Radiant#1106](https://discord.cyberdev.host)
-```bash
-Host : game.cyberdev.host
-Port : 27005
-Password : discord.cyberdev.host
-Secure : false
-```
-
 Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
 ```bash
 Host : lv.cowcat.cf
