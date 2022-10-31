@@ -154,25 +154,6 @@ Password : KawaiiOnyanisbetter!!!!
 Secure : false
 ```
 
-
-Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
-```bash
-Host : purr.aikomechawaii.live
-Port : 10415 
-Password : AnythingAsPassword
-Secure : false
-```
-
-
-Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
-```bash
-Host : purr.aikomechawaii.live
-Port : 10357
-Password : ImayBeStupid
-Secure : false
-
-
-
 Hosted by @ [Snoopee110](https://www.snoopee.co.uk)
 ```bash
 Host : lavalink.snoopee.co.uk
@@ -208,3 +189,19 @@ Port : 31593
 Password : leefernando
 Secure : false
 ```
+
+Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
+```bash
+Host : purr.aikomechawaii.live
+Port : 10415 
+Password : AnythingAsPassword
+Secure : false
+```
+
+
+Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
+```bash
+Host : purr.aikomechawaii.live
+Port : 10357
+Password : ImayBeStupid
+Secure : false
