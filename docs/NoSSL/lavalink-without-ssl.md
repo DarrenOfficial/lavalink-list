@@ -189,3 +189,4 @@ Host : purr.aikomechawaii.live
 Port : 10357
 Password : ImayBeStupid
 Secure : false
+```
