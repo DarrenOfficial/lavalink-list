@@ -19,22 +19,6 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
-Hosted by @ [Scattypie#0001](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-```bash
-Host : 138.201.56.61
-Port : 8804
-Password : "whyareyougay"
-Secure : false
-```
-
-Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
-```bash
-Host : 138.201.56.61
-Port : 1033
-Password : "whyareyougay"
-Secure : false
-```
-
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
