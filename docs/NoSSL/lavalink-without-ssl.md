@@ -19,22 +19,6 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
-Hosted by @ [Scattypie#0001](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-```bash
-Host : 138.201.56.61
-Port : 8804
-Password : "whyareyougay"
-Secure : false
-```
-
-Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
-```bash
-Host : 138.201.56.61
-Port : 1033
-Password : "whyareyougay"
-Secure : false
-```
-
 Hosted by @ [Hatry4](https://www.hatry4.xyz)
 ```bash
 Host : lavalink.hatry4.xyz
@@ -114,14 +98,6 @@ Password : youshallnotpass
 Secure : false
 ```
 
-Hosted by @ [Radiant#1106](https://discord.cyberdev.host)
-```bash
-Host : game.cyberdev.host
-Port : 27005
-Password : discord.cyberdev.host
-Secure : false
-```
-
 Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
 ```bash
 Host : lv.cowcat.cf
@@ -162,15 +138,6 @@ Password : KawaiiOnyanisbetter!!!!
 Secure : false
 ```
 
-
-Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
-```bash
-Host : moe.aikomechawaii.live
-Port : 5052 
-Password : aikomechawaii.live
-Secure : false
-```
-
 Hosted by @ [Snoopee110](https://www.snoopee.co.uk)
 ```bash
 Host : lavalink.snoopee.co.uk
@@ -204,5 +171,22 @@ Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 IP : 158.69.54.158
 Port : 31593
 Password : leefernando
+Secure : false
+```
+
+Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
+```bash
+Host : purr.aikomechawaii.live
+Port : 10415 
+Password : AnythingAsPassword
+Secure : false
+```
+
+
+Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
+```bash
+Host : purr.aikomechawaii.live
+Port : 10357
+Password : ImayBeStupid
 Secure : false
 ```
