@@ -138,13 +138,6 @@ Password : KawaiiOnyanisbetter!!!!
 Secure : false
 ```
 
-Hosted by @ [Snoopee](https://www.snoopee.co.uk)
-```bash
-Host : lavalink.snoopee.co.uk
-Port : 2333
-Password : "youshallnotpass"
-secure: false
-```
 Hosted by @ [LewdHuTao](https://lewdhutao.me)
 ```bash
 Host : node1.lewdhutao.tech
