@@ -183,3 +183,10 @@ Port : 10357
 Password : ImayBeStupid
 Secure : false
 ```
+Hosted by @ [DIVISION_Solar#2006(https://joshsevero.dev)
+```bash
+Host : lavalink.joshsevero.dev
+Port : 80
+Password : oxygen
+Secure : false
+```
