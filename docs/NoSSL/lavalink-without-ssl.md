@@ -79,7 +79,7 @@ Hosted by @ [invaliduser#9707](https://discord.gg/mTp8suHPaR)
 ```bash
 host: 45.134.11.134
 port: 1026
-password: youshallnotpass
+password: "youshallnotpass"
 Secure: false
 ```
 
@@ -87,12 +87,12 @@ Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
 Host : 149.129.215.50
 Port : 2333
-Password : alfarimusic
+Password : "alfarimusic"
 Secure : false
 ```
 Hosted by @ [timelessnesses](https://rukchadisa.live)
 ```bash
-Host : lavalink.api.rukchadisa.live
+Host : "lavalink.api.rukchadisa.live"
 Port : 80
 Password : youshallnotpass
 Secure : false
@@ -102,7 +102,7 @@ Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
 ```bash
 Host : lv.cowcat.cf
 Port : 2333
-Password : derpylava
+Password : "derpylava"
 Secure : false
 ```
 
@@ -110,7 +110,7 @@ Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
 ```bash
 Host : 139.162.196.121
 Port : 1152
-Password : rxnationgamingyt
+Password : "rxnationgamingyt"
 Secure : false 
 ```
 
@@ -118,7 +118,7 @@ Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
 ```bash
 Host : 135.181.140.203
 Port : 25627
-Password : LavaNode2
+Password : "LavaNode2"
 Secure : false 
 ```
 
@@ -134,7 +134,7 @@ Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
 Host : minatoaqua.miraclecherrypie.cf
 Port : 2052
-Password : KawaiiOnyanisbetter!!!!
+Password : "KawaiiOnyanisbetter!!!!"
 Secure : false
 ```
 
@@ -149,21 +149,21 @@ Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
 IP : 57.128.136.143
 Port : 30191
-Password : leefernando
+Password : "leefernando"
 Secure : false
 ```
 Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
 IP : 57.128.136.144
 Port : 30017
-Password : leefernando
+Password : "leefernando"
 Secure : false
 ```
 Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
 ```bash
 IP : 158.69.54.158
 Port : 31593
-Password : leefernando
+Password : "leefernando"
 Secure : false
 ```
 
@@ -171,7 +171,7 @@ Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
 ```bash
 Host : purr.aikomechawaii.live
 Port : 10415 
-Password : AnythingAsPassword
+Password : "AnythingAsPassword"
 Secure : false
 ```
 
@@ -180,13 +180,13 @@ Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
 ```bash
 Host : purr.aikomechawaii.live
 Port : 10357
-Password : ImayBeStupid
+Password : "ImayBeStupid"
 Secure : false
 ```
 Hosted by @ [DIVISION_Solar#2006](https://joshsevero.dev)
 ```bash
 Host : lavalink.joshsevero.dev
 Port : 80
-Password : oxygen
+Password : "oxygen"
 Secure : false
 ```
