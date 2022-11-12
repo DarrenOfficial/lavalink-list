@@ -16,7 +16,7 @@ Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
 Host : node1.kartadharta.xyz
 Port : 443
 Password : "kdlavalink"
-secure: true
+secure : true
 ```
 
 Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
@@ -74,5 +74,13 @@ Hosted by @ [LewdHuTao](https://lewdhutao.me)
 Host : node2.lewdhutao.tech
 Port : 443
 Password : "lewdhutao"
-secure: true
+secure : true
+```
+Hosted by @ [Reipangt](http://n1.cybers.pw:8001)
+
+```bash
+Host : lavalink-replit.reipanadrefa.repl.co
+Port : 443
+Password : "reip#3693"
+secure : true
 ```
