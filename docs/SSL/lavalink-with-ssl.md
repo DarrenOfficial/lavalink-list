@@ -76,3 +76,16 @@ Port : 443
 Password : "lewdhutao"
 secure: true
 ```
+Hosted by @ [Reipangt](http://n1.cybers.pw:8001)
+
+```bash
+
+Host : lavalink-replit.reipanadrefa.repl.co
+
+Port : 443
+
+Password : "reip#3693"
+
+secure: true
+
+```
