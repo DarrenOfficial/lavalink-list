@@ -11,6 +11,13 @@ Port : 30411
 Password : "maybeiwasboring"
 Secure : false
 ```
+Hosted by @ [Lenskizz#4473](https://ultra-vps.servehttp.com/dashboard)
+```bash
+Host : 103.141.69.247
+Port : 2333
+Password : "NamiYogurt121"
+Secure : false
+```
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
