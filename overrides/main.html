@@ -2,8 +2,23 @@
 
 {% block extrahead %}
 <!-- I open my eyes and it's November, And I am in a freight elevator. And I'm in Las Vegas, but I haven't won any money, And everyone here is wearing clothing that I find confusing, And I wonder if they've won any money. -->
-<script async defer data-website-id="fda2d84c-c337-46cd-be91-2cbb3b5a7697" src="https://november.darrenofficial.com/buildingtheark.js"></script>
-<script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//cc.darrenofficial.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//cc.darrenofficial.com/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+
 
 {% endblock %}
 
