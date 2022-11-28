@@ -4,6 +4,14 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
+Hosted by @ [LexM8#0424](https://lexnet.cc)
+```bash
+Host : lavalink.lexnet.cc
+Port : 443
+Password : "lexn3tl@val!nk"
+Secure : true
+```
+
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
