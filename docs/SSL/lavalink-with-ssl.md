@@ -66,3 +66,11 @@ Port : 443
 Password : "lexn3tl@val!nk"
 Secure : true
 ```
+
+Hosted by @ [LexM8#0424](https://lexnet.cc)
+```bash
+Host : eu-lavalink.lexnet.cc
+Port : 443
+Password : "lexn3tl@val!nk"
+Secure : true
+```
