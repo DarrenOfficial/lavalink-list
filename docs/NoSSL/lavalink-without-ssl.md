@@ -189,3 +189,11 @@ Port : 80
 Password : "oxygen"
 Secure : false
 ```
+
+Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
+```bash
+Host : minatoaqua.miraclecherrypie.cf
+Port: 8880
+Password : "KawaiiOnyanisbetter!!!!"
+Secure : false
+```
