@@ -3,6 +3,10 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
+
+
 ---
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
