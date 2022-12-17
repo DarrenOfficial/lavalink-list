@@ -52,4 +52,4 @@ Password : somepasswordhere
 
 
 <!-- inject image ad -->
-<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>:
