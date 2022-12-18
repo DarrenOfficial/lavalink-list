@@ -201,3 +201,11 @@ Port: 8880
 Password : "KawaiiOnyanisbetter!!!!"
 Secure : false
 ```
+
+Hosted by @ [Clxud](https://github.com/cloudwithax)
+```bash
+Host : lavalink.clxud.lol
+Port: 2333
+Password : "youshallnotpass"
+Secure : false
+```
