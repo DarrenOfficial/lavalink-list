@@ -15,6 +15,15 @@ Port : 80
 Password : "www.freelavalink.ga"
 Secure : false
 ```
+
+Hosted by @ [Scattypie#5816](https://www.youtube.com/channel/UCiA_Cr0yQ7KHVUVc5kij9Yw)
+```bash
+Host : 128.199.65.149
+Port : 2333
+Password : "whyareyougay"
+Secure : false
+```
+
 Hosted by @ [👑MR EXTINCT CODE'S#6646 ](https://dsc.gg/extinctop)
 ```bash
 Host : 57.128.136.143
