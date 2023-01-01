@@ -218,3 +218,11 @@ Port: 2333
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [Invalid Studios](https://discord.gg/HRB44aTDgA)
+```bash
+Host : lavalink.invalid-studios.com
+Port: 2333
+Password : "invaliduser"
+Secure : false
+```
