@@ -134,3 +134,11 @@ Port: 2333
 Password : "invaliduser"
 Secure : false
 ```
+
+Hosted by @ [Cyber Host](https://discord.gg/cyberhost)
+```bash
+Host : lavalink.cyber-host.eu
+Port: 2333
+Password : "discord.gg/cyberhost"
+Secure : false
+```
