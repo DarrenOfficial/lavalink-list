@@ -88,6 +88,14 @@ Password : "KawaiiOnyanisbetter!!!!"
 Secure : false
 ```
 
+Hosted by @ [Mune](https://mune.moe)
+```bash
+Host : lavalink.mune.moe
+Port : 8080
+Password : "yaemiko@mune"
+secure: false
+```
+
 Hosted by @ [LewdHuTao](https://lewdhutao.me)
 ```bash
 Host : node1.lewdhutao.tech
