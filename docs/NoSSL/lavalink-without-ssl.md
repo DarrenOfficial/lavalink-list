@@ -131,7 +131,7 @@ Secure : false
 Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
 Host : minatoaqua.miraclecherrypie.cf
-Port: 8880
+Port: 8080
 Password : "KawaiiOnyanisbetter!!!!"
 Secure : false
 ```
