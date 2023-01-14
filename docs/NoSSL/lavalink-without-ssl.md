@@ -80,14 +80,6 @@ Password : "AWP)JQ$Gv9}dm.u"
 Secure : false
 ```
 
-Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
-```bash
-Host : minatoaqua.miraclecherrypie.cf
-Port : 2052
-Password : "KawaiiOnyanisbetter!!!!"
-Secure : false
-```
-
 Hosted by @ [LewdHuTao](https://lewdhutao.me)
 ```bash
 Host : node1.lewdhutao.tech
@@ -123,7 +115,7 @@ Secure : false
 Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
 Host : minatoaqua.miraclecherrypie.cf
-Port: 8880
+Port: 8080
 Password : "KawaiiOnyanisbetter!!!!"
 Secure : false
 ```
