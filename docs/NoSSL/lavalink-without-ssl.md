@@ -64,6 +64,15 @@ Port : 2333
 Password : "alfarimusic"
 Secure : false
 ```
+
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : 178.128.104.235
+Port : 6969
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [timelessnesses](https://timelessnesses.me)
 ```bash
 Host : lavalink.api.timelessnesses.me
