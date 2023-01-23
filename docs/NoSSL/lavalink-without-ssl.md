@@ -25,6 +25,14 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
+Hosted by @ [Scattypie#5816](https://discord.gg/7G9TvNvZVs)
+```bash
+Host : my.tofumc.pro
+Port : 25570
+Password : "sussy"
+Secure : false
+```
+
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : lavalink4africa.islantay.tk
