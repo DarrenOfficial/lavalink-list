@@ -9,14 +9,6 @@ description: Without SSL should work out of the box!
 
 ---
 
-```bash
-Hosted by @ [MineCuta#7811](https://minecuta.net)
-Host / IP : lavalink.minecuta.net
-Port : 2333
-Password : someoneisyou
-Secure : false
-```
-
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : nonssl.freelavalink.ga
