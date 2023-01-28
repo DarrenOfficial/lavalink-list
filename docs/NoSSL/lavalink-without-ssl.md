@@ -7,6 +7,14 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 
+Hosted by @ [Sneaky#9999](https://sneakynodes.com/discord)
+```bash
+Host : lavalink.sneakynodes.com
+Port : 2333
+Password : sneakynodes.com
+Secure : false
+```
+
 ---
 
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
