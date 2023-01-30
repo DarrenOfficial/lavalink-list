@@ -6,6 +6,15 @@ description: Without SSL should work out of the box!
 <!-- inject image ad -->
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
+Hosted by @ [Tooxic#4580](https://albinhakanson.se)
+```bash
+Host : lavalink1.albinhakanson.se
+Port : 1141
+Password : albinhakanson.se
+Secure : false
+```
+
+---
 
 Hosted by @ [Sneaky#9999](https://sneakynodes.com/discord)
 ```bash
@@ -14,8 +23,6 @@ Port : 2333
 Password : sneakynodes.com
 Secure : false
 ```
-
----
 
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
