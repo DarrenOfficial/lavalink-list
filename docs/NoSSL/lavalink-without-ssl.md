@@ -74,7 +74,7 @@ Secure : false
 
 Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
-Host : 103.150.196.244
+Host : 147.139.135.8
 Port : 6969
 Password : "youshallnotpass"
 Secure : false
