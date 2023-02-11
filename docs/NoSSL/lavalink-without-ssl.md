@@ -6,21 +6,29 @@ description: Without SSL should work out of the box!
 <!-- inject image ad -->
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
+---
+
+Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
+```bash
+Host : narco.buses.rocks
+Port : 2269
+Password : "glasshost1984"
+Secure : false
+```
+
 Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 ```bash
 Host : lavalink1.albinhakanson.se
 Port : 1141
-Password : albinhakanson.se
+Password : "albinhakanson.se"
 Secure : false
 ```
-
----
 
 Hosted by @ [Sneaky#9999](https://sneakynodes.com/discord)
 ```bash
 Host : lavalink.sneakynodes.com
 Port : 2333
-Password : sneakynodes.com
+Password : "sneakynodes.com"
 Secure : false
 ```
 
