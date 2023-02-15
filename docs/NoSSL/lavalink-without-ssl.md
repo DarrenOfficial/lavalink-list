@@ -183,3 +183,11 @@ Port: 2333
 Password : "discord.gg/cyberhost"
 Secure : false
 ```
+
+Hosted by @ [SomboyTiger](https://somboytiger.com/)
+```bash
+Host : lavalink.somboytiger.com
+Port: 2333
+Password : "licha_somboytiger"
+Secure : false
+```
