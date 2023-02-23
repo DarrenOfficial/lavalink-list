@@ -8,11 +8,11 @@ description: Without SSL should work out of the box!
 
 ---
 Hosted by @ [Maximilian1021#2888](https://game-energy.de)
-
+```bash
 Host / IP : lavalink.game-energy.de
 Port : 2333
 Password : gameEnergyHost23!
-
+```
 Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 ```bash
 Host : narco.buses.rocks
