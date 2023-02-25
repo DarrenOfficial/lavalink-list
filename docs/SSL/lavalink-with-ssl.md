@@ -80,6 +80,7 @@ Secure : true
 ```
 
 Hosted by @ [Nep#0028](https://github.com/neptalu0)
+```bash
 Host : suki.nathan.to
 Port : 443
 Password : "adowbongmanacc"
