@@ -20,7 +20,7 @@ Well you can simply contact the owner of it, or if the server has been down for 
 
 ### How do I put my ads on this website
 
-Contact ads@darrennathanael.com, pricing starts at 2$ per day, bulk discount if you pay monthly. This site gets 120+ avarage visits per day.
+Contact ads@darrennathanael.com, pricing starts at 2$ per day, bulk discount if you pay monthly. This site gets 120+ average visits per day.
 
 ### What is the difference between `NoSSL` and `SSL`
 SSL Uses Secure WS connection, whilst No SSL uses standard WS.
