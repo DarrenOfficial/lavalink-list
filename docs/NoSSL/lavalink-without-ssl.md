@@ -48,6 +48,14 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : server.alfari.id
+Port : 6969
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [Scattypie#5816](https://discord.gg/7G9TvNvZVs)
 ```bash
 Host : my.tofumc.pro
