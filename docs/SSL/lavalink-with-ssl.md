@@ -86,3 +86,11 @@ Port : 443
 Password : "adowbongmanacc"
 Secure : true
 ```
+
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink.devamop.in
+Port : 443
+Password : "Devam#ssl"
+Secure : true
+```
