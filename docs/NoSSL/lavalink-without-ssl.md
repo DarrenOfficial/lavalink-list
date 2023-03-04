@@ -48,6 +48,14 @@ Password : "www.freelavalink.ga"
 Secure : false
 ```
 
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : server.alfari.id
+Port : 6969
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [Scattypie#5816](https://discord.gg/7G9TvNvZVs)
 ```bash
 Host : my.tofumc.pro
@@ -181,5 +189,21 @@ Hosted by @ [SomboyTiger](https://somboytiger.com/)
 Host : lavalink.somboytiger.com
 Port: 2333
 Password : "licha_somboytiger"
+Secure : false
+```
+
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink2.devamop.in
+Port: 8830
+Password : "DevamOP"
+Secure : false
+```
+
+Hosted by @ [AMPRO#3117](https://mannez.tk)
+```bash
+Host : lavalink.mannez.tk
+Port: 40714
+Password : "AMPRO#3117"
 Secure : false
 ```
