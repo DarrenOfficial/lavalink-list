@@ -199,3 +199,11 @@ Port: 8830
 Password : "DevamOP"
 Secure : false
 ```
+
+Hosted by @ [AMPRO#3117](https://mannez.tk)
+```bash
+Host : lavalink.mannez.tk
+Port: 40714
+Password : "AMPRO#3117"
+Secure : false
+```
