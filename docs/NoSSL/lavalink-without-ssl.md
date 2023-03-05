@@ -24,6 +24,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink2.devamop.in
+Port: 8830
+Password : "DevamOP"
+Secure : false
+```
+
 Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 ```bash
 Host : lavalink1.albinhakanson.se
@@ -182,14 +190,6 @@ Hosted by @ [SomboyTiger](https://somboytiger.com/)
 Host : lavalink.somboytiger.com
 Port: 2333
 Password : "licha_somboytiger"
-Secure : false
-```
-
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink2.devamop.in
-Port: 8830
-Password : "DevamOP"
 Secure : false
 ```
 
