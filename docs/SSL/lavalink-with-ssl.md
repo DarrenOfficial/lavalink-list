@@ -83,6 +83,6 @@ Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink.devamop.in
 Port : 443
-Password : "Devam#ssl"
+Password : "DevamOP"
 Secure : true
 ```
