@@ -24,6 +24,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink2.devamop.in
+Port: 8830
+Password : "DevamOP"
+Secure : false
+```
+
 Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 ```bash
 Host : lavalink1.albinhakanson.se
@@ -142,13 +150,6 @@ Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
 Host : purr.aikomechawaii.live
 Port : 10357
 Password : "ImayBeStupid"
-Secure : false
-```
-Hosted by @ [DIVISION_Solar#2006](https://joshsevero.dev)
-```bash
-Host : lavalink.joshsevero.dev
-Port : 80
-Password : "oxygen"
 Secure : false
 ```
 

@@ -55,14 +55,6 @@ Password : "AWP)JQ$Gv9}dm.u"
 Secure : true
 ```
 
-Hosted by @ [LewdHuTao](https://lewdhutao.me)
-```bash
-Host : node2.lewdhutao.tech
-Port : 443
-Password : "lewdhutao"
-secure : true
-```
-
 Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : lavalink.lexnet.cc
@@ -91,6 +83,6 @@ Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink.devamop.in
 Port : 443
-Password : "Devam#ssl"
+Password : "DevamOP"
 Secure : true
 ```
