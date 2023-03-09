@@ -86,3 +86,10 @@ Port : 443
 Password : "DevamOP"
 Secure : true
 ```
+Hosted by @ [ZeroDev](https://github.com/TadashiKazuo)
+```bash
+Host : lavalink.andrewnoob.tk
+Port : 443
+Password : "Zer0DaB3st"
+Secure : true
+```
