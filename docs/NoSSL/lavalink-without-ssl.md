@@ -7,19 +7,19 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : devamop.in
+Port: 8830
+Password : "DevamOP"
+Secure : false
+```
+
 Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 ```bash
 Host : narco.buses.rocks
 Port : 2269
 Password : "glasshost1984"
-Secure : false
-```
-
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink2.devamop.in
-Port: 8830
-Password : "DevamOP"
 Secure : false
 ```
 
