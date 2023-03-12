@@ -23,6 +23,14 @@ Password : "kdlavalink"
 secure : true
 ```
 
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink.devamop.in
+Port : 443
+Password : "DevamOP"
+Secure : true
+```
+
 Hosted by @ [Islantay](https://github.com/Dep0s1t)
 ```bash
 Host : jp-lava.islantay.tk
@@ -76,13 +84,5 @@ Hosted by @ [Nep#0028](https://github.com/neptalu0)
 Host : suki.nathan.to
 Port : 443
 Password : "adowbongmanacc"
-Secure : true
-```
-
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink.devamop.in
-Port : 443
-Password : "DevamOP"
 Secure : true
 ```
