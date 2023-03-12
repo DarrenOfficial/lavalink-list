@@ -199,3 +199,11 @@ Port: 40714
 Password : "AMPRO#3117"
 Secure : false
 ```
+
+Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
+```bash
+Host : lavalink.evils.in
+Port: 10245
+Password : "KingSyG!!12"
+Secure : false
+```
