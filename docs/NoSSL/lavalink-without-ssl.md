@@ -195,7 +195,7 @@ Secure : false
 Hosted by @ [AMPRO#3117](https://mannez.tk)
 ```bash
 Host : lavalink.mannez.tk
-Port: 40714
+Port: 30371
 Password : "AMPRO#3117"
 Secure : false
 ```
