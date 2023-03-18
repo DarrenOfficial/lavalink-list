@@ -192,14 +192,6 @@ Password : "DevamOP"
 Secure : false
 ```
 
-Hosted by @ [AMPRO#3117](https://mannez.tk)
-```bash
-Host : lavalink.mannez.tk
-Port: 40714
-Password : "AMPRO#3117"
-Secure : false
-```
-
 Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
 ```bash
 Host : lavalink.evils.in
