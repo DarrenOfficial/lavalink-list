@@ -7,14 +7,6 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 
-Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
-```bash
-Host : ssl.freelavalink.ga
-Port : 443
-Password : "www.freelavalink.ga"
-Secure : true
-```
-
 Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
 ```bash
 Host : node1.kartadharta.xyz
