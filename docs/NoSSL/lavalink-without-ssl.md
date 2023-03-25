@@ -39,14 +39,6 @@ Password : "sneakynodes.com"
 Secure : false
 ```
 
-Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
-```bash
-Host : nonssl.freelavalink.ga
-Port : 80
-Password : "www.freelavalink.ga"
-Secure : false
-```
-
 Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
 Host : server.alfari.id
