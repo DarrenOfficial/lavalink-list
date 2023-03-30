@@ -191,3 +191,10 @@ Port: 10245
 Password : "KingSyG!!12"
 Secure : false
 ```
+Hosted by @ [K E N D O#7261](https://hyembot.site/)
+```bash
+Host : lavalink.hyembot.site
+Port: 80
+Password : "kendoxhyem"
+Secure : false
+```
