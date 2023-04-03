@@ -198,3 +198,11 @@ Port: 80
 Password : "kendoxhyem"
 Secure : false
 ```
+
+Hosted by @ [Jirayu](https://jirayu.fun/)
+```bash
+Host : lavalink.jirayu.fun
+Port : 30938
+Password : "jirayu.fun"
+Secure : false
+```
