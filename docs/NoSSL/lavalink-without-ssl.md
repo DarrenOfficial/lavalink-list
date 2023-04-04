@@ -206,3 +206,19 @@ Port : 30938
 Password : "jirayu.fun"
 Secure : false
 ```
+
+Hosted by @ [Jirayu](https://jirayu.fun/)
+```bash
+Host : lavalink-2.jirayu.fun
+Port : 30289
+Password : "jirayu.fun"
+Secure : false
+```
+
+Hosted by @ [Jirayu](https://jirayu.fun/)
+```bash
+Host : lavalink-3.jirayu.fun
+Port : 2333
+Password : "jirayu.fun"
+Secure : false
+```
