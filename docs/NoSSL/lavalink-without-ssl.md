@@ -202,7 +202,7 @@ Secure : false
 Hosted by @ [Jirayu](https://jirayu.fun/)
 ```bash
 Host : lavalink.jirayu.fun
-Port : 30614
+Port : 30002
 Password : "jirayu.fun"
 Secure : false
 ```
