@@ -206,3 +206,11 @@ Port : 30002
 Password : "jirayu.fun"
 Secure : false
 ```
+
+Hosted by @ [Putra](https://putraa.my.id)
+```bash
+Host : sg1.clevent.my.id
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
