@@ -15,6 +15,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
+```bash
+Host : lavalink.alexanderof.xyz
+Port: 2333
+Password : "lavalink"
+Secure : false
+```
+
 Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink2.devamop.in
