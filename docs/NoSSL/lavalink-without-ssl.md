@@ -222,3 +222,11 @@ Port : 2333
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [Derpy](https://velleri.us)
+```bash
+Host : lv.velleri.us
+Port : 2333
+Password : "ilovemonkeys"
+Secure : false
+```
