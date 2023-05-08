@@ -38,3 +38,11 @@ Port : 443
 Password : "DevamOP"
 Secure : true
 ```
+
+Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : oce-lavalink.lexnet.cc
+Port : 443
+Password : "lexn3tl@val!nk"
+Secure : true
+```
