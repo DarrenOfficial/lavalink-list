@@ -207,11 +207,11 @@ Password : "kendoxhyem"
 Secure : false
 ```
 
-Hosted by @ [Oxygen-Project](https://oxygen-project.cloud/)
+Hosted by @ [Oxygen-Project](https://jirayu.pw/)
 ```bash
-Host : lavalink.oxygen-project.cloud
+Host : lavalink.jirayu.pw
 Port : 2100
-Password : "oxygen-project.cloud"
+Password : "jirayu.pw"
 Secure : false
 ```
 
