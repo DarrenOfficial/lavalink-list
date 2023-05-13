@@ -215,14 +215,6 @@ Password : "jirayu.pw"
 Secure : false
 ```
 
-Hosted by @ [Putra](https://putraa.my.id)
-```bash
-Host : sg1.clevent.my.id
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 Hosted by @ [Derpy](https://velleri.us)
 ```bash
 Host : lv.velleri.us
