@@ -7,20 +7,35 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
----
-Hosted by @ [Maximilian1021#2888](https://game-energy.de)
-```bash
-Host / IP : lavalink.game-energy.de
-Port : 2333
-Password : "gameEnergyHost23!"
-Secure : false
-```
-
 Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 ```bash
 Host : narco.buses.rocks
 Port : 2269
 Password : "glasshost1984"
+Secure : false
+```
+
+Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
+```bash
+Host : fsn.lavalink.alexanderof.xyz
+Port: 2333
+Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
+```bash
+Host : ash.lavalink.alexanderof.xyz
+Port: 2333
+Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink2.devamop.in
+Port: 8830
+Password : "DevamOP"
 Secure : false
 ```
 
@@ -40,11 +55,11 @@ Password : "sneakynodes.com"
 Secure : false
 ```
 
-Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
-Host : nonssl.freelavalink.ga
-Port : 80
-Password : "www.freelavalink.ga"
+Host : server.alfari.id
+Port : 6969
+Password : "youshallnotpass"
 Secure : false
 ```
 
@@ -144,13 +159,6 @@ Port : 10357
 Password : "ImayBeStupid"
 Secure : false
 ```
-Hosted by @ [DIVISION_Solar#2006](https://joshsevero.dev)
-```bash
-Host : lavalink.joshsevero.dev
-Port : 80
-Password : "oxygen"
-Secure : false
-```
 
 Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
 ```bash
@@ -189,5 +197,44 @@ Hosted by @ [SomboyTiger](https://somboytiger.com/)
 Host : lavalink.somboytiger.com
 Port: 2333
 Password : "licha_somboytiger"
+Secure : false
+```
+
+Hosted by @ [DevamOP](https://bit.ly/m/devam)
+```bash
+Host : lavalink2.devamop.in
+Port: 8830
+Password : "DevamOP"
+Secure : false
+```
+
+Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
+```bash
+Host : lavalink.evils.in
+Port: 10245
+Password : "KingSyG!!12"
+Secure : false
+```
+Hosted by @ [K E N D O#7261](https://hyembot.site/)
+```bash
+Host : lavalink.hyembot.site
+Port: 80
+Password : "kendoxhyem"
+Secure : false
+```
+
+Hosted by @ [Oxygen-Project](https://jirayu.pw/)
+```bash
+Host : lavalink.jirayu.pw
+Port : 2100
+Password : "jirayu.pw"
+Secure : false
+```
+
+Hosted by @ [Derpy](https://velleri.us)
+```bash
+Host : lv.velleri.us
+Port : 2333
+Password : "ilovemonkeys"
 Secure : false
 ```
