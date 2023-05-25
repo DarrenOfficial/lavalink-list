@@ -55,6 +55,14 @@ Password : "sneakynodes.com"
 Secure : false
 ```
 
+Hosted by @ [Alfari#3465](https://discord.com/invite/YFhvCRhUXu)
+```bash
+Host : mohpoe.alfari.id
+Port : 4004
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
 ```bash
 Host : server.alfari.id
