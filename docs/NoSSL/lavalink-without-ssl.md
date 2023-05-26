@@ -238,3 +238,10 @@ Port : 2333
 Password : "ilovemonkeys"
 Secure : false
 ```
+Hosted by @ [Gamer3514](https://panel.sillydev.co.uk)
+```bash
+Host : panel.sillydev.co.uk
+Port : 6039
+Password : "bestfreehosting"
+Secure : false
+```
