@@ -231,9 +231,9 @@ Password : "jirayu.pw"
 Secure : false
 ```
 
-Hosted by @ [Derpy](https://velleri.us)
+Hosted by @ [Derpy](https://discord.gg/2kR7FnVUcH/)
 ```bash
-Host : lv.velleri.us
+Host : 132.145.140.223
 Port : 2333
 Password : "ilovemonkeys"
 Secure : false
