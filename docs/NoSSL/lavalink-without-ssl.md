@@ -87,7 +87,7 @@ Password : "AmeliaWatsonisTheBest**!"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava1.horizxon.studio
 Port : 80
@@ -95,7 +95,15 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
+```bash
+Host : lava2.horizxon.studio
+Port : 80
+Password : "horizxon.studio"
+Secure : false
+```
+
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava3.horizxon.studio
 Port : 80
@@ -103,7 +111,7 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava4.horizxon.studio
 Port : 80
