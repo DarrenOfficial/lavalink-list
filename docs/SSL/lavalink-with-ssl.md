@@ -15,6 +15,14 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
+Hosted by @ [Draxler#9555](https://status.horizxon.studio/)
+```bash
+Host : ssl.horizxon.studio
+Port : 443
+Password : "horizxon.studio"
+Secure : true
+```
+
 Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : eu-lavalink.lexnet.cc
