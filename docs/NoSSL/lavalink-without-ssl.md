@@ -245,3 +245,10 @@ Port : 6039
 Password : "bestfreehosting"
 Secure : false
 ```
+Hosted by @ [Lowland](https://e-z.bio/lowland)
+```bash
+Host : 199.127.61.159
+Port : 5059
+Password : "youshallnotpass"
+Secure : false
+```
