@@ -260,3 +260,11 @@ Port : 5059
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Hosted by @ [MeowIce#8543](https://linktr.ee/meowice64)
+```bash
+Host: meowsmp.ddns.net
+Port : 2333
+Password : "meowicelava"
+Secure: false
+```
