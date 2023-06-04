@@ -39,14 +39,6 @@ Password : "adowbongmanacc"
 Secure : true
 ```
 
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink.devamop.in
-Port : 443
-Password : "DevamOP"
-Secure : true
-```
-
 Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : oce-lavalink.lexnet.cc
