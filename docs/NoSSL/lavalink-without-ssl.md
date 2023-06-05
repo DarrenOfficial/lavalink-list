@@ -260,3 +260,21 @@ Port : 2333
 Password : "meowicelava"
 Secure: false
 ```
+
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
+```bash
+Host: 65.108.138.236
+Port: 7944
+Password: "darinyrama"
+Secure: false
+```
+
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
+```bash
+Host: bots.pylexservers.xyz
+Port: 26237
+Password: "darinyrama"
+Secure: false
+```
