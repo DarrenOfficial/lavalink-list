@@ -15,6 +15,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [Akshat](https://akshatmehta.com)
+```bash
+Host : nodepanel.incolnx.com
+Port : 1101
+Password : "trazhub"
+Secure : false
+```
+
 Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
 ```bash
 Host : fsn.lavalink.alexanderof.xyz
