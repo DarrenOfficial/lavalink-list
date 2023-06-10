@@ -13,6 +13,14 @@ Host : narco.buses.rocks
 Port : 2269
 Password : "glasshost1984"
 Secure : false
+
+```
+Hosted by @ [Trazhub](https://garvverma.me)
+```bash
+Host : nodepanel.incolnx.com:1106
+Port : 1106
+Password : "incolnx.com"
+Secure : false
 ```
 
 Hosted by @ [Akshat](https://akshatmehta.com)
