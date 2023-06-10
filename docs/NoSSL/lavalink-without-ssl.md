@@ -17,8 +17,8 @@ Secure : false
 ```
 Hosted by @ [Trazhub](https://garvverma.me)
 ```bash
-Host : nodepanel.incolnx.com:1106
-Port : 1106
+Host : node3.garvv.me
+Port : 1102
 Password : "incolnx.com"
 Secure : false
 ```
