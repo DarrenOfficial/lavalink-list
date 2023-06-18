@@ -224,14 +224,6 @@ Password : "licha_somboytiger"
 Secure : false
 ```
 
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink2.devamop.in
-Port: 8830
-Password : "DevamOP"
-Secure : false
-```
-
 Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
 ```bash
 Host : lavalink.evils.in
