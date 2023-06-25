@@ -41,7 +41,7 @@ Secure : false
 
 Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
 ```bash
-Host : fsn.lavalink.alexanderof.xyz
+Host : eu.lavalink.alexanderof.xyz
 Port: 2333
 Password : "lavalink"
 Secure : false
@@ -49,7 +49,7 @@ Secure : false
 
 Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
 ```bash
-Host : ash.lavalink.alexanderof.xyz
+Host : us.lavalink.alexanderof.xyz
 Port: 2333
 Password : "lavalink"
 Secure : false
