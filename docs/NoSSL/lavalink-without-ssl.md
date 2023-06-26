@@ -294,3 +294,12 @@ Port: 26237
 Password: "darinyrama"
 Secure: false
 ```
+
+Hosted by @ [RXNationGaming](https://rxnationgaming.cf)
+
+```bash
+Host: 81.133.84.70
+Port: 3002
+Password: "rxnationvpsfree"
+Secure: false
+```
