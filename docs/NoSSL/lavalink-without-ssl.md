@@ -242,7 +242,7 @@ Secure : false
 Hosted by @ [Oxygen-Project](https://jirayu.pw/)
 ```bash
 Host : lavalink.jirayu.pw
-Port : 2100
+Port : 2333
 Password : "jirayu.pw"
 Secure : false
 ```
