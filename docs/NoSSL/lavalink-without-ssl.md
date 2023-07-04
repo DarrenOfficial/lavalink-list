@@ -247,9 +247,9 @@ Password : "jirayu.pw"
 Secure : false
 ```
 
-Hosted by @ [Derpy](https://discord.gg/2kR7FnVUcH/)
+Hosted by @ [Derpy](https://weedcloud.pro)
 ```bash
-Host : 132.145.140.223
+Host : us-2.weedcloud.pro
 Port : 2333
 Password : "ilovemonkeys"
 Secure : false
