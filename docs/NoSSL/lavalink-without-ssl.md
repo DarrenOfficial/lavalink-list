@@ -15,6 +15,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+```bash
+Host : 141.95.90.1
+Port : 88
+Password : "youshallnotpass"
+Secure : false
+```
+
 Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink.devamop.in
