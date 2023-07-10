@@ -7,6 +7,22 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 
+Hosted by @ [Caliwyr](https://github.com/caliwyr)
+```bash
+Host : lavalink.snooby.ml
+Port : 443
+Password : "discord.gg/6xpF6YqVDd"
+Secure : true
+```
+
+Hosted by @ [Caliwyr](https://github.com/caliwyr)
+```bash
+Host : lavalink1.snooby.ml
+Port : 443
+Password : "discord.gg/6xpF6YqVDd"
+Secure : true
+```
+
 Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink.devamop.in
