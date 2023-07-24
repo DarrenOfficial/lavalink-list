@@ -302,3 +302,12 @@ Port: 26237
 Password: "darinyrama"
 Secure: false
 ```
+
+Hosted by @ [Shinaii](https://shinaii.xyz/)
+
+```bash
+Host / IP : lavalink.shinaii.xyz
+Port : 2333
+Password : "shinaiixyzpublic"
+Secure: false
+```
