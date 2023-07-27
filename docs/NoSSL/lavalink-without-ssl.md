@@ -19,7 +19,7 @@ Hosted by @ [aadi.png](https://discord.gg/stonemusic)
 ```bash
 Host : 141.95.90.1
 Port : 88
-Password : "youshallnotpass"
+Password : "stonemusicgay"
 Secure : false
 ```
 
