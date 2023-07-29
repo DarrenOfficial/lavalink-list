@@ -255,7 +255,7 @@ Password : "jirayu.pw"
 Secure : false
 ```
 
-Hosed by @ [Jirayu.pw](https://jirayu.pw/)
+Hosted by @ [Jirayu.pw](https://jirayu.pw/)
 ```bash
 Host : v4.jirayu.pw
 Port : 2269
