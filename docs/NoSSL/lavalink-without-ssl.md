@@ -247,11 +247,19 @@ Password : "kendoxhyem"
 Secure : false
 ```
 
-Hosted by @ [Oxygen-Project](https://jirayu.pw/)
+Hosted by @ [Jirayu.pw](https://jirayu.pw/)
 ```bash
-Host : lavalink.jirayu.pw
-Port : 2333
+Host : v3.jirayu.pw
+Port : 1273
 Password : "jirayu.pw"
+Secure : false
+```
+
+Hosed by @ [Jirayu.pw](https://jirayu.pw/)
+```bash
+Host : v4.jirayu.pw
+Port : 2269
+password: "jirayu.pw"
 Secure : false
 ```
 
