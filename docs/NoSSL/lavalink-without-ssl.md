@@ -23,6 +23,14 @@ Password : "stonemusicgay"
 Secure : false
 ```
 
+Hosted by @ [xToyKungQC](http://lavalink-xtoy.ddns.net/)
+```bash
+Host : lavalink-xtoy.ddns.net
+Port : 2333
+Password : "xToyGzzz1234"
+Secure : false
+```
+
 Hosted by @ [DevamOP](https://bit.ly/m/devam)
 ```bash
 Host : lavalink.devamop.in
