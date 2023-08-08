@@ -77,3 +77,4 @@ Host : lavalink.ordinaryender.my.eu.org
 Port : 443
 Password : ordinarylavalink
 Secure : true
+```
