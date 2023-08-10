@@ -7,6 +7,30 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink.oryzen.xyz
+Port : 2248
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink1.oryzen.xyz
+Port : 1481
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink2.oryzen.xyz
+Port : 1317
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
 Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 ```bash
 Host : narco.buses.rocks
