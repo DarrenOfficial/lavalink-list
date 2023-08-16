@@ -7,6 +7,14 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [emp](https://discord.gg/9dcB8A9weH)
+```bash
+Host : basic-1.sapphire-cloud.org
+Port : 25577
+Password : "ratukekal.site"
+Secure : false
+```
+
 Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
