@@ -7,6 +7,22 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+```bash
+Host : 54.38.198.24
+Port : 88
+Password : "stonemusicgay"
+Secure : false
+```
+
+Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+```bash
+Host : 54.38.198.23
+Port : 88
+Password : "stonemusicgay"
+Secure : false
+```
+
 Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
@@ -36,14 +52,6 @@ Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 Host : narco.buses.rocks
 Port : 2269
 Password : "glasshost1984"
-Secure : false
-```
-
-Hosted by @ [aadi.png](https://discord.gg/stonemusic)
-```bash
-Host : 141.95.90.1
-Port : 88
-Password : "stonemusicgay"
 Secure : false
 ```
 
