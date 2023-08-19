@@ -54,3 +54,11 @@ Port : 443
 Password : "lexn3tl@val!nk"
 Secure : true
 ```
+
+Hosted by @ [OrdinaryEnder](https://github.com/OrdinaryEnder)
+```bash
+Host : lavalink.ordinaryender.my.eu.org
+Port : 443
+Password : ordinarylavalink
+Secure : true
+```
