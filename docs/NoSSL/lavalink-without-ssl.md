@@ -63,14 +63,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink.devamop.in
-Port : 80
-Password : "DevamOP"
-Secure : false
-```
-
 Hosted by @ [Trazhub](https://garvverma.me)
 ```bash
 Host : node3.garvv.me
