@@ -7,7 +7,7 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
-Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.24
 Port : 88
@@ -15,7 +15,7 @@ Password : "stonemusicgay"
 Secure : false
 ```
 
-Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.23
 Port : 88
