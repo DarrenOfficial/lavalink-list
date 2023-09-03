@@ -7,6 +7,13 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
+```bash
+Host : 35.221.56.124
+Port : 4027
+Password : "reedrousisgayy"
+Secure : false
+```
 Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.24
