@@ -7,19 +7,19 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+```bash
+Host : ssl.horizxon.xyz
+Port : 443
+Password : "horizxon.xyz"
+Secure : true
+```
+
 Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : lavalink.lexnet.cc
 Port : 443
 Password : "lexn3tl@val!nk"
-Secure : true
-```
-
-Hosted by @ [Draxler#9555](https://status.horizxon.studio/)
-```bash
-Host : ssl.horizxon.studio
-Port : 443
-Password : "horizxon.studio"
 Secure : true
 ```
 
