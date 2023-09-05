@@ -39,18 +39,18 @@ Password : "adowbongmanacc"
 Secure : true
 ```
 
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink.devamop.in
-Port : 443
-Password : "DevamOP"
-Secure : true
-```
-
 Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : oce-lavalink.lexnet.cc
 Port : 443
 Password : "lexn3tl@val!nk"
+Secure : true
+```
+
+Hosted by @ [OrdinaryEnder](https://github.com/OrdinaryEnder)
+```bash
+Host : lavalink.ordinaryender.my.eu.org
+Port : 443
+Password : ordinarylavalink
 Secure : true
 ```

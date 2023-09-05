@@ -7,6 +7,53 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
+```bash
+Host : 35.221.56.124
+Port : 4027
+Password : "reedrousisgayy"
+Secure : false
+```
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
+```bash
+Host : 54.38.198.24
+Port : 88
+Password : "stonemusicgay"
+Secure : false
+```
+
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
+```bash
+Host : 54.38.198.23
+Port : 88
+Password : "stonemusicgay"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink.oryzen.xyz
+Port : 2248
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink1.oryzen.xyz
+Port : 1481
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink2.oryzen.xyz
+Port : 1317
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
 Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
 ```bash
 Host : narco.buses.rocks
@@ -15,9 +62,33 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+```bash
+Host : 141.95.90.1
+Port : 88
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Trazhub](https://garvverma.me)
+```bash
+Host : node3.garvv.me
+Port : 1102
+Password : "incolnx.com"
+Secure : false
+```
+
+Hosted by @ [Akshat](https://akshatmehta.com)
+```bash
+Host : nodepanel.incolnx.com
+Port : 1101
+Password : "trazhub"
+Secure : false
+```
+
 Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
 ```bash
-Host : fsn.lavalink.alexanderof.xyz
+Host : eu.lavalink.alexanderof.xyz
 Port: 2333
 Password : "lavalink"
 Secure : false
@@ -25,17 +96,9 @@ Secure : false
 
 Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
 ```bash
-Host : ash.lavalink.alexanderof.xyz
+Host : us.lavalink.alexanderof.xyz
 Port: 2333
 Password : "lavalink"
-Secure : false
-```
-
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink2.devamop.in
-Port: 8830
-Password : "DevamOP"
 Secure : false
 ```
 
@@ -178,7 +241,7 @@ Secure : false
 
 Hosted by @ [Clxud](https://discord.gg/r64qjTSHG8)
 ```bash
-Host : lavalink.clxud.pro
+Host : lavalink.clxud.dev
 Port: 2333
 Password : "youshallnotpass"
 Secure : false
@@ -208,14 +271,6 @@ Password : "licha_somboytiger"
 Secure : false
 ```
 
-Hosted by @ [DevamOP](https://bit.ly/m/devam)
-```bash
-Host : lavalink2.devamop.in
-Port: 8830
-Password : "DevamOP"
-Secure : false
-```
-
 Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
 ```bash
 Host : lavalink.evils.in
@@ -234,14 +289,14 @@ Secure : false
 Hosted by @ [Oxygen-Project](https://jirayu.pw/)
 ```bash
 Host : lavalink.jirayu.pw
-Port : 2100
+Port : 2333
 Password : "jirayu.pw"
 Secure : false
 ```
 
-Hosted by @ [Derpy](https://discord.gg/2kR7FnVUcH/)
+Hosted by @ [Derpy](https://weedcloud.pro)
 ```bash
-Host : 132.145.140.223
+Host : us-2.weedcloud.pro
 Port : 2333
 Password : "ilovemonkeys"
 Secure : false
@@ -259,4 +314,30 @@ Host : 199.127.61.159
 Port : 5059
 Password : "youshallnotpass"
 Secure : false
+```
+
+Hosted by @ [MeowIce#8543](https://linktr.ee/meowice64)
+```bash
+Host: meowsmp.ddns.net
+Port : 2333
+Password : "meowicelava"
+Secure: false
+```
+
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
+```bash
+Host: 65.108.138.236
+Port: 7944
+Password: "darinyrama"
+Secure: false
+```
+
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
+```bash
+Host: bots.pylexservers.xyz
+Port: 26237
+Password: "darinyrama"
+Secure: false
 ```
