@@ -3,35 +3,142 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
+
 ---
-Hosted by @ [👑MR EXTINCT CODE'S#6646 ](https://dsc.gg/extinctop)
+Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
 ```bash
-Host : 57.128.136.143
-Port : 30411
-Password : "maybeiwasboring"
+Host : 35.221.56.124
+Port : 4027
+Password : "reedrousisgayy"
 Secure : false
 ```
-Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
-Host : lavalink.oops.wtf
-Port : 2000
-Password : "www.freelavalink.ga"
-Secure : false
-```
-
-Hosted by @ [Scattypie#0001](https://discord.gg/NUhWvA7paX)
-```bash
-Host : 138.201.56.61
-Port : 1033
-Password : "whyareyougay"
+Host : 54.38.198.24
+Port : 88
+Password : "stonemusicgay"
 Secure : false
 ```
 
-Hosted by @ [Hatry4](https://www.hatry4.xyz)
+Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
-Host : lavalink.hatry4.xyz
-Port : 10424
-Password : "youshallpasslol"
+Host : 54.38.198.23
+Port : 88
+Password : "stonemusicgay"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink.oryzen.xyz
+Port : 2248
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink1.oryzen.xyz
+Port : 1481
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink2.oryzen.xyz
+Port : 1317
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
+Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
+```bash
+Host : narco.buses.rocks
+Port : 2269
+Password : "glasshost1984"
+Secure : false
+```
+
+Hosted by @ [aadi.png](https://discord.gg/stonemusic)
+```bash
+Host : 141.95.90.1
+Port : 88
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Trazhub](https://garvverma.me)
+```bash
+Host : node3.garvv.me
+Port : 1102
+Password : "incolnx.com"
+Secure : false
+```
+
+Hosted by @ [Akshat](https://akshatmehta.com)
+```bash
+Host : nodepanel.incolnx.com
+Port : 1101
+Password : "trazhub"
+Secure : false
+```
+
+Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
+```bash
+Host : eu.lavalink.alexanderof.xyz
+Port: 2333
+Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
+```bash
+Host : us.lavalink.alexanderof.xyz
+Port: 2333
+Password : "lavalink"
+Secure : false
+```
+
+Hosted by @ [Tooxic#4580](https://albinhakanson.se)
+```bash
+Host : lavalink1.albinhakanson.se
+Port : 1141
+Password : "albinhakanson.se"
+Secure : false
+```
+
+Hosted by @ [Sneaky#9999](https://sneakynodes.com/discord)
+```bash
+Host : lavalink.sneakynodes.com
+Port : 2333
+Password : "sneakynodes.com"
+Secure : false
+```
+
+Hosted by @ [Alfari#3465](https://discord.com/invite/YFhvCRhUXu)
+```bash
+Host : mohpoe.alfari.id
+Port : 4004
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
+```bash
+Host : server.alfari.id
+Port : 6969
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Scattypie#5816](https://discord.gg/7G9TvNvZVs)
+```bash
+Host : my.tofumc.pro
+Port : 25570
+Password : "sussy"
 Secure : false
 ```
 
@@ -43,15 +150,7 @@ Password : "AmeliaWatsonisTheBest**!"
 Secure : false
 ```
 
-Hosted by @ [ItsLeon15](https://github.com/ItsLeon15)
-```bash
-Host : uk.lavalink.platinumhost.uk
-Port : 2333
-Password : "lavalink"
-Secure : false
-```
-
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava1.horizxon.studio
 Port : 80
@@ -59,7 +158,7 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava2.horizxon.studio
 Port : 80
@@ -67,7 +166,7 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava3.horizxon.studio
 Port : 80
@@ -75,7 +174,7 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [Draxler#6920](https://horizxon.studio/)
+Hosted by @ [Draxler#9555](https://horizxon.studio/)
 ```bash
 Host : lava4.horizxon.studio
 Port : 80
@@ -83,59 +182,12 @@ Password : "horizxon.studio"
 Secure : false
 ```
 
-Hosted by @ [invaliduser#9707](https://discord.gg/mTp8suHPaR)
+Hosted by @ [timelessnesses](https://timelessnesses.me)
 ```bash
-host: 45.134.11.134
-port: 1026
-password: youshallnotpass
-Secure: false
-```
-
-Hosted by @ [Alfari#3465](https://discord.gg/ZNKNY3RpRg)
-```bash
-Host : 149.129.215.50
-Port : 2333
-Password : alfarimusic
-Secure : false
-```
-Hosted by @ [timelessnesses](https://rukchadisa.live)
-```bash
-Host : lavalink.api.rukchadisa.live
+Host : lavalink.api.timelessnesses.me
 Port : 80
 Password : youshallnotpass
 Secure : false
-```
-
-Hosted by @ [Radiant#1106](https://discord.cyberdev.host)
-```bash
-Host : game.cyberdev.host
-Port : 27005
-Password : discord.cyberdev.host
-Secure : false
-```
-
-Hosted by @ [derpy#1000](https://discord.gg/YHS6nYEPB4)
-```bash
-Host : lv.cowcat.cf
-Port : 2333
-Password : derpylava
-Secure : false
-```
-
-Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
-```bash
-Host : 139.162.196.121
-Port : 1152
-Password : rxnationgamingyt
-Secure : false 
-```
-
-Hosted by @ [RXNationGaming#2896](https://rxnationgaming.cf)
-```bash
-Host : 135.181.140.203
-Port : 25627
-Password : LavaNode2
-Secure : false 
 ```
 
 Hosted by @ [melike2d](https://2d.gay)
@@ -146,45 +198,148 @@ Password : "AWP)JQ$Gv9}dm.u"
 Secure : false
 ```
 
-Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
+Hosted by @ [Mune](https://mune.moe)
 ```bash
-Host : musictune.miraclecherrypie.cf
-Port : 8880
-Password : KawaiiOnyanisbetter!!!!
-Secure : false
+Host : lavalink.mune.moe
+Port : 8080
+Password : "yaemiko@mune"
+secure: false
 ```
 
+Hosted by @ [LewdHuTao](https://lewdhutao.me)
+```bash
+Host : node1.lewdhutao.tech
+Port : 1183
+Password : "lewdhutao"
+secure: false
+```
 
 Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
 ```bash
-Host : moe.aikomechawaii.live
-Port : 5052 
-Password : aikomechawaii.live
+Host : purr.aikomechawaii.live
+Port : 10415 
+Password : "AnythingAsPassword"
 Secure : false
 ```
 
 
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+Hosted by @ [AikoNee#1652](https://aikomechawaii.live)
 ```bash
-IP: 158.69.54.158
-Port: 31593
-Password: leefernando
+Host : purr.aikomechawaii.live
+Port : 10357
+Password : "ImayBeStupid"
+Secure : false
+```
+
+Hosted by @ [MiracleCherryPie](https://github.com/MiracleCherryPie)
+```bash
+Host : minatoaqua.miraclecherrypie.cf
+Port: 8080
+Password : "KawaiiOnyanisbetter!!!!"
+Secure : false
+```
+
+Hosted by @ [Clxud](https://discord.gg/r64qjTSHG8)
+```bash
+Host : lavalink.clxud.dev
+Port: 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [Invalid Studios](https://discord.gg/HRB44aTDgA)
+```bash
+Host : lavalink.invalid-studios.com
+Port: 2333
+Password : "invaliduser"
+Secure : false
+```
+
+Hosted by @ [Cyber Host](https://discord.gg/cyberhost)
+```bash
+Host : lavalink.cyber-host.eu
+Port: 2333
+Password : "discord.gg/cyberhost"
+Secure : false
+```
+
+Hosted by @ [SomboyTiger](https://somboytiger.com/)
+```bash
+Host : lavalink.somboytiger.com
+Port: 2333
+Password : "licha_somboytiger"
+Secure : false
+```
+
+Hosted by @ [SyGSys#7466](https://github.com/SyGSysMc)
+```bash
+Host : lavalink.evils.in
+Port: 10245
+Password : "KingSyG!!12"
+Secure : false
+```
+Hosted by @ [K E N D O#7261](https://hyembot.site/)
+```bash
+Host : lavalink.hyembot.site
+Port: 80
+Password : "kendoxhyem"
+Secure : false
+```
+
+Hosted by @ [Oxygen-Project](https://jirayu.pw/)
+```bash
+Host : lavalink.jirayu.pw
+Port : 2333
+Password : "jirayu.pw"
+Secure : false
+```
+
+Hosted by @ [Derpy](https://weedcloud.pro)
+```bash
+Host : us-2.weedcloud.pro
+Port : 2333
+Password : "ilovemonkeys"
+Secure : false
+```
+Hosted by @ [Gamer3514](https://panel.sillydev.co.uk)
+```bash
+Host : panel.sillydev.co.uk
+Port : 6039
+Password : "bestfreehosting"
+Secure : false
+```
+Hosted by @ [Lowland](https://e-z.bio/lowland)
+```bash
+Host : 199.127.61.159
+Port : 5059
+Password : "youshallnotpass"
+Secure : false
+```
+
+Hosted by @ [MeowIce#8543](https://linktr.ee/meowice64)
+```bash
+Host: meowsmp.ddns.net
+Port : 2333
+Password : "meowicelava"
 Secure: false
 ```
 
-Hosted by @ [Fernandopek21#6236](https://discord.gg/SzP9BdFPYF)
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
 ```bash
-IP: 57.128.136.144
-Port: 30017
-password: youshallnotpass
+Host: 65.108.138.236
+Port: 7944
+Password: "darinyrama"
 Secure: false
 ```
-Hosted by @ [Snoopee110](https://www.snoopee.co.uk)
+
+Hosted by @ [unf6#9901](https://discord.gg/dpDB9hudTd)
+
 ```bash
-Host : lavalink.snoopee.co.uk
-Port : 2333
-Password : "realserver"
-secure: false
+Host: bots.pylexservers.xyz
+Port: 26237
+Password: "darinyrama"
+Secure: false
 ```
 Hosted by @ [LewdHuTao](https://lewdhutao.me)
 ```bash

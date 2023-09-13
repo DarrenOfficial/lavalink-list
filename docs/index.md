@@ -47,3 +47,8 @@ Repl.it users [repl.it/github/DarrenOfficial/lavalink-replit](https://repl.it/gi
 For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
 
 For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
+
+
+
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>

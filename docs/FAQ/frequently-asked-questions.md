@@ -18,22 +18,9 @@ Put it as anything, it doesn't matter as long as it's one sentence and there's n
 Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
 
 
-### How do I put my ads on website
+### How do I put my ads on this website
 
-<center>
-
-If you wanna be generous like our sponsour [ThermalHosting](https://thermalhosting.com/), They have wierd humor and wanted to post this on faq so here is is please watch it
-
-<video controls>
-  <source src="https://cdn.darrennathanael.com/video/wide-car.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-*For ads inquiry please ask darren @ discord.darrennathanael.com*
-</center>
-
-Ask darren on https://discord.darrennathanael.com, ping @DarrenOfficial#3451.
-
+Contact ads@darrennathanael.com, pricing starts at 2$ per day, bulk discount if you pay monthly. This site gets 120+ average visits per day.
 
 ### What is the difference between `NoSSL` and `SSL`
 SSL Uses Secure WS connection, whilst No SSL uses standard WS.
@@ -62,3 +49,7 @@ Host / IP : 192.168.0.1 or lavalink.example.com
 Port : 6969
 Password : somepasswordhere
 ```
+
+
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>

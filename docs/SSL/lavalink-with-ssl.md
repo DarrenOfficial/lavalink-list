@@ -3,69 +3,54 @@ title: Lavalink with SSL
 description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 ---
 
----
-Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
-```bash
-Host : lavalink.oops.wtf
-Port : 443
-Password : "www.freelavalink.ga"
-Secure : true
-```
-Hosted by @ [ErrorDoc404](https://github.com/ErrorDoc404)
-```bash
-Host : node1.kartadharta.xyz
-Port : 443
-Password : "kdlavalink"
-secure: true
-```
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
-Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
+
+Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
-Host : node1.gglvxd.tk
+Host : lavalink.lexnet.cc
 Port : 443
-Password : "free"
-secure: true
-```
-Hosted by @ [GGLVXD](https://discord.gg/JHqvvcRbrS)
-```bash
-Host : node2.gglvxd.tk
-Port : 443
-Password : "free"
+Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-Hosted by @ [Islantay](https://github.com/Dep0s1t)
+Hosted by @ [Draxler#9555](https://status.horizxon.studio/)
 ```bash
-Host : lava.islantay.tk
+Host : ssl.horizxon.studio
 Port : 443
-Password : "AmeliaWatsonisTheBest**!"
+Password : "horizxon.studio"
 Secure : true
 ```
-Hosted by @ [Islantay](https://github.com/Dep0s1t)
+
+Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
-Host : jp-lava.islantay.tk
+Host : eu-lavalink.lexnet.cc
 Port : 443
-Password : "AmeliaWatsonisTheBest**!"
+Password : "lexn3tl@val!nk"
 Secure : true
 ```
-Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
+
+Hosted by @ [Nep#0028](https://github.com/neptalu0)
 ```bash
-Host : lavalink.botsuniversity.ml
+Host : suki.nathan.to
 Port : 443
-Password : "mathiscool"
+Password : "adowbongmanacc"
 Secure : true
 ```
-Hosted by @ [MathisCool#8659, AceTheAwesome#3366](https://lavalink-list.botsuniversity.ml)
+
+Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
-Host : lavalink2.botsuniversity.ml
+Host : oce-lavalink.lexnet.cc
 Port : 443
-Password : "mathiscool"
+Password : "lexn3tl@val!nk"
 Secure : true
 ```
-Hosted by @ [melike2d](https://2d.gay)
+
+Hosted by @ [OrdinaryEnder](https://github.com/OrdinaryEnder)
 ```bash
-Host : krn.2d.gay
+Host : lavalink.ordinaryender.my.eu.org
 Port : 443
-Password : "AWP)JQ$Gv9}dm.u"
+Password : ordinarylavalink
 Secure : true
 ```
