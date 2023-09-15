@@ -9,8 +9,8 @@ description: Without SSL should work out of the box!
 ---
 Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
 ```bash
-Host : 35.221.56.124
-Port : 4027
+Host : 34.86.221.191
+Port : 4026
 Password : "reedrousisgayy"
 Secure : false
 ```
