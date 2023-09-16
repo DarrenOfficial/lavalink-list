@@ -7,6 +7,14 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+```bash
+Host : lava.horizxon.xyz
+Port : 80
+Password : "horizxon.xyz"
+Secure : false
+```
+
 Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
 ```bash
 Host : 34.86.221.191
@@ -147,38 +155,6 @@ Hosted by @ [Islantay](https://github.com/Dep0s1t)
 Host : lavalink4africa.islantay.tk
 Port : 8880
 Password : "AmeliaWatsonisTheBest**!"
-Secure : false
-```
-
-Hosted by @ [Draxler#9555](https://horizxon.studio/)
-```bash
-Host : lava1.horizxon.studio
-Port : 80
-Password : "horizxon.studio"
-Secure : false
-```
-
-Hosted by @ [Draxler#9555](https://horizxon.studio/)
-```bash
-Host : lava2.horizxon.studio
-Port : 80
-Password : "horizxon.studio"
-Secure : false
-```
-
-Hosted by @ [Draxler#9555](https://horizxon.studio/)
-```bash
-Host : lava3.horizxon.studio
-Port : 80
-Password : "horizxon.studio"
-Secure : false
-```
-
-Hosted by @ [Draxler#9555](https://horizxon.studio/)
-```bash
-Host : lava4.horizxon.studio
-Port : 80
-Password : "horizxon.studio"
 Secure : false
 ```
 
