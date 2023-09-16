@@ -9,8 +9,8 @@ description: Without SSL should work out of the box!
 ---
 Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
 ```bash
-Host : 35.221.56.124
-Port : 4027
+Host : 34.86.221.191
+Port : 4026
 Password : "reedrousisgayy"
 Secure : false
 ```
@@ -206,14 +206,6 @@ Password : "yaemiko@mune"
 secure: false
 ```
 
-Hosted by @ [LewdHuTao](https://lewdhutao.me)
-```bash
-Host : node1.lewdhutao.tech
-Port : 1183
-Password : "lewdhutao"
-secure: false
-```
-
 Hosted by @ [AikoNee#1652](https://github.com/AikoNee)
 ```bash
 Host : purr.aikomechawaii.live
@@ -340,4 +332,11 @@ Host: bots.pylexservers.xyz
 Port: 26237
 Password: "darinyrama"
 Secure: false
+```
+Hosted by @ [LewdHuTao](https://lewdhutao.me)
+```bash
+Host : node1.lewdhutao.tech
+Port : 1183
+Password : "lewdhutao"
+secure: false
 ```
