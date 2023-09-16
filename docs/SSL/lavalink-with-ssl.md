@@ -15,11 +15,27 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-Hosted by @ [Draxler#9555](https://status.horizxon.studio/)
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
-Host : ssl.horizxon.studio
+Host : lava1.horizxon.xyz
 Port : 443
-Password : "horizxon.studio"
+Password : "horizxon.xyz"
+Secure : true
+```
+
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+```bash
+Host : lava2.horizxon.xyz
+Port : 443
+Password : "horizxon.xyz"
+Secure : true
+```
+
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+```bash
+Host : lava3.horizxon.xyz
+Port : 443
+Password : "horizxon.xyz"
 Secure : true
 ```
 
