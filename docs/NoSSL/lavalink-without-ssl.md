@@ -210,7 +210,7 @@ Secure : false
 Hosted by @ [Clxud](https://discord.gg/r64qjTSHG8)
 ```bash
 Host : lavalink.clxud.dev
-Port: 2333
+Port: 2095
 Password : "youshallnotpass"
 Secure : false
 ```
