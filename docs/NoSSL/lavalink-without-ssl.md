@@ -7,19 +7,19 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [towdawg](https://discord.com/channels/@me/135132310260416512) Lavalink Version v3.7.8
+```bash
+Host : 34.86.221.191
+Port : 4026
+Password : "reedrousisgayy"
+Secure : false
+```
+
 Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
 Host : lava.horizxon.xyz
 Port : 80
 Password : "horizxon.xyz"
-Secure : false
-```
-
-Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
-```bash
-Host : 34.86.221.191
-Port : 4026
-Password : "reedrousisgayy"
 Secure : false
 ```
 Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
