@@ -38,6 +38,14 @@ Password : "stonemusicgay"
 Secure : false
 ```
 
+Hosted by @ [SyGSys](https://discord.gg/KFFV7xuP)
+```bash
+Host : 210.246.215.110
+Port : 10246
+Password : "sygsys-lavalink_v3"
+Secure : false
+```
+
 Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
