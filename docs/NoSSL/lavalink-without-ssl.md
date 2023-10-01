@@ -16,6 +16,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+```bash
+Host : lava.horizxon.tech
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
+
 Hosted by @ [towdawg](https://discord.com/channels/@me/135132310260416512) Lavalink Version v3.7.8
 ```bash
 Host : 104.167.222.158
@@ -24,13 +32,6 @@ Password : "reedrouxmusicisgay"
 Secure : false
 ```
 
-Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
-```bash
-Host : lava.horizxon.xyz
-Port : 80
-Password : "horizxon.xyz"
-Secure : false
-```
 Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.24
