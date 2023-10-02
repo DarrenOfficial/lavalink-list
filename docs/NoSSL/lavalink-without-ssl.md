@@ -32,6 +32,14 @@ Password : "reedrouxmusicisgay"
 Secure : false
 ```
 
+Hosted by @ [SyGSys](https://discord.gg/QZkMDhagan) Lavalink Version v3.7.8
+```bash
+Host : 210.246.215.110
+Port : 5269
+Password : "sygsys-lavalink_v3"
+Secure : false
+```
+
 Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.24
@@ -45,14 +53,6 @@ Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 Host : 54.38.198.23
 Port : 88
 Password : "stonemusicgay"
-Secure : false
-```
-
-Hosted by @ [SyGSys](https://discord.gg/QZkMDhagan) Lavalink Version v3.7.8
-```bash
-Host : 210.246.215.110
-Port : 5269
-Password : "sygsys-lavalink_v3"
 Secure : false
 ```
 
