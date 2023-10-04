@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
+    <img src="https://blog.darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </a>
 
 <h3 align="center">lavalink list</h3>
@@ -11,9 +11,9 @@
     <br />
     <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="mailto:noc@darrennathanael.com">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="mailto:noc@darrennathanael.com">Request Feature</a>
     ·
     <a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
   </p>

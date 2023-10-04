@@ -7,21 +7,39 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
-Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+
+Hosted by @ [Darren](https://discord.glasshost.net)
 ```bash
-Host : lava.horizxon.xyz
-Port : 80
-Password : "horizxon.xyz"
+Host : narco.buses.rocks
+Port : 2269
+Password : "glasshost1984"
 Secure : false
 ```
 
-Hosted by @ [towdawg](https://www.zozo82897.lol) Lavalink Version v3.7.8
+Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
-Host : 34.86.221.191
-Port : 4026
-Password : "reedrousisgayy"
+Host : lava.horizxon.tech
+Port : 80
+Password : "horizxon.tech"
 Secure : false
 ```
+
+Hosted by @ [towdawg](https://discord.com/channels/@me/135132310260416512) Lavalink Version v3.7.8
+```bash
+Host : 104.167.222.158
+Port : 11487
+Password : "reedrouxmusicisgay"
+Secure : false
+```
+
+Hosted by @ [SyGSys](https://discord.gg/QZkMDhagan) Lavalink Version v3.7.8
+```bash
+Host : 210.246.215.110
+Port : 5269
+Password : "sygsys-lavalink_v3"
+Secure : false
+```
+
 Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 ```bash
 Host : 54.38.198.24
@@ -59,14 +77,6 @@ Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Host : lavalink2.oryzen.xyz
 Port : 1317
 Password : "discord.gg/6xpF6YqVDd"
-Secure : false
-```
-
-Hosted by @ [Darren](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA)
-```bash
-Host : narco.buses.rocks
-Port : 2269
-Password : "glasshost1984"
 Secure : false
 ```
 
