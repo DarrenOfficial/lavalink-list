@@ -24,6 +24,14 @@ Password : "horizxon.tech"
 Secure : false
 ```
 
+Hosted by @ [SyGSys](https://status.RinTwo.site/) Lavalink Version v3.7.8
+```bash
+Host : 210.246.215.110
+Port : 5269
+Password : "sygsys-lavalink_v3"
+Secure : false
+```
+
 Hosted by @ [towdawg](https://discord.com/channels/@me/135132310260416512) Lavalink Version v3.7.8
 ```bash
 Host : 104.167.222.158
