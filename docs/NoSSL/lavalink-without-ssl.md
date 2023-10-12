@@ -271,7 +271,7 @@ Port : 2333
 Password : "ilovemonkeys"
 Secure : false
 ```
-Hosted by @ [Gamer3514](https://panel.sillydev.co.uk)
+Hosted by @ [Gamer3514](https://sillydev.co.uk)
 ```bash
 Host : panel.sillydev.co.uk
 Port : 6039
@@ -317,4 +317,11 @@ Host : node1.lewdhutao.tech
 Port : 1183
 Password : "lewdhutao"
 secure: false
+```
+Hosted by @ [Gamer3514](https://sillydev.co.uk)
+```bash
+Host : lavalink.sillydev.co.uk
+Port : 6023
+Password : "discord.gg/CMENnZSuj3"
+Secure : false
 ```
