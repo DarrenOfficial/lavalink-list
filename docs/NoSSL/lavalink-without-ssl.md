@@ -8,6 +8,14 @@ description: Without SSL should work out of the box!
 
 ---
 
+Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink.oryzen.xyz
+Port : 1262
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
 Hosted by @ [Darren](https://discord.glasshost.net)
 ```bash
 Host : narco.buses.rocks
@@ -45,30 +53,6 @@ Hosted by @ [aadi.png](https://discord.gg/stonemusic) Lavalink Version v3.7.8
 Host : 54.38.198.23
 Port : 88
 Password : "stonemusicgay"
-Secure : false
-```
-
-Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-```bash
-Host : lavalink.oryzen.xyz
-Port : 2248
-Password : "discord.gg/6xpF6YqVDd"
-Secure : false
-```
-
-Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-```bash
-Host : lavalink1.oryzen.xyz
-Port : 1481
-Password : "discord.gg/6xpF6YqVDd"
-Secure : false
-```
-
-Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-```bash
-Host : lavalink2.oryzen.xyz
-Port : 1317
-Password : "discord.gg/6xpF6YqVDd"
 Secure : false
 ```
 
