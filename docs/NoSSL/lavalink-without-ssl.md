@@ -7,6 +7,13 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+Hosted by @ [Asraf](https://discord.gg/h2zAfj5ZWt)
+```bash
+Host : 193.31.31.111
+Port : 25227
+Password : "MusiWithME"
+Secure : false
+```
 
 Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
@@ -14,7 +21,7 @@ Host : lavalink.oryzen.xyz
 Port : 1262
 Password : "discord.gg/6xpF6YqVDd"
 Secure : false
-```
+``` 
 
 Hosted by @ [Darren](https://discord.glasshost.net)
 ```bash
