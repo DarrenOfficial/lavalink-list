@@ -316,10 +316,3 @@ Port : 25893
 Password : "discord.gg/NBT5bsgCND"
 Secure : false
 ```
-Hosted by @ [Lights.out.#0](https://discord.gg/AaZasMN3yG)
-```bash
-Host : 194.233.70.96
-Port : 24036
-Password : "discord.gg/B7hnbtcDPm"
-Secure : false
-```
