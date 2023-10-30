@@ -26,10 +26,8 @@ theme:
   logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
   include_search_page: false
   search_index_only: true
-
-  font:
-    text: "Red Hat Text"
-    code: "Roboto Mono"
+  theme:
+  font: false
   favicon:
     'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
   features:
