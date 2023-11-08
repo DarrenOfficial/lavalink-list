@@ -18,6 +18,14 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+### Hosted by @ [Asraf](https://discord.gg/h2zAfj5ZWt)
+```bash
+Host : 193.31.31.111
+Port : 25234
+Password : "Musi"
+Secure : false
+```
+
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
