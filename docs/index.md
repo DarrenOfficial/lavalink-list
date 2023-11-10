@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">lavalink list</h1>
 
   <p align="center">
