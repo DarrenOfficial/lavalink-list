@@ -7,7 +7,13 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
-
+### Hosted by @ [itzExtinct7](https://youtube.com/@ItzExtinct7?si=0Wj-ayF6VLinxpuo)
+```bash
+Host : 78.46.39.20
+Port : 6950
+Password : "youshallnotpass"
+Secure : false
+```
 
 ### Hosted by @ [Darren](https://discord.glasshost.net)
 See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
