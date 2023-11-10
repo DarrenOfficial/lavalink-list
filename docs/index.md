@@ -1,4 +1,4 @@
-<h1 align="center">lavalink list</h3>
+<h1 align="center">lavalink list</h1>
 
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
