@@ -1,9 +1,4 @@
-<div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://cdn.darrennathanael.com/assets/lavalinklist/lavalinklist.jpg" alt="Logo">
-  </a>
-
-<h3 align="center">lavalink list</h3>
+<h1 align="center">lavalink list</h3>
 
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
