@@ -1,9 +1,5 @@
 <div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://blog.darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
-  </a>
-
-<h3 align="center">lavalink list</h3>
+<h1 align="center">lavalink list</h1>
 
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!

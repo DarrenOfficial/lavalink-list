@@ -7,7 +7,7 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 
-Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+### Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
 Host : lava1.horizxon.tech
 Port : 443
@@ -15,7 +15,7 @@ Password : "horizxon.tech"
 Secure : true
 ```
 
-Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+### Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
 Host : lava2.horizxon.tech
 Port : 443
@@ -23,7 +23,7 @@ Password : "horizxon.tech"
 Secure : true
 ```
 
-Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+### Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
 Host : lava3.horizxon.tech
 Port : 443
@@ -31,23 +31,7 @@ Password : "horizxon.tech"
 Secure : true
 ```
 
-Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
-```bash
-Host : lavalink.lexnet.cc
-Port : 443
-Password : "lexn3tl@val!nk"
-Secure : true
-```
-
-Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
-```bash
-Host : eu-lavalink.lexnet.cc
-Port : 443
-Password : "lexn3tl@val!nk"
-Secure : true
-```
-
-Hosted by @ [Nep#0028](https://github.com/neptalu0)
+### Hosted by @ [Nep#0028](https://github.com/neptalu0)
 ```bash
 Host : suki.nathan.to
 Port : 443
@@ -55,7 +39,23 @@ Password : "adowbongmanacc"
 Secure : true
 ```
 
-Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : lavalink.lexnet.cc
+Port : 443
+Password : "lexn3tl@val!nk"
+Secure : true
+```
+
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : eu-lavalink.lexnet.cc
+Port : 443
+Password : "lexn3tl@val!nk"
+Secure : true
+```
+
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 ```bash
 Host : oce-lavalink.lexnet.cc
 Port : 443
@@ -63,7 +63,7 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-Hosted by @ [OrdinaryEnder](https://github.com/OrdinaryEnder)
+### Hosted by @ [OrdinaryEnder](https://github.com/OrdinaryEnder)
 ```bash
 Host : lavalink.ordinaryender.my.eu.org
 Port : 443
@@ -71,7 +71,7 @@ Password : ordinarylavalink
 Secure : true
 ```
 
-Hosted by @ [JustAPie](https://github.com/justapieop)
+### Hosted by @ [JustAPie](https://github.com/justapieop)
 ```bash
 Host : lavalink.justapie.net
 Port : 443
