@@ -23,7 +23,8 @@ Port : 2269
 Password : "glasshost1984"
 Secure : false
 ```
-### Hosted by @ [SyGSys](https://rintwo.site/)
+### Hosted by @ [SyGSys](https://rintwo.site/) Lavalink Version 3.7.9
+Support: Soundcluod/Youtube/YoutubeMusic/Spotify
 ```bash
 Host : fi1.bot-hosting.net
 Port : 6964
