@@ -10,7 +10,7 @@ description: Without SSL should work out of the box!
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
-Port : 1262
+Port : 80
 Password : "discord.gg/6xpF6YqVDd"
 Secure : false
 ```
