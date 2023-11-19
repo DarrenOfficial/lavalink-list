@@ -29,7 +29,7 @@ Support: Youtube/Spotify/YoutubeMusic
 ```bash
 Host : fi1.bot-hosting.net
 Port : 5345
-Password : "sygsys-https://discord.gg/m86ZafUWvs"
+Password : "sygsys-lavalink-v3.7.9"
 Secure : false
 ```
 
