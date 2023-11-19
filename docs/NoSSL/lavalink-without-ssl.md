@@ -24,6 +24,15 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+### Hosted by @ [SyGSys](https://discord.gg/m86ZafUWvs)
+Support: Youtube/Spotify/YoutubeMusic
+```bash
+Host : fi1.bot-hosting.net
+Port : 5345
+Password : "sygsys-https://discord.gg/m86ZafUWvs"
+Secure : false
+```
+
 ### Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
 ```bash
 Host : lava.horizxon.tech
