@@ -7,6 +7,14 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+```bash
+Host : lavalink.oryzen.xyz
+Port : 80
+Password : "discord.gg/6xpF6YqVDd"
+Secure : false
+```
+
 ### Hosted by @ [itzExtinct7](https://youtube.com/@ItzExtinct7?si=0Wj-ayF6VLinxpuo)
 ```bash
 Host : 78.46.39.20
