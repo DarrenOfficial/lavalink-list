@@ -104,3 +104,11 @@ Port : 6023
 Password : "discord.gg/CMENnZSuj3"
 Secure : false
 ```
+
+### Hosted by @ [blubsyy](https://discord.gg/zenithbot)
+```bash
+Host : 185.255.5.126
+Port : 5533
+Password : "blubpubliclava"
+Secure : false
+```
