@@ -101,7 +101,7 @@ Secure : false
 ```bash
 Host : lavalink.sillydev.co.uk
 Port : 6023
-Password : "discord.gg/CMENnZSuj3"
+Password : "discord.gg/sillydev"
 Secure : false
 ```
 
