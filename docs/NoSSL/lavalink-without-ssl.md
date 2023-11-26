@@ -11,7 +11,7 @@ description: Without SSL should work out of the box!
 ```bash
 Host : lavalink.oryzen.xyz
 Port : 80
-Password : "discord.gg/6xpF6YqVDd"
+Password : "oryzen.xyz"
 Secure : false
 ```
 
