@@ -31,12 +31,13 @@ Port : 2269
 Password : "glasshost1984"
 Secure : false
 ```
-### Hosted by @ [SyGSys](https://rintwo.site/) Lavalink Version 3.7.9
-Support: Soundcluod/Youtube/YoutubeMusic/Spotify
+
+### Hosted by @ [SyGSys](https://discord.gg/m86ZafUWvs)
+Support: Youtube/Spotify/YoutubeMusic
 ```bash
 Host : fi1.bot-hosting.net
-Port : 6964
-Password : "sygsys-lavalink-v3"
+Port : 5345
+Password : "sygsys-https://discord.gg/m86ZafUWvs"
 Secure : false
 ```
 
@@ -100,6 +101,14 @@ Secure : false
 ```bash
 Host : lavalink.sillydev.co.uk
 Port : 6023
-Password : "discord.gg/CMENnZSuj3"
+Password : "discord.gg/sillydev"
+Secure : false
+```
+
+### Hosted by @ [blubsyy](https://discord.gg/zenithbot)
+```bash
+Host : 185.255.5.126
+Port : 5533
+Password : "blubpubliclava"
 Secure : false
 ```
