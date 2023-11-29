@@ -7,6 +7,16 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+
+### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
+This is a V4-Beta Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
+```bash
+Host : lava-v4.sirplancake.dev
+Port : 2333
+Password : "KBjV?Cs>#B!>pcEZa?yc1%Vy"
+Secure : false
+```
+
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
