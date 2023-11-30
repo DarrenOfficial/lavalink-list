@@ -9,7 +9,16 @@ description: Without SSL should work out of the box!
 ---
 
 ### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
-This is a V4-Beta Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
+This is a V3 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
+```bash
+Host : lava-v3.sirplancake.dev
+Port : 2334
+Password : "e0krPn7)yX<@j=REb!x?dWtY"
+Secure : false
+```
+
+### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
+This is a V4 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
 ```bash
 Host : lava-v4.sirplancake.dev
 Port : 2333
