@@ -131,3 +131,11 @@ Port : 5533
 Password : "blubpubliclava"
 Secure : false
 ```
+
+### Hosted by @ [Guardian Cloud Services](https://botlist.lol/discord)
+```bash
+Host : cloud.guardianbots.xyz
+Port : 1035
+Password : youshallnotpass
+Secure : false
+```
