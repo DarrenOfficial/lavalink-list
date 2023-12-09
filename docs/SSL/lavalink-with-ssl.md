@@ -70,11 +70,3 @@ Port : 443
 Password : ordinarylavalink
 Secure : true
 ```
-
-### Hosted by @ [JustAPie](https://github.com/justapieop)
-```bash
-Host : lavalink.justapie.net
-Port : 443
-Password : pieajust12@XyZ
-Secure : true
-```
