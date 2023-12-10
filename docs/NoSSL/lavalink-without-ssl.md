@@ -134,8 +134,8 @@ Secure : false
 
 ### Hosted by @ [Guardian Cloud Services](https://botlist.lol/discord)
 ```bash
-Host : cloud.guardianbots.xyz
-Port : 1035
-Password : youshallnotpass
+Host : nyc1.guardiancloud.xyz
+Port : 10002
+Password : GuardianCloudServices
 Secure : false
 ```
