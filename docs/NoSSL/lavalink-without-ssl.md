@@ -139,3 +139,11 @@ Port : 10002
 Password : GuardianCloudServices
 Secure : false
 ```
+
+### Hosted by @ [ZestfulDevs](https://discord.com/invite/W4gFEYvrG9)
+```bash
+Host : free-2.witchly.cloud
+Port : 25709
+Password : "ZestfulDevs"
+Secure : false
+```
