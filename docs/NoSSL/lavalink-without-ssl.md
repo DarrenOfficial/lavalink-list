@@ -7,6 +7,13 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
+### Hosted by @ [MINMIN](https://minimiix.com)
+```bash
+Host : lavalink.minimiix.com
+Port : 2444
+Password : "helloiamhere"
+Secure : false
+```
 
 ### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
 This is a V3 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
