@@ -15,6 +15,14 @@ Password : "helloiamhere"
 Secure : false
 ```
 
+### Hosted by @ [MINMIN](https://minimiix.com)
+```bash
+Host : lavalink2.minimiix.com
+Port : 2333
+Password : "https://discord.gg/dcsummer"
+Secure : false
+```
+
 ### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
 This is a V3 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
 ```bash
