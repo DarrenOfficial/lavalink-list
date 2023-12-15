@@ -130,6 +130,13 @@ Port : 6023
 Password : "discord.gg/sillydev"
 Secure : false
 ```
+### Hosted by @ [Gamer3514](https://sillydev.co.uk)
+```bash
+Host : 45.92.216.67
+Port : 6040
+Password : "discord.gg/sillydev"
+Secure : false
+```
 
 ### Hosted by @ [blubsyy](https://discord.gg/zenithbot)
 ```bash
