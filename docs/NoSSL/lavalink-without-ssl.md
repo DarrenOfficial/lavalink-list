@@ -138,6 +138,14 @@ Secure : false
 
 ### Hosted by @ [ZestfulDevs](https://discord.com/invite/W4gFEYvrG9)
 ```bash
+Host : 65.21.125.102
+Port : 25731
+Password : "ZestfulDevs"
+Secure : false
+```
+
+### Hosted by @ [ZestfulDevs](https://discord.com/invite/W4gFEYvrG9)
+```bash
 Host : 128.254.225.84
 Port : 2218
 Password : "ZestfulDevs"
@@ -148,14 +156,6 @@ Secure : false
 ```bash
 Host : 128.254.225.84
 Port : 1317
-Password : "ZestfulDevs"
-Secure : false
-```
-
-### Hosted by @ [ZestfulDevs](https://discord.com/invite/W4gFEYvrG9)
-```bash
-Host : 65.21.125.102
-Port : 25731
 Password : "ZestfulDevs"
 Secure : false
 ```
