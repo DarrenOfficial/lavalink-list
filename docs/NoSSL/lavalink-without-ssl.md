@@ -15,24 +15,6 @@ Password : "helloiamhere"
 Secure : false
 ```
 
-### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
-This is a V3 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
-```bash
-Host : lava-v3.sirplancake.dev
-Port : 2334
-Password : "e0krPn7)yX<@j=REb!x?dWtY"
-Secure : false
-```
-
-### Hosted by @ [SirPlancake](https://discord.gg/cYAUHdznTJ)
-This is a V4 Lavalink. See status here -> [status.sirplancake.dev](https://status.sirplancake.dev/)
-```bash
-Host : lava-v4.sirplancake.dev
-Port : 2333
-Password : "KBjV?Cs>#B!>pcEZa?yc1%Vy"
-Secure : false
-```
-
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 ```bash
 Host : lavalink.oryzen.xyz
