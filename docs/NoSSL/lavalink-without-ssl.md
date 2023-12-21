@@ -143,3 +143,11 @@ Port : 25709
 Password : "ZestfulDevs"
 Secure : false
 ```
+
+### Hosted by @ [Gamer3514](https://sillydev.co.uk)
+```bash
+Host : 45.92.216.47
+Port : 6002
+Password : "discord.gg/sillydev"
+Secure : false
+```
