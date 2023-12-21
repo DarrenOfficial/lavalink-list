@@ -120,10 +120,10 @@ Password : "discord.gg/sillydev"
 Secure : false
 ```
 
-### Hosted by @ [blubsyy](https://discord.gg/zenithbot)
+### Hosted by @ [blubsyy](https://discord.gg/pHMcvpsbme)
 ```bash
 Host : 185.255.5.126
-Port : 5533
+Port : 5500
 Password : "blubpubliclava"
 Secure : false
 ```
