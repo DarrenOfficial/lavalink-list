@@ -20,7 +20,7 @@ Secure : true
 ```
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
-Version 3.?
+Version 3.7.10
 ```bash
 Host : lavalink.lexnet.cc
 Port : 443
@@ -28,7 +28,7 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-Version 3.?
+Version 3.7.10
 ```bash
 Host : eu-lavalink.lexnet.cc
 Port : 443
@@ -36,7 +36,7 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-Version 3.?
+Version 3.7.10
 ```bash
 Host : oce-lavalink.lexnet.cc
 Port : 443
