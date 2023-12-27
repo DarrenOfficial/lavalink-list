@@ -151,3 +151,27 @@ Port : 6002
 Password : "discord.gg/sillydev"
 Secure : false
 ```
+
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : lavalink.lexnet.cc
+Port : 2333
+Password : "lexn3tl@val!nk"
+Secure : false
+```
+
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : eu-lavalink.lexnet.cc
+Port : 2333
+Password : "lexn3tl@val!nk"
+Secure : false
+```
+
+### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
+```bash
+Host : oce-lavalink.lexnet.cc
+Port : 2333
+Password : "lexn3tl@val!nk"
+Secure : false
+```
