@@ -166,3 +166,12 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
+
+### Hosted by @ [Lunes.host](https://lunes.host)
+Version 4.?
+```bash
+Host : 4.227.181.218
+Port : 27905
+Password : "luneshost"
+Secure : false
+```
