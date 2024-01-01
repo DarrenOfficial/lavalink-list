@@ -161,8 +161,16 @@ Secure : false
 
 Version 3.?
 ```bash
-Host : oce-lavalink.lexnet.cc
-Port : 2333
-Password : "lexn3tl@val!nk"
+Host : node2.alfari.id
+Port : 6010
+Password : "youshallnotpass"
+Secure : false
+```
+
+Version 3.7.9
+```bash
+Host : node2.alfari.id
+Port : 6013
+Password : "youshallnotpass"
 Secure : false
 ```
