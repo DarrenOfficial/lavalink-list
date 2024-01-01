@@ -168,7 +168,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Lunes.host](https://lunes.host)
-Version 4.?
+Version 4.0.0
 ```bash
 Host : 4.227.181.218
 Port : 27905
