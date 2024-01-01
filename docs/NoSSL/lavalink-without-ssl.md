@@ -7,33 +7,6 @@ description: Without SSL should work out of the box!
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
 ---
-### Hosted by @ [MINMIN](https://minimiix.com)
-Version 3.?
-```bash
-Host : lavalink.minimiix.com
-Port : 2444
-Password : "helloiamhere"
-Secure : false
-```
-
-### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 3.?
-```bash
-Host : lavalink.oryzen.xyz
-Port : 80
-Password : "oryzen.xyz"
-Secure : false
-```
-
-### Hosted by @ [itzExtinct7](https://youtube.com/@ItzExtinct7?si=0Wj-ayF6VLinxpuo)
-Version 3.?
-
-```bash
-Host : 78.46.39.20
-Port : 6950
-Password : "youshallnotpass"
-Secure : false
-```
 
 ### Hosted by @ [Darren](https://discord.glasshost.net)
 Version 3.7.9 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
@@ -44,21 +17,12 @@ Password : "glasshost1984"
 Secure : false
 ```
 
-### Hosted by @ [SyGSys](https://discord.gg/m86ZafUWvs)
-Version 3.? \ Support: Youtube/Spotify/YoutubeMusic
-```bash
-Host : fi1.bot-hosting.net
-Port : 5345
-Password : "sygsys-https://discord.gg/m86ZafUWvs"
-Secure : false
-```
-
-### Hosted by @ [Draxler#9555](https://status.horizxon.xyz/)
+### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Version 3.?
 ```bash
-Host : lava.horizxon.tech
+Host : lavalink.oryzen.xyz
 Port : 80
-Password : "horizxon.tech"
+Password : "oryzen.xyz"
 Secure : false
 ```
 
@@ -89,14 +53,6 @@ Password : "AWP)JQ$Gv9}dm.u"
 Secure : false
 ```
 
-### Hosted by @ [Clxud](https://discord.gg/r64qjTSHG8)
-Version 3.?
-```bash
-Host : lavalink.clxud.dev
-Port: 2333
-Password : "youshallnotpass"
-Secure : false
-```
 
 ### Hosted by @ [Derpy](https://weedcloud.pro)
 Version 3.?
