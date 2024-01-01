@@ -159,7 +159,8 @@ Password : "lexn3tl@val!nk"
 Secure : false
 ```
 
-Version 3.?
+### Hosted by @ [weiss_owl_](https://discord.alfari.id)
+Version 3.7.9
 ```bash
 Host : node2.alfari.id
 Port : 6010
