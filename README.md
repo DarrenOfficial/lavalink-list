@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
-  </a>
-
 <h3 align="center">Lavalink List</h3>
 
   <p align="center">
