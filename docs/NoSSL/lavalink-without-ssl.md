@@ -8,6 +8,12 @@ description: Without SSL should work out of the box!
 
 ---
 
+!!! note
+
+    Want to see the uptime of these lavalink? check out
+    [Lavalink List Status](https://uptime-is.darrennathanael.com/status/lavalink-servers){ .md-button } 
+
+
 ### Hosted by @ [Darren](https://discord.glasshost.net)
 Version 3.7.9 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
 ```bash
