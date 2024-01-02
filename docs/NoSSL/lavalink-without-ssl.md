@@ -10,7 +10,7 @@ description: Without SSL should work out of the box!
 
 !!! note
 
-    Want to see the uptime of these lavalink? check out
+    Want to see the uptime of these lavalink? Check out 
     [Lavalink List Status](https://uptime-is.darrennathanael.com/status/lavalink-servers){ .md-button } 
 
 
