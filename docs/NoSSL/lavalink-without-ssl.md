@@ -15,7 +15,7 @@ description: Without SSL should work out of the box!
 
 
 ### Hosted by @ [Darren](https://discord.glasshost.net)
-Version 3.7.9 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
+Version 4.0.0 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
 ```bash
 Host : n1.ll.darrennathanael.com
 Port : 2269
