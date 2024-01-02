@@ -8,7 +8,10 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 
 ---
 
+!!! note
 
+    Want to see the uptime of these lavalink? Check out 
+    [Lavalink List Status](https://uptime-is.darrennathanael.com/status/lavalink-servers){ .md-button } 
 
 ### Hosted by @ [Nep#0028](https://github.com/neptalu0)
 Version 3.? \ Repl.it Hacker Cluster
