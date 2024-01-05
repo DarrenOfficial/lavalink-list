@@ -23,6 +23,15 @@ Password : "glasshost1984"
 Secure : false
 ```
 
+### Hosted by @ [Jirayu](https://jirayu.pw)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/96e2c79c284455a047cd9a27344ec5df/)
+```bash
+Host : lavalink.jirayu.pw
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Version 3.?
 ```bash
