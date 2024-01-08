@@ -90,16 +90,8 @@ Secure : false
 
 Version 4.?
 ```bash
-Host : 45.92.216.67
+Host : 95.214.180.27
 Port : 6040
-Password : "discord.gg/sillydev"
-Secure : false
-```
-
-Version 4.?
-```bash
-Host : 45.92.216.47
-Port : 6002
 Password : "discord.gg/sillydev"
 Secure : false
 ```
