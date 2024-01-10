@@ -133,16 +133,16 @@ Secure : false
 ### Hosted by @ [weiss_owl_](https://discord.alfari.id)
 Version 3.7.9
 ```bash
-Host : node2.alfari.id
-Port : 6010
+Host : bali.weissx.com
+Port : 14007
 Password : "youshallnotpass"
 Secure : false
 ```
 
 Version 3.7.9
 ```bash
-Host : node2.alfari.id
-Port : 6013
+Host : bali.weissx.com
+Port : 14000
 Password : "youshallnotpass"
 Secure : false
 ```
