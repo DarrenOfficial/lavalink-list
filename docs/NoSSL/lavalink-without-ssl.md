@@ -24,10 +24,18 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/96e2c79c284455a047cd9a27344ec5df/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+```bash
+Host : lavalink.jirayu.pw
+Port : 2343
 Password : "youshallnotpass"
 Secure : false
 ```
