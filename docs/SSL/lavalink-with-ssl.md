@@ -37,3 +37,14 @@ Port : 443
 Password : "lexn3tl@val!nk"
 Secure : true
 ```
+
+### Hosted by Nep
+Version 3.7.8
+
+Check uptime [here](https://xiaoer.info.gf/status/node)
+```bash
+Host : lavalink.pii.at
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
