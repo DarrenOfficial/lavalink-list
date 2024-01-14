@@ -146,3 +146,11 @@ Port : 14000
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [It'z Zoldy](https://youtu.be/dQw4w9WgXcQ?si=hmMdHGbt817cxH6W)
+Version 4.0.0 \ Thanks in advance for choosing my server!
+```bash
+IP : 139.99.124.43
+Port : 7784
+Password : "PasswordIsZoldy"
+```
