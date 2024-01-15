@@ -5,9 +5,14 @@ mkdocs
 mkdocs-material
 pygments
 pymdown-extensions
+markdown-meta-extension
 
 # Requirements for plugins
 babel
 colorama
 paginate
 regex
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-minify-plugin
+mkdocs-toc-sidebar-plugin
