@@ -2,7 +2,7 @@
 jinja2
 markdown
 mkdocs
-mkdocs-material-extensions
+mkdocs-material
 pygments
 pymdown-extensions
 
