@@ -8,20 +8,12 @@ description: Without SSL should work out of the box!
 
 ---
 
-!!! note
 
-    Want to see the uptime of these lavalink? Check out 
-    [Lavalink List Status](https://uptime-is.darrennathanael.com/status/lavalink-servers){ .md-button } 
+???+ danger "v4 is not backwards compatible with v3."
 
+    v4 introduce a breaking changes that affects all library that are using v3 API.
+    You must update your bot library to support v4!
 
-### Hosted by @ [Darren](https://discord.glasshost.net)
-Version 4.0.0 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
-```bash
-Host : n1.ll.darrennathanael.com
-Port : 2269
-Password : "glasshost1984"
-Secure : false
-```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
 Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)

@@ -31,6 +31,9 @@ These lavalink hosts are grouped into two different categories.
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
 
 
+Special thanks to those that host lavalink; if you host a lavalink server for your bot and would like to share it with the community, please share it here! Simply open a pull request.
+
+We love you <3
 
 ### Hosting guide:
 

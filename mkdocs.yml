@@ -8,26 +8,15 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 
 theme:
+  name: material
   palette:
-    - scheme: slate
-      primary: 'black'
-      accent: 'green'
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
-    - scheme: default
-      primary: 'teal'
-      accent: 'green'
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-  name: 'material'
+    primary: black
+    accent: deep orange
+    scheme: slate
   custom_dir: overrides
   logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
   include_search_page: false
   search_index_only: true
-  theme:
-  font: false
   favicon:
     'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
   features:
@@ -43,6 +32,9 @@ theme:
     - navigation.tabs
     - search.highlight
     - search.suggest
+    - attr_list
+    - def_list
+    - footnotes
 markdown_extensions:
   - meta
   - admonition
@@ -71,6 +63,10 @@ extra:
 copyright: 'Copyright &copy; Darren Nathanael'
 plugins:
   - search
+  - tags
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
   # - toc-sidebar
   - minify:
       minify_html: true
