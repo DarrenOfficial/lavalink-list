@@ -15,4 +15,4 @@ regex
 mkdocs-git-authors-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-minify-plugin
-mkdocs-toc-sidebar-plugin
+pymdown-extensions
