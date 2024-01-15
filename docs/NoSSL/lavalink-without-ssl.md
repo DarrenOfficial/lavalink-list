@@ -148,11 +148,12 @@ Secure : false
 ```
 
 ### Hosted by @ [It'z Zoldy](https://discord.gg/CUT7JpK9HF)
-Version 4.0.0 \ Java 17.0.4 \ 6 CPU Cores \ 7 Sources \ 3 Plugins
+Version 4.0.0 \ Java 17.0.4 \ Lavaplayer 2.0.4 \ 6 CPU Cores \ 21 Sources \ 3 Plugins
 ```bash
 IP : 139.99.124.96
 Port : 7778
 Password : "PasswordIsZoldy"
+Secure : false
 ```
 
 Version 4.0.0 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & Give Us Suggestions!
@@ -160,4 +161,5 @@ Version 4.0.0 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay
 IP : 139.99.124.43
 Port : 7784
 Password : "PasswordIsZoldy"
+Secure : false
 ```
