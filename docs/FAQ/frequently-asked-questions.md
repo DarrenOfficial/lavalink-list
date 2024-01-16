@@ -26,9 +26,6 @@ Contact ads@darrennathanael.com, pricing starts at 2$ per day, bulk discount if 
 SSL Uses Secure WS connection, whilst No SSL uses standard WS.
 Tho, if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 
-### Why Spring boot logo?
-
-Because lavalink is made using springboot.
 
 ### How can I share my server?
 
@@ -49,6 +46,7 @@ Version ?.? \ Some additional Info (and/or contact info)
 Host / IP : 192.168.0.1 or lavalink.example.com
 Port : 6969
 Password : "somepasswordhere"
+Secure : "True"
 ```
 
 

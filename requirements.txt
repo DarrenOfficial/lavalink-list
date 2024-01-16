@@ -1,6 +1,18 @@
-jinja2<3.1
+# Requirements for core
+jinja2
+markdown
 mkdocs
-mkdocs-material<9.2.5
+mkdocs-material
+pygments
+pymdown-extensions
 markdown-meta-extension
+
+# Requirements for plugins
+babel
+colorama
+paginate
+regex
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
 mkdocs-minify-plugin
-mkdocs-toc-sidebar-plugin
+pymdown-extensions

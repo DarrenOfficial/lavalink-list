@@ -8,26 +8,26 @@ description: Without SSL should work out of the box!
 
 ---
 
-!!! note
 
-    Want to see the uptime of these lavalink? Check out 
-    [Lavalink List Status](https://uptime-is.darrennathanael.com/status/lavalink-servers){ .md-button } 
+???+ danger "v4 is not backwards compatible with v3."
 
+    v4 introduce a breaking changes that affects all library that are using v3 API.
+    You must update your bot library to support v4!
 
-### Hosted by @ [Darren](https://discord.glasshost.net)
-Version 4.0.0 \ See live stats of bandwidth here -> [s1.ll.darrennathanael.com](https://s1.ll.darrennathanael.com/)
-```bash
-Host : n1.ll.darrennathanael.com
-Port : 2269
-Password : "glasshost1984"
-Secure : false
-```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/96e2c79c284455a047cd9a27344ec5df/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+```bash
+Host : lavalink.jirayu.pw
+Port : 2343
 Password : "youshallnotpass"
 Secure : false
 ```
@@ -136,5 +136,22 @@ Version 3.7.9
 Host : bali.weissx.com
 Port : 14000
 Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [It'z Zoldy](https://discord.gg/CUT7JpK9HF)
+Version 4.0.0 \ Java 17.0.4 \ Lavaplayer 2.0.4 \ 6 CPU Cores \ 21 Sources \ 3 Plugins
+```bash
+IP : 139.99.124.96
+Port : 7778
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
+Version 4.0.0 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & Give Us Suggestions!
+```bash
+IP : 139.99.124.43
+Port : 7784
+Password : "PasswordIsZoldy"
 Secure : false
 ```
