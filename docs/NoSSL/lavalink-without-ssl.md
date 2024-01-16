@@ -131,10 +131,10 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.9
+Version 4.0.0 \ Plugins LavaSrc
 ```bash
 Host : bali.weissx.com
-Port : 14000
+Port : 14080
 Password : "youshallnotpass"
 Secure : false
 ```
