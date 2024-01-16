@@ -16,7 +16,7 @@ description: Without SSL should work out of the box!
 ### Hosted by @ [Growtoups](https://micium-hosting.com)
 Version 3.7.10
 ```bash
-Host : lavalink.micium=hosting.com
+Host : lavalink.micium-hosting.com
 Port : 80
 Password : "micium-hosting.com"
 Secure : false
