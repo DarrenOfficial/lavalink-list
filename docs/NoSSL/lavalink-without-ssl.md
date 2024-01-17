@@ -13,7 +13,14 @@ description: Without SSL should work out of the box!
 
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
-
+### Hosted by @ [Growtoups](https://micium-hosting.com)
+Version 3.7.10
+```bash
+Host : lavalink.micium-hosting.com
+Port : 80
+Password : "micium-hosting.com"
+Secure : false
+```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
 Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
