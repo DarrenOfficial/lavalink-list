@@ -8,6 +8,8 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 
 theme:
+  font:
+    text: Nunito Sans
   name: material
   palette:
     primary: black
