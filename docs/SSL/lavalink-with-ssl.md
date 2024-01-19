@@ -21,7 +21,7 @@ Version 3.7.10
 [Discord Server](https://www.teramont.net/discord)
 ```bash
 Host: lavalink.teramont.net
-Port : 25565
+Port : 443
 Password : "eHKuFcz67k4lBS64"
 Secure : "True"    
 ```
