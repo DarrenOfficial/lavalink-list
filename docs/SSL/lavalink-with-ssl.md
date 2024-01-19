@@ -15,6 +15,17 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [Teramont Host](https://www.teramont.net/)
+Version 3.7.10
+
+[Discord Server](https://www.teramont.net/discord)
+```bash
+Host: lavalink.teramont.net
+Port : 25565
+Password : "eHKuFcz67k4lBS64"
+Secure : "True"    
+```
+
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 Version 3.7.10
 ```bash
