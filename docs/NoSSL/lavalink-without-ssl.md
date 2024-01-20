@@ -16,6 +16,18 @@ description: Without SSL should work out of the box!
 
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
+
+### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
+Version 4.0.0
+
+[Discord Server](https://discord.gg/creavite)
+```bash
+Host: us1.lavalink.creavite.co
+Port : 20080
+Password : "auto.creavite.co"
+Secure : "False"    
+```
+    
 ### Hosted by @ [Teramont Host](https://www.teramont.net/)
 Version 3.7.10
 
