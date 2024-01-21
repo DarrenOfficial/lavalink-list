@@ -66,9 +66,18 @@ Secure : false
 ```
 
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 3.?
+Version 4.0.0
 ```bash
-Host : lavalink.oryzen.xyz
+Host : lavalink-v4.oryzen.xyz
+Port : 80
+Password : "oryzen.xyz"
+Secure : false
+```
+
+### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+Version 3.7.10
+```bash
+Host : lavalink-v3.oryzen.xyz
 Port : 80
 Password : "oryzen.xyz"
 Secure : false
