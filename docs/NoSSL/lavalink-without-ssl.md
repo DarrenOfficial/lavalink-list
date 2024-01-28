@@ -17,6 +17,23 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [It'z Zoldy⚡](https://discord.gg/CUT7JpK9HF)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : 139.99.124.43
+Port : 7784
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
+Version 3.7.10 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & To Give Us Suggestions!
+```bash
+IP : 139.99.124.43
+Port : 7779
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
 
@@ -178,22 +195,5 @@ Version 4.0.0 \ Plugins LavaSrc
 Host : bali.weissx.com
 Port : 14080
 Password : "youshallnotpass"
-Secure : false
-```
-
-### Hosted by @ [It'z Zoldy](https://discord.gg/CUT7JpK9HF)
-Version 4.0.0 \ 20 Sources \ 3 Plugins
-```bash
-IP : 139.99.124.43
-Port : 7780
-Password : "PasswordIsZoldy"
-Secure : false
-```
-
-Version 4.0.0 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & Give Us Suggestions!
-```bash
-IP : 139.99.124.43
-Port : 7784
-Password : "PasswordIsZoldy"
 Secure : false
 ```
