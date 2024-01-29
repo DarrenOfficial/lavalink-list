@@ -61,3 +61,12 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted by @ [alfari.id](https://discord.alfari.id)
+Version 4.0.0 \ Plugins LavaSrc
+```bash
+Host : lava.alfari.id
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
