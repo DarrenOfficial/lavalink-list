@@ -1,4 +1,4 @@
-<h3 align="center">Lavalink List</h3>
+<h1 align="center">Lavalink List</h3>
 
   <p align="center">
     For quality control I checked on these servers per weekly basis, if the lavalink is offline / unreachable it will be removed.

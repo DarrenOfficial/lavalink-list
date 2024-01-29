@@ -3,6 +3,9 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
+<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Lavalink without SSL</h1>
+
+
 <!-- inject image ad -->
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
 
@@ -14,6 +17,53 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [It'z Zoldy⚡](https://discord.gg/CUT7JpK9HF)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : 139.99.124.43
+Port : 7784
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
+Version 3.7.10 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & To Give Us Suggestions!
+```bash
+IP : 139.99.124.43
+Port : 7779
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
+### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
+Version 4.0.0
+
+[Discord Server](https://discord.gg/creavite)
+```bash
+Host: us1.lavalink.creavite.co
+Port : 20080
+Password : "auto.creavite.co"
+Secure : "False"    
+```
+    
+### Hosted by @ [Teramont Host](https://www.teramont.net/)
+Version 3.7.10
+
+[Discord Server](https://www.teramont.net/discord)
+```bash
+Host: lavalink.teramont.net
+Port : 25565
+Password : "eHKuFcz67k4lBS64"
+Secure : "False"    
+```
+    
+### Hosted by @ [Growtoups](https://micium-hosting.com)
+Version 3.7.10
+```bash
+Host : lavalink.micium-hosting.com
+Port : 80
+Password : "micium-hosting.com"
+Secure : false
+```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
 Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
@@ -33,9 +83,18 @@ Secure : false
 ```
 
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 3.?
+Version 4.0.0
 ```bash
-Host : lavalink.oryzen.xyz
+Host : lavalink-v4.oryzen.xyz
+Port : 80
+Password : "oryzen.xyz"
+Secure : false
+```
+
+### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+Version 3.7.10
+```bash
+Host : lavalink-v3.oryzen.xyz
 Port : 80
 Password : "oryzen.xyz"
 Secure : false
@@ -136,22 +195,5 @@ Version 4.0.0 \ Plugins LavaSrc
 Host : bali.weissx.com
 Port : 14080
 Password : "youshallnotpass"
-Secure : false
-```
-
-### Hosted by @ [It'z Zoldy](https://discord.gg/CUT7JpK9HF)
-Version 4.0.0 \ Java 17.0.4 \ Lavaplayer 2.0.4 \ 6 CPU Cores \ 21 Sources \ 3 Plugins
-```bash
-IP : 139.99.124.96
-Port : 7778
-Password : "PasswordIsZoldy"
-Secure : false
-```
-
-Version 4.0.0 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & Give Us Suggestions!
-```bash
-IP : 139.99.124.43
-Port : 7784
-Password : "PasswordIsZoldy"
 Secure : false
 ```

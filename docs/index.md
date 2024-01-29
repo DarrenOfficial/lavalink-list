@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">lavalink list</h1>
+<h1 style="font-family:Nunito Sans;font-size: 2.5em;font-weight: bold;color: white;">Lavalink List</h1>
 
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
@@ -39,7 +39,8 @@ We love you <3
 
 For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
 
-Repl.it users [repl.it/github/DarrenOfficial/lavalink-replit](https://repl.it/github/DarrenOfficial/lavalink-replit)
+<!-- Temporary removal -->
+<!-- Repl.it users [repl.it/github/DarrenOfficial/lavalink-replit](https://repl.it/github/DarrenOfficial/lavalink-replit) -->
 
 
 ### TunnelBroker Guide:
