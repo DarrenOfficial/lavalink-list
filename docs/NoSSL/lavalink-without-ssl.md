@@ -180,20 +180,3 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-
-### Hosted by @ [weiss_owl_](https://discord.alfari.id)
-Version 3.7.9
-```bash
-Host : bali.weissx.com
-Port : 14007
-Password : "youshallnotpass"
-Secure : false
-```
-
-Version 4.0.0 \ Plugins LavaSrc
-```bash
-Host : bali.weissx.com
-Port : 14080
-Password : "youshallnotpass"
-Secure : false
-```
