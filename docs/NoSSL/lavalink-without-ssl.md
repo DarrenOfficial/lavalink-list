@@ -199,3 +199,12 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
+
+### Hosted by @ [alfari.id](https://discord.alfari.id)
+Version 4.0.0 \ Plugins LavaSrc
+```bash
+Host : borneo.alfari.id
+Port : 39001
+Password : "youshallnotpass"
+Secure : false
+```
