@@ -83,8 +83,9 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
-
+Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd) <br />
+SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
+ID Server
 ```bash
 Host : localnet-id.ajiehost.rf.gd
 Port : 540
@@ -92,8 +93,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
-
+SG Server
 ```bash
 Host : localnet-sg2.ajiehost.rf.gd
 Port : 50243
