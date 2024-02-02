@@ -26,6 +26,18 @@ Password : "eHKuFcz67k4lBS64"
 Secure : "True"    
 ```
 
+### Hosted by @ [AjieDev](https://github.com/AjieDev)
+Version 3.7.10
+
+Hosted with CloudFlare Tunnel (US) <br />
+For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) and uptime status page: [https://direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
+```bash
+Host: lavalink-localnet.ajieblogs.eu.org
+Port : 443
+Password : "youshallnotpass"
+Secure : "true"    
+```
+
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 Version 3.7.10
 ```bash
