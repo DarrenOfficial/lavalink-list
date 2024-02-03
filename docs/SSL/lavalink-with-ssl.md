@@ -16,9 +16,17 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
     You must update your bot library to support v4!
 
 ### Hosted by @ [Teramont Host](https://www.teramont.net/)
-Version 3.7.10
-
 [Discord Server](https://www.teramont.net/discord)
+
+Version 4.0.0
+```bash
+Host: lavalink-v4.teramont.net
+Port : 443
+Password : "eHKuFcz67k4lBS64"
+Secure : "True"    
+```
+
+Version 3.7.10
 ```bash
 Host: lavalink.teramont.net
 Port : 443
