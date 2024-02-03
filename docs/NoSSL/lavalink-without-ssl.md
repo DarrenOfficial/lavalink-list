@@ -17,6 +17,25 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [Teramont Host](https://www.teramont.net/)
+[Discord Server](https://www.teramont.net/discord)
+
+Version 4.0.0
+```bash
+Host: lavalink-v4.teramont.net
+Port : 25569
+Password : "eHKuFcz67k4lBS64"
+Secure : "False"    
+```
+
+Version 3.7.10
+```bash
+Host: lavalink.teramont.net
+Port : 25565
+Password : "eHKuFcz67k4lBS64"
+Secure : "False"    
+```
+
 ### Hosted by @ [It'z Zoldy⚡](https://discord.gg/CUT7JpK9HF)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
@@ -42,17 +61,6 @@ Version 4.0.0
 Host: us1.lavalink.creavite.co
 Port : 20080
 Password : "auto.creavite.co"
-Secure : "False"    
-```
-    
-### Hosted by @ [Teramont Host](https://www.teramont.net/)
-Version 3.7.10
-
-[Discord Server](https://www.teramont.net/discord)
-```bash
-Host: lavalink.teramont.net
-Port : 25565
-Password : "eHKuFcz67k4lBS64"
 Secure : "False"    
 ```
     
