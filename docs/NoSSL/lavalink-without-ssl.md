@@ -155,10 +155,10 @@ Secure : false
 ```
 
 
-### Hosted by @ [Derpy](https://weedcloud.pro)
-Version 3.?
+### Hosted by @ [bready#4772](https://riseservers.net)
+Version 4.0.0
 ```bash
-Host : us-2.weedcloud.pro
+Host : us-2.riseservers.net
 Port : 2333
 Password : "ilovemonkeys"
 Secure : false
