@@ -17,6 +17,23 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : 139.99.124.43
+Port : 7784
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
+Version 3.7.10 \ Best Open Source Discord [Music Bot](https://github.com/RainyXeon/ByteBlaze) With Song Request Channel & Filters!
+```bash
+IP : 139.99.124.43
+Port : 7779
+Password : "PasswordIsZoldy"
+Secure : false
+```
+
 ### Hosted by @ [Teramont Host](https://www.teramont.net/)
 [Discord Server](https://www.teramont.net/discord)
 
@@ -34,23 +51,6 @@ Host: lavalink.teramont.net
 Port : 25565
 Password : "eHKuFcz67k4lBS64"
 Secure : "False"    
-```
-
-### Hosted by @ [It'z Zoldy⚡](https://discord.gg/CUT7JpK9HF)
-Version 4.0.0 \ 21 Sources \ 7 Plugins
-```bash
-IP : 139.99.124.43
-Port : 7784
-Password : "PasswordIsZoldy"
-Secure : false
-```
-
-Version 3.7.10 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & To Give Us Suggestions!
-```bash
-IP : 139.99.124.43
-Port : 7779
-Password : "PasswordIsZoldy"
-Secure : false
 ```
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
