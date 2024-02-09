@@ -97,7 +97,7 @@ ID Server
 ```bash
 Host : localnet-id.ajiehost.rf.gd
 Port : 540
-Password : "youshallnotpass"
+Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
@@ -105,7 +105,7 @@ SG Server
 ```bash
 Host : localnet-sg2.ajiehost.rf.gd
 Port : 50243
-Password : "youshallnotpass"
+Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
