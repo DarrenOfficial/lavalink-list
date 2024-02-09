@@ -74,7 +74,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
@@ -82,7 +82,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2343
