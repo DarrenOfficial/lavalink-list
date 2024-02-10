@@ -216,3 +216,11 @@ Port : 39001
 Password : "youshallnotpass"
 Secure : false
 ```
+
+Version 3.7.10 \ Plugins LavaSrc
+```bash
+Host : borneo.alfari.id
+Port : 39038
+Password : "youshallnotpass"
+Secure : false
+```
