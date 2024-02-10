@@ -42,7 +42,7 @@ For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/laval
 ```bash
 Host: lavalink-localnet.ajieblogs.eu.org
 Port : 443
-Password : "youshallnotpass"
+Password : "https://dsc.gg/ajidevserver"
 Secure : "true"    
 ```
 
