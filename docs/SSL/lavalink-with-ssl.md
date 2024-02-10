@@ -90,3 +90,11 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+Version 3.7.10 \ Plugins LavaSrc
+```bash
+Host : lava-v3.alfari.id
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
