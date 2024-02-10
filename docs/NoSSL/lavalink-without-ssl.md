@@ -17,7 +17,7 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [It'z Zoldy⚡](https://discord.gg/CUT7JpK9HF)
+### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
 IP : 139.99.124.43
@@ -26,12 +26,31 @@ Password : "PasswordIsZoldy"
 Secure : false
 ```
 
-Version 3.7.10 \ Join Our [Discord Server](https://discord.gg/CUT7JpK9HF) To Stay Updated & To Give Us Suggestions!
+Version 3.7.10 \ Best Open Source Discord [Music Bot](https://github.com/RainyXeon/ByteBlaze) With Song Request Channel & Filters!
 ```bash
 IP : 139.99.124.43
 Port : 7779
 Password : "PasswordIsZoldy"
 Secure : false
+```
+
+### Hosted by @ [Teramont Host](https://www.teramont.net/)
+[Discord Server](https://www.teramont.net/discord)
+
+Version 4.0.0
+```bash
+Host: lavalink-v4.teramont.net
+Port : 25569
+Password : "eHKuFcz67k4lBS64"
+Secure : "False"    
+```
+
+Version 3.7.10
+```bash
+Host: lavalink.teramont.net
+Port : 25565
+Password : "eHKuFcz67k4lBS64"
+Secure : "False"    
 ```
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
@@ -45,17 +64,6 @@ Password : "auto.creavite.co"
 Secure : "False"    
 ```
     
-### Hosted by @ [Teramont Host](https://www.teramont.net/)
-Version 3.7.10
-
-[Discord Server](https://www.teramont.net/discord)
-```bash
-Host: lavalink.teramont.net
-Port : 25565
-Password : "eHKuFcz67k4lBS64"
-Secure : "False"    
-```
-    
 ### Hosted by @ [Growtoups](https://micium-hosting.com)
 Version 3.7.10
 ```bash
@@ -66,7 +74,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
@@ -74,7 +82,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/8ee583cbc3725d27cc8d0134bad5a5ca/)
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2343
@@ -83,21 +91,21 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
-
+Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd) <br />
+SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
+ID Server
 ```bash
 Host : localnet-id.ajiehost.rf.gd
 Port : 540
-Password : "youshallnotpass"
+Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
-
+SG Server
 ```bash
 Host : localnet-sg2.ajiehost.rf.gd
 Port : 50243
-Password : "youshallnotpass"
+Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
@@ -147,10 +155,10 @@ Secure : false
 ```
 
 
-### Hosted by @ [Derpy](https://weedcloud.pro)
-Version 3.?
+### Hosted by @ [bready#4772](https://riseservers.net)
+Version 4.0.0
 ```bash
-Host : us-2.weedcloud.pro
+Host : us-2.riseservers.net
 Port : 2333
 Password : "ilovemonkeys"
 Secure : false

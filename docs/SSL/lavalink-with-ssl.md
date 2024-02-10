@@ -16,14 +16,34 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
     You must update your bot library to support v4!
 
 ### Hosted by @ [Teramont Host](https://www.teramont.net/)
-Version 3.7.10
-
 [Discord Server](https://www.teramont.net/discord)
+
+Version 4.0.0
+```bash
+Host: lavalink-v4.teramont.net
+Port : 443
+Password : "eHKuFcz67k4lBS64"
+Secure : "True"    
+```
+
+Version 3.7.10
 ```bash
 Host: lavalink.teramont.net
 Port : 443
 Password : "eHKuFcz67k4lBS64"
 Secure : "True"    
+```
+
+### Hosted by @ [AjieDev](https://github.com/AjieDev)
+Version 3.7.10
+
+Hosted with CloudFlare Tunnel (US) <br />
+For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) and uptime status page: [https://direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
+```bash
+Host: lavalink-localnet.ajieblogs.eu.org
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : "true"    
 ```
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
