@@ -137,14 +137,20 @@ Secure : false
 ```
 
 ### Hosted by @ [timelessnesses](https://timelessnesses.me)
-Version 3.?
+Version 3.7.10
 ```bash
 Host : lavalink.api.timelessnesses.me
 Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
-
+Version 4.0.3 \ Plugins SponsorBlock, LavaSearch, DuncteBot, XM, Lyrics.kt, LavaDSPX
+```bash
+Host : four.lavalink.api.timelessnesses.me
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
 ### Hosted by @ [melike2d](https://2d.gay)
 Version 4.?
 ```bash
