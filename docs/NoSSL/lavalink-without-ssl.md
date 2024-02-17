@@ -214,19 +214,19 @@ Password : "lexn3tl@val!nk"
 Secure : false
 ```
 
-### Hosted by @ [alfari.id](https://discord.alfari.id)
-Version 4.0.0 \ Plugins LavaSrc
+### Hosted by @ [Weiss Owl](https://discord.alfari.id)
+Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
 ```bash
-Host : borneo.alfari.id
-Port : 39001
-Password : "youshallnotpass"
+Host : catfein.alfari.id
+Port : 30002
+Password : "catfein"
 Secure : false
 ```
 
 Version 3.7.10 \ Plugins LavaSrc
 ```bash
-Host : borneo.alfari.id
-Port : 39038
+Host : catfein.alfari.id
+Port : 30001
 Password : "youshallnotpass"
 Secure : false
 ```
