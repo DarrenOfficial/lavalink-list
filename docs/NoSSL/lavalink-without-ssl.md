@@ -216,18 +216,20 @@ Secure : false
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
+Live Status [here](https://kuma-n-catfein.alfari.id/)
 ```bash
-Host : catfein.alfari.id
-Port : 30002
+Host : lavalink4.alfari.id
+Port : 80
 Password : "catfein"
 Secure : false
 ```
 
 Version 3.7.10 \ Plugins LavaSrc
+Live Status [here](https://kuma-n-catfein.alfari.id/)
 ```bash
-Host : catfein.alfari.id
-Port : 30001
-Password : "youshallnotpass"
+Host : lavalink3.alfari.id
+Port : 80
+Password : "catfein"
 Secure : false
 ```
 
