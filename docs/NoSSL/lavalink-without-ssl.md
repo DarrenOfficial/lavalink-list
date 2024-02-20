@@ -230,3 +230,20 @@ Port : 30001
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : lavalink4.theelf.tech
+Port : 6827
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
+```bash
+IP : lavalink.theelf.tech
+Port : 2873
+Password : "https://discord.gg/AaZasMN3yG"
+Secure : false
+```
