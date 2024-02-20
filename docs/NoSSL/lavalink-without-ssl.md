@@ -74,7 +74,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/60c09da96d2e854b32e95fdf85d9df8f/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
@@ -82,7 +82,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/60c09da96d2e854b32e95fdf85d9df8f/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2343
@@ -228,5 +228,22 @@ Version 3.7.10 \ Plugins LavaSrc
 Host : catfein.alfari.id
 Port : 30001
 Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : lavalink4.theelf.tech
+Port : 6827
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
+```bash
+IP : lavalink.theelf.tech
+Port : 2873
+Password : "https://discord.gg/AaZasMN3yG"
 Secure : false
 ```

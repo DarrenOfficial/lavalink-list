@@ -35,6 +35,16 @@ Secure : "True"
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
+Version 4.0.3 <br />
+
+Hosted with CloudFlare Tunnel (US) <br />
+```bash
+Host: lavalink4-localnet.ajieblogs.eu.org
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : "true"    
+```
+
 Version 3.7.10
 
 Hosted with CloudFlare Tunnel (US) <br />
