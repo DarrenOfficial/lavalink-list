@@ -249,3 +249,12 @@ Port : 2873
 Password : "https://discord.gg/AaZasMN3yG"
 Secure : false
 ```
+
+### Hosted by @ [Chompu#7744](https://chompubot.work)
+Version 4.? \ lavasrc-plugin \ [Discord Server](https://discord.gg/s56GrDmD4R) \ [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1010597992266465340&permissions=8&scope=bot%20applications.commands) \ [Github](https://github.com/somboytiger)
+```bash
+IP : lavalink.chompubot.work
+Port : 2333
+Password : "somboytiger"
+Secure : false
+```
