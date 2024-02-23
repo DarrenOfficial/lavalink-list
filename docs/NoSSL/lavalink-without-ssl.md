@@ -74,7 +74,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
+Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/60c09da96d2e854b32e95fdf85d9df8f/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2333
@@ -82,7 +82,7 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/a5057da01e2ef281bff0a1319840d060/)
+Version 3.7.10 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/60c09da96d2e854b32e95fdf85d9df8f/)
 ```bash
 Host : lavalink.jirayu.pw
 Port : 2343
@@ -216,17 +216,45 @@ Secure : false
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
+Live Status [here](https://kuma-n-catfein.alfari.id/)
 ```bash
-Host : catfein.alfari.id
-Port : 30002
+Host : lavalink4.alfari.id
+Port : 80
 Password : "catfein"
 Secure : false
 ```
 
 Version 3.7.10 \ Plugins LavaSrc
+Live Status [here](https://kuma-n-catfein.alfari.id/)
 ```bash
-Host : catfein.alfari.id
-Port : 30001
-Password : "youshallnotpass"
+Host : lavalink3.alfari.id
+Port : 80
+Password : "catfein"
+Secure : false
+```
+
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
+```bash
+IP : lavalink4.theelf.tech
+Port : 6827
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
+```bash
+IP : lavalink.theelf.tech
+Port : 2873
+Password : "https://discord.gg/AaZasMN3yG"
+Secure : false
+```
+
+### Hosted by @ [Chompu#7744](https://chompubot.work)
+Version 4.? \ lavasrc-plugin \ [Discord Server](https://discord.gg/s56GrDmD4R) \ [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1010597992266465340&permissions=8&scope=bot%20applications.commands) \ [Github](https://github.com/somboytiger)
+```bash
+IP : lavalink.chompubot.work
+Port : 2333
+Password : "somboytiger"
 Secure : false
 ```
