@@ -255,7 +255,7 @@ Secure : false
 Version 4.? \ lavasrc-plugin \ [Discord Server](https://discord.gg/s56GrDmD4R) \ [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1010597992266465340&permissions=8&scope=bot%20applications.commands) \ [Github](https://github.com/somboytiger)
 ```bash
 Host : lavalink.chompubot.work
-Port : 2333
+Port : 30216
 Password : "somboytiger"
 Secure : false
 ```
