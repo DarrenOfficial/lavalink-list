@@ -93,9 +93,9 @@ Secure : true
 ```
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-Version 4.0.3 
-
 [Live Status](https://kuma-n-catfein.alfari.id/) \ [Uptime](https://kuma.alfari.id/)
+
+Version 4.0.3 
 ```bash
 Host : lavalink4.alfari.id
 Port : 443
