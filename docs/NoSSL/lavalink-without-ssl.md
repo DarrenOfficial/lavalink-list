@@ -225,7 +225,7 @@ Password : "catfein"
 Secure : false
 ```
 
-Version 3.7.10 \ Plugins LavaSrc
+Version 3.7.9 \ Plugins LavaSrc
 ```bash
 Host : lavalink3.alfari.id
 Port : 80
