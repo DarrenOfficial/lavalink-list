@@ -215,9 +215,9 @@ Secure : false
 ```
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
-
 [Live Status](https://kuma-n-catfein.alfari.id/) \ [Uptime](https://kuma.alfari.id/)
+
+Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
 ```bash
 Host : lavalink4.alfari.id
 Port : 80
