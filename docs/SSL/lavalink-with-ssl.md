@@ -99,3 +99,20 @@ Port : 443
 Password : "catfein"
 Secure : true
 ```
+
+### Hosted by @ [Miruku](https://github.com/sprucecellodev125/)
+Version 4.0.3 
+```bash
+Host : penacony.hehe.rest
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+
+Version 3.7.9
+```bash
+Host : penacony.hehe.rest
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
