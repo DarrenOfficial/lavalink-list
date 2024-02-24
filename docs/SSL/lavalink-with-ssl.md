@@ -20,18 +20,18 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 
 Version 4.0.0
 ```bash
-Host: lavalink-v4.teramont.net
+Host : lavalink-v4.teramont.net
 Port : 443
 Password : "eHKuFcz67k4lBS64"
-Secure : "True"    
+Secure : true    
 ```
 
 Version 3.7.10
 ```bash
-Host: lavalink.teramont.net
+Host : lavalink.teramont.net
 Port : 443
 Password : "eHKuFcz67k4lBS64"
-Secure : "True"    
+Secure : true    
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
@@ -42,7 +42,7 @@ For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/laval
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-Secure : "true"    
+Secure : true   
 ```
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
