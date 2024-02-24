@@ -39,7 +39,7 @@ Version 3.7.10
 
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) and uptime status page: [https://direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
 ```bash
-Host : lavalink-localnet.ajieblogs.eu.org
+Host : lava-v3.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : "true"    
