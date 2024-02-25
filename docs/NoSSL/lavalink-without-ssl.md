@@ -20,7 +20,7 @@ description: Without SSL should work out of the box!
 ### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
-IP : 139.99.124.43
+Host : 139.99.124.43
 Port : 7784
 Password : "PasswordIsZoldy"
 Secure : false
@@ -28,7 +28,7 @@ Secure : false
 
 Version 3.7.10 \ Best Open Source Discord [Music Bot](https://github.com/RainyXeon/ByteBlaze) With Song Request Channel & Filters!
 ```bash
-IP : 139.99.124.43
+Host : 139.99.124.43
 Port : 7779
 Password : "PasswordIsZoldy"
 Secure : false
@@ -39,18 +39,18 @@ Secure : false
 
 Version 4.0.0
 ```bash
-Host: lavalink-v4.teramont.net
+Host : lavalink-v4.teramont.net
 Port : 25569
 Password : "eHKuFcz67k4lBS64"
-Secure : "False"    
+Secure : "false"    
 ```
 
 Version 3.7.10
 ```bash
-Host: lavalink.teramont.net
+Host : lavalink.teramont.net
 Port : 25565
 Password : "eHKuFcz67k4lBS64"
-Secure : "False"    
+Secure : "false"    
 ```
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
@@ -58,10 +58,10 @@ Version 4.0.0
 
 [Discord Server](https://discord.gg/creavite)
 ```bash
-Host: us1.lavalink.creavite.co
+Host : us1.lavalink.creavite.co
 Port : 20080
 Password : "auto.creavite.co"
-Secure : "False"    
+Secure : "false"    
 ```
     
 ### Hosted by @ [Growtoups](https://micium-hosting.com)
@@ -93,6 +93,7 @@ Secure : false
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
+Note: We dont recommend you to connect with Non SSL server for now. <br />
 ID Server
 ```bash
 Host : localnet-id.ajiehost.rf.gd
@@ -236,7 +237,7 @@ Secure : false
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
-IP : lavalink4.theelf.tech
+Host : lavalink4.theelf.tech
 Port : 6827
 Password : "https://dsc.gg/elfmusic"
 Secure : false
@@ -244,7 +245,7 @@ Secure : false
 
 Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
 ```bash
-IP : lavalink.theelf.tech
+Host : lavalink.theelf.tech
 Port : 2873
 Password : "https://discord.gg/AaZasMN3yG"
 Secure : false
@@ -253,8 +254,8 @@ Secure : false
 ### Hosted by @ [Chompu#7744](https://chompubot.work)
 Version 4.? \ lavasrc-plugin \ [Discord Server](https://discord.gg/s56GrDmD4R) \ [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1010597992266465340&permissions=8&scope=bot%20applications.commands) \ [Github](https://github.com/somboytiger)
 ```bash
-IP : lavalink.chompubot.work
-Port : 2333
+Host : lavalink.chompubot.work
+Port : 30216
 Password : "somboytiger"
 Secure : false
 ```
