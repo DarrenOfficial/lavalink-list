@@ -220,16 +220,16 @@ Secure : false
 
 Version 4.0.3 \ Plugins LavaSrc,LavaSearch etc
 ```bash
-Host : lavalink4.alfari.id
-Port : 80
+Host : catfein.alfari.id
+Port : 30002
 Password : "catfein"
 Secure : false
 ```
 
 Version 3.7.9 \ Plugins LavaSrc
 ```bash
-Host : lavalink3.alfari.id
-Port : 80
+Host : catfein.alfari.id
+Port : 30001
 Password : "catfein"
 Secure : false
 ```
