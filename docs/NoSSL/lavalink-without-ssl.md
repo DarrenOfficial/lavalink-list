@@ -42,7 +42,7 @@ Version 4.0.0
 Host : lavalink-v4.teramont.net
 Port : 25569
 Password : "eHKuFcz67k4lBS64"
-Secure : "false"    
+Secure : false  
 ```
 
 Version 3.7.10
@@ -50,7 +50,7 @@ Version 3.7.10
 Host : lavalink.teramont.net
 Port : 25565
 Password : "eHKuFcz67k4lBS64"
-Secure : "false"    
+Secure : false    
 ```
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
@@ -61,7 +61,7 @@ Version 4.0.0
 Host : us1.lavalink.creavite.co
 Port : 20080
 Password : "auto.creavite.co"
-Secure : "false"    
+Secure : false    
 ```
     
 ### Hosted by @ [Growtoups](https://micium-hosting.com)
@@ -93,7 +93,6 @@ Secure : false
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
-Note: We dont recommend you to connect with Non SSL server for now. <br />
 ID Server
 ```bash
 Host : localnet-id.ajiehost.rf.gd
