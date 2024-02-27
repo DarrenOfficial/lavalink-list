@@ -215,7 +215,6 @@ Secure : false
 ```
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-[Live Status](https://kuma-n-catfein.alfari.id/) \ [Uptime Kuma](https://kuma.alfari.id/) 
 
 Version 4.0.3 ・![Uptime](https://status.alfari.id/api/badge/7/uptime) \ 5 Plugins
 ```bash
