@@ -216,7 +216,7 @@ Secure : false
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 
-Version 4.0.3 ・![Uptime](https://status.alfari.id/api/badge/7/uptime) \ 5 Plugins
+Version 4.0.3 \ 5 Plugins・![Uptime](https://status.alfari.id/api/badge/7/uptime)・![Ping](https://status.alfari.id/api/badge/7/ping)
 ```bash
 Host : lavalink4.alfari.id
 Port : 80
@@ -224,7 +224,7 @@ Password : "catfein"
 Secure : false
 ```
 
-Version 3.7.9 ・![Uptime](https://status.alfari.id/api/badge/6/uptime) \ 1 Plugins
+Version 3.7.9 \ 1 Plugins・![Uptime](https://status.alfari.id/api/badge/6/uptime)・![Ping](https://status.alfari.id/api/badge/6/ping)
 ```bash
 Host : lavalink3.alfari.id
 Port : 80
