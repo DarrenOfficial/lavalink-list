@@ -82,9 +82,7 @@ Secure : true
 ```
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-[Live Status](https://kuma-n-catfein.alfari.id/) \ [Uptime](https://kuma.alfari.id/)
-
-Version 4.0.3 
+Version 4.0.3 \ 5 Plugins・![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)
 ```bash
 Host : lavalink4.alfari.id
 Port : 443
@@ -92,7 +90,7 @@ Password : "catfein"
 Secure : true
 ```
 
-Version 3.7.9
+Version 3.7.9 \ 1 Plugins・![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)
 ```bash
 Host : lavalink3.alfari.id
 Port : 443
