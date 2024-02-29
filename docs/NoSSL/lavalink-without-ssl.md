@@ -17,6 +17,15 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [Musi](https://discord.com/application-directory/1050068181504499732))
+Version 3.7.10 
+```bash
+Host : 85.215.54.40
+Port : 3005
+Password : "Musi"
+Secure : false
+```
+
 ### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
