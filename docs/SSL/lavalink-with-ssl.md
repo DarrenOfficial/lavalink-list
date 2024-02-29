@@ -70,17 +70,6 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-### Hosted by @ [Nep](https://youtu.be/3u2xm9Oifa4)
-Version 3.7.8
-
-Check uptime [here](https://xiaoer.info.gf/status/node)
-```bash
-Host : lava.dcmusic.ca
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
-
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 [Uptime Status](https://kuma.alfari.id)
 
