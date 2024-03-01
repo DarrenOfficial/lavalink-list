@@ -250,7 +250,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.0 \ 21 Sources \ 7 Plugins・![Uptime](http://hp8.nexcord.com:10733/api/badge/1/uptime)・![Ping](http://hp8.nexcord.com:10733/api/badge/1/ping)・![Status](http://hp8.nexcord.com:10733/api/badge/1/status)
+Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
 Host : lavalink4.theelf.tech
 Port : 6827
@@ -258,7 +258,7 @@ Password : "https://dsc.gg/elfmusic"
 Secure : false
 ```
 
-Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters. ・![Uptime](http://hp8.nexcord.com:10733/api/badge/2/uptime)・![Ping](http://hp8.nexcord.com:10733/api/badge/2/ping)・![Status](http://hp8.nexcord.com:10733/api/badge/2/status)
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
 ```bash
 Host : lavalink.theelf.tech
 Port : 2873
