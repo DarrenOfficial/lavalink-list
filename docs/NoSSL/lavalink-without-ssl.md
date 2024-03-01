@@ -151,15 +151,6 @@ Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
-### Hosted by @ [melike2d](https://2d.gay)
-Version 4.?
-```bash
-Host : krn.2d.gay
-Port : 80
-Password : "AWP)JQ$Gv9}dm.u"
-Secure : false
-```
-
 
 ### Hosted by @ [bready#4772](https://riseservers.net)
 Version 4.0.0
@@ -185,15 +176,6 @@ Version 4.?
 Host : 95.214.180.27
 Port : 6040
 Password : "discord.gg/sillydev"
-Secure : false
-```
-
-### Hosted by @ [Guardian Cloud Services](https://botlist.lol/discord)
-Version 4.?
-```bash
-Host : nyc1.guardiancloud.xyz
-Port : 10002
-Password : GuardianCloudServices
 Secure : false
 ```
 
@@ -250,7 +232,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.0 \ 21 Sources \ 7 Plugins
+Version 4.0.0 \ 21 Sources \ 7 Plugins・![Uptime](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/1/uptime)・![Ping](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/1/ping)・![Status](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/1/status)
 ```bash
 Host : lavalink4.theelf.tech
 Port : 6827
@@ -258,7 +240,7 @@ Password : "https://dsc.gg/elfmusic"
 Secure : false
 ```
 
-Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters!
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters. ・![Uptime](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/2/uptime)・![Ping](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/2/ping)・![Status](https://hp8.nexcord.com.proxy.darrenofficial.com/api/badge/2/status)
 ```bash
 Host : lavalink.theelf.tech
 Port : 2873
