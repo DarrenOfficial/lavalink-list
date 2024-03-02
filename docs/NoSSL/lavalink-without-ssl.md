@@ -195,7 +195,14 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-
+### Hosted by @ [Reedroux](https://reedroux.biz)
+Version v3
+```bash
+Host : 212.192.29.41
+Port : 25336
+Password : "reedrouxbiztexaskms"
+Secure : false
+```
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 [Uptime Status](https://kuma.alfari.id)
 
