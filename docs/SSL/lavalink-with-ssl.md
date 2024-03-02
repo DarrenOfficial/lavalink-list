@@ -35,9 +35,9 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.10
-
-For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) and uptime status page: [https://direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd)
+Version 3.? <br />
+![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
+For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
