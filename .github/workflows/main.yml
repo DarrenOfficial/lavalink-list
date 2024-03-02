@@ -1,0 +1,20 @@
+            - name: MkDocs Deployment
+  # You may pin to the exact commit or the version.
+  # uses: iSOLveIT/mkdocs-notes@85dccb66097f829b1d5b8739a60c219ab31852bd
+  uses: iSOLveIT/mkdocs-notes@v1.1.2
+  with:
+    # Relative path under $repository_path to documentation source files
+    documentation_path: # optional, default is ./docs
+    # Relative path to the `mkdocs.yml` configuration file
+    config_file_path: # default is mkdocs.yml
+    # Git branch where build pages will be transferred to
+    target_branch: # optional, default is site
+    # Path in $target_branch where MkDocs build pages will be placed
+    target_path: # optional, default is .
+    # Relative path under $GITHUB_WORKSPACE to place the repository
+    repository_path: # optional, default is .
+    # Relative path under $repository_path to pip requirements file
+    requirements_path: # optional, default is ./requirements.txt
+    # Version of MkDocs
+    mkdocs_version: # optional, default is 1.3
+          
