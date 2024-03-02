@@ -214,6 +214,22 @@ Password : "catfein"
 Secure : false
 ```
 
+Version 4.0.3 \ 5 Plugins・![Uptime](https://status.alfari.id/api/badge/36/uptime)・![Ping](https://status.alfari.id/api/badge/36/ping)・![Status](https://status.alfari.id/api/badge/36/status)
+```bash
+Host : lavalink4-frankfurt.alfari.id
+Port : 80
+Password : "catfein"
+Secure : false
+```
+
+Version 3.7.9 \ 1 Plugins・![Uptime](https://status.alfari.id/api/badge/33/uptime)・![Ping](https://status.alfari.id/api/badge/33/ping)・![Status](https://status.alfari.id/api/badge/33/status)
+```bash
+Host : lavalink3-frankfurt.alfari.id
+Port : 80
+Password : "catfein"
+Secure : false
+```
+
 Version 4.0.3 \ 5 Plugins・![Uptime](https://status.alfari.id/api/badge/31/uptime)・![Ping](https://status.alfari.id/api/badge/31/ping)・![Status](https://status.alfari.id/api/badge/31/status)
 ```bash
 Host : lavalink4-netherlands.alfari.id
