@@ -34,6 +34,17 @@ Password : "eHKuFcz67k4lBS64"
 Secure : true    
 ```
 
+### Hosted by @ [DevamOP](https://bit.ly/m/devam)
+[Discord Server](https://dsc.gg./devam)
+
+Version 3.7.10
+```bash
+Host : lavalink.devamop.in
+Port : 443
+Password : "DevamOP"
+Secure : true    
+```
+
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.? <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
