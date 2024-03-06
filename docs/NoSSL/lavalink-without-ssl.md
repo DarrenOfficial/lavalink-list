@@ -17,6 +17,17 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [DevamOP](https://bit.ly/m/devam)
+[Discord Server](https://dsc.gg/devam)
+
+Version 3.7.10
+```bash
+Host : lavalink.devamop.in
+Port : 80
+Password : "DevamOP"
+Secure : false    
+```
+
 ### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
