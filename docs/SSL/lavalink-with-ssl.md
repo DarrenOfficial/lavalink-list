@@ -83,9 +83,8 @@ Secure : true
 
 
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-[Uptime Status](https://kuma.alfari.id)
 
-Version 4 ・[ 5 Plugins ]
+Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
 ![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)・![Status](https://status.alfari.id/api/badge/4/status)
 ```bash
@@ -109,7 +108,7 @@ Password : "catfein"
 Secure : true
 ```
 
-Version 3 ・[ 1 Plugins ]
+Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
 ![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)・![Status](https://status.alfari.id/api/badge/5/status)
 ```bash
