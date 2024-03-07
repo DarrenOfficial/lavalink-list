@@ -15,25 +15,6 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [Teramont Host](https://www.teramont.net/)
-[Discord Server](https://www.teramont.net/discord)
-
-Version 4.0.0
-```bash
-Host : lavalink-v4.teramont.net
-Port : 443
-Password : "eHKuFcz67k4lBS64"
-Secure : true    
-```
-
-Version 3.7.10
-```bash
-Host : lavalink.teramont.net
-Port : 443
-Password : "eHKuFcz67k4lBS64"
-Secure : true    
-```
-
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg./devam)
 
@@ -46,7 +27,7 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.? <br />
+Version 3.0.? <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
@@ -54,6 +35,14 @@ Host : lava-v3.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true   
+```
+Version 4.0.? <br />
+![Stat](https://uptime-is.darrennathanael.com/api/badge/50/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/50/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/50/ping/12?labelSuffix=+hour) <br />
+```bash
+Host : lava-v4.ajieblogs.eu.org
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : true 
 ```
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)

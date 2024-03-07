@@ -28,42 +28,6 @@ Password : "DevamOP"
 Secure : false    
 ```
 
-### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
-Version 4.0.0 \ 21 Sources \ 7 Plugins
-```bash
-Host : 139.99.124.43
-Port : 7784
-Password : "PasswordIsZoldy"
-Secure : false
-```
-
-Version 3.7.10 \ Best Open Source Discord [Music Bot](https://github.com/RainyXeon/ByteBlaze) With Song Request Channel & Filters!
-```bash
-Host : 139.99.124.43
-Port : 7779
-Password : "PasswordIsZoldy"
-Secure : false
-```
-
-### Hosted by @ [Teramont Host](https://www.teramont.net/)
-[Discord Server](https://www.teramont.net/discord)
-
-Version 4.0.0
-```bash
-Host : lavalink-v4.teramont.net
-Port : 25569
-Password : "eHKuFcz67k4lBS64"
-Secure : false  
-```
-
-Version 3.7.10
-```bash
-Host : lavalink.teramont.net
-Port : 25565
-Password : "eHKuFcz67k4lBS64"
-Secure : false    
-```
-
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
 
@@ -111,22 +75,12 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-
-### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 4.0.0
+Version 4.0.? <br />
+![Stat](https://uptime-is.darrennathanael.com/api/badge/51/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/51/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/51/ping/12?labelSuffix=+hour) <br />
 ```bash
-Host : lavalink-v4.oryzen.xyz
+Host : lava-v4.ajieblogs.eu.org
 Port : 80
-Password : "oryzen.xyz"
-Secure : false
-```
-
-### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 3.7.10
-```bash
-Host : lavalink-v3.oryzen.xyz
-Port : 80
-Password : "oryzen.xyz"
+Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
