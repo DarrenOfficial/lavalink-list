@@ -209,7 +209,7 @@ Secure : false
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 [Uptime Status](https://kuma.alfari.id)
 
-Version 4.0.3 \ 5 Plugins
+Version 4 ・[ 5 Plugins ]
 
 ![Uptime](https://status.alfari.id/api/badge/7/uptime)・![Ping](https://status.alfari.id/api/badge/7/ping)・![Status](https://status.alfari.id/api/badge/7/status)
 ```bash
@@ -233,7 +233,7 @@ Password : "catfein"
 Secure : false
 ```
 
-Version 3.7.9 \ 1 Plugins
+Version 3 ・[ 1 Plugins ]
 
 ![Uptime](https://status.alfari.id/api/badge/6/uptime)・![Ping](https://status.alfari.id/api/badge/6/ping)・![Status](https://status.alfari.id/api/badge/6/status)
 ```bash
