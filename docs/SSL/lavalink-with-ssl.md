@@ -96,6 +96,13 @@ Port : 443
 Password : "catfein"
 Secure : true
 ```
+![Uptime](https://status.alfari.id/api/badge/51/uptime)・![Ping](https://status.alfari.id/api/badge/51/ping)・![Status](https://status.alfari.id/api/badge/51/status)
+```bash
+Host : lavalink4-dbh.alfari.id
+Port : 443
+Password : "catfein"
+Secure : true
+```
 
 Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
@@ -116,6 +123,13 @@ Secure : true
 ![Uptime](https://status.alfari.id/api/badge/30/uptime)・![Ping](https://status.alfari.id/api/badge/30/ping)・![Status](https://status.alfari.id/api/badge/30/status)
 ```bash
 Host : lavalink3-netherlands.alfari.id
+Port : 443
+Password : "catfein"
+Secure : true
+```
+![Uptime](https://status.alfari.id/api/badge/49/uptime)・![Ping](https://status.alfari.id/api/badge/49/ping)・![Status](https://status.alfari.id/api/badge/49/status)
+```bash
+Host : lavalink3-dbh.alfari.id
 Port : 443
 Password : "catfein"
 Secure : true
