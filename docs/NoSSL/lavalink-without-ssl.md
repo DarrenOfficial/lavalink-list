@@ -17,6 +17,17 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [DevamOP](https://bit.ly/m/devam)
+[Discord Server](https://dsc.gg/devam)
+
+Version 3.7.10
+```bash
+Host : lavalink.devamop.in
+Port : 80
+Password : "DevamOP"
+Secure : false    
+```
+
 ### Hosted by @ [It'z Zoldy⚡](https://github.com/RainyXeon/ByteBlaze)
 Version 4.0.0 \ 21 Sources \ 7 Plugins
 ```bash
@@ -91,20 +102,12 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.10 \ Overall uptime status: [direct.ajiedev-net.rf.gd/dnet-fwd](https://direct.ajiedev-net.rf.gd/dnet-fwd) <br />
+Version 3.? <br />
+![Stat](https://uptime-is.darrennathanael.com/api/badge/35/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/35/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/35/ping/12?labelSuffix=+hour)<br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
-ID Server
 ```bash
-Host : localnet-id.ajiehost.rf.gd
-Port : 540
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-
-SG Server
-```bash
-Host : localnet-sg2.ajiehost.rf.gd
-Port : 50243
+Host : lava-v3.ajieblogs.eu.org
+Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
@@ -195,7 +198,14 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-
+### Hosted by @ [Reedroux](https://reedroux.biz)
+Version v3
+```bash
+Host : 212.192.29.41
+Port : 25336
+Password : "reedrouxbiztexaskms"
+Secure : false
+```
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 [Uptime Status](https://kuma.alfari.id)
 
