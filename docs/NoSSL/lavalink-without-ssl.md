@@ -219,7 +219,7 @@ Secure : false
 ```
 ![Uptime](https://status.alfari.id/api/badge/50/uptime)・![Ping](https://status.alfari.id/api/badge/50/ping)・![Status](https://status.alfari.id/api/badge/50/status)
 ```bash
-Host : lavalink4-dbh.alfari.id
+Host : lavalink3-dbh.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
