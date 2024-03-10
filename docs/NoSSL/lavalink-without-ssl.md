@@ -39,15 +39,6 @@ Password : "auto.creavite.co"
 Secure : false    
 ```
     
-### Hosted by @ [Growtoups](https://micium-hosting.com)
-Version 3.7.10
-```bash
-Host : lavalink.micium-hosting.com
-Port : 80
-Password : "micium-hosting.com"
-Secure : false
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.pw)
 Version 4.0.0 \ See live stats of bandwidth here -> [status.oxygen-project.xyz](https://status.oxygen-project.xyz/report/uptime/60c09da96d2e854b32e95fdf85d9df8f/)
 ```bash
@@ -128,13 +119,6 @@ Password : "discord.gg/sillydev"
 Secure : false
 ```
 
-Version 4.?
-```bash
-Host : 95.214.180.27
-Port : 6040
-Password : "discord.gg/sillydev"
-Secure : false
-```
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 Version 3.?
