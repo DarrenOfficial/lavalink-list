@@ -1,7 +1,7 @@
 <h1 align="center">Lavalink List</h3>
 
   <p align="center">
-    For quality control I checked on these servers per weekly basis, if the lavalink is offline / unreachable it will be removed.
+    For quality control I checked on these servers per weekly basis, if the lavalink is offline / unreachable / zero uptime it will be removed.
     <br />
     <a href="https://lavalink-list.darrennathanael.com"><strong>Open Website »</strong></a>
     <br />
