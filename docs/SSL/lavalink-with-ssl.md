@@ -18,7 +18,7 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg./devam)
 
-Version 3.7.11
+Lavalink v3
 ```bash
 Host : lavalink.devamop.in
 Port : 443
