@@ -20,7 +20,7 @@ description: Without SSL should work out of the box!
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg/devam)
 
-Version 3.7.10
+Version 3.7.11
 ```bash
 Host : lavalink.devamop.in
 Port : 80
