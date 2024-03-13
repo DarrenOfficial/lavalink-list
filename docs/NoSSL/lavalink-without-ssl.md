@@ -149,28 +149,28 @@ Secure : false
 
 Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
-![Uptime](https://status.alfari.id/api/badge/7/uptime)・![Ping](https://status.alfari.id/api/badge/7/ping)・![Status](https://status.alfari.id/api/badge/7/status)
+![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)・![Status](https://status.alfari.id/api/badge/5/status)
 ```bash
 Host : lavalink4.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/36/uptime)・![Ping](https://status.alfari.id/api/badge/36/ping)・![Status](https://status.alfari.id/api/badge/36/status)
+![Uptime](https://status.alfari.id/api/badge/29/uptime)・![Ping](https://status.alfari.id/api/badge/29/ping)・![Status](https://status.alfari.id/api/badge/29/status)
 ```bash
 Host : lavalink4-frankfurt.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/31/uptime)・![Ping](https://status.alfari.id/api/badge/31/ping)・![Status](https://status.alfari.id/api/badge/31/status)
+![Uptime](https://status.alfari.id/api/badge/24/uptime)・![Ping](https://status.alfari.id/api/badge/24/ping)・![Status](https://status.alfari.id/api/badge/24/status)
 ```bash
 Host : lavalink4-netherlands.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/52/uptime)・![Ping](https://status.alfari.id/api/badge/52/ping)・![Status](https://status.alfari.id/api/badge/52/status)
+![Uptime](https://status.alfari.id/api/badge/45/uptime)・![Ping](https://status.alfari.id/api/badge/45/ping)・![Status](https://status.alfari.id/api/badge/45/status)
 ```bash
 Host : lavalink4-dbh.alfari.id
 Port : 80
@@ -180,28 +180,28 @@ Secure : false
 
 Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
-![Uptime](https://status.alfari.id/api/badge/6/uptime)・![Ping](https://status.alfari.id/api/badge/6/ping)・![Status](https://status.alfari.id/api/badge/6/status)
+![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)・![Status](https://status.alfari.id/api/badge/4/status)
 ```bash
 Host : lavalink3.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/33/uptime)・![Ping](https://status.alfari.id/api/badge/33/ping)・![Status](https://status.alfari.id/api/badge/33/status)
+![Uptime](https://status.alfari.id/api/badge/26/uptime)・![Ping](https://status.alfari.id/api/badge/26/ping)・![Status](https://status.alfari.id/api/badge/26/status)
 ```bash
 Host : lavalink3-frankfurt.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/29/uptime)・![Ping](https://status.alfari.id/api/badge/29/ping)・![Status](https://status.alfari.id/api/badge/29/status)
+![Uptime](https://status.alfari.id/api/badge/22/uptime)・![Ping](https://status.alfari.id/api/badge/22/ping)・![Status](https://status.alfari.id/api/badge/22/status)
 ```bash
 Host : lavalink3-netherlands.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/50/uptime)・![Ping](https://status.alfari.id/api/badge/50/ping)・![Status](https://status.alfari.id/api/badge/50/status)
+![Uptime](https://status.alfari.id/api/badge/43/uptime)・![Ping](https://status.alfari.id/api/badge/43/ping)・![Status](https://status.alfari.id/api/badge/43/status)
 ```bash
 Host : lavalink3-dbh.alfari.id
 Port : 80
