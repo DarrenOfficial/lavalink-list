@@ -234,3 +234,12 @@ Port : 30216
 Password : "somboytiger"
 Secure : false
 ```
+
+### Hosted by @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/FqEQtEtUc9)
+Version 3.?
+```bash
+host: lavalink.ddns.net
+port: 2433
+pass: "discord.gg/FqEQtEtUc9"
+secure: false
+```
