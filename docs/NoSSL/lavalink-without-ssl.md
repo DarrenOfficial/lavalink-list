@@ -236,7 +236,7 @@ Secure : false
 ```
 
 ### Hosted by @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/FqEQtEtUc9)
-Version 3.?
+Version 3.7.11
 ```bash
 host: lavalink.ddns.net
 port: 2433
