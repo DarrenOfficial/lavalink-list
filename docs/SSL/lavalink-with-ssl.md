@@ -144,3 +144,11 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
+Version 3.7.11
+```bash
+Host : ll.sleepyinsomniac.eu.org
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
