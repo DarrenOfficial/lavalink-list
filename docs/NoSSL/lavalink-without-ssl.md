@@ -38,23 +38,6 @@ Port : 20080
 Password : "auto.creavite.co"
 Secure : false    
 ```
-    
-### Hosted by @ [Jirayu](https://jirayu.pw)
-Version 4.0.4 \ See live stats of bandwidth here -> [status.rlss.in.th](https://status.rlss.in.th/report/uptime/1db881fdebc88d03ea54fa77c4944dc8/)
-```bash
-Host : lavalink.jirayu.pw
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
-Version 3.7.11 \ See live stats of bandwidth here -> [status.rlss.in.th](https://status.rlss.in.th/report/uptime/1db881fdebc88d03ea54fa77c4944dc8/)
-```bash
-Host : lavalink.jirayu.pw
-Port : 2343
-Password : "youshallnotpass"
-Secure : false
-```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.? <br />
