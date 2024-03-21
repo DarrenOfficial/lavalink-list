@@ -45,10 +45,10 @@ The site is hosted @ [Cloudflare pages](https://pages.dev)
 ### Hosted by @ [Your Name Here](https://example.com)
 Version ?.? \ Some additional Info (and/or contact info)
 
-Host / IP : 192.168.0.1 or lavalink.example.com
+Host : 192.168.0.1 or lavalink.example.com
 Port : 6969
 Password : "somepasswordhere"
-Secure : "True"
+Secure : "true/false"
 ```
 
 

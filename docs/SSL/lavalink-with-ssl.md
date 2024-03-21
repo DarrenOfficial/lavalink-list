@@ -27,7 +27,7 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.0.? <br />
+Version 3.7.11 <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
@@ -36,7 +36,7 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
-Version 4.0.? <br />
+Version 4.0.4 <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/50/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/50/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/50/ping/12?labelSuffix=+hour) <br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
