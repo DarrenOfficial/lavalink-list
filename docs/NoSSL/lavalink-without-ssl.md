@@ -17,6 +17,15 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [Jirayu](https://jirayu.rlss.in.th)
+Version 4.0.4 | [status.rlss.in.th](https://status.rlss.in.th/report/uptime/57c8e901860508cb5d418c9e3f90845f/)
+```bash
+Host : jirayu-lavalink.rlss.in.th
+Port : 2353
+Password : "FuqW7CB2f8Kcwp36xADV5N"
+Secure : false    
+```
+
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg/devam)
 
