@@ -35,7 +35,6 @@ Password : "oryzen.xyz"
 Secure : false    
 ```
 
-
 ### Hosted by @ [Jirayu](https://jirayu.rlss.in.th)
 Version 4.0.4 | [status.rlss.in.th](https://status.rlss.in.th/report/uptime/57c8e901860508cb5d418c9e3f90845f/)
 ```bash
