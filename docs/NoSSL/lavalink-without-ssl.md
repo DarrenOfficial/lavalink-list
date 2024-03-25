@@ -26,7 +26,6 @@ Password : "oryzen.xyz"
 Secure : false    
 ```
 
-### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Version 3.7.11 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
 ```bash
 Host : lavalink-v3.oryzen.xyz
