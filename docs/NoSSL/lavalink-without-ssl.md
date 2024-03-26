@@ -25,6 +25,14 @@ Port : 2353
 Password : "FuqW7CB2f8Kcwp36xADV5N"
 Secure : false    
 ```
+### Hosted by @ [Reedroux](reedroux.biz)
+Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/9bac6055a610520cab0aa14cd48c0536/)
+```bash
+Host : 212.192.29.91
+Port : 25529
+Password : "reedrouxv4lavalink"
+Secure : false    
+```
 
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg/devam)
