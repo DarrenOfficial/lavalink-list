@@ -37,7 +37,7 @@ Secure : false
 
 
 ### Hosted by @ [Reedroux](reedroux.biz)
-Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/9bac6055a610520cab0aa14cd48c0536/)
+Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/c4011b1e6495a197177925492cf057d5/)
 ```bash
 Host : 212.192.29.91
 Port : 25529
