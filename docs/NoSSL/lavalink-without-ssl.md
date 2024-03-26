@@ -17,6 +17,25 @@ description: Without SSL should work out of the box!
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+
+### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
+Version 4.0.4 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
+```bash
+Host : lavalink-v4.oryzen.xyz
+Port : 80
+Password : "oryzen.xyz"
+Secure : false    
+```
+
+Version 3.7.11 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
+```bash
+Host : lavalink-v3.oryzen.xyz
+Port : 80
+Password : "oryzen.xyz"
+Secure : false    
+```
+
+
 ### Hosted by @ [Reedroux](reedroux.biz)
 Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/9bac6055a610520cab0aa14cd48c0536/)
 ```bash
