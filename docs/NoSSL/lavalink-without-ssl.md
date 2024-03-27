@@ -58,7 +58,7 @@ Secure : false
 ### Hosted by @ [DevamOP](https://bit.ly/m/devam)
 [Discord Server](https://dsc.gg/devam)
 
-Version 3.7.10
+Lavalink v3
 ```bash
 Host : lavalink.devamop.in
 Port : 80
