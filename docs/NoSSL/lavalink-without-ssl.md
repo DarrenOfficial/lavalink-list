@@ -37,11 +37,20 @@ Secure : false
 
 
 ### Hosted by @ [Reedroux](reedroux.biz)
-Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/c4011b1e6495a197177925492cf057d5/)
+Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/298debf88e8fcfcf1d9cd967dd5e32d1/)
 ```bash
 Host : 212.192.29.91
 Port : 25529
 Password : "reedrouxv4lavalink"
+Secure : false    
+```
+
+### Hosted by @ [Reedroux](reedroux.biz)
+Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/298debf88e8fcfcf1d9cd967dd5e32d1/)
+```bash
+Host : 89.58.5.180
+Port : 20906
+Password : "reedrpux5220s"
 Secure : false    
 ```
 
