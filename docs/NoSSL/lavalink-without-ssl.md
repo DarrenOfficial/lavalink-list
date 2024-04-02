@@ -140,6 +140,16 @@ Password : "discord.gg/sillydev"
 Secure : false
 ```
 
+### Hosted by @ [clxudfast](https://clxud.dev)
+
+Version 4.0.0
+```bash
+Host : lavalink.clxud.dev
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 Version 3.?
