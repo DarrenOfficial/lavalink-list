@@ -142,7 +142,7 @@ Secure : false
 
 ### Hosted by @ [clxudfast](https://clxud.dev)
 
-Version 4.0.0
+Version 4
 ```bash
 Host : lavalink.clxud.dev
 Port : 2333
