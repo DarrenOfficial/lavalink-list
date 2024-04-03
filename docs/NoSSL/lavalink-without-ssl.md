@@ -121,12 +121,28 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [bready#4772](https://riseservers.net)
-Version 4.0.0
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
 ```bash
-Host : us-2.riseservers.net
+Host : va-1.riseservers.net
 Port : 2333
 Password : "ilovemonkeys"
+Secure : false
+```
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
+```bash
+Host : ny-1.riseservers.net
+Port : 2333
+Password : "monkeysrule"
+Secure : false
+```
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
+```bash
+Host : tx-1.riseservers.net
+Port : 2333
+Password : "pizzaslice"
 Secure : false
 ```
 
