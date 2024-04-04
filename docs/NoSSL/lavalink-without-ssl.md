@@ -21,20 +21,11 @@ description: Without SSL should work out of the box!
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Version 4.0.4 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
 ```bash
-Host : lavalink-v4.oryzen.xyz
+Host : lavalink.oryzen.xyz
 Port : 80
 Password : "oryzen.xyz"
 Secure : false    
 ```
-
-Version 3.7.11 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
-```bash
-Host : lavalink-v3.oryzen.xyz
-Port : 80
-Password : "oryzen.xyz"
-Secure : false    
-```
-
 
 ### Hosted by @ [Reedroux](reedroux.biz)
 Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/c4011b1e6495a197177925492cf057d5/)
