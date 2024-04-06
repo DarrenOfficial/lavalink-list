@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Frequently asked Question</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: 800;line-height:1.1;color: white;">Frequently asked Question</h1>
 
 <hr>
 

@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 <div align="center">
-<h1 style="font-family:Gotham SSm A;font-size: 3.5em;font-weight: 700;color: white;line-height: 1.1;">Lavalink List</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 3.5em;font-weight: 800;color: white;line-height: 1.1;">Lavalink List</h1>
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
     <br />

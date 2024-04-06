@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: bold;color: white;">Lavalink without SSL</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: 800;line-height:1.1;color: white;">Lavalink without SSL</h1>
 
 
 <!-- inject image ad -->
