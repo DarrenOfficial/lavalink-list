@@ -1,9 +1,11 @@
 ---
 title: Lavalink without SSL
 description: Without SSL should work out of the box!
+hide:
+  - navigation
 ---
 
-<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Lavalink without SSL</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: bold;color: white;">Lavalink without SSL</h1>
 
 
 <!-- inject image ad -->

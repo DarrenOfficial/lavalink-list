@@ -1,6 +1,8 @@
 ---
 title: Frequently asked Question
 description: FAQ about lavalink and this site!
+hide:
+  - navigation
 ---
 
 <h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Frequently asked Question</h1>
