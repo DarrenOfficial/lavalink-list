@@ -9,7 +9,7 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 theme:
   font:
-    text: Nunito Sans
+    text: Gotham SSm A
   name: material
   palette:
     primary: black

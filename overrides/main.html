@@ -6,32 +6,48 @@
 <!-- Privacy Friendly Analytics -->
 <script async src="https://stats.glasshost.net/script.js" data-website-id="6d9cb4b7-d565-4f6f-a265-22ab351788c3"></script>
 
+<!-- Global Fonts -->
+<link rel="preconnect" href="https://fonts.bunny.net">
+<link rel="preconnect" href="https://lore.dpaste.org" crossorigin>
+<link rel="stylesheet" type="text/css" href="https://lore.dpaste.org/g-fonts/gateway-primary-font.css">
+<link href="https://fonts.bunny.net/css?family=jetbrains-mono:400" rel="stylesheet" />
+
+<style>
+ html {
+     --md-text-font: "Gotham SSm A", "Gotham SSm B", -apple-system Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+     --md-code-font: 'JetBrains Mono', monospace;
+}
+ body {
+     margin-bottom: 10px;
+     text-rendering: auto;
+}
+ p {
+     font-family: "Gotham SSm A", "Gotham SSm B";
+}
+ .md-ellipsis {
+     font-family: "Gotham SSm A", "Gotham SSm B";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family:"Gotham SSm A", "Gotham SSm B", -apple-system Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height:1.1;
+  font-weight:700;
+}
+h4 {
+  font-size:21px
+}
+ md-header__topic {
+     font-family: "Gotham SSm A", "Gotham SSm B";
+}
+ code {
+     font-family: 'JetBrains Mono', monospace;
+}
+</style>
+
 <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
 
 {% endblock %}
-
-{% block site_nav %}
-            {% if nav %}
-              {% if page and page.meta and page.meta.hide %}
-                {% set hidden = "hidden" if "navigation" in page.meta.hide %}
-              {% endif %}
-            {% endif %}
-            <!-- Table of contents -->
-            {% if not "toc.integrate" in features %}
-              {% if page and page.meta and page.meta.hide %}
-                {% set hidden = "hidden" if "toc" in page.meta.hide %}
-              {% endif %}
-              <div
-                class="md-sidebar md-sidebar--secondary"
-                data-md-component="sidebar"
-                data-md-type="toc"
-                {{ hidden }}
-              >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    {% include "partials/toc.html" %}
-                  </div>
-                </div>
-              </div>
-            {% endif %}
-          {% endblock %}

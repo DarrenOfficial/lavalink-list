@@ -1,6 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+---
 <div align="center">
-<h1 style="font-family:Nunito Sans;font-size: 2.5em;font-weight: bold;color: white;">Lavalink List</h1>
-
+<h1 style="font-family:Gotham SSm A;font-size: 3.5em;font-weight: 800;color: white;line-height: 1.1;">Lavalink List</h1>
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
     <br />
@@ -25,7 +29,9 @@
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
 </center>
 
-## Info
+---
+
+### Info
 These lavalink hosts are grouped into two different categories.
 [With SSL](https://lavalink-list.darrennathanael.com/SSL/lavalink-with-ssl/), and [without SSL](https://lavalink-list.darrennathanael.com/NoSSL/lavalink-without-ssl/)
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should just works.
