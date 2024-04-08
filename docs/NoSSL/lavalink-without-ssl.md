@@ -149,6 +149,16 @@ Password : "discord.gg/sillydev"
 Secure : false
 ```
 
+### Hosted by @ [hanmetaforce](https://discord.gg/831)
+
+Version 4.0.4 • [5 plugin]
+```bash
+Host : 45.137.70.68
+Port : 8028
+Password : "hanmetaforce"
+Secure: false
+```
+
 ### Hosted by @ [clxudfast](https://clxud.dev)
 
 Version 4
