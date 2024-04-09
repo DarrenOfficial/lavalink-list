@@ -1,9 +1,11 @@
 ---
 title: Lavalink with SSL
 description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
+hide:
+  - navigation
 ---
 
-<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Lavalink with SSL</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: 800;line-height:1.1;color: white;">Lavalink with SSL</h1>
 
 <!-- inject image ad -->
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
@@ -27,7 +29,7 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.0.? <br />
+Version 3.7.11 <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
@@ -36,7 +38,7 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
-Version 4.0.? <br />
+Version 4.0.4 <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/50/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/50/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/50/ping/12?labelSuffix=+hour) <br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
