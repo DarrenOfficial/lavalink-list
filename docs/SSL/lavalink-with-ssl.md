@@ -96,14 +96,7 @@ Secure : true
 
 
 
-### Hosted by @ [Miruku](https://github.com/sprucecellodev125/)
-Version 3.7.10
-```bash
-Host : penacony.hehe.rest
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
+
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 3.7.11
 ```bash

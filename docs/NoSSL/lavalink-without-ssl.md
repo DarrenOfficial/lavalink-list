@@ -215,3 +215,12 @@ port: 2433
 pass: "discord.gg/FqEQtEtUc9"
 secure: false
 ```
+
+### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
+Version 3.?
+```bash
+host: charmony.miruku.host
+port: 5050
+pass: youshallnotpass
+secure: false
+```
