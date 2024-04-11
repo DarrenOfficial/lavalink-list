@@ -94,13 +94,16 @@ Password : "catfein"
 Secure : true
 ```
 
-
-
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.7.11
+Version 3.x
 ```bash
 Host : ll.sleepyinsomniac.eu.org
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+```bash
+Host : buses.sleepyinsomniac.eu.org
 Port : 443
 Password : "youshallnotpass"
 Secure : true
