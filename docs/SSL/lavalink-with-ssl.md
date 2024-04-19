@@ -108,3 +108,24 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
+Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
+```bash
+Host : lavalink1.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
+Secure : true
+```
+```bash
+Host : lavalink2.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
+Secure : true
+```
+```bash
+Host : lavalinkbackup.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
+Secure : true
+```
