@@ -110,23 +110,22 @@ Secure : true
 ```
 
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
-[Uptime](https://uptime.skybloxsystems.com/status/backend)
-Version 3.x
+Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
-Host : 54.36.225.156
+Host : lavalink1.skybloxsystems.com
 Port : 2333
 Password : "s4DarqP$&y"
-Secure : false
+Secure : true
 ```
 ```bash
-Host : 54.36.225.156
+Host : lavalink2.skybloxsystems.com
 Port : 2334
 Password : "s4DarqP$&y"
-Secure : false
+Secure : true
 ```
 ```bash
-Host : 54.36.225.156
+Host : lavalinkbackup.skybloxsystems.com
 Port : 2335
 Password : "s4DarqP$&y"
-Secure : false
+Secure : true
 ```
