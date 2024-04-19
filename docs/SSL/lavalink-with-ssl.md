@@ -108,3 +108,25 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
+[Uptime](https://uptime.skybloxsystems.com/status/backend)
+Version 3.x
+```bash
+Host : 54.36.225.156
+Port : 2333
+Password : "s4DarqP$&y"
+Secure : false
+```
+```bash
+Host : 54.36.225.156
+Port : 2334
+Password : "s4DarqP$&y"
+Secure : false
+```
+```bash
+Host : 54.36.225.156
+Port : 2335
+Password : "s4DarqP$&y"
+Secure : false
+```
