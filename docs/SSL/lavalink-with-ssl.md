@@ -113,19 +113,19 @@ Secure : true
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
 Host : lavalink1.skybloxsystems.com
-Port : 2333
+Port : 443
 Password : "s4DarqP$&y"
 Secure : true
 ```
 ```bash
 Host : lavalink2.skybloxsystems.com
-Port : 2334
+Port : 443
 Password : "s4DarqP$&y"
 Secure : true
 ```
 ```bash
 Host : lavalinkbackup.skybloxsystems.com
-Port : 2335
+Port : 443
 Password : "s4DarqP$&y"
 Secure : true
 ```
