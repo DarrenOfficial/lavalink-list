@@ -39,12 +39,12 @@ Secure : false
 ```
 
 
-### Hosted by @ [Jirayu](https://jirayu.rlss.in.th)
-Version 4.0.4 | [status.rlss.in.th](https://status.rlss.in.th/report/uptime/57c8e901860508cb5d418c9e3f90845f/)
+### Hosted by @ [Jirayu](https://github.com/JirayuSrisawat-Github)
+Version 4.0.4 | [status.rlss.in.th](https://status.rlss.in.th/report/uptime/1a73704bccfa3ea70564749973135b3f/)
 ```bash
 Host : jirayu-lavalink.rlss.in.th
-Port : 2353
-Password : "FuqW7CB2f8Kcwp36xADV5N"
+Port : 2333
+Password : "MKFnL8srZTuS47CwQ6fjVh"
 Secure : false    
 ```
 
