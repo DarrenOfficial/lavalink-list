@@ -19,6 +19,14 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [idk](https://google.com)
+Version 4.0.4 
+```bash
+Host : 45.43.163.132
+Port : 88
+Password : "stonemusicgay"
+Secure : false    
+```
 
 ### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
 Version 4.0.4 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
