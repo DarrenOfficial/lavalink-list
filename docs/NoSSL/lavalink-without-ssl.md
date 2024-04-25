@@ -253,3 +253,18 @@ Port : 2335
 Password : "s4DarqP$&y"
 Secure : false
 ```
+
+### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
+Version 3.x
+```bash
+Host : ll.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
