@@ -94,21 +94,6 @@ Password : "catfein"
 Secure : true
 ```
 
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
-
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
