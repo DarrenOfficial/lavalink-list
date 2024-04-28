@@ -227,8 +227,8 @@ secure: false
 ### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
 Version 3.?
 ```bash
-host: charmony.miruku.host
-port: 5050
+host: lavalink.miruku.host
+port: 80
 pass: youshallnotpass
 secure: false
 ```
