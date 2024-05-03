@@ -56,16 +56,6 @@ Password : "MKFnL8srZTuS47CwQ6fjVh"
 Secure : false    
 ```
 
-### Hosted by @ [DevamOP](https://bit.ly/m/devam)
-[Discord Server](https://dsc.gg/devam)
-
-Version 3.7.10
-```bash
-Host : lavalink.devamop.in
-Port : 80
-Password : "DevamOP"
-Secure : false    
-```
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
