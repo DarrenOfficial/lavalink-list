@@ -17,16 +17,6 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [DevamOP](https://bit.ly/m/devam)
-[Discord Server](https://dsc.gg./devam)
-
-Version 3.7.10
-```bash
-Host : lavalink.devamop.in
-Port : 443
-Password : "DevamOP"
-Secure : true    
-```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.11 <br />
