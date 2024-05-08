@@ -48,11 +48,11 @@ Secure : false
 
 
 ### Hosted by @ [Jirayu](https://github.com/JirayuSrisawat-Github)
-Version 4.0.4 | [status.rlss.in.th](https://status.rlss.in.th/report/uptime/1a73704bccfa3ea70564749973135b3f/)
+Version 4.0.4 | [Status](https://status.rlss.in.th/report/uptime/1ee64eb9137695fda12bdb0e915516e3/)
 ```bash
-Host : jirayu-lavalink.rlss.in.th
-Port : 2333
-Password : "MKFnL8srZTuS47CwQ6fjVh"
+Host : 141.11.159.152
+Port : 2343
+Password : "youshallnotpass"
 Secure : false    
 ```
 
