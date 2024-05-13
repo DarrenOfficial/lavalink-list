@@ -267,3 +267,12 @@ Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [Fatih5252](https://github.com/Fatih5252)
+Version 4
+```bash
+Host : node1.paradisehost.xyz
+Port : 27185
+Password : "Lavalinkhoster123"
+Secure : false
+```
