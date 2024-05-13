@@ -19,6 +19,15 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [Joel Espirito Santo](https://github.com/Joelespiritosanto21)
+Version 4.0.4 
+```bash
+Host : xeon1-de.reyo.run
+Port : 2561
+Password : "freelavalinkserver"
+Secure : false    
+```
+
 ### Hosted by @ [idk](https://google.com)
 Version 4.0.4 
 ```bash
