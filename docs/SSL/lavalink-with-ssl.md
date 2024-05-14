@@ -17,7 +17,14 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-
+### Hosted by @ [GGLVXD](https://dsc.gg/isp)
+Version 4.0.5 <br />
+```bash
+Host : lavalink.gglvxd.eu.org
+Port : 443
+Password : "https://dsc.gg/idiotspawnpoint"
+Secure : true   
+```
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.11 <br />
 ![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
