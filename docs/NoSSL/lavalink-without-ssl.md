@@ -46,16 +46,6 @@ Password : "oryzen.xyz"
 Secure : false    
 ```
 
-### Hosted by @ [Reedroux](reedroux.biz)
-Version 4.0.4 | [Reedroux Status](https://hetrixtools.com/r/c4011b1e6495a197177925492cf057d5/)
-```bash
-Host : 212.192.29.91
-Port : 25529
-Password : "reedrouxv4lavalink"
-Secure : false    
-```
-
-
 ### Hosted by @ [Jirayu](https://github.com/JirayuSrisawat-Github)
 Version 4.0.4 | [Status](https://status.rlss.in.th/report/uptime/1ee64eb9137695fda12bdb0e915516e3/)
 ```bash
@@ -64,7 +54,6 @@ Port : 2343
 Password : "youshallnotpass"
 Secure : false    
 ```
-
 
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
@@ -155,27 +144,6 @@ Port : 6023
 Password : "discord.gg/sillydev"
 Secure : false
 ```
-
-### Hosted by @ [hanmetaforce](https://discord.gg/831)
-
-Version 4.0.4 • [5 plugin]
-```bash
-Host : 45.137.70.68
-Port : 8028
-Password : "hanmetaforce"
-Secure: false
-```
-
-### Hosted by @ [clxudfast](https://clxud.dev)
-
-Version 4
-```bash
-Host : lavalink.clxud.dev
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 
 ### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
 Version 3.?
