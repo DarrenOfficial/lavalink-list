@@ -55,11 +55,11 @@ Password : "oryzen.xyz"
 Secure : false    
 ```
 
-### Hosted by @ [Jirayu](https://github.com/JirayuSrisawat-Github)
-Version 4.0.4 | [Status](https://status.rlss.in.th/report/uptime/1ee64eb9137695fda12bdb0e915516e3/)
+### Hosted by @ [Jirayu](https://jirayu.net)
+Version 4.0.4 | [Status](https://status.jirayu.net/report/uptime/38e08cbfe8cf497f254a7d8771988989/)
 ```bash
-Host : 141.11.159.152
-Port : 2343
+Host : lavalink.jirayu.net
+Port : 2353
 Password : "youshallnotpass"
 Secure : false    
 ```
