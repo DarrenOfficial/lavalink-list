@@ -191,13 +191,13 @@ Port : 80
 Password : "catfein"
 Secure : false
 ```
-### Hosted by @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/FqEQtEtUc9)
-Version 3.7.11
+### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
+Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
 ```bash
-host: lavalink.ddns.net
-port: 2433
-pass: "discord.gg/FqEQtEtUc9"
-secure: false
+Host : lavalink.ddns.net
+Port : 7106
+Password : "discord.gg/FqEQtEtUc9"
+Secure : false
 ```
 
 ### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
