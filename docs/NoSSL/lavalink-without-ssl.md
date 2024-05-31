@@ -192,7 +192,7 @@ Password : "catfein"
 Secure : false
 ```
 ### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
-Version 3 | [Uptime Status](status-lavalink.ddns.net:7016/status/bot)
+Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
 ```bash
 Host : lavalink.ddns.net
 Port : 7106
