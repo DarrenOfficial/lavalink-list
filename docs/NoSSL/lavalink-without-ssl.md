@@ -25,16 +25,7 @@ Version 4.0.5 (Plugin), DE, Mühlhausen
 Host : ether.lunarnodes.xyz
 Port : 6969
 Password : "lunarnodes.xyz"
-Secure : "false"
-```
-
-### Hosted by @ [Joel Espirito Santo](https://github.com/Joelespiritosanto21)
-Version 4.0.4 
-```bash
-Host : xeon1-de.reyo.run
-Port : 2561
-Password : "freelavalinkserver"
-Secure : false    
+Secure : false
 ```
 
 ### Hosted by @ [idk](https://google.com)
