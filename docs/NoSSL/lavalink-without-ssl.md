@@ -253,3 +253,12 @@ Port : 27185
 Password : "Lavalinkhoster123"
 Secure : false
 ```
+
+### Hosted by @ [m.trihamdani](https://discord.gg/V9hDRbgV)
+Version 3.7.12 ・ [Uptime](https://uptime.nighmore.my.id/) ・
+```bash
+Host : 23.158.40.34
+Port : 8080
+Password : "dailylepedia0101"
+Secure : "false"
+```
