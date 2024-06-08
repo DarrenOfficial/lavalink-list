@@ -260,5 +260,5 @@ Version 3.7.12 ・ [Uptime](https://uptime.nighmore.my.id/) ・
 Host : 23.158.40.34
 Port : 8080
 Password : "dailylepedia0101"
-Secure : "false"
+Secure : false
 ```
