@@ -81,15 +81,6 @@ Port : 443
 Password : "catfein"
 Secure : true
 ```
-Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/3/uptime)・![Ping](https://status.alfari.id/api/badge/3/ping)・![Status](https://status.alfari.id/api/badge/3/status)
-```bash
-Host : lavalink3.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
 
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・

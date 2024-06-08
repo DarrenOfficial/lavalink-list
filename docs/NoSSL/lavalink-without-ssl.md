@@ -173,15 +173,7 @@ Port : 80
 Password : "catfein"
 Secure : false
 ```
-Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
-![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)・![Status](https://status.alfari.id/api/badge/4/status)
-```bash
-Host : lavalink3.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
 ### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
 Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
 ```bash
