@@ -245,3 +245,10 @@ Port : 8080
 Password : "dailylepedia0101"
 Secure : false
 ```
+Version 4.x
+```bash
+Host : 23.158.40.34
+Port : 8081
+Password : "dailylepedia0101"
+Secure : false
+```
