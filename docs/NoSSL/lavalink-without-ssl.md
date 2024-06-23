@@ -252,3 +252,12 @@ Port : 8081
 Password : "dailylepedia0101"
 Secure : false
 ```
+
+### Hosted by @ [Qounet](https://qounet.xyz)
+Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/uptime) ・
+```bash
+Host : lavalinkfour.qounet.xyz
+Port : 2052
+Password : "qounet.xyz"
+Secure : false
+```
