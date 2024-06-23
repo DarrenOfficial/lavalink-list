@@ -254,7 +254,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Qounet](https://qounet.xyz)
-Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/uptime) ・
+Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/qounet) ・
 ```bash
 Host : lavalinkfour.qounet.xyz
 Port : 2052
