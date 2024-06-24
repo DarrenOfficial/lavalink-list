@@ -261,3 +261,12 @@ Port : 2052
 Password : "qounet.xyz"
 Secure : false
 ```
+
+### Hosted by @ [jxsh](https://jxshua.dev)
+Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
+```bash
+Host : nyc01.jxshua.dev
+Port : 4000
+Password : "youshallnotpass"
+Secure : false
+```
