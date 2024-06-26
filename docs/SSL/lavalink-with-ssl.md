@@ -102,3 +102,20 @@ Port : 443
 Password : "s4DarqP$&y"
 Secure : true
 ```
+
+### Hosted by @ [Amane](https://amane.my.id)
+Version 3.7.12
+```bash
+Host : lavalink.serenetia.com
+Port : 443
+Password : "lavalinkv3"
+Secure : true
+```
+
+Version 4.0.6
+```bash
+Host : lavalinkv4.serenetia.com
+Port : 443
+Password : "lavalinkv4"
+Secure : true
+```
