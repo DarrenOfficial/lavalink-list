@@ -275,7 +275,7 @@ Secure : false
 Version 3.7.12
 ```bash
 Host : lavalink.serenetia.com
-Port : 2000
+Port : 80
 Password : "lavalinkv3"
 Secure : false
 ```
@@ -283,7 +283,7 @@ Secure : false
 Version 4.0.6
 ```bash
 Host : lavalinkv4.serenetia.com
-Port : 2001
+Port : 80
 Password : "lavalinkv4"
 Secure : false
 ```
