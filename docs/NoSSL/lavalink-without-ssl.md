@@ -270,3 +270,20 @@ Port : 4000
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [Amane](https://amane.my.id)
+Version 3.7.12
+```bash
+Host : lavalink.serenetia.com
+Port : 2000
+Password : "lavalinkv3"
+Secure : false
+```
+
+Version 4.0.6
+```bash
+Host : lavalinkv4.serenetia.com
+Port : 2001
+Password : "lavalinkv4"
+Secure : false
+```
