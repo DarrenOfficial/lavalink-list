@@ -18,6 +18,14 @@ hide:
 
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
+### Hosted by @ [Reedorux Node](https://discord.gg/eevx6hyDVC)
+Version 3.7.11 (Plugin),
+```bash
+Host : 89.58.5.180
+Port : 20906
+Password : "reedrouxv4lavalink"
+Secure : false
+```
 
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
