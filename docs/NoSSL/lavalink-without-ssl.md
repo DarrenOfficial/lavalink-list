@@ -170,18 +170,6 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-
-
-Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)・![Status](https://status.alfari.id/api/badge/5/status)
-```bash
-Host : lavalink4.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
 
 ### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
 Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
