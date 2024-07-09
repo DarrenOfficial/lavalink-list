@@ -69,19 +69,6 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-
-Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/2/uptime)・![Ping](https://status.alfari.id/api/badge/2/ping)・![Status](https://status.alfari.id/api/badge/2/status)
-```bash
-Host : lavalink4.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
