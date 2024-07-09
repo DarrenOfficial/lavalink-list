@@ -19,6 +19,15 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [hanmetaforce](https://listen.eugenbot.xyz)
+Version 4.0.6 (Plugin 4) Asia, Jakarta
+```bash
+Host : hanmetaforce.ddns.net
+Port : 7008
+Password : "hanmetaforce"
+Secure : false
+```
+
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
 ```bash
@@ -243,5 +252,47 @@ Version 3.7.12 ・ [Uptime](https://uptime.nighmore.my.id/) ・
 Host : 23.158.40.34
 Port : 8080
 Password : "dailylepedia0101"
+Secure : false
+```
+Version 4.x
+```bash
+Host : 23.158.40.34
+Port : 8081
+Password : "dailylepedia0101"
+Secure : false
+```
+
+### Hosted by @ [Qounet](https://qounet.xyz)
+Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/qounet) ・
+```bash
+Host : lavalinkfour.qounet.xyz
+Port : 2052
+Password : "qounet.xyz"
+Secure : false
+```
+
+### Hosted by @ [jxsh](https://jxshua.dev)
+Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
+```bash
+Host : nyc01.jxshua.dev
+Port : 4000
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [Amane](https://amane.my.id)
+Version 3.7.12
+```bash
+Host : lavalink.serenetia.com
+Port : 80
+Password : "lavalinkv3"
+Secure : false
+```
+
+Version 4.0.6
+```bash
+Host : lavalinkv4.serenetia.com
+Port : 80
+Password : "lavalinkv4"
 Secure : false
 ```
