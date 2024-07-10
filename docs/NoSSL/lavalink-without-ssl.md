@@ -19,8 +19,8 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [hanmetaforce](https://listen.eugenbot.xyz)
-Version 4.0.6 (Plugin 4) Asia, Jakarta
+### Hosted by @ [hanmetaforce](https://dev.eugenbot.xyz)
+Version 4.0.7 (Plugin 3) Asia/Jakarta | [Uptime Status](https://status.eugenbot.xyz)
 ```bash
 Host : hanmetaforce.ddns.net
 Port : 7008
