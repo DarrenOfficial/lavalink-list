@@ -33,7 +33,7 @@ Tho, if you want to use the SSL lavalink you need to make sure your bot uses tha
 
 ### How can I share my server?
 
-Just open a pull request and I will merge it!
+Just open a pull request and We will merge it!
 
 ### Where is this site hosted?
 
@@ -50,7 +50,7 @@ Version ?.? \ Some additional Info (and/or contact info)
 Host : 192.168.0.1 or lavalink.example.com
 Port : 6969
 Password : "somepasswordhere"
-Secure : "true/false"
+Secure : true/false
 ```
 
 

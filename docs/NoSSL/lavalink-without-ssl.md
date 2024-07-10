@@ -19,22 +19,22 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [hanmetaforce](https://listen.eugenbot.xyz)
+Version 4.0.6 (Plugin 4) Asia, Jakarta
+```bash
+Host : hanmetaforce.ddns.net
+Port : 7008
+Password : "hanmetaforce"
+Secure : false
+```
+
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
 ```bash
 Host : ether.lunarnodes.xyz
 Port : 6969
 Password : "lunarnodes.xyz"
-Secure : "false"
-```
-
-### Hosted by @ [Joel Espirito Santo](https://github.com/Joelespiritosanto21)
-Version 4.0.4 
-```bash
-Host : xeon1-de.reyo.run
-Port : 2561
-Password : "freelavalinkserver"
-Secure : false    
+Secure : false
 ```
 
 ### Hosted by @ [idk](https://google.com)
@@ -170,34 +170,14 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
 
-
-Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)・![Status](https://status.alfari.id/api/badge/5/status)
+### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
+Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
 ```bash
-Host : lavalink4.alfari.id
-Port : 80
-Password : "catfein"
+Host : lavalink.ddns.net
+Port : 7106
+Password : "discord.gg/FqEQtEtUc9"
 Secure : false
-```
-Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)・![Status](https://status.alfari.id/api/badge/4/status)
-```bash
-Host : lavalink3.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-### Hosted by @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/FqEQtEtUc9)
-Version 3.7.11
-```bash
-host: lavalink.ddns.net
-port: 2433
-pass: "discord.gg/FqEQtEtUc9"
-secure: false
 ```
 
 ### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
@@ -251,5 +231,56 @@ Version 4
 Host : node1.paradisehost.xyz
 Port : 27185
 Password : "Lavalinkhoster123"
+Secure : false
+```
+
+### Hosted by @ [m.trihamdani](https://discord.gg/V9hDRbgV)
+Version 3.7.12 ・ [Uptime](https://uptime.nighmore.my.id/) ・
+```bash
+Host : 23.158.40.34
+Port : 8080
+Password : "dailylepedia0101"
+Secure : false
+```
+Version 4.x
+```bash
+Host : 23.158.40.34
+Port : 8081
+Password : "dailylepedia0101"
+Secure : false
+```
+
+### Hosted by @ [Qounet](https://qounet.xyz)
+Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/qounet) ・
+```bash
+Host : lavalinkfour.qounet.xyz
+Port : 2052
+Password : "qounet.xyz"
+Secure : false
+```
+
+### Hosted by @ [jxsh](https://jxshua.dev)
+Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
+```bash
+Host : nyc01.jxshua.dev
+Port : 4000
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [Amane](https://amane.my.id)
+Version 3.7.12
+```bash
+Host : lavalink.serenetia.com
+Port : 80
+Password : "lavalinkv3"
+Secure : false
+```
+
+Version 4.0.6
+```bash
+Host : lavalinkv4.serenetia.com
+Port : 80
+Password : "lavalinkv4"
 Secure : false
 ```
