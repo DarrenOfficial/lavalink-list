@@ -56,7 +56,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
-Version 4.0.4 | [Status](https://status.jirayu.net/report/uptime/38e08cbfe8cf497f254a7d8771988989/)
+Version 4.0.4 (Custom)
 ```bash
 Host : lavalink.jirayu.net
 Port : 2353
