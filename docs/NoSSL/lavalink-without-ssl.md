@@ -20,15 +20,6 @@ hide:
     You must update your bot library to support v4!
 
 
-### Hosted by @ [hanmetaforce](https://dev.eugenbot.xyz)
-Version 4.0.7 (Plugin 3) Asia/Jakarta | [Uptime Status](https://status.eugenbot.xyz)
-```bash
-Host : hanmetaforce.ddns.net
-Port : 7008
-Password : "hanmetaforce"
-Secure : false
-```
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 3.x
 ```bash
