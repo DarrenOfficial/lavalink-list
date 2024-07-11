@@ -29,6 +29,21 @@ Password : "hanmetaforce"
 Secure : false
 ```
 
+### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
+Version 3.x
+```bash
+Host : ll.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+Version 4.x
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
 
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
@@ -209,21 +224,6 @@ Secure : false
 Host : 54.36.225.156
 Port : 2335
 Password : "s4DarqP$&y"
-Secure : false
-```
-
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
 Secure : false
 ```
 
