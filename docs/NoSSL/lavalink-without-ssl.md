@@ -19,6 +19,32 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+
+### Hosted by @ [hanmetaforce](https://dev.eugenbot.xyz)
+Version 4.0.7 (Plugin 3) Asia/Jakarta | [Uptime Status](https://status.eugenbot.xyz)
+```bash
+Host : hanmetaforce.ddns.net
+Port : 7008
+Password : "hanmetaforce"
+Secure : false
+```
+
+### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
+Version 3.x
+```bash
+Host : ll.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+Version 4.x
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
 ```bash
@@ -161,18 +187,6 @@ Port : 2333
 Password : "lexn3tl@val!nk"
 Secure : false
 ```
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-
-
-Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/5/uptime)・![Ping](https://status.alfari.id/api/badge/5/ping)・![Status](https://status.alfari.id/api/badge/5/status)
-```bash
-Host : lavalink4.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
 
 ### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
 Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
@@ -210,21 +224,6 @@ Secure : false
 Host : 54.36.225.156
 Port : 2335
 Password : "s4DarqP$&y"
-Secure : false
-```
-
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
 Secure : false
 ```
 
