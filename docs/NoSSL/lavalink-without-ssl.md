@@ -67,7 +67,7 @@ Secure : false
 Version 4.0.7 (Custom)
 ```bash
 Host : lavalink.jirayu.net
-Port : 2353
+Port : 13592
 Password : "youshallnotpass"
 Secure : false    
 ```
