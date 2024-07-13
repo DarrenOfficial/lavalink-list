@@ -19,12 +19,20 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [hanmetaforce](https://listen.eugenbot.xyz)
-Version 4.0.6 (Plugin 4) Asia, Jakarta
+
+### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
+Version 3.x
 ```bash
-Host : hanmetaforce.ddns.net
-Port : 7008
-Password : "hanmetaforce"
+Host : ll.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+Version 4.x
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
 Secure : false
 ```
 
@@ -207,21 +215,6 @@ Secure : false
 Host : 54.36.225.156
 Port : 2335
 Password : "s4DarqP$&y"
-Secure : false
-```
-
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
 Secure : false
 ```
 
