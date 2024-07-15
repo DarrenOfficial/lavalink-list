@@ -84,8 +84,8 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.11 <br />
-![Stat](https://uptime-is.darrennathanael.com/api/badge/35/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/35/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/35/ping/12?labelSuffix=+hour)<br />
+Version 3.7.12 <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/)<br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 ```bash
 Host : lava-v3.ajieblogs.eu.org
@@ -93,8 +93,8 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-Version 4.0.4 <br />
-![Stat](https://uptime-is.darrennathanael.com/api/badge/51/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/51/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/51/ping/12?labelSuffix=+hour) <br />
+Version 4.0.7 <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
