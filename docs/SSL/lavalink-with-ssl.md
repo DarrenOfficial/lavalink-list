@@ -69,28 +69,6 @@ Password : "lexn3tl@val!nk"
 Secure : true
 ```
 
-
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-
-Version 4 ・[ 5 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/2/uptime)・![Ping](https://status.alfari.id/api/badge/2/ping)・![Status](https://status.alfari.id/api/badge/2/status)
-```bash
-Host : lavalink4.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
-
-![Uptime](https://status.alfari.id/api/badge/3/uptime)・![Ping](https://status.alfari.id/api/badge/3/ping)・![Status](https://status.alfari.id/api/badge/3/status)
-```bash
-Host : lavalink3.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
@@ -109,5 +87,22 @@ Secure : true
 Host : lavalinkbackup.skybloxsystems.com
 Port : 443
 Password : "s4DarqP$&y"
+Secure : true
+```
+
+### Hosted by @ [Amane](https://amane.my.id)
+Version 3.7.12
+```bash
+Host : lavalink.serenetia.com
+Port : 443
+Password : "lavalinkv3"
+Secure : true
+```
+
+Version 4.0.6
+```bash
+Host : lavalinkv4.serenetia.com
+Port : 443
+Password : "lavalinkv4"
 Secure : true
 ```
