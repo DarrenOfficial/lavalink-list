@@ -270,9 +270,17 @@ Password : "lavalinkv3"
 Secure : false
 ```
 
-Version 4.0.6
+Version 4.0.7
 ```bash
 Host : lavalinkv4.serenetia.com
+Port : 80
+Password : "lavalinkv4"
+Secure : false
+```
+
+Version 4.0.7
+```bash
+Host : lavalinkv4-eu.serenetia.com
 Port : 80
 Password : "lavalinkv4"
 Secure : false
