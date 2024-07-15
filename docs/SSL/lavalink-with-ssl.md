@@ -26,8 +26,8 @@ Password : "https://dsc.gg/idiotspawnpoint"
 Secure : true   
 ```
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-Version 3.7.11 <br />
-![Stat](https://uptime-is.darrennathanael.com/api/badge/36/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/36/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/36/ping/12?labelSuffix=+hour) <br />
+Version 3.7.12 <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
@@ -35,8 +35,8 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
-Version 4.0.4 <br />
-![Stat](https://uptime-is.darrennathanael.com/api/badge/50/status) - ![Up](https://uptime-is.darrennathanael.com/api/badge/50/uptime/12?labelSuffix=+hour) - ![AVGP](https://uptime-is.darrennathanael.com/api/badge/50/ping/12?labelSuffix=+hour) <br />
+Version 4.0.7 <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
