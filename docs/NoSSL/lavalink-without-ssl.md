@@ -19,6 +19,14 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [jompo.cloud](https://jompo.cloud/)
+Version 4.x
+```bash
+Host : lavalink.jompo.cloud
+Port : 2333
+Password : "jompo"
+Secure : false
+```
 
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 3.x
