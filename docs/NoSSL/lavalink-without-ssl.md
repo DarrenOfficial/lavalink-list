@@ -44,25 +44,6 @@ Port : 6969
 Password : "lunarnodes.xyz"
 Secure : false
 ```
-
-### Hosted by @ [idk](https://google.com)
-Version 4.0.4 
-```bash
-Host : 45.43.163.132
-Port : 88
-Password : "stonemusicgay"
-Secure : false    
-```
-
-### Hosted by @ [Caliwyr](https://discord.gg/6xpF6YqVDd)
-Version 4.0.4 (Plugin) | [Uptime Status](https://lavalink-status.oryzen.xyz/)
-```bash
-Host : lavalink.oryzen.xyz
-Port : 80
-Password : "oryzen.xyz"
-Secure : false    
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.net)
 Version 4.0.7 (Custom)
 ```bash
@@ -127,58 +108,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [sprayedza](https://riseservers.net)
-Version 4.0.4
-```bash
-Host : va-1.riseservers.net
-Port : 2333
-Password : "ilovemonkeys"
-Secure : false
-```
-### Hosted by @ [sprayedza](https://riseservers.net)
-Version 4.0.4
-```bash
-Host : ny-1.riseservers.net
-Port : 2333
-Password : "monkeysrule"
-Secure : false
-```
-### Hosted by @ [sprayedza](https://riseservers.net)
-Version 4.0.4
-```bash
-Host : tx-1.riseservers.net
-Port : 2333
-Password : "pizzaslice"
-Secure : false
-```
-
-### Hosted by @ [Gamer3514](https://sillydev.co.uk)
-
-Version 4.0.0
-```bash
-Host : lavalink.sillydev.co.uk
-Port : 6023
-Password : "discord.gg/sillydev"
-Secure : false
-```
-
-### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
-Version 3.?
-```bash
-Host : lavalink.lexnet.cc
-Port : 2333
-Password : "lexn3tl@val!nk"
-Secure : false
-```
-
-Version 3.?
-```bash
-Host : eu-lavalink.lexnet.cc
-Port : 2333
-Password : "lexn3tl@val!nk"
-Secure : false
-```
-
 ### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
 Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
 ```bash
@@ -187,16 +116,6 @@ Port : 7106
 Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
-
-### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
-Version 3.?
-```bash
-host: lavalink.miruku.host
-port: 80
-pass: youshallnotpass
-secure: false
-```
-
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
 Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
 ```bash
@@ -215,31 +134,6 @@ Secure : false
 Host : 54.36.225.156
 Port : 2335
 Password : "s4DarqP$&y"
-Secure : false
-```
-
-### Hosted by @ [Fatih5252](https://github.com/Fatih5252)
-Version 4
-```bash
-Host : node1.paradisehost.xyz
-Port : 27185
-Password : "Lavalinkhoster123"
-Secure : false
-```
-
-### Hosted by @ [m.trihamdani](https://discord.gg/V9hDRbgV)
-Version 3.7.12 ・ [Uptime](https://uptime.nighmore.my.id/) ・
-```bash
-Host : 23.158.40.34
-Port : 8080
-Password : "dailylepedia0101"
-Secure : false
-```
-Version 4.x
-```bash
-Host : 23.158.40.34
-Port : 8081
-Password : "dailylepedia0101"
 Secure : false
 ```
 
