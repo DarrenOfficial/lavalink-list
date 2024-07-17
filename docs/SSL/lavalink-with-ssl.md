@@ -17,14 +17,6 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [GGLVXD](https://dsc.gg/isp)
-Version 4.0.5 <br />
-```bash
-Host : lavalink.gglvxd.eu.org
-Port : 443
-Password : "https://dsc.gg/idiotspawnpoint"
-Secure : true   
-```
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.12 <br />
 [Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
@@ -42,31 +34,6 @@ Host : lava-v4.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true 
-```
-
-### Hosted by @ [LexM8#0424](https://freelavalink.lexnet.cc)
-Version 3.7.10
-```bash
-Host : lavalink.lexnet.cc
-Port : 443
-Password : "lexn3tl@val!nk"
-Secure : true
-```
-
-Version 3.7.10
-```bash
-Host : eu-lavalink.lexnet.cc
-Port : 443
-Password : "lexn3tl@val!nk"
-Secure : true
-```
-
-Version 3.7.10
-```bash
-Host : oce-lavalink.lexnet.cc
-Port : 443
-Password : "lexn3tl@val!nk"
-Secure : true
 ```
 
 ### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
