@@ -27,6 +27,13 @@ Port : 2333
 Password : "jompo"
 Secure : false
 ```
+Version 3.x
+```bash
+Host : lavalink-legacy.jompo.cloud
+Port : 2333
+Password : "jompo"
+Secure : false
+```
 
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 3.x
