@@ -35,6 +35,22 @@ Password : "jompo"
 Secure : false
 ```
 
+### Hosted by @ [central.cruz](https://github.com/HenGPlayZ/)
+Version 4.x
+```bash
+Host : node.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
+Version 4.x
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 3.x
 ```bash
