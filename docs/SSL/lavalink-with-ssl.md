@@ -17,6 +17,15 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+### Hosted by @ [central.cruz](https://github.com/HenGPlayZ/)
+Version 4.x
+```bash
+Host : ssl.lavalink.rocks
+Port : 443
+Password : "horizxon.tech"
+Secure : true
+```
+
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.12 <br />
 [Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
