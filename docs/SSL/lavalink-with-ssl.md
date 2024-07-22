@@ -83,10 +83,12 @@ Password : "lavalinkv4"
 Secure : true
 ```
 
-Version 4.0.7
+### Hosted by @ [devbeni](https://huntools-bot.xyz)
+[Live Status](https://status.huntools-bot.xyz/) <br />
+Version 4.0.4
 ```bash
-Host : lavalinkv4-eu.serenetia.com
+Host : https://lavalink-v4.huntools-bot.xyz/
 Port : 443
-Password : "lavalinkv4"
+Password : "youshallnotpass"
 Secure : true
 ```
