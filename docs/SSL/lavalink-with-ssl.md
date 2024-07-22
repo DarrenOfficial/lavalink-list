@@ -30,7 +30,7 @@ Secure : true
 [Live Status](https://status.huntools-bot.xyz/) <br />
 Version 4.0.4
 ```bash
-Host : https://lavalink-v4.huntools-bot.xyz/
+Host : lavalink-v4.huntools-bot.xyz
 Port : 443
 Password : "youshallnotpass"
 Secure : true
