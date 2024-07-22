@@ -26,6 +26,16 @@ Password : "horizxon.tech"
 Secure : true
 ```
 
+### Hosted by @ [devbeni](https://huntools-bot.xyz)
+[Live Status](https://status.huntools-bot.xyz/) <br />
+Version 4.0.4
+```bash
+Host : lavalink-v4.huntools-bot.xyz
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.12 <br />
 [Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
