@@ -35,10 +35,17 @@ Password : "jompo"
 Secure : false
 ```
 
-### Hosted by @ [central.cruz](https://github.com/HenGPlayZ/)
+### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x
 ```bash
 Host : node.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
+Version 3.x
+```bash
+Host : v3-legacy.lavalink.rocks
 Port : 80
 Password : "horizxon.tech"
 Secure : false
