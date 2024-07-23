@@ -17,10 +17,17 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-### Hosted by @ [central.cruz](https://github.com/HenGPlayZ/)
+### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x
 ```bash
 Host : ssl.lavalink.rocks
+Port : 443
+Password : "horizxon.tech"
+Secure : true
+```
+Version 3.x
+```bash
+Host : v3.lavalink.rocks
 Port : 443
 Password : "horizxon.tech"
 Secure : true
