@@ -132,27 +132,6 @@ Port : 7106
 Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
-### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
-Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
-```bash
-Host : 54.36.225.156
-Port : 2333
-Password : "s4DarqP$&y"
-Secure : false
-```
-```bash
-Host : 54.36.225.156
-Port : 2334
-Password : "s4DarqP$&y"
-Secure : false
-```
-```bash
-Host : 54.36.225.156
-Port : 2335
-Password : "s4DarqP$&y"
-Secure : false
-```
-
 ### Hosted by @ [Qounet](https://qounet.xyz)
 Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/qounet) ・
 ```bash
