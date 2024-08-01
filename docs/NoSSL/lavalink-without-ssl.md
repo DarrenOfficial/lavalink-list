@@ -151,7 +151,9 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
-Version 3.7.12
+Version 3.7.12 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalink.serenetia.com
 Port : 80
@@ -159,7 +161,8 @@ Password : "lavalinkv3"
 Secure : false
 ```
 
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 80
@@ -167,7 +170,8 @@ Password : "lavalinkv4"
 Secure : false
 ```
 
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 80
