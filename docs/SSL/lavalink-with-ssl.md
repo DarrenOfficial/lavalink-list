@@ -17,6 +17,8 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+<!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
+
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x
 ```bash
@@ -45,7 +47,7 @@ Secure : true
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 Version 3.7.12 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![stat](https://status.ajieblogs.eu.org/api/badge/10/status) ・ ![up](https://status.ajieblogs.eu.org/api/badge/10/uptime)<br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
@@ -54,7 +56,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
+[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![statv4](https://status.ajieblogs.eu.org/api/badge/11/status) ・ ![upv4](https://status.ajieblogs.eu.org/api/badge/11/uptime)<br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
