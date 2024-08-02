@@ -87,7 +87,7 @@ Secure : true
 
 ### Hosted by @ [Amane](https://amane.my.id)
 Version 3.7.12 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
 Host : lavalink.serenetia.com
@@ -97,7 +97,7 @@ Secure : true
 ```
 
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 443
@@ -106,7 +106,7 @@ Secure : true
 ```
 
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4eu](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 443
