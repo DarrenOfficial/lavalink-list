@@ -111,3 +111,18 @@ Port : 443
 Password : "lavalinkv4"
 Secure : true
 ```
+
+### Hosted by @ [Silva](https://github.com/vSilva-gb)
+Version 4.0.7 <br />
+```bash
+Host : akira.squareweb.app
+Port : 443
+Password : "Zyron@Galdino"
+Secure : true
+```
+```bash
+Host : zyron.squareweb.app
+Port : 443
+Password : "Zyron@Galdino"
+Secure : true
+```
