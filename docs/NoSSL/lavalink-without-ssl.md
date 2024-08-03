@@ -76,7 +76,7 @@ Version 4.0.7 Plugins: lavasearch-plugin-1.0.0, lavasrc-plugin-4.2.0, skybot-lav
 ```bash
 Host : 85.202.163.135
 Port : 2033
-Password : "dash.techbyte.host?ref=hatlava"
+Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
