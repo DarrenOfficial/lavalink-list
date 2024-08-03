@@ -71,6 +71,15 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
+Version 4.0.7 Plugins: lavasearch-plugin-1.0.0, lavasrc-plugin-4.2.0, skybot-lavalink-plugin-1.7.0, sponsorblock-plugin-3.0.1, Youtube plugin(Plugin) Supported Spotify
+```bash
+Host : 85.202.163.135
+Port : 2033
+Password : "dash.techbyte.host?ref=hatlava"
+Secure : false
+```
+
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
 
