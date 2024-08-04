@@ -181,3 +181,12 @@ Port : 80
 Password : "lavalinkv4"
 Secure : false
 ```
+
+Version 4.0.7 <br />
+[Live Status](https://status.clxud.dev/status/lavalink) ・ [!statbadge](https://status.clxud.dev/api/badge/1/status) ・ ![uptimebadge](https://status.clxud.dev/api/badge/1/uptime)<br />
+```bash
+Host : lavalink.clxud.dev
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
