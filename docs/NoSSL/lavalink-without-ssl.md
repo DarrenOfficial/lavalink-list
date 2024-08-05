@@ -182,6 +182,8 @@ Password : "lavalinkv4"
 Secure : false
 ```
 
+### Hosted by @ [Clxud](https://clxud.dev/)
+
 Version 4.0.7 <br />
 [Live Status](https://status.clxud.dev/status/lavalink) ・ ![statbadge](https://status.clxud.dev/api/badge/1/status) ・ ![uptimebadge](https://status.clxud.dev/api/badge/1/uptime)<br />
 ```bash
