@@ -72,10 +72,10 @@ Secure : false
 ```
 
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
-Version 4.0.7 Plugins: lavasearch-plugin-1.0.0, lavasrc-plugin-4.2.0, skybot-lavalink-plugin-1.7.0, sponsorblock-plugin-3.0.1, Youtube plugin(Plugin) Supported Spotify
+Version 4.0.7 Plugins: lavasearch-plugin-1.0.0, lavasrc-plugin-4.2.0, skybot-lavalink-plugin-1.7.0, sponsorblock-plugin-3.0.1, Youtube-source-1.5.2 Supported Spotify
 ```bash
-Host : 85.202.163.135
-Port : 2033
+Host : lavalink01.techbyte.host
+Port : 2005
 Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
