@@ -21,6 +21,15 @@ hide:
 
 <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
 
+### Hosted by @ [Reedroux LLC](https://reedroux-bot.xyz)
+Version x4 ・ [Uptime](https://hetrixtools.com/report/uptime/1341fe35b50a625623770fcbc35cd486/) ・
+```bash
+Host : free.reedroux-bot.xyz
+Port : 25988
+Password : "reedrouxfreenode"
+Secure : false
+```
+
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
