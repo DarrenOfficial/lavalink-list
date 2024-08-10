@@ -21,6 +21,15 @@ hide:
 
 <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
 
+### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
+Version 4.x
+```bash
+Host : 37.27.114.136
+Port : 25065
+Password : "reedrouxfreenode"
+Secure : false
+```
+
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
