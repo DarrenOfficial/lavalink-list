@@ -113,3 +113,12 @@ Port : 443
 Password : "lavalinkv4"
 Secure : true
 ```
+
+### Hosted by @ [HewkawAr](https://github.com/hewkawar)
+Version 4.0.7
+```bash
+Host : lavalink.hewkawar.xyz
+Port : 443
+Password : "HewkawArPass"
+Secure : true
+```
