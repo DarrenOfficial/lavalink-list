@@ -21,6 +21,16 @@ hide:
 
 <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
 
+### Hosted by @ [NextGen Coders](https://dsc.gg/nextgencoders/)
+Version 4.0.7 (custom)(YT Not Support) 
+Need help reagrading lavalink dm me:[Nyx](https://discord.com/users/920938695060774922)
+```bash
+Host : v4lava.webimprovise.com
+Port : 80
+Password : "nextgencoders"
+Secure : false
+```
+
 ### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
 Version 4.x
 ```bash
