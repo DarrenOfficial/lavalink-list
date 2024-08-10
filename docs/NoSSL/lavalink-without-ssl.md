@@ -23,6 +23,7 @@ hide:
 
 ### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
 Version 4.x
+[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
 ```bash
 Host : 37.27.114.136
 Port : 25065
