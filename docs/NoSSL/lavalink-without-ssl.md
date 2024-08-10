@@ -71,6 +71,15 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
+Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
+```bash
+Host : lavalink01.techbyte.host
+Port : 2005
+Password : "NAIGLAVA-dash.techbyte.host"
+Secure : false
+```
+
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
 
@@ -146,7 +155,7 @@ Secure : false
 
 ### Hosted by @ [Amane](https://amane.my.id)
 Version 3.7.12 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square)<br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalink.serenetia.com
@@ -156,7 +165,7 @@ Secure : false
 ```
 
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 80
@@ -165,10 +174,21 @@ Secure : false
 ```
 
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 80
 Password : "lavalinkv4"
+Secure : false
+```
+
+### Hosted by @ [Clxud](https://clxud.dev/)
+
+Version 4.0.7 <br />
+[Live Status](https://status.clxud.dev/status/lavalink) ・ ![statbadge](https://status.clxud.dev/api/badge/1/status) ・ ![uptimebadge](https://status.clxud.dev/api/badge/1/uptime)<br />
+```bash
+Host : lavalink.clxud.dev
+Port : 2333
+Password : "youshallnotpass"
 Secure : false
 ```
