@@ -32,6 +32,23 @@ Password : "reedrouxfreenode"
 Secure : false
 ```
 
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG) [giveaway Bot ](https://discord.com/oauth2/authorize?client_id=1071937742759546931&scope=bot%20identify%20guilds%20applications.commands&response_type=code&redirect_uri=https://giveaway.theelf.tech&permissions=1513962695871&state=S1QnGwFMYipE8mCfH_P44)
+Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
+```bash
+Host : lavalink4.theelf.tech
+Port : 10627
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters. ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
+```bash
+Host : lavalink3.theelf.tech
+Port : 10617
+Password : "discord.gg/PqVQgXTweC"
+Secure : false
+```
+
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
