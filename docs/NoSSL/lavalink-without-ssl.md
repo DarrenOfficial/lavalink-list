@@ -20,6 +20,7 @@ hide:
     You must update your bot library to support v4!
 
 <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
+<!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 
 ### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
 Version 4.x
@@ -102,9 +103,9 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
+[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![stat](https://status.ajieblogs.eu.org/api/badge/10/status) ・ ![up](https://status.ajieblogs.eu.org/api/badge/10/uptime)<br />
-SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -112,7 +113,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![statv4](https://status.ajieblogs.eu.org/api/badge/11/status) ・ ![upv4](https://status.ajieblogs.eu.org/api/badge/11/uptime)<br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80

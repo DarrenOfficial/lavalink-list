@@ -46,9 +46,9 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
+[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![stat](https://status.ajieblogs.eu.org/api/badge/10/status) ・ ![up](https://status.ajieblogs.eu.org/api/badge/10/uptime)<br />
-For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -56,7 +56,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) ・ ![statv4](https://status.ajieblogs.eu.org/api/badge/11/status) ・ ![upv4](https://status.ajieblogs.eu.org/api/badge/11/uptime)<br />
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
@@ -95,7 +94,6 @@ Port : 443
 Password : "lavalinkv3"
 Secure : true
 ```
-
 Version 4.0.7 <br />
 [Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
 ```bash
