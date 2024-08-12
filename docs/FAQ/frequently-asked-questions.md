@@ -52,6 +52,7 @@ Port : 6969
 Password : "somepasswordhere"
 Secure : true/false
 ```
+You can also add status badge or else. for advertising, please contacts ads@darrennathanael.com
 
 
 <!-- inject image ad -->
