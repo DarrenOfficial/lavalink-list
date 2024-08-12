@@ -19,35 +19,10 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-<!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
+<!-- PLEASE READ -->
+<!-- PLEASE READ --> <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! --> <!-- PLEASE READ -->
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
-
-### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
-Version 4.x
-[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
-```bash
-Host : 37.27.114.136
-Port : 25065
-Password : "reedrouxfreenode"
-Secure : false
-```
-
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG) [giveaway Bot ](https://discord.com/oauth2/authorize?client_id=1071937742759546931&scope=bot%20identify%20guilds%20applications.commands&response_type=code&redirect_uri=https://giveaway.theelf.tech&permissions=1513962695871&state=S1QnGwFMYipE8mCfH_P44)
-Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
-```bash
-Host : lavalink4.theelf.tech
-Port : 12635
-Password : "https://dsc.gg/elfmusic"
-Secure : false
-```
-
-Version 3.7.10 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters. ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
-```bash
-Host : lavalink3.theelf.tech
-Port : 12634
-Password : "discord.gg/PqVQgXTweC"
-Secure : false
-```
+<!-- PLEASE READ -->
 
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
@@ -123,6 +98,7 @@ Secure : false
 [Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
+![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -130,6 +106,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
+![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -217,5 +194,32 @@ Version 4.0.7 <br />
 Host : lavalink.clxud.dev
 Port : 2333
 Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
+Version 4.x
+[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
+```bash
+Host : 37.27.114.136
+Port : 25065
+Password : "reedrouxfreenode"
+Secure : false
+```
+
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
+```bash
+Host : lavalink4.theelf.tech
+Port : 12635
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
+```bash
+Host : lavalink3.theelf.tech
+Port : 12634
+Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
