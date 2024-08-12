@@ -17,7 +17,10 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
-<!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! -->
+<!-- PLEASE READ -->
+<!-- PLEASE READ --> <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! --> <!-- PLEASE READ -->
+<!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
+<!-- PLEASE READ -->
 
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x
