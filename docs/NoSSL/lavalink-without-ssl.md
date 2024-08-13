@@ -74,6 +74,14 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+Version 3.7.12
+```bash
+Host : lavalink.jirayu.net
+Port : 2334
+Password : "youshallnotpass"
+Secure : false    
+```
+
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
 Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
