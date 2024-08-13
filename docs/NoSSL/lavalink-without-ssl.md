@@ -223,3 +223,20 @@ Port : 12634
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
+
+### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
+Version 4.x
+```bash
+Host : 107.150.34.106
+Port : 9001
+Password : "youshallnotpass"
+Secure : false
+```
+Version 3.x
+```bash
+Host : 107.150.34.106
+Port : 9069
+Password : "yener5855"
+Secure : false
+```
+
