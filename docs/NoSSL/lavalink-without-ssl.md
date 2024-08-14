@@ -205,38 +205,3 @@ Port : 25065
 Password : "reedrouxfreenode"
 Secure : false
 ```
-
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
-```bash
-Host : lavalink4.theelf.tech
-Port : 12635
-Password : "https://dsc.gg/elfmusic"
-Secure : false
-```
-
-Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
-```bash
-Host : lavalink3.theelf.tech
-Port : 12634
-Password : "discord.gg/PqVQgXTweC"
-Secure : false
-```
-
-### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
-Plugins: youtube-plugin:1.5.2 and Spotify api
-Version 4.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/4/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/4/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/4/uptime/24)
-```bash
-Host : 107.150.34.106
-Port : 9001
-Password : "youshallnotpass"
-Secure : false
-```
-Version 3.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/6/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/6/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/6/uptime/24)
-```bash
-Host : 107.150.34.106
-Port : 9069
-Password : "yener5855"
-Secure : false
-```
-
