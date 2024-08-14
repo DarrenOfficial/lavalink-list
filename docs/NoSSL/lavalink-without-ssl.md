@@ -74,6 +74,14 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+Version 3.7.12
+```bash
+Host : lavalink.jirayu.net
+Port : 2334
+Password : "youshallnotpass"
+Secure : false    
+```
+
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
 Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
@@ -223,3 +231,23 @@ Port : 12634
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
+
+### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
+Plugins: youtube-plugin:1.5.2 and Spotify api
+・![status](http://dono-01.danbot.host:9192/api/badge/4/status)・![Ping](http://dono-01.danbot.host:9192/api/badge/4/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/4/uptime/24)
+Version 4.x
+```bash
+Host : 107.150.34.106
+Port : 9001
+Password : "youshallnotpass"
+Secure : false
+```
+・![status](http://dono-01.danbot.host:9192/api/badge/6/status)・![Ping]([http://dono-01.danbot.host:9192/api/badge/6/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/6/uptime/24)
+Version 3.x
+```bash
+Host : 107.150.34.106
+Port : 9069
+Password : "yener5855"
+Secure : false
+```
+
