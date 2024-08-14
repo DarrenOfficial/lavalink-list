@@ -223,3 +223,23 @@ Port : 12634
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
+
+### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
+Plugins: youtube-plugin:1.5.2 and Spotify api
+・![status](http://dono-01.danbot.host:9192/api/badge/4/status)・![Ping](http://dono-01.danbot.host:9192/api/badge/4/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/4/uptime/24)
+Version 4.x
+```bash
+Host : 107.150.34.106
+Port : 9001
+Password : "youshallnotpass"
+Secure : false
+```
+・![status](http://dono-01.danbot.host:9192/api/badge/6/status)・![Ping]([http://dono-01.danbot.host:9192/api/badge/6/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/6/uptime/24)
+Version 3.x
+```bash
+Host : 107.150.34.106
+Port : 9069
+Password : "yener5855"
+Secure : false
+```
+
