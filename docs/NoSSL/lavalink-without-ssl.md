@@ -147,15 +147,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
-Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
-```bash
-Host : lavalink.ddns.net
-Port : 7106
-Password : "discord.gg/FqEQtEtUc9"
-Secure : false
-```
-
 ### Hosted by @ [jxsh](https://jxshua.dev)
 Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
 ```bash
@@ -234,16 +225,14 @@ Secure : false
 
 ### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
 Plugins: youtube-plugin:1.5.2 and Spotify api
-・![status](http://dono-01.danbot.host:9192/api/badge/4/status)・![Ping](http://dono-01.danbot.host:9192/api/badge/4/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/4/uptime/24)
-Version 4.x
+Version 4.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/4/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/4/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/4/uptime/24)
 ```bash
 Host : 107.150.34.106
 Port : 9001
 Password : "youshallnotpass"
 Secure : false
 ```
-・![status](http://dono-01.danbot.host:9192/api/badge/6/status)・![Ping]([http://dono-01.danbot.host:9192/api/badge/6/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/6/uptime/24)
-Version 3.x
+Version 3.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/6/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/6/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/6/uptime/24)
 ```bash
 Host : 107.150.34.106
 Port : 9069
