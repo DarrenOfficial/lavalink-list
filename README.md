@@ -11,6 +11,8 @@
     <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
     ·
     <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    ·
+    <a href="https://uptime.ajiedev.tech/status/public-lavalink-stats">Status Page</a>
   </p>
 </div>
 

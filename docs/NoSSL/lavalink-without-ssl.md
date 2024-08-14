@@ -19,6 +19,11 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+<!-- PLEASE READ -->
+<!-- PLEASE READ --> <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! --> <!-- PLEASE READ -->
+<!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
+<!-- PLEASE READ -->
+
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
@@ -69,6 +74,23 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+Version 3.7.12
+```bash
+Host : lavalink.jirayu.net
+Port : 2334
+Password : "youshallnotpass"
+Secure : false    
+```
+
+### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
+Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
+```bash
+Host : lavalink01.techbyte.host
+Port : 2005
+Password : "NAIGLAVA-dash.techbyte.host"
+Secure : false
+```
+
 ### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
 Version 4.0.0
 
@@ -81,9 +103,10 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
+[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/)<br />
-SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
+![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -91,7 +114,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
+![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -124,44 +147,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
-Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
-```bash
-Host : lavalink.ddns.net
-Port : 7106
-Password : "discord.gg/FqEQtEtUc9"
-Secure : false
-```
-### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
-Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
-```bash
-Host : 54.36.225.156
-Port : 2333
-Password : "s4DarqP$&y"
-Secure : false
-```
-```bash
-Host : 54.36.225.156
-Port : 2334
-Password : "s4DarqP$&y"
-Secure : false
-```
-```bash
-Host : 54.36.225.156
-Port : 2335
-Password : "s4DarqP$&y"
-Secure : false
-```
-
-### Hosted by @ [Qounet](https://qounet.xyz)
-Version 4.0.6 ・ [Uptime](https://uptime.qounet.xyz/status/qounet) ・
-```bash
-Host : lavalinkfour.qounet.xyz
-Port : 2052
-Password : "qounet.xyz"
-Secure : false
-```
-
 ### Hosted by @ [jxsh](https://jxshua.dev)
 Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
 ```bash
@@ -172,7 +157,9 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
-Version 3.7.12
+Version 3.7.12 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square)<br />
+SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalink.serenetia.com
 Port : 80
@@ -180,7 +167,8 @@ Password : "lavalinkv3"
 Secure : false
 ```
 
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 80
@@ -188,10 +176,67 @@ Password : "lavalinkv4"
 Secure : false
 ```
 
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 80
 Password : "lavalinkv4"
 Secure : false
 ```
+
+### Hosted by @ [Clxud](https://clxud.dev/)
+
+Version 4.0.7 <br />
+[Live Status](https://status.clxud.dev/status/lavalink) ・ ![statbadge](https://status.clxud.dev/api/badge/1/status) ・ ![uptimebadge](https://status.clxud.dev/api/badge/1/uptime)<br />
+```bash
+Host : lavalink.clxud.dev
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
+Version 4.x
+[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
+```bash
+Host : 37.27.114.136
+Port : 25065
+Password : "reedrouxfreenode"
+Secure : false
+```
+
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
+```bash
+Host : lavalink4.theelf.tech
+Port : 12635
+Password : "https://dsc.gg/elfmusic"
+Secure : false
+```
+
+Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
+```bash
+Host : lavalink3.theelf.tech
+Port : 12634
+Password : "discord.gg/PqVQgXTweC"
+Secure : false
+```
+
+### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
+Plugins: youtube-plugin:1.5.2 and Spotify api
+Version 4.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/4/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/4/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/4/uptime/24)
+```bash
+Host : 107.150.34.106
+Port : 9001
+Password : "youshallnotpass"
+Secure : false
+```
+Version 3.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/6/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/6/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/6/uptime/24)
+```bash
+Host : 107.150.34.106
+Port : 9069
+Password : "yener5855"
+Secure : false
+```
+

@@ -17,6 +17,11 @@ hide:
     v4 introduce a breaking changes that affects all library that are using v3 API.
     You must update your bot library to support v4!
 
+<!-- PLEASE READ -->
+<!-- PLEASE READ --> <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! --> <!-- PLEASE READ -->
+<!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
+<!-- PLEASE READ -->
+
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x
 ```bash
@@ -44,9 +49,10 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
+[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
-For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev)
+![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -54,7 +60,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-[Live Status](https://lava-stat.ajieblogs.eu.org/) <br />
+![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
@@ -84,15 +90,17 @@ Secure : true
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
-Version 3.7.12
+Version 3.7.12 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square) <br />
+For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
 Host : lavalink.serenetia.com
 Port : 443
 Password : "lavalinkv3"
 Secure : true
 ```
-
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 443
@@ -100,10 +108,20 @@ Password : "lavalinkv4"
 Secure : true
 ```
 
-Version 4.0.7
+Version 4.0.7 <br />
+[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4eu](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 443
 Password : "lavalinkv4"
+Secure : true
+```
+
+### Hosted by @ [HewkawAr](https://github.com/hewkawar)
+Version 4.0.7
+```bash
+Host : lavalink.hewkawar.xyz
+Port : 443
+Password : "HewkawArPass"
 Secure : true
 ```
