@@ -207,39 +207,3 @@ Password : "reedrouxfreenode"
 Secure : false
 ```
 
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
-```bash
-Host : lavalink4.theelf.tech
-Port : 12635
-Password : "https://dsc.gg/elfmusic"
-Secure : false
-```
-
-Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
-```bash
-Host : lavalink3.theelf.tech
-Port : 12634
-Password : "discord.gg/PqVQgXTweC"
-Secure : false
-```
-
-### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
-Plugins: youtube-plugin:1.5.2 and Spotify api
-・![status](http://dono-01.danbot.host:9192/api/badge/4/status)・![Ping](http://dono-01.danbot.host:9192/api/badge/4/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/4/uptime/24)
-Version 4.x
-```bash
-Host : 107.150.34.106
-Port : 9001
-Password : "youshallnotpass"
-Secure : false
-```
-・![status](http://dono-01.danbot.host:9192/api/badge/6/status)・![Ping]([http://dono-01.danbot.host:9192/api/badge/6/ping/24)・![uptime](http://dono-01.danbot.host:9192/api/badge/6/uptime/24)
-Version 3.x
-```bash
-Host : 107.150.34.106
-Port : 9069
-Password : "yener5855"
-Secure : false
-```
-
