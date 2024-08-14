@@ -74,6 +74,14 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+Version 3.7.12
+```bash
+Host : lavalink.jirayu.net
+Port : 2334
+Password : "youshallnotpass"
+Secure : false    
+```
+
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
 Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
@@ -98,7 +106,7 @@ Secure : false
 [Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)
+![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -106,7 +114,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)
+![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -136,15 +144,6 @@ Version 4.0.3 \ Plugins SponsorBlock, LavaSearch, DuncteBot, XM, Lyrics.kt, Lava
 Host : four.lavalink.api.timelessnesses.me
 Port : 80
 Password : "youshallnotpass"
-Secure : false
-```
-
-### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
-Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
-```bash
-Host : lavalink.ddns.net
-Port : 7106
-Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
 
@@ -206,4 +205,3 @@ Port : 25065
 Password : "reedrouxfreenode"
 Secure : false
 ```
-
