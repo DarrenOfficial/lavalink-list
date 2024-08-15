@@ -103,10 +103,10 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Live Status & Website](https://lavalink.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
+![stat](https://uptime.ajiedev.tech/api/badge/10/status)・![up](https://uptime.ajiedev.tech/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -114,7 +114,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
+![stat](https://uptime.ajiedev.tech/api/badge/11/status)・![up](https://uptime.ajiedev.tech/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -205,7 +205,6 @@ Port : 25065
 Password : "reedrouxfreenode"
 Secure : false
 ```
-
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
 Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
 ```bash
@@ -222,21 +221,3 @@ Port : 12634
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
-
-### Hosted by @ [echo development](https://discord.gg/ZjgZXpeWTT)
-Plugins: youtube-plugin:1.5.2 and Spotify api
-Version 4.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/4/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/4/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/4/uptime/24)
-```bash
-Host : 107.150.34.106
-Port : 9001
-Password : "youshallnotpass"
-Secure : false
-```
-Version 3.x・![status](https://yener5855.ajieblogs.eu.org/api/badge/6/status)・![Ping](https://yener5855.ajieblogs.eu.org/api/badge/6/ping/24)・![uptime](https://yener5855.ajieblogs.eu.org/api/badge/6/uptime/24)
-```bash
-Host : 107.150.34.106
-Port : 9069
-Password : "yener5855"
-Secure : false
-```
-
