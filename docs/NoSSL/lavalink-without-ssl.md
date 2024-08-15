@@ -103,7 +103,7 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Live Status & Website](https://lavalink.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
 ![stat](https://uptime.ajiedev.tech/api/badge/10/status)・![up](https://uptime.ajiedev.tech/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
