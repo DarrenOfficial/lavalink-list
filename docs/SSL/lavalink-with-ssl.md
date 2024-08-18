@@ -24,7 +24,7 @@ hide:
 
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x <br />
-![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
 ```bash
 Host : v4.lavalink.rocks
 Port : 443
