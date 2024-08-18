@@ -32,7 +32,7 @@ Password : "horizxon.tech"
 Secure : true
 ```
 Version 3.x <br />
-![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
 ```bash
 Host : v3.lavalink.rocks
 Port : 443
