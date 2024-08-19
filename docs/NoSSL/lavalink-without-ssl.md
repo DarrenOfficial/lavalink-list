@@ -103,10 +103,10 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Live Status & Website](https://lavalink.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/7/status)・![up](https://uptime.ajiedev.tech/api/badge/7/uptime?labelSuffix=+hour)
+![stat](https://uptime.ajiedev.tech/api/badge/10/status)・![up](https://uptime.ajiedev.tech/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -114,7 +114,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://uptime.ajiedev.tech/api/badge/6/status)・![up](https://uptime.ajiedev.tech/api/badge/6/uptime?labelSuffix=+hour)
+![stat](https://uptime.ajiedev.tech/api/badge/11/status)・![up](https://uptime.ajiedev.tech/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -144,15 +144,6 @@ Version 4.0.3 \ Plugins SponsorBlock, LavaSearch, DuncteBot, XM, Lyrics.kt, Lava
 Host : four.lavalink.api.timelessnesses.me
 Port : 80
 Password : "youshallnotpass"
-Secure : false
-```
-
-### Hosted By @ [𝓓𝓔𝓛𝓤𝓢𝓘𝓞𝓝](https://discord.gg/7VQWkeYxS4)
-Version 3 | [Uptime Status](http://status-lavalink.ddns.net:7016/status/bot)
-```bash
-Host : lavalink.ddns.net
-Port : 7106
-Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
 
@@ -214,7 +205,6 @@ Port : 25065
 Password : "reedrouxfreenode"
 Secure : false
 ```
-
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
 Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
 ```bash
@@ -229,5 +219,22 @@ Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/statu
 Host : lavalink3.theelf.tech
 Port : 12634
 Password : "discord.gg/PqVQgXTweC"
+Secure : false
+```
+### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
+Version 4.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+```bash
+Host : v4.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
+Version 3.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
+```bash
+Host : v3.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
 Secure : false
 ```

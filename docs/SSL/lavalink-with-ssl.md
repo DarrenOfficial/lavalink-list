@@ -23,14 +23,16 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
-Version 4.x
+Version 4.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
 ```bash
-Host : ssl.lavalink.rocks
+Host : v4.lavalink.rocks
 Port : 443
 Password : "horizxon.tech"
 Secure : true
 ```
-Version 3.x
+Version 3.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
 ```bash
 Host : v3.lavalink.rocks
 Port : 443
@@ -49,9 +51,10 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Live Status & Website](https://lavalink.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
+![stat](https://uptime.ajiedev.tech/api/badge/10/status)・![up](https://uptime.ajiedev.tech/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -59,6 +62,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
+![stat](https://uptime.ajiedev.tech/api/badge/11/status)・![up](https://uptime.ajiedev.tech/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
