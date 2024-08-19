@@ -66,6 +66,7 @@ Password : "lunarnodes.xyz"
 Secure : false
 ```
 ### Hosted by @ [Jirayu](https://jirayu.net)
+See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
 ```bash
 Host : lavalink.jirayu.net
