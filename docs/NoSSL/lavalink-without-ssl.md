@@ -221,3 +221,20 @@ Port : 12634
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
+### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
+Version 4.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+```bash
+Host : v4.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
+Version 3.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
+```bash
+Host : v3.lavalink.rocks
+Port : 80
+Password : "horizxon.tech"
+Secure : false
+```
