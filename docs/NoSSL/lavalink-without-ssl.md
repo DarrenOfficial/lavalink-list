@@ -66,6 +66,7 @@ Password : "lunarnodes.xyz"
 Secure : false
 ```
 ### Hosted by @ [Jirayu](https://jirayu.net)
+See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
 ```bash
 Host : lavalink.jirayu.net
@@ -83,10 +84,10 @@ Secure : false
 ```
 
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
-Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
+Version 4.0.7 Plugins: youtube-plugin:1.7.0, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
 Host : lavalink01.techbyte.host
-Port : 2005
+Port : 2036
 Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
