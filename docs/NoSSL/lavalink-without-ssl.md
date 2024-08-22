@@ -66,6 +66,7 @@ Password : "lunarnodes.xyz"
 Secure : false
 ```
 ### Hosted by @ [Jirayu](https://jirayu.net)
+See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
 ```bash
 Host : lavalink.jirayu.net
@@ -83,10 +84,10 @@ Secure : false
 ```
 
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
-Version 4.0.7 Plugins: youtube-plugin:1.5.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
+Version 4.0.7 Plugins: youtube-plugin:1.7.0, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
 Host : lavalink01.techbyte.host
-Port : 2005
+Port : 2036
 Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
@@ -223,7 +224,7 @@ Secure : false
 ```
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
 ```bash
 Host : v4.lavalink.rocks
 Port : 80
@@ -231,7 +232,7 @@ Password : "horizxon.tech"
 Secure : false
 ```
 Version 3.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.eu/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
 ```bash
 Host : v3.lavalink.rocks
 Port : 80
