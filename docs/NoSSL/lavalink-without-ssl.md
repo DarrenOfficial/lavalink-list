@@ -57,6 +57,17 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
+### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
+Version 4.x 
+<br>
+[![Uptime](https://uptime.betterstack.com/status-badges/v2/monitor/1imje.svg)](https://uptime.betterstack.com/?utm_source=status_badge) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/3)
+```bash
+Host : node.lewdhutao.my.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+
 ### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
 Version 4.0.5 (Plugin), DE, Mühlhausen
 ```bash
