@@ -42,14 +42,13 @@ Secure : false
 
 
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
+Version 4.x
 ```bash
 Host : ll.sleepyinsomniac.eu.org
 Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
-Version 4.x
 ```bash
 Host : buses.sleepyinsomniac.eu.org
 Port : 80
