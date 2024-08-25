@@ -233,3 +233,11 @@ Port : 80
 Password : "horizxon.tech"
 Secure : false
 ```
+### Hosted by @ [Catfein](https://catfein.com)
+Version 4.0.7 
+```bash
+Host : lava.catfein.com
+Port : 5000
+Password : "catfein"
+Secure : false
+```
