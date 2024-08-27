@@ -42,16 +42,26 @@ Secure : false
 
 
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.x
+Version 4.x
 ```bash
 Host : ll.sleepyinsomniac.eu.org
 Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
-Version 4.x
 ```bash
 Host : buses.sleepyinsomniac.eu.org
+Port : 80
+Password : "youshallnotpass"
+Secure : false
+```
+
+### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
+Version 4.x 
+<br>
+![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
+```bash
+Host : node.lewdhutao.my.eu.org
 Port : 80
 Password : "youshallnotpass"
 Secure : false
@@ -129,22 +139,6 @@ Version 4.0.3
 Host : lavalink1.albinhakanson.se
 Port : 1141
 Password : "albinhakanson.se"
-Secure : false
-```
-
-### Hosted by @ [timelessnesses](https://timelessnesses.me)
-Version 3.7.10
-```bash
-Host : lavalink.api.timelessnesses.me
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-Version 4.0.3 \ Plugins SponsorBlock, LavaSearch, DuncteBot, XM, Lyrics.kt, LavaDSPX
-```bash
-Host : four.lavalink.api.timelessnesses.me
-Port : 80
-Password : "youshallnotpass"
 Secure : false
 ```
 
@@ -237,5 +231,13 @@ Version 3.x <br />
 Host : v3.lavalink.rocks
 Port : 80
 Password : "horizxon.tech"
+Secure : false
+```
+### Hosted by @ [Catfein](https://catfein.com)
+Version 4.0.7 
+```bash
+Host : lava.catfein.com
+Port : 5000
+Password : "catfein"
 Secure : false
 ```
