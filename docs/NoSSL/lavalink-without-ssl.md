@@ -114,7 +114,7 @@ Secure : false
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
 ![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
