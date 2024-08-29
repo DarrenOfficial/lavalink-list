@@ -204,7 +204,7 @@ Secure : false
 Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
 ```bash
 Host : lavalink4.theelf.tech
-Port : 12635
+Port : 8033
 Password : "https://dsc.gg/elfmusic"
 Secure : false
 ```
@@ -212,7 +212,7 @@ Secure : false
 Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
 ```bash
 Host : lavalink3.theelf.tech
-Port : 12634
+Port : 8094
 Password : "discord.gg/PqVQgXTweC"
 Secure : false
 ```
