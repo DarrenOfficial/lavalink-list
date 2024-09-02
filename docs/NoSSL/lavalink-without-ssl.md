@@ -24,14 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
-Version 4.0.7
-```bash
-Host : 181.215.58.8
-Port : 1212
-Password : "youshallnotpass"
-Secure : false
-```
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
@@ -229,5 +221,14 @@ Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/statu
 Host : lavalink3.theelf.tech
 Port : 12634
 Password : "discord.gg/PqVQgXTweC"
+Secure : false
+```
+
+### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
+Version 4.0.7
+```bash
+Host : 181.215.58.8
+Port : 1212
+Password : "youshallnotpass"
 Secure : false
 ```
