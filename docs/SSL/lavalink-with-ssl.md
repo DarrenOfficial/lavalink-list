@@ -23,14 +23,16 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
-Version 4.x
+Version 4.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
 ```bash
-Host : ssl.lavalink.rocks
+Host : v4.lavalink.rocks
 Port : 443
 Password : "horizxon.tech"
 Secure : true
 ```
-Version 3.x
+Version 3.x <br />
+[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
 ```bash
 Host : v3.lavalink.rocks
 Port : 443
@@ -49,9 +51,10 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajiedev.tech/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
+![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -59,6 +62,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
+![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
@@ -89,29 +93,29 @@ Secure : true
 
 ### Hosted by @ [Amane](https://amane.my.id)
 Version 3.7.12 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square) <br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
-Host : lavalink.serenetia.com
+Host : lavalinkv3-id.serenetia.com
 Port : 443
-Password : "lavalinkv3"
+Password : "BatuManaBisa"
 Secure : true
 ```
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
 ```bash
-Host : lavalinkv4.serenetia.com
+Host : lavalinkv4-id.serenetia.com
 Port : 443
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
 Secure : true
 ```
 
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4eu](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 443
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
 Secure : true
 ```
 

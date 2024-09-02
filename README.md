@@ -12,7 +12,7 @@
     ·
     <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
     ·
-    <a href="https://uptime.ajiedev.tech/status/public-lavalink-stats">Status Page</a>
+    <a href="https://status.ajieblogs.eu.org/status/public-lavalink-stats">Status Page</a>
   </p>
 </div>
 
