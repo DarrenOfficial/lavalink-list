@@ -102,17 +102,6 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
-Version 4.0.0
-
-[Discord Server](https://discord.gg/creavite)
-```bash
-Host : us1.lavalink.creavite.co
-Port : 20080
-Password : "auto.creavite.co"
-Secure : false    
-```
-
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
 [Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
