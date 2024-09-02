@@ -229,4 +229,12 @@ Host : lava.catfein.com
 Port : 5000
 Password : "catfein"
 Secure : false
+
+### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
+Version 4.0.7
+```bash
+Host : 181.215.58.8
+Port : 1212
+Password : "youshallnotpass"
+Secure : false
 ```
