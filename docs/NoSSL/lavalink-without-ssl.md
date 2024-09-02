@@ -24,6 +24,14 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
+Version 4.0.7
+```bash
+Host : 181.215.58.8
+Port : 1212
+Password : "youshallnotpass"
+Secure : false
+```
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
 Version 4.x
 ```bash
