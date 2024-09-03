@@ -177,7 +177,7 @@ Combined Lavalink Version ( v3 & v4 ) <br />
 this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
 ```bash
 Host : lavalink.serenetia.com
-Port : 443
+Port : 80
 Password : "BatuManaBisa"
 Secure : true
 ```
