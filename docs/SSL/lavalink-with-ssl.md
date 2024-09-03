@@ -117,11 +117,18 @@ Port : 443
 Password : "BatuManaBisa"
 Secure : true
 ```
-
 Version 4.0.7 <br />
 ![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
+Port : 443
+Password : "BatuManaBisa"
+Secure : true
+```
+Combined Lavalink Version ( v3 & v4 ) <br />
+this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
+```bash
+Host : lavalink.serenetia.com
 Port : 443
 Password : "BatuManaBisa"
 Secure : true
