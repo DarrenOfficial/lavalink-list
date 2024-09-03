@@ -127,7 +127,7 @@ Works on both lavalink client that uses v3 and v4 connections
 Host : lava-all.ajieblogs.eu.org
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
-Secure : true 
+Secure : false 
 ```
 ### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 Version 4.0.3
@@ -179,7 +179,7 @@ this lavalink can both handle request from v3 and v4 clients, plugins from v3 an
 Host : lavalink.serenetia.com
 Port : 80
 Password : "BatuManaBisa"
-Secure : true
+Secure : false
 ```
 
 ### Hosted by @ [Clxud](https://clxud.dev/)
