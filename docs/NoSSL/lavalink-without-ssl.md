@@ -139,6 +139,14 @@ Port : 4000
 Password : "youshallnotpass"
 Secure : false
 ```
+### Hosted by @ [penguin.in](https://discordapp.com/users/1252954543021494365)
+Version 4.0.7
+```bash
+Host : 181.215.58.8
+Port : 1212
+Password : "youshallnotpass"
+Secure : false
+```
 
 ### Hosted by @ [Amane](https://amane.my.id)
 Version 3.7.12 <br />
@@ -229,12 +237,3 @@ Host : lava.catfein.com
 Port : 5000
 Password : "catfein"
 Secure : false
-
-### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
-Version 4.0.7
-```bash
-Host : 181.215.58.8
-Port : 1212
-Password : "youshallnotpass"
-Secure : false
-```
