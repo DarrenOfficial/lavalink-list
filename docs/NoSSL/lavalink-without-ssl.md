@@ -75,6 +75,7 @@ Port : 6969
 Password : "lunarnodes.xyz"
 Secure : false
 ```
+
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
@@ -106,7 +107,7 @@ Secure : false
 [Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -114,14 +115,21 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-
+Combined servers ( v3 & v4 ) <br />
+Works on both lavalink client that uses v3 and v4 connections
+```bash
+Host : lava-all.ajieblogs.eu.org
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false 
+```
 ### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 Version 4.0.3
 ```bash
@@ -139,14 +147,6 @@ Port : 4000
 Password : "youshallnotpass"
 Secure : false
 ```
-### Hosted by @ [penguin.in](https://discordapp.com/users/1252954543021494365)
-Version 4.0.7
-```bash
-Host : 181.215.58.8
-Port : 1212
-Password : "youshallnotpass"
-Secure : false
-```
 
 ### Hosted by @ [Amane](https://amane.my.id)
 Version 3.7.12 <br />
@@ -158,7 +158,6 @@ Port : 80
 Password : "BatuManaBisa"
 Secure : false
 ```
-
 Version 4.0.7 <br />
 ![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
 ```bash
@@ -167,11 +166,18 @@ Port : 80
 Password : "BatuManaBisa"
 Secure : false
 ```
-
 Version 4.0.7 <br />
 ![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
+Port : 80
+Password : "BatuManaBisa"
+Secure : false
+```
+Combined Lavalink Version ( v3 & v4 ) <br />
+this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
+```bash
+Host : lavalink.serenetia.com
 Port : 80
 Password : "BatuManaBisa"
 Secure : false
@@ -237,3 +243,13 @@ Host : lava.catfein.com
 Port : 5000
 Password : "catfein"
 Secure : false
+```
+
+### Hosted by @ [penguin.in](https://discordapp.com/users/1252954543021494365)
+Version 4.0.7
+```bash
+Host : 181.215.58.8
+Port : 1212
+Password : "youshallnotpass"
+Secure : false
+```

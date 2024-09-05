@@ -54,7 +54,7 @@ Secure : true
 [Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -62,9 +62,17 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : true 
+```
+Combined servers ( v3 & v4 ) <br />
+Works on both lavalink client that uses v3 and v4 connections
+```bash
+Host : lava-all.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true 
@@ -109,11 +117,18 @@ Port : 443
 Password : "BatuManaBisa"
 Secure : true
 ```
-
 Version 4.0.7 <br />
 ![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
+Port : 443
+Password : "BatuManaBisa"
+Secure : true
+```
+Combined Lavalink Version ( v3 & v4 ) <br />
+this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
+```bash
+Host : lavalink.serenetia.com
 Port : 443
 Password : "BatuManaBisa"
 Secure : true
