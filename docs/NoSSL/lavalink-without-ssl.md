@@ -75,6 +75,7 @@ Port : 6969
 Password : "lunarnodes.xyz"
 Secure : false
 ```
+
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
@@ -244,7 +245,7 @@ Password : "catfein"
 Secure : false
 ```
 
-### Hosted by @ [penguin.in](http://181.215.58.8:1306/status/uptime)
+### Hosted by @ [penguin.in](https://discordapp.com/users/1252954543021494365)
 Version 4.0.7
 ```bash
 Host : 181.215.58.8
