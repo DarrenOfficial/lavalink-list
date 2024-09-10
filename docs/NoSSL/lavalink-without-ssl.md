@@ -244,12 +244,3 @@ Port : 5000
 Password : "catfein"
 Secure : false
 ```
-
-### Hosted by @ [penguin.in](https://discordapp.com/users/1252954543021494365)
-Version 4.0.7
-```bash
-Host : 181.215.58.8
-Port : 1212
-Password : "youshallnotpass"
-Secure : false
-```
