@@ -51,10 +51,10 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Website](https://lavalink.ajieblogs.eu.org/) | [Live Stats](https://lava-stat.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime)・![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -62,7 +62,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status)・![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime)・![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
