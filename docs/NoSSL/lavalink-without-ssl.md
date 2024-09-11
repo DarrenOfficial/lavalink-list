@@ -149,6 +149,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
+[Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
