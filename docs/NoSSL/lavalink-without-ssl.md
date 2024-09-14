@@ -94,16 +94,6 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/) <br />
-Version 4 (Wasabi) No Plugin
-```bash
-Host : lavalink.ipv4.oreshi.com
-Port : 80
-Password : "D20dW3zGYWAqgVTwGB5vxwezX9ynUYjJk"
-Secure : false    
-```
-
 ### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
 Version 4.0.7 Plugins: youtube-plugin:1.7.0, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.6 and Spotify api
 ```bash
@@ -254,4 +244,14 @@ Host : lava.catfein.com
 Port : 5000
 Password : "catfein"
 Secure : false
+```
+
+### Hosted by @ [SomboyTiger](https://chompubot.work)
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/) <br />
+Version 4 (Wasabi) No Plugin
+```bash
+Host : lavalink.ipv4.oreshi.com
+Port : 80
+Password : "D20dW3zGYWAqgVTwGB5vxwezX9ynUYjJk"
+Secure : false    
 ```
