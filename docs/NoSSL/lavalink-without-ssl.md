@@ -67,15 +67,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
-Version 4.0.5 (Plugin), DE, Mühlhausen
-```bash
-Host : ether.lunarnodes.xyz
-Port : 6969
-Password : "lunarnodes.xyz"
-Secure : false
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 Version 4.0.7 (Custom)
@@ -195,31 +186,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
-Version 4.x
-[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
-```bash
-Host : 37.27.114.136
-Port : 25065
-Password : "reedrouxfreenode"
-Secure : false
-```
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
-```bash
-Host : lavalink4.theelf.tech
-Port : 25577
-Password : "https://dsc.gg/elfmusic"
-Secure : false
-```
-
-Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
-```bash
-Host : lavalink3.theelf.tech
-Port : 50050
-Password : "discord.gg/PqVQgXTweC"
-Secure : false
-```
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x <br />
 [Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
