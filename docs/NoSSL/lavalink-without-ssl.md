@@ -213,8 +213,8 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/) <br />
-Version 4 (Wasabi) No Plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/)
+Version 4 (Wasabi) Plugin: lavasrc, lavalyrics, dunctebot, lavalyrics, allvaa-lpsources
 ```bash
 Host : lavalink.ipv4.oreshi.com
 Port : 80
