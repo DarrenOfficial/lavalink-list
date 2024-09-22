@@ -78,7 +78,7 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc) [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
+Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [youtube](https://github.com/lavalink-devs/youtube-source#plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 2334
