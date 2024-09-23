@@ -59,7 +59,7 @@ Secure : false
 ### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
 Version 4.x 
 <br>
-![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
+![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Uptime](https://lavalink.shittybot.xyz/api/v1/badge/uptime/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
 ```bash
 Host : node.lewdhutao.my.eu.org
 Port : 80
