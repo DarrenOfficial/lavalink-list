@@ -69,7 +69,8 @@ Secure : false
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-Version 4.0.7 (Custom)
+If you need help of something please contact me on [discord](https://discord.com/users/1242102634823946350) <br />
+Version 4.0.8 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [sponsorblock](https://github.com/topi314/SponsorBlock-Plugin), [lavasearch](https://github.com/topi314/LavaSearch), [lavalyrics](https://github.com/topi314/LavaLyrics), [lyrics](https://github.com/DRSchlaubi/lyrics.kt), [lavadspx](https://github.com/esmBot/lava-xm-plugin), [lava-xm](https://github.com/esmBot/lava-xm-plugin), [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -77,7 +78,7 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.12
+Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [youtube](https://github.com/lavalink-devs/youtube-source#plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 2334
