@@ -59,7 +59,7 @@ Secure : false
 ### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
 Version 4.x 
 <br>
-![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
+![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Uptime](https://lavalink.shittybot.xyz/api/v1/badge/uptime/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
 ```bash
 Host : node.lewdhutao.my.eu.org
 Port : 80
@@ -67,17 +67,10 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [Lunar Nodes](https://lunarnodes.xyz)
-Version 4.0.5 (Plugin), DE, Mühlhausen
-```bash
-Host : ether.lunarnodes.xyz
-Port : 6969
-Password : "lunarnodes.xyz"
-Secure : false
-```
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-Version 4.0.7 (Custom)
+If you need help of something please contact me on [discord](https://discord.com/users/1242102634823946350) <br />
+Version 4.0.8 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [sponsorblock](https://github.com/topi314/SponsorBlock-Plugin), [lavasearch](https://github.com/topi314/LavaSearch), [lavalyrics](https://github.com/topi314/LavaLyrics), [lyrics](https://github.com/DRSchlaubi/lyrics.kt), [lavadspx](https://github.com/esmBot/lava-xm-plugin), [lava-xm](https://github.com/esmBot/lava-xm-plugin), [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -85,7 +78,7 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.12
+Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [youtube](https://github.com/lavalink-devs/youtube-source#plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 2334
@@ -102,22 +95,11 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [Creavite](https://crvt.co/a/lavalink)
-Version 4.0.0
-
-[Discord Server](https://discord.gg/creavite)
-```bash
-Host : us1.lavalink.creavite.co
-Port : 20080
-Password : "auto.creavite.co"
-Secure : false    
-```
-
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -125,36 +107,27 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-
+Combined servers ( v3 & v4 ) <br />
+Works on both lavalink client that uses v3 and v4 connections
+```bash
+Host : lava-all.ajieblogs.eu.org
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false 
+```
 ### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 Version 4.0.3
 ```bash
 Host : lavalink1.albinhakanson.se
 Port : 1141
 Password : "albinhakanson.se"
-Secure : false
-```
-
-### Hosted by @ [timelessnesses](https://timelessnesses.me)
-Version 3.7.10
-```bash
-Host : lavalink.api.timelessnesses.me
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-Version 4.0.3 \ Plugins SponsorBlock, LavaSearch, DuncteBot, XM, Lyrics.kt, LavaDSPX
-```bash
-Host : four.lavalink.api.timelessnesses.me
-Port : 80
-Password : "youshallnotpass"
 Secure : false
 ```
 
@@ -168,31 +141,38 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
+[Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
-Host : lavalink.serenetia.com
+Host : lavalinkv3-id.serenetia.com
 Port : 80
-Password : "lavalinkv3"
+Password : "BatuManaBisa"
 Secure : false
 ```
-
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
 ```bash
-Host : lavalinkv4.serenetia.com
+Host : lavalinkv4-id.serenetia.com
 Port : 80
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
 Secure : false
 ```
-
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 80
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
+Secure : false
+```
+Combined Lavalink Version ( v3 & v4 ) <br />
+this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
+```bash
+Host : lavalink.serenetia.com
+Port : 80
+Password : "BatuManaBisa"
 Secure : false
 ```
 
@@ -207,31 +187,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [Cloud Reedroux](https://reedroux.biz/)
-Version 4.x
-[Live Status](https://hetrixtools.com/r/530af032379fc83316a8221a44a8cd52/) 
-```bash
-Host : 37.27.114.136
-Port : 25065
-Password : "reedrouxfreenode"
-Secure : false
-```
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.7 \ 21 Sources \ 7 Plugins・![status](https://granite-bear.pikapod.net/api/badge/7/status)・![Ping](https://granite-bear.pikapod.net/api/badge/7/response)・![uptime](https://granite-bear.pikapod.net/api/badge/7/uptime)
-```bash
-Host : lavalink4.theelf.tech
-Port : 12635
-Password : "https://dsc.gg/elfmusic"
-Secure : false
-```
-
-Version 3.7.10 \ ・![status](https://granite-bear.pikapod.net/api/badge/6/status)・![Ping](https://granite-bear.pikapod.net/api/badge/6/response)・![uptime](https://granite-bear.pikapod.net/api/badge/6/uptime)
-```bash
-Host : lavalink3.theelf.tech
-Port : 12634
-Password : "discord.gg/PqVQgXTweC"
-Secure : false
-```
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x <br />
 [Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
@@ -248,4 +203,22 @@ Host : v3.lavalink.rocks
 Port : 80
 Password : "horizxon.tech"
 Secure : false
+```
+### Hosted by @ [Catfein](https://catfein.com)
+Version 4.0.7 
+```bash
+Host : lava.catfein.com
+Port : 5000
+Password : "catfein"
+Secure : false
+```
+
+### Hosted by @ [SomboyTiger](https://chompubot.work)
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/)
+Version 4 (Wasabi) Plugin: lavasrc, lavalyrics, dunctebot, lavalyrics, allvaa-lpsources
+```bash
+Host : lavalink.ipv4.oreshi.com
+Port : 80
+Password : "D20dW3zGYWAqgVTwGB5vxwezX9ynUYjJk"
+Secure : false    
 ```

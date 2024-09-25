@@ -51,10 +51,10 @@ Secure : true
 ```
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev)
-[Live Status & Website](https://lavalink.ajieblogs.eu.org/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/10/status)・![up](https://status.ajieblogs.eu.org/api/badge/10/uptime?labelSuffix=+hour)・![playersv3](https://lava-stat-api.ajieblogs.eu.org/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
@@ -62,60 +62,55 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-![stat](https://status.ajieblogs.eu.org/api/badge/11/status)・![up](https://status.ajieblogs.eu.org/api/badge/11/uptime?labelSuffix=+hour)・![playersv4](https://lava-stat-api.ajieblogs.eu.org/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true 
 ```
-
-### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
-Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
+Combined servers ( v3 & v4 ) <br />
+Works on both lavalink client that uses v3 and v4 connections
 ```bash
-Host : lavalink1.skybloxsystems.com
+Host : lava-all.ajieblogs.eu.org
 Port : 443
-Password : "s4DarqP$&y"
-Secure : true
-```
-```bash
-Host : lavalink2.skybloxsystems.com
-Port : 443
-Password : "s4DarqP$&y"
-Secure : true
-```
-```bash
-Host : lavalinkbackup.skybloxsystems.com
-Port : 443
-Password : "s4DarqP$&y"
-Secure : true
+Password : "https://dsc.gg/ajidevserver"
+Secure : true 
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id)
+[Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev3](https://status.serenetia.com/api/badge/7/status?style=flat-square) <br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
-Host : lavalink.serenetia.com
+Host : lavalinkv3-id.serenetia.com
 Port : 443
-Password : "lavalinkv3"
+Password : "BatuManaBisa"
 Secure : true
 ```
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4](https://status.serenetia.com/api/badge/8/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
 ```bash
-Host : lavalinkv4.serenetia.com
+Host : lavalinkv4-id.serenetia.com
 Port : 443
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
 Secure : true
 ```
-
 Version 4.0.7 <br />
-[Live Status](https://lavalink-stats.serenetia.com/) ・ [Uptime](https://status.serenetia.com/status/all) ・ ![badgev4eu](https://status.serenetia.com/api/badge/9/status?style=flat-square)<br />
+![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 443
-Password : "lavalinkv4"
+Password : "BatuManaBisa"
+Secure : true
+```
+Combined Lavalink Version ( v3 & v4 ) <br />
+this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
+```bash
+Host : lavalink.serenetia.com
+Port : 443
+Password : "BatuManaBisa"
 Secure : true
 ```
 
