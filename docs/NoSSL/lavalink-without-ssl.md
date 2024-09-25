@@ -59,7 +59,7 @@ Secure : false
 ### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
 Version 4.x 
 <br>
-![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
+![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Uptime](https://lavalink.shittybot.xyz/api/v1/badge/uptime/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
 ```bash
 Host : node.lewdhutao.my.eu.org
 Port : 80
@@ -69,7 +69,8 @@ Secure : false
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-Version 4.0.7 (Custom)
+If you need help of something please contact me on [discord](https://discord.com/users/1242102634823946350) <br />
+Version 4.0.8 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [sponsorblock](https://github.com/topi314/SponsorBlock-Plugin), [lavasearch](https://github.com/topi314/LavaSearch), [lavalyrics](https://github.com/topi314/LavaLyrics), [lyrics](https://github.com/DRSchlaubi/lyrics.kt), [lavadspx](https://github.com/esmBot/lava-xm-plugin), [lava-xm](https://github.com/esmBot/lava-xm-plugin), [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -77,7 +78,7 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.12
+Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [youtube](https://github.com/lavalink-devs/youtube-source#plugin)
 ```bash
 Host : lavalink.jirayu.net
 Port : 2334
@@ -213,8 +214,8 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/) <br />
-Version 4 (Wasabi) No Plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/)
+Version 4 (Wasabi) Plugin: lavasrc, lavalyrics, dunctebot, lavalyrics, allvaa-lpsources
 ```bash
 Host : lavalink.ipv4.oreshi.com
 Port : 80

@@ -78,27 +78,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true 
 ```
 
-### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
-Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
-```bash
-Host : lavalink1.skybloxsystems.com
-Port : 443
-Password : "s4DarqP$&y"
-Secure : true
-```
-```bash
-Host : lavalink2.skybloxsystems.com
-Port : 443
-Password : "s4DarqP$&y"
-Secure : true
-```
-```bash
-Host : lavalinkbackup.skybloxsystems.com
-Port : 443
-Password : "s4DarqP$&y"
-Secure : true
-```
-
 ### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
