@@ -31,14 +31,6 @@ Port : 443
 Password : "horizxon.tech"
 Secure : true
 ```
-Version 3.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
-```bash
-Host : v3.lavalink.rocks
-Port : 443
-Password : "horizxon.tech"
-Secure : true
-```
 
 ### Hosted by @ [devbeni](https://huntools-bot.xyz)
 [Live Status](https://status.huntools-bot.xyz/) <br />
@@ -81,7 +73,7 @@ Secure : true
 ### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
-![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
 For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
 Host : lavalinkv3-id.serenetia.com
@@ -90,7 +82,7 @@ Password : "BatuManaBisa"
 Secure : true
 ```
 Version 4.0.7 <br />
-![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v4/badge/Players) <br />
 ```bash
 Host : lavalinkv4-id.serenetia.com
 Port : 443
@@ -114,11 +106,3 @@ Password : "BatuManaBisa"
 Secure : true
 ```
 
-### Hosted by @ [HewkawAr](https://github.com/hewkawar)
-Version 4.0.7
-```bash
-Host : lavalink.hewkawar.xyz
-Port : 443
-Password : "HewkawArPass"
-Secure : true
-```
