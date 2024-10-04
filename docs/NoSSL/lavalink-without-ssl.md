@@ -196,22 +196,6 @@ Port : 80
 Password : "horizxon.tech"
 Secure : false
 ```
-Version 3.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
-```bash
-Host : v3.lavalink.rocks
-Port : 80
-Password : "horizxon.tech"
-Secure : false
-```
-### Hosted by @ [Catfein](https://catfein.com)
-Version 4.0.7 
-```bash
-Host : lava.catfein.com
-Port : 5000
-Password : "catfein"
-Secure : false
-```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/)
