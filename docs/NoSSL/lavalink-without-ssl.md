@@ -143,7 +143,7 @@ Secure : false
 ### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
-![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalinkv3-id.serenetia.com
@@ -152,7 +152,7 @@ Password : "BatuManaBisa"
 Secure : false
 ```
 Version 4.0.7 <br />
-![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v4/badge/Players) <br />
 ```bash
 Host : lavalinkv4-id.serenetia.com
 Port : 80
@@ -194,22 +194,6 @@ Version 4.x <br />
 Host : v4.lavalink.rocks
 Port : 80
 Password : "horizxon.tech"
-Secure : false
-```
-Version 3.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
-```bash
-Host : v3.lavalink.rocks
-Port : 80
-Password : "horizxon.tech"
-Secure : false
-```
-### Hosted by @ [Catfein](https://catfein.com)
-Version 4.0.7 
-```bash
-Host : lava.catfein.com
-Port : 5000
-Password : "catfein"
 Secure : false
 ```
 
