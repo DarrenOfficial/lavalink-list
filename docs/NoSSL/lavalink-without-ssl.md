@@ -189,11 +189,11 @@ Secure : false
 
 ### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
 Version 4.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+[Live Status](https://lava-status.horizxon.rocks/)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://lava-api.horizxon.rocks/v4/badge/connections)
 ```bash
-Host : v4.lavalink.rocks
+Host : lava.horizxon.rocks
 Port : 80
-Password : "horizxon.tech"
+Password : "horizxon.rocks"
 Secure : false
 ```
 
