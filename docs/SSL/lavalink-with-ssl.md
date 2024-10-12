@@ -105,4 +105,11 @@ Port : 443
 Password : "BatuManaBisa"
 Secure : true
 ```
-
+### Hosted by @ [Weiss Owl](https://discord.alfari.id)
+Version 4.0.8
+```bash
+Host : lavalink.alfari.id
+Port : 443
+Password : "catfein"
+Secure : true
+```
