@@ -199,7 +199,8 @@ Secure : false
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/43d758c2b718157e83d5726e1d0244a0/) <br />
-Version 4 (Wasabi) Plugin: chompu-plugin, lavasrc-plugin, sponsorblock-plugin
+Version 4 (Wasabi) <br />
+Plugin: chompu-plugin, lavasrc-plugin, sponsorblock-plugin
 ```bash
 Host : lavalink.ipv4.oreshi.com
 Port : 2333
