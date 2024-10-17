@@ -209,7 +209,7 @@ Secure : false
 ### Hosted by @ [Koi Natsuko](https://fypmoon.org)
 [Website & Live Stats](https://status.fypmoon.org/status/main) | [Support server](https://discord.gg/Mt2Pe8gr9C) <br />
 Version 3.x <br />
-![uptime](https://status.fypmoon.org/api/badge/1/uptime?style=flat-square)・![status](https://status.fypmoon.org/api/badge/1/status?style=flat-square)
+![uptime](https://status.fypmoon.org/api/badge/2/uptime?style=flat-square)・![status](https://status.fypmoon.org/api/badge/2/status?style=flat-square)
 ```bash
 Host : nodev3.fypmoon.org
 Port : 1164
@@ -217,7 +217,7 @@ Password : "fypmoon.org"
 Secure : false
 ```
 Version 4.x <br />
-![uptime](https://status.fypmoon.org/api/badge/3/uptime?style=flat-square)・![status](https://status.fypmoon.org/api/badge/3/status?style=flat-square)
+![uptime](https://status.fypmoon.org/api/badge/4/uptime?style=flat-square)・![status](https://status.fypmoon.org/api/badge/4/status?style=flat-square)
 ```bash
 Host : nodev4.fypmoon.org
 Port : 1118
