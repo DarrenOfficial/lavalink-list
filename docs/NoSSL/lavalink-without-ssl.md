@@ -40,25 +40,6 @@ Password : "jompo"
 Secure : false
 ```
 
-
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG) [giveaway Bot ](https://discord.com/oauth2/authorize?client_id=1071937742759546931&scope=bot%20identify%20guilds%20applications.commands&response_type=code&redirect_uri=https://giveaway.lightsout.in)
-Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
-```bash
-Host : lavalink4.lightsout.in
-Port : 40069
-Password : "LightsoutOwnsElves"
-Secure : false
-```
-
-Version 3.7.13 \ Best Discord [Music Bot](https://discord.com/oauth2/authorize?client_id=1076205165587222618&permissions=139657014608&scope=bot%20applications.commands) With Song Request Channel & Filters. ・![status](https://stats.lightsout.in/api/badge/1/status)・![Ping](https://stats.lightsout.in/api/badge/1/response)・![uptime](https://stats.lightsout.in/api/badge/1/uptime)
-```bash
-Host : lavalink3.lightsout.in
-Port : 30069
-Password : "LightsoutBeatsElves"
-Secure : false
-```
-
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 4.x
 ```bash
@@ -241,5 +222,21 @@ Version 4.x <br />
 Host : nodev4.fypmoon.org
 Port : 1118
 Password : "fypmoon.org"
+Secure : false
+```
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
+```bash
+Host : lavalink4.lightsout.in
+Port : 40069
+Password : "LightsoutOwnsElves"
+Secure : false
+```
+
+Version 3.7.13 ![status](https://stats.lightsout.in/api/badge/1/status)・![Ping](https://stats.lightsout.in/api/badge/1/response)・![uptime](https://stats.lightsout.in/api/badge/1/uptime)
+```bash
+Host : lavalink3.lightsout.in
+Port : 30069
+Password : "LightsoutBeatsElves"
 Secure : false
 ```
