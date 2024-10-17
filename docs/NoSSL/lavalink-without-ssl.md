@@ -40,7 +40,6 @@ Password : "jompo"
 Secure : false
 ```
 
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 4.x
 ```bash
@@ -223,5 +222,21 @@ Version 4.x <br />
 Host : nodev4.fypmoon.org
 Port : 1118
 Password : "fypmoon.org"
+Secure : false
+```
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
+```bash
+Host : lavalink4.lightsout.in
+Port : 40069
+Password : "LightsoutOwnsElves"
+Secure : false
+```
+
+Version 3.7.13 ![status](https://stats.lightsout.in/api/badge/1/status)・![Ping](https://stats.lightsout.in/api/badge/1/response)・![uptime](https://stats.lightsout.in/api/badge/1/uptime)
+```bash
+Host : lavalink3.lightsout.in
+Port : 30069
+Password : "LightsoutBeatsElves"
 Secure : false
 ```
