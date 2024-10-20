@@ -22,16 +22,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
-Version 4.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
-```bash
-Host : v4.lavalink.rocks
-Port : 443
-Password : "horizxon.tech"
-Secure : true
-```
-
 ### Hosted by @ [devbeni](https://huntools-bot.xyz)
 [Live Status](https://status.huntools-bot.xyz/) <br />
 Version 4.0.4
@@ -42,7 +32,7 @@ Password : "youshallnotpass"
 Secure : true
 ```
 
-### Hosted by @ [AjieDev](https://github.com/AjieDev)
+### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
