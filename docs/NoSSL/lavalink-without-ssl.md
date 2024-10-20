@@ -25,13 +25,6 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [jompo.cloud](https://jompo.cloud/)
-Version 4.x
-```bash
-Host : lavalink.jompo.cloud
-Port : 2333
-Password : "jompo"
-Secure : false
-```
 Version 3.x
 ```bash
 Host : lavalink-legacy.jompo.cloud
@@ -94,7 +87,7 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [AjieDev](https://github.com/AjieDev)
+### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
