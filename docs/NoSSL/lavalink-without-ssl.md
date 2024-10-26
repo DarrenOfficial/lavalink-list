@@ -194,7 +194,7 @@ Secure : false
 Version 3.x <br />
 ![uptime](https://status.prplmoe.me/api/badge/1/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/1/status?style=flat-square)
 ```bash
-Host : lavav3.fypmoon.org
+Host : lavav3.prplmoe.me
 Port : 1164
 Password : "prplmoe.me"
 Secure : false
@@ -202,7 +202,7 @@ Secure : false
 Version 4.x <br />
 ![uptime](https://status.prplmoe.me/api/badge/3/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/3/status?style=flat-square)
 ```bash
-Host : lavav4.fypmoon.org
+Host : lavav4.prplmoe.me
 Port : 1118
 Password : "prplmoe.me"
 Secure : false
