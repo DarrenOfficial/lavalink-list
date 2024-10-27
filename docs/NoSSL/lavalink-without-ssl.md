@@ -123,15 +123,6 @@ Password : "albinhakanson.se"
 Secure : false
 ```
 
-### Hosted by @ [jxsh](https://jxshua.dev)
-Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
-```bash
-Host : nyc01.jxshua.dev
-Port : 4000
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
