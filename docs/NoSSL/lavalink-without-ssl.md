@@ -24,15 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [jompo.cloud](https://jompo.cloud/)
-Version 3.x
-```bash
-Host : lavalink-legacy.jompo.cloud
-Port : 2333
-Password : "jompo"
-Secure : false
-```
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 4.x
 ```bash
