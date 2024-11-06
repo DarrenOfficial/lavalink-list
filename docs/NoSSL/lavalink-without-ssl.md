@@ -205,3 +205,21 @@ Port : 30069
 Password : "LightsoutBeatsElves"
 Secure : false
 ```
+### Hosted by @[herjuna](https://discord.gg/9eCgpGuZAa) | [Uptime](deployments.beban.tech)
+Version 4.0.8 <br />
+![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
+```bash
+Host : node-us.beban.tech
+Port : 80
+Password : "dsc.gg/bebancommunity"
+Secure : false
+```
+
+Version 3.7.13 <br />
+![status](https://uptime.beban.tech/api/badge/7/status) ・ ![uptime](https://uptime.beban.tech/api/badge/7/uptime)
+```bash
+Host : node-us-v3.beban.tech
+Port : 80
+Password : "iknowwhy"
+Secure : false
+```
