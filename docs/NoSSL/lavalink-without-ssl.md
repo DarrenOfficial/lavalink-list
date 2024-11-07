@@ -24,23 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [jompo.cloud](https://jompo.cloud/)
-Version 4.x
-```bash
-Host : lavalink.jompo.cloud
-Port : 2333
-Password : "jompo"
-Secure : false
-```
-Version 3.x
-```bash
-Host : lavalink-legacy.jompo.cloud
-Port : 2333
-Password : "jompo"
-Secure : false
-```
-
-
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 4.x
 ```bash
@@ -95,7 +78,7 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [AjieDev](https://github.com/AjieDev)
+### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
 Version 3.7.12 <br />
@@ -131,19 +114,10 @@ Password : "albinhakanson.se"
 Secure : false
 ```
 
-### Hosted by @ [jxsh](https://jxshua.dev)
-Version 4.0.6 ・ [Uptime](https://status.jxshua.dev/) ・
-```bash
-Host : nyc01.jxshua.dev
-Port : 4000
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
-![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v3/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
 SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalinkv3-id.serenetia.com
@@ -152,7 +126,7 @@ Password : "BatuManaBisa"
 Secure : false
 ```
 Version 4.0.7 <br />
-![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://ajieblogs.eu.org/lavalink/amane/v4/badge/Players) <br />
+![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v4/badge/Players) <br />
 ```bash
 Host : lavalinkv4-id.serenetia.com
 Port : 80
@@ -187,38 +161,65 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [Horizxon Limited](https://github.com/HenGPlayZ/)
-Version 4.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/25/status)・![connections](https://api.lavalink.rocks/v4/badge/connections)
+### Hosted by @ [SomboyTiger](https://chompubot.work)
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/43d758c2b718157e83d5726e1d0244a0/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
+Version 4 (Wasabi) | Plugin: chompu-plugin, lavasrc-plugin, sponsorblock-plugin
 ```bash
-Host : v4.lavalink.rocks
-Port : 80
-Password : "horizxon.tech"
-Secure : false
+Host : lavalink.ipv4.oreshi.com
+Port : 2333
+Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
+Secure : false    
 ```
+
+### Hosted by @ [Koi Natsuko](https://prplmoe.me)
+[Website & Live Stats](https://status.prplmoe.me/status/main) | [Support server](https://discord.gg/Mt2Pe8gr9C) <br />
 Version 3.x <br />
-[Live Status](https://status.lavalink.rocks)・![stat](https://status.hengnation.dev/api/badge/26/status)・![connections](https://api.lavalink.rocks/v3/badge/connections)
+![uptime](https://status.prplmoe.me/api/badge/1/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/1/status?style=flat-square)
 ```bash
-Host : v3.lavalink.rocks
-Port : 80
-Password : "horizxon.tech"
+Host : lavav3.prplmoe.me
+Port : 1164
+Password : "prplmoe.me"
 Secure : false
 ```
-### Hosted by @ [Catfein](https://catfein.com)
-Version 4.0.7 
+Version 4.x <br />
+![uptime](https://status.prplmoe.me/api/badge/3/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/3/status?style=flat-square)
 ```bash
-Host : lava.catfein.com
-Port : 5000
-Password : "catfein"
+Host : lavav4.prplmoe.me
+Port : 1118
+Password : "prplmoe.me"
+Secure : false
+```
+### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
+Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
+```bash
+Host : lavalink4.lightsout.in
+Port : 40069
+Password : "LightsoutOwnsElves"
 Secure : false
 ```
 
-### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/482451cc0d336b3823a57703b590b0ce/)
-Version 4 (Wasabi) Plugin: lavasrc, lavalyrics, dunctebot, lavalyrics, allvaa-lpsources
+Version 3.7.13 ![status](https://stats.lightsout.in/api/badge/1/status)・![Ping](https://stats.lightsout.in/api/badge/1/response)・![uptime](https://stats.lightsout.in/api/badge/1/uptime)
 ```bash
-Host : lavalink.ipv4.oreshi.com
+Host : lavalink3.lightsout.in
+Port : 30069
+Password : "LightsoutBeatsElves"
+Secure : false
+```
+### Hosted by @[herjuna](https://discord.gg/9eCgpGuZAa) | [Uptime](deployments.beban.tech)
+Version 4.0.8 <br />
+![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
+```bash
+Host : node-us.beban.tech
 Port : 80
-Password : "D20dW3zGYWAqgVTwGB5vxwezX9ynUYjJk"
-Secure : false    
+Password : "dsc.gg/bebancommunity"
+Secure : false
+```
+
+Version 3.7.13 <br />
+![status](https://uptime.beban.tech/api/badge/7/status) ・ ![uptime](https://uptime.beban.tech/api/badge/7/uptime)
+```bash
+Host : node-us-v3.beban.tech
+Port : 80
+Password : "iknowwhy"
+Secure : false
 ```
