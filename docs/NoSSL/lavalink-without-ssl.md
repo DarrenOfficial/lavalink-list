@@ -69,11 +69,11 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
-Version 4.0.8 Plugins: youtube-plugin:1.8.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.7 and Spotify API
+### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
+Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
-Host : lavalink01.techbyte.host
-Port : 2036
+Host :  lavahatry4.techbyte.host
+Port : 3000
 Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
