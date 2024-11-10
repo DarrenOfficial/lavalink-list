@@ -52,8 +52,8 @@ Secure : false
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-If you need help of something please contact me on [discord](https://discord.com/users/1242102634823946350) <br />
-Version 4.0.8 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [sponsorblock](https://github.com/topi314/SponsorBlock-Plugin), [lavasearch](https://github.com/topi314/LavaSearch), [lavalyrics](https://github.com/topi314/LavaLyrics), [lyrics](https://github.com/DRSchlaubi/lyrics.kt), [lavadspx](https://github.com/esmBot/lava-xm-plugin), [lava-xm](https://github.com/esmBot/lava-xm-plugin), [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
+If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
+Version 4.0.8 | salee-plugin
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -162,8 +162,8 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/43d758c2b718157e83d5726e1d0244a0/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
-Version 4 (Wasabi) | Plugin: chompu-plugin, lavasrc-plugin, sponsorblock-plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/87063efef7cb4252c86331f882451919/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
+Version 4 (Wasabi) | Plugin: salee-plugin, sponsorblock-plugin
 ```bash
 Host : lavalink.ipv4.oreshi.com
 Port : 2333
