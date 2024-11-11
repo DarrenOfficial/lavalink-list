@@ -52,8 +52,8 @@ Secure : false
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-If you need help of something please contact me on [discord](https://discord.com/users/1242102634823946350) <br />
-Version 4.0.8 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [sponsorblock](https://github.com/topi314/SponsorBlock-Plugin), [lavasearch](https://github.com/topi314/LavaSearch), [lavalyrics](https://github.com/topi314/LavaLyrics), [lyrics](https://github.com/DRSchlaubi/lyrics.kt), [lavadspx](https://github.com/esmBot/lava-xm-plugin), [lava-xm](https://github.com/esmBot/lava-xm-plugin), [youtube](https://github.com/lavalink-devs/youtube-source#plugin), [jiosaavn](https://github.com/appujet/jiosaavn-plugin)
+If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
+Version 4.0.8 | salee-plugin
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -69,11 +69,11 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-### Hosted by @ [hatry4/naig](https://hatry4.github.io/)
-Version 4.0.8 Plugins: youtube-plugin:1.8.2, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, jiosaavn-plugin:v0.1.7 and Spotify API
+### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
+Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
-Host : lavalink01.techbyte.host
-Port : 2036
+Host :  lavahatry4.techbyte.host
+Port : 3000
 Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
@@ -162,8 +162,8 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/43d758c2b718157e83d5726e1d0244a0/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
-Version 4 (Wasabi) | Plugin: chompu-plugin, lavasrc-plugin, sponsorblock-plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/87063efef7cb4252c86331f882451919/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
+Version 4 (Wasabi) | Plugin: salee-plugin, sponsorblock-plugin
 ```bash
 Host : lavalink.ipv4.oreshi.com
 Port : 2333
@@ -203,5 +203,32 @@ Version 3.7.13 ![status](https://stats.lightsout.in/api/badge/1/status)・![Ping
 Host : lavalink3.lightsout.in
 Port : 30069
 Password : "LightsoutBeatsElves"
+Secure : false
+```
+### Hosted by @[herjuna](https://discord.gg/9eCgpGuZAa) | [Uptime](deployments.beban.tech)
+Version 4.0.8 <br />
+![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
+```bash
+Host : node-us.beban.tech
+Port : 80
+Password : "dsc.gg/bebancommunity"
+Secure : false
+```
+
+Version 3.7.13 <br />
+![status](https://uptime.beban.tech/api/badge/7/status) ・ ![uptime](https://uptime.beban.tech/api/badge/7/uptime)
+```bash
+Host : node-us-v3.beban.tech
+Port : 80
+Password : "iknowwhy"
+Secure : false
+```
+### Hosted by @[Jil](https://discord.gg/52jkqCADEP) | [Uptime](deployments.beban.tech)
+Version 4.0.8 <br />
+![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
+```bash
+Host : fn1.solarnode.xyz
+Port : 2087
+Password : "solarnode.xyz"
 Secure : false
 ```
