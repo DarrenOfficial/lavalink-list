@@ -69,7 +69,7 @@ Secure : false
 
 ### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
-[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
 Version 3.7.12 <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v3/badge/Uptimes) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
 ```bash
