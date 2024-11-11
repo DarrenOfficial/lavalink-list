@@ -24,6 +24,17 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+
+### Hosted by @ [AnantiX Network](https://github.com/AnantiX)
+If you need help of something please contact me on [discord](https://discord.gg/9GjwHBZCxy) <br />
+Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
+```bash
+Host : lavalink.anantix.network 
+Port : 2335
+Password : "pg6|(}7fuD_:7d#QQq?9"
+Secure : false    
+```
+
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
 Version 4.x
 ```bash
