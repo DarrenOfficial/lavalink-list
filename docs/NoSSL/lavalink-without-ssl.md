@@ -39,17 +39,6 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [LewdHuTao](https://github.com/lewdhutao)
-Version 4.x 
-<br>
-![Node Status](https://lavalink.shittybot.xyz/api/v1/badge/status/3) ![Node Uptime](https://lavalink.shittybot.xyz/api/v1/badge/uptime/3) ![Node Players](https://lavalink.shittybot.xyz/api/v1/badge/players/3)
-```bash
-Host : node.lewdhutao.my.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
