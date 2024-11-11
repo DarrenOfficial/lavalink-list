@@ -223,3 +223,12 @@ Port : 80
 Password : "iknowwhy"
 Secure : false
 ```
+### Hosted by @[Jil](https://discord.gg/52jkqCADEP) | [Uptime](deployments.beban.tech)
+Version 4.0.8 <br />
+![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
+```bash
+Host : fn1.solarnode.xyz
+Port : 2087
+Password : "solarnode.xyz"
+Secure : false
+```
