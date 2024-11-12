@@ -86,7 +86,7 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-Combined servers ( v3 & v4 ) <br />
+Version 3.x & 4.x <br />
 Works on both lavalink client that uses v3 and v4 connections
 ```bash
 Host : lava-all.ajieblogs.eu.org
