@@ -44,14 +44,14 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true   
 ```
 Version 4.0.7 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v3/badge/Uptimes) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v4/badge/Uptimes) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true 
 ```
-Combined servers ( v3 & v4 ) <br />
+Version 3.x & 4.x <br />
 Works on both lavalink client that uses v3 and v4 connections
 ```bash
 Host : lava-all.ajieblogs.eu.org
