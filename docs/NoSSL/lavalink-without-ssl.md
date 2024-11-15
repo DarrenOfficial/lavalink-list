@@ -231,3 +231,12 @@ Port : 2335
 Password : "pg6|(}7fuD_:7d#QQq?9"
 Secure : false    
 ```
+
+### Hosted by @ [Winkle Music](https://discord.gg/winklemusic)
+Version 4.0.8  | Lavalink by [Ujjwal](https://github.com/UjjwalxD)
+```bash
+Host : 45.89.99.118 
+Port : 8000
+Password : "winkle@team"
+Secure : false    
+```
