@@ -24,21 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 4.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
