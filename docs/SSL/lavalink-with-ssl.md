@@ -22,17 +22,7 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [devbeni](https://huntools-bot.xyz)
-[Live Status](https://status.huntools-bot.xyz/) <br />
-Version 4.0.4
-```bash
-Host : lavalink-v4.huntools-bot.xyz
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
-
-### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
+### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
 Version 3.7.12 <br />
@@ -59,8 +49,6 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true 
 ```
-
-### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
