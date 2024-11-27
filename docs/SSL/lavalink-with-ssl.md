@@ -24,7 +24,7 @@ hide:
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
-[Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
+[Non SSL version](https://lavalink-list-ayx.pages.dev/NoSSL/lavalink-without-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.7.12 <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v3/badge/Uptimes) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
 ```bash
@@ -52,7 +52,6 @@ Secure : true
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
-For Non SSL take a look [here.](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane)
 ```bash
 Host : lavalinkv3-id.serenetia.com
 Port : 443
