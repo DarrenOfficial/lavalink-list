@@ -24,21 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 4.x
-```bash
-Host : ll.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-```bash
-Host : buses.sleepyinsomniac.eu.org
-Port : 80
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Jirayu](https://jirayu.net)
 See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
 If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
@@ -198,16 +183,16 @@ Secure : false
 Version 4.0.8 <br />
 ![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
 ```bash
-Host : node-us.beban.tech
+Host : lava-v4.beban.tech
 Port : 80
-Password : "dsc.gg/bebancommunity"
+Password : "bytebee_"
 Secure : false
 ```
 
 Version 3.7.13 <br />
 ![status](https://uptime.beban.tech/api/badge/7/status) ・ ![uptime](https://uptime.beban.tech/api/badge/7/uptime)
 ```bash
-Host : node-us-v3.beban.tech
+Host : lava-v3.beban.tech
 Port : 80
 Password : "iknowwhy"
 Secure : false
@@ -229,5 +214,14 @@ Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
 Host : lavalink.anantix.network 
 Port : 2335
 Password : "pg6|(}7fuD_:7d#QQq?9"
+Secure : false    
+```
+
+### Hosted by @ [Winkle Music](https://discord.gg/winklemusic)
+Version 4.0.8  | Lavalink by [Ujjwal](https://github.com/UjjwalxD)
+```bash
+Host : 45.89.99.118 
+Port : 8000
+Password : "winkle@team"
 Secure : false    
 ```
