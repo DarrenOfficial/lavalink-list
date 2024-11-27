@@ -54,9 +54,9 @@ Secure : false
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
-[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v3/badge/Uptimes) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -64,7 +64,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v4/badge/Uptimes) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -80,9 +80,9 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false 
 ```
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
+
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
-SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalinkv3-id.serenetia.com
 Port : 80
