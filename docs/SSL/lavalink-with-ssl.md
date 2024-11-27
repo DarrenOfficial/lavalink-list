@@ -24,7 +24,7 @@ hide:
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
-[Non SSL version](https://lavalink-list-ayx.pages.dev/NoSSL/lavalink-without-ssl/#hosted-by-amane-ajiedev) <br />
+[Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.7.12 <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
