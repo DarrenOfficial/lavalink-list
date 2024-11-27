@@ -143,24 +143,6 @@ Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
 Secure : false    
 ```
 
-### Hosted by @ [Koi Natsuko](https://prplmoe.me)
-[Website & Live Stats](https://status.prplmoe.me/status/main) | [Support server](https://discord.gg/Mt2Pe8gr9C) <br />
-Version 3.x <br />
-![uptime](https://status.prplmoe.me/api/badge/1/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/1/status?style=flat-square)
-```bash
-Host : lavav3.prplmoe.me
-Port : 1164
-Password : "prplmoe.me"
-Secure : false
-```
-Version 4.x <br />
-![uptime](https://status.prplmoe.me/api/badge/3/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/3/status?style=flat-square)
-```bash
-Host : lavav4.prplmoe.me
-Port : 1118
-Password : "prplmoe.me"
-Secure : false
-```
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
 Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
 ```bash
