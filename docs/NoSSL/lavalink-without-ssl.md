@@ -52,11 +52,11 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
+### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
-[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.7.12 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v3/badge/Uptimes) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![v3load](https://ajieblogs.eu.org/lavalink/v3/badge/Load)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -64,7 +64,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.7 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![ups](https://ajieblogs.eu.org/lavalink/v4/badge/Uptimes) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![v4load](https://ajieblogs.eu.org/lavalink/v4/badge/Load)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -79,20 +79,9 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false 
 ```
-### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
-Version 4.0.3
-```bash
-Host : lavalink1.albinhakanson.se
-Port : 1141
-Password : "albinhakanson.se"
-Secure : false
-```
-
-### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
-SSL version [here.](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane) <br />
 ```bash
 Host : lavalinkv3-id.serenetia.com
 Port : 80
@@ -124,6 +113,15 @@ Password : "BatuManaBisa"
 Secure : false
 ```
 
+### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
+Version 4.0.3
+```bash
+Host : lavalink1.albinhakanson.se
+Port : 1141
+Password : "albinhakanson.se"
+Secure : false
+```
+
 ### Hosted by @ [Clxud](https://clxud.dev/)
 
 Version 4.0.7 <br />
@@ -145,24 +143,6 @@ Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
 Secure : false    
 ```
 
-### Hosted by @ [Koi Natsuko](https://prplmoe.me)
-[Website & Live Stats](https://status.prplmoe.me/status/main) | [Support server](https://discord.gg/Mt2Pe8gr9C) <br />
-Version 3.x <br />
-![uptime](https://status.prplmoe.me/api/badge/1/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/1/status?style=flat-square)
-```bash
-Host : lavav3.prplmoe.me
-Port : 1164
-Password : "prplmoe.me"
-Secure : false
-```
-Version 4.x <br />
-![uptime](https://status.prplmoe.me/api/badge/3/uptime?style=flat-square)・![status](https://status.prplmoe.me/api/badge/3/status?style=flat-square)
-```bash
-Host : lavav4.prplmoe.me
-Port : 1118
-Password : "prplmoe.me"
-Secure : false
-```
 ### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
 Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
 ```bash
@@ -197,15 +177,6 @@ Port : 80
 Password : "iknowwhy"
 Secure : false
 ```
-### Hosted by @[Jil](https://discord.gg/52jkqCADEP) | [Uptime](deployments.beban.tech)
-Version 4.0.8 <br />
-![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
-```bash
-Host : fn1.solarnode.xyz
-Port : 2087
-Password : "solarnode.xyz"
-Secure : false
-```
 
 ### Hosted by @ [AnantiX Network](https://github.com/AnantiX)
 If you need help of something please contact me on [discord](https://discord.gg/9GjwHBZCxy) <br />
@@ -214,14 +185,5 @@ Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
 Host : lavalink.anantix.network 
 Port : 2335
 Password : "pg6|(}7fuD_:7d#QQq?9"
-Secure : false    
-```
-
-### Hosted by @ [Winkle Music](https://discord.gg/winklemusic)
-Version 4.0.8  | Lavalink by [Ujjwal](https://github.com/UjjwalxD)
-```bash
-Host : 45.89.99.118 
-Port : 8000
-Password : "winkle@team"
 Secure : false    
 ```
