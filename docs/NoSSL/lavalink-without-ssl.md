@@ -195,15 +195,6 @@ Port : 80
 Password : "iknowwhy"
 Secure : false
 ```
-### Hosted by @[Jil](https://discord.gg/52jkqCADEP) | [Uptime](deployments.beban.tech)
-Version 4.0.8 <br />
-![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
-```bash
-Host : fn1.solarnode.xyz
-Port : 2087
-Password : "solarnode.xyz"
-Secure : false
-```
 
 ### Hosted by @ [AnantiX Network](https://github.com/AnantiX)
 If you need help of something please contact me on [discord](https://discord.gg/9GjwHBZCxy) <br />
@@ -212,14 +203,5 @@ Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
 Host : lavalink.anantix.network 
 Port : 2335
 Password : "pg6|(}7fuD_:7d#QQq?9"
-Secure : false    
-```
-
-### Hosted by @ [Winkle Music](https://discord.gg/winklemusic)
-Version 4.0.8  | Lavalink by [Ujjwal](https://github.com/UjjwalxD)
-```bash
-Host : 45.89.99.118 
-Port : 8000
-Password : "winkle@team"
 Secure : false    
 ```
