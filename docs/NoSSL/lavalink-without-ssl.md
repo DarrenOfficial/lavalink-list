@@ -52,7 +52,7 @@ Password : "NAIGLAVA-dash.techbyte.host"
 Secure : false
 ```
 
-### Hosted by @ [AjieDev](https://github.com/AjieDev) & [Serenetia Hosting](https://dashboard.serenetia.com/)
+### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-ajiedev-serenetia-hosting) <br />
 Version 3.7.12 <br />
@@ -79,16 +79,6 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false 
 ```
-### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
-Version 4.0.3
-```bash
-Host : lavalink1.albinhakanson.se
-Port : 1141
-Password : "albinhakanson.se"
-Secure : false
-```
-
-### Hosted by @ [Amane](https://amane.my.id)
 [Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
 Version 3.7.12 <br />
 ![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
@@ -121,6 +111,15 @@ this lavalink can both handle request from v3 and v4 clients, plugins from v3 an
 Host : lavalink.serenetia.com
 Port : 80
 Password : "BatuManaBisa"
+Secure : false
+```
+
+### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
+Version 4.0.3
+```bash
+Host : lavalink1.albinhakanson.se
+Port : 1141
+Password : "albinhakanson.se"
 Secure : false
 ```
 
