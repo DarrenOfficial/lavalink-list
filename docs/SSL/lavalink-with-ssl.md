@@ -79,7 +79,7 @@ this lavalink can both handle request from v3 and v4 clients, plugins from v3 an
 ```bash
 Host : lavalink.serenetia.com
 Port : 443
-Password : "BatuManaBisa"
+Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
