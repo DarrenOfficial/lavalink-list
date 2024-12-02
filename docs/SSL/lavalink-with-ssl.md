@@ -55,7 +55,7 @@ Version 3.7.12 <br />
 ```bash
 Host : lavalinkv3-id.serenetia.com
 Port : 443
-Password : "BatuManaBisa"
+Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 Version 4.0.7 <br />
@@ -63,7 +63,7 @@ Version 4.0.7 <br />
 ```bash
 Host : lavalinkv4-id.serenetia.com
 Port : 443
-Password : "BatuManaBisa"
+Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 Version 4.0.7 <br />
@@ -71,7 +71,7 @@ Version 4.0.7 <br />
 ```bash
 Host : lavalinkv4-eu.serenetia.com
 Port : 443
-Password : "BatuManaBisa"
+Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 Combined Lavalink Version ( v3 & v4 ) <br />
@@ -79,7 +79,7 @@ this lavalink can both handle request from v3 and v4 clients, plugins from v3 an
 ```bash
 Host : lavalink.serenetia.com
 Port : 443
-Password : "BatuManaBisa"
+Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 ### Hosted by @ [Weiss Owl](https://discord.alfari.id)
