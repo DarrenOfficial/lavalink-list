@@ -53,9 +53,9 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) <br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/) | [Amane's Live Stats](https://lavalink-stats.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
-Version 3.7.12 <br />
+Version 3.7.12 (Unmaintained please use with your own risk) <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
@@ -63,10 +63,28 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-Version 4.0.7 <br />
+```bash
+Host : lavalinkv3-id.serenetia.com
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false
+```
+Version 4.0.8 <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false
+```
+```bash
+Host : lavalinkv4-id.serenetia.com
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false
+```
+```bash
+Host : lavalinkv4-eu.serenetia.com
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
@@ -79,33 +97,6 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false 
 ```
-[Website](https://lavalink-info.serenetia.com/) | [Live Stats](https://lavalink-stats.serenetia.com/)<br />
-Version 3.7.12 <br />
-![status](https://status.serenetia.com/api/badge/7/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/7/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v3/badge/Players) <br />
-```bash
-Host : lavalinkv3-id.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-Version 4.0.7 <br />
-![status](https://status.serenetia.com/api/badge/8/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/8/uptime?style=flat-square) ・ ![stat](https://lavalink-list-api.ajieblogs.eu.org/serenetia-v4/badge/Players) <br />
-```bash
-Host : lavalinkv4-id.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-Version 4.0.7 <br />
-![status](https://status.serenetia.com/api/badge/9/status?style=flat-square) ・ ![uptime](https://status.serenetia.com/api/badge/9/uptime?style=flat-square) <br />
-```bash
-Host : lavalinkv4-eu.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-Combined Lavalink Version ( v3 & v4 ) <br />
-this lavalink can both handle request from v3 and v4 clients, plugins from v3 and v4 also work according to their respective clients 
 ```bash
 Host : lavalink.serenetia.com
 Port : 80
@@ -143,22 +134,6 @@ Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
 Secure : false    
 ```
 
-### Hosted by @ [Lights.Out#0](https://discord.gg/AaZasMN3yG)
-Version 4.0.8 \ 21 Sources \ 7 Plugins・![status](https://stats.lightsout.in/api/badge/2/status)・![Ping](https://stats.lightsout.in/api/badge/2/response)・![uptime](https://stats.lightsout.in/api/badge/2/uptime)
-```bash
-Host : lavalink4.lightsout.in
-Port : 40069
-Password : "LightsoutOwnsElves"
-Secure : false
-```
-
-Version 3.7.13 ![status](https://stats.lightsout.in/api/badge/1/status)・![Ping](https://stats.lightsout.in/api/badge/1/response)・![uptime](https://stats.lightsout.in/api/badge/1/uptime)
-```bash
-Host : lavalink3.lightsout.in
-Port : 30069
-Password : "LightsoutBeatsElves"
-Secure : false
-```
 ### Hosted by @[herjuna](https://discord.gg/9eCgpGuZAa) | [Uptime](deployments.beban.tech)
 Version 4.0.8 <br />
 ![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
