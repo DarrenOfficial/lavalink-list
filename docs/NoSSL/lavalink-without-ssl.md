@@ -171,3 +171,30 @@ Port : 8000
 Password : "winkle@team"
 Secure : false    
 ```
+
+### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
+Version 4.0.8  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
+```bash
+Host : lavalink_v4.muzykant.xyz
+Port : 80
+Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false    
+```
+
+### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
+Version 3.7.13  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
+```bash
+Host : lavalink_v3.muzykant.xyz
+Port : 80
+Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false    
+```
+
+### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
+Version 3.7.13 (NO YT)  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
+```bash
+Host : lavalink_v3_no_yt.muzykant.xyz
+Port : 80
+Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false    
+```
