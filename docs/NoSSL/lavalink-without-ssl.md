@@ -172,6 +172,7 @@ Password : "winkle@team"
 Secure : false    
 ```
 
+
 ### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
 Version 4.0.8  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
 ```bash
@@ -196,5 +197,14 @@ Version 3.7.13 (NO YT)  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
 Host : lavalink_v3_no_yt.muzykant.xyz
 Port : 80
 Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false    
+```
+
+### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
+Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
+```bash
+Host : lava-v4.nextgencoders.xyz 
+Port : 2333
+Password : "youshallnotpass"
 Secure : false    
 ```
