@@ -187,3 +187,11 @@ Port: 60002
 Password: divahostv4
 Secure: false
 ```
+
+Hosted by @ [Diva Host](https://discord.gg/divahost)
+```bash
+Host: dv-n5.divahost.net
+Port: 60001
+Password: divahostv3
+Secure: false
+```
