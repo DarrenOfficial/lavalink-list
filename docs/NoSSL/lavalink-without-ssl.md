@@ -177,7 +177,16 @@ Versuin 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
 Host : lava-v4.nextgencoders.xyz 
 Port : 2333
 Password : "youshallnotpass"
-Secure : false    
+Secure : false
+```
+
+Hosted by @ [Diva Host](https://discord.gg/divahost)
+```bash
+Host: lavalink.divahost.net
+Port: 60002
+Password: divahostv4
+Secure: false
+```
 ```
 
 
