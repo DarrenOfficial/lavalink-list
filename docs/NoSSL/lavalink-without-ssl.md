@@ -169,8 +169,23 @@ Versuin 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
 Host : lava-v4.nextgencoders.xyz 
 Port : 2333
 Password : "youshallnotpass"
-Secure : false    
+Secure : false
 ```
 
+Hosted by @ [Diva Host](https://discord.gg/divahost)
+Version 4.0.8 | Lavalink by [greg]([https://discord.gg/9J9X4fzhSt](https://discord.gg/pMJCfv3VXB)) Plugins: youtube-plugin:1.11.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, lava-xm:0.2.5
+```bash
+Host: lavalink.divahost.net
+Port: 60002
+Password: divahostv4
+Secure: false
+```
 
-
+Hosted by @ [Diva Host](https://discord.gg/divahost)
+Version 3.7.13 | Lavalink by [greg]([https://discord.gg/9J9X4fzhSt](https://discord.gg/pMJCfv3VXB)) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:3.2.10, skybot-lavalink-plugin:1.5.1, lava-xm:0.2.5
+```bash
+Host: dv-n5.divahost.net
+Port: 60001
+Password: divahostv3
+Secure: false
+```
