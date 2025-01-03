@@ -180,11 +180,3 @@ Port: 60002
 Password: divahostv4
 Secure: false
 ```
-
-Version 3.7.13 | Lavalink by [greg](https://discord.gg/pMJCfv3VXB) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:3.2.10, skybot-lavalink-plugin:1.5.1, lava-xm:0.2.5
-```bash
-Host: dv-n5.divahost.net
-Port: 60001
-Password: divahostv3
-Secure: false
-```
