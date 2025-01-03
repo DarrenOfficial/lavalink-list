@@ -182,7 +182,7 @@ Secure: false
 ```
 
 Hosted by @ [Diva Host](https://discord.gg/divahost)
-Version 3.7.13 | Lavalink by [greg]([https://discord.gg/9J9X4fzhSt](https://discord.gg/pMJCfv3VXB)) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:3.2.10, skybot-lavalink-plugin:1.5.1, lava-xm:0.2.5
+Version 3.7.13 | Lavalink by [greg]((https://discord.gg/pMJCfv3VXB)) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:3.2.10, skybot-lavalink-plugin:1.5.1, lava-xm:0.2.5
 ```bash
 Host: dv-n5.divahost.net
 Port: 60001
