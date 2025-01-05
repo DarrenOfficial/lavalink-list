@@ -181,3 +181,12 @@ Port: 60002
 Password: divahostv4
 Secure: false
 ```
+### Hosted by @ [James](https://discord.gg/9Yct2HJXRH)
+![playersv4](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Players) ・ ![Online](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Status) ・ ![Load](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Load)
+Version 4.0.8 | Lavalink by [JAnimeREACTS](https://discord.gg/9Yct2HJXRH) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:4.3.0, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0
+```bash
+Host: 109.176.17.107
+Port: 20003
+Password: jmlitelavalink
+Secure: false
+```
