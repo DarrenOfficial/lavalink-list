@@ -173,6 +173,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Diva Host](https://discord.gg/divahost)
+![playersv4](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Players) ・ ![Online](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Status) ・ ![Load](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Load)
 Version 4.0.8 | Lavalink by [greg](https://discord.gg/pMJCfv3VXB) Plugins: youtube-plugin:1.11.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, lava-xm:0.2.5
 ```bash
 Host: lavalink.divahost.net
