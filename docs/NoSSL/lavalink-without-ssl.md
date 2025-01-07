@@ -164,7 +164,7 @@ Password : "winkle@team"
 Secure : false    
 ```
 ### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
-Versuin 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
+Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
 ```bash
 Host : lava-v4.nextgencoders.xyz 
 Port : 2333
