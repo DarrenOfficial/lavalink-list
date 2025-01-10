@@ -168,7 +168,7 @@ Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
 ```bash
 Host : lava-v4.nextgencoders.xyz 
 Port : 2333
-Password : "youshallnotpass"
+Password : "freemenahimilta"
 Secure : false
 ```
 
