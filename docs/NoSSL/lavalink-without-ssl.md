@@ -181,3 +181,13 @@ Port: 60002
 Password: divahostv4
 Secure: false
 ```
+
+
+### Hosted by @ [Catfein](https://discord.gg/5DQ7XWK5Hy) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
+Version 4.0.8 | Lavalink by [JAnimeREACTS](https://discord.gg/Kzc7yCy9uY) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:4.3.0, skybot-lavalink-plugin:1.7.0, sponsorblock-plugin:3.0.1
+```bash
+Host: 109.176.17.107
+Port: 20003
+Password: jmlitelavalink
+Secure: false
+```
