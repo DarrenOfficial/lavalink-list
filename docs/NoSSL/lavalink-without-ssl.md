@@ -145,8 +145,8 @@ Password : "iknowwhy"
 Secure : false
 ```
 
-### Hosted by @ [AnantiX Network](https://github.com/AnantiX)
-If you need help of something please contact me on [discord](https://discord.gg/9GjwHBZCxy) <br />
+### Hosted by @ [Anantix Network](https://www.anantix.network/en)
+If you need help of something please contact me on [discord](https://discord.gg/anantix) <br />
 Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
 ```bash
 Host : lavalink.anantix.network 
