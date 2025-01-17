@@ -126,25 +126,6 @@ Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
 Secure : false    
 ```
 
-### Hosted by @[herjuna](https://discord.gg/9eCgpGuZAa) | [Uptime](deployments.beban.tech)
-Version 4.0.8 <br />
-![status](https://uptime.beban.tech/api/badge/2/status) ・ ![uptime](https://uptime.beban.tech/api/badge/2/uptime)
-```bash
-Host : lava-v4.beban.tech
-Port : 80
-Password : "bytebee_"
-Secure : false
-```
-
-Version 3.7.13 <br />
-![status](https://uptime.beban.tech/api/badge/7/status) ・ ![uptime](https://uptime.beban.tech/api/badge/7/uptime)
-```bash
-Host : lava-v3.beban.tech
-Port : 80
-Password : "iknowwhy"
-Secure : false
-```
-
 ### Hosted by @ [Anantix Network](https://www.anantix.network/en)
 If you need help of something please contact me on [discord](https://discord.gg/anantix) <br />
 Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
@@ -155,14 +136,6 @@ Password : "pg6|(}7fuD_:7d#QQq?9"
 Secure : false    
 ```
 
-### Hosted by @ [Winkle Music](https://discord.gg/winklemusic)
-Version 4.0.8  | Lavalink by [Ujjwal](https://github.com/UjjwalxD)
-```bash
-Host : 45.89.99.118 
-Port : 8000
-Password : "winkle@team"
-Secure : false    
-```
 ### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
 Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
 ```bash
