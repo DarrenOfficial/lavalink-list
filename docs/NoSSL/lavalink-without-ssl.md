@@ -157,7 +157,7 @@ Secure: false
 
 
 ### Hosted by @ [Catfein](https://discord.gg/5DQ7XWK5Hy) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
-Version 4.0.8 | Lavalink by [JAnimeREACTS](https://discord.gg/Kzc7yCy9uY) Plugins: youtube-plugin:1.11.3, baldman-plugin:4.5.0, skybot-lavalink-plugin:1.7.0, sponsorblock-plugin:3.0.1, lavasesrch-plugin:1.0.0
+Version 4.0.8 | Lavalink by [JAnimeREACTS](https://discord.gg/Kzc7yCy9uY) Plugins: youtube-plugin:1.11.3, baldman-plugin:4.5.0, skybot-lavalink-plugin:1.7.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0
 **REMINDER:** <span style="color:red;">You must have a v4 client to connect to this lavalink!</span>
 ```bash
 Host: 109.176.17.107
