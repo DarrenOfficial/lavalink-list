@@ -16,7 +16,7 @@ theme:
     accent: deep orange
     scheme: slate
   custom_dir: overrides
-  logo: 'https://ajieblogs.eu.org/dl/img/spring-logo.svg'
+  logo: 'https://cdnid.ajieblogs.eu.org/images/spring-logo.svg'
   include_search_page: false
   search_index_only: true
   favicon:
