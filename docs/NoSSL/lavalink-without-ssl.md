@@ -147,7 +147,7 @@ Secure : false
 
 ### Hosted by @ [Catfein](https://discord.gg/5DQ7XWK5Hy) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
 Version 4.0.8 | Lavalink by JAnimeREACTS | If you ever need help with anything or have issues with the lavalink please join the [Support Server](https://discord.gg/Kzc7yCy9uY) Plugins: youtube-plugin:1.11.3, baldman-plugin:4.5.0, skybot-lavalink-plugin:1.7.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0
-<div style="color: white; background-color: red; padding: 10px; border: 2px solid darkred; text-align: center; font-size: 16px; font-weight: bold;">
+<div style="color: red; text-align: center; font-size: 16px; font-weight: bold;">
   ⚠️ WARNING: This Lavalink server will be shutting down very soon. Please migrate to a different server as soon as possible! ⚠️
 </div>
 ```bash
