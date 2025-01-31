@@ -144,3 +144,13 @@ Port : 2333
 Password : "freemenahimilta"
 Secure : false
 ```
+
+### Hosted by @ [Alya Project](https://alya-project.me/) | [Uptime](https://status.masuru.in.th/report/uptime/3188c87fff29524380c8fd3cef7c299d/)
+Version 4.0.8 | Lavalink by [Alya Project](https://alya-project.me/) | Powered by [Masuru](https://masuru.in.th)
+```bash
+Host : lavalink.alya-project.me
+Port : 2333
+Password : "https://alya-project.me/"
+Secure : false
+```
+
