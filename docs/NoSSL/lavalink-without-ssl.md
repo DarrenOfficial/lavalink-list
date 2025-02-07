@@ -70,13 +70,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 ```bash
-Host : lavalinkv4-id.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-```bash
-Host : lavalinkv4-eu.serenetia.com
+Host : lavalinkv4.serenetia.com
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
