@@ -48,16 +48,10 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true 
 ```
 ```bash
-Host : lavalinkv4-id.serenetia.com
+Host : lavalinkv4.serenetia.com
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 
-```
-```bash
-Host : lavalinkv4-eu.serenetia.com
-Port : 443
-Password : "https://dsc.gg/ajidevserver"
-Secure : true
 ```
 Version 3.x & 4.x <br />
 Works on both lavalink client that uses v3 and v4 connections
