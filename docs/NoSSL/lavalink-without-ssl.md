@@ -1,4 +1,4 @@
-p---
+---
 title: Lavalink without SSL
 description: Without SSL should work out of the box!
 hide:
