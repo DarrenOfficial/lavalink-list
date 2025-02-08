@@ -158,3 +158,14 @@ Port : 1027
 Password : "jmlitev4"
 Secure : false
 ```
+
+### Hosted by @ [Robinz.](https://robinz27-kappa.vercel.app/)
+
+Version 4.0.8
+[Live Status]((http://robinz_lavalink.4tunez.xyz:3000/lavalink-stats) | Powered by [4TUNEZ STUDIO](https://4tunez.xyz)
+```bash
+Host : robinz_lavalink.4tunez.xyz
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
