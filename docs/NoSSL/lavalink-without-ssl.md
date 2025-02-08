@@ -35,6 +35,32 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
+### Hosted by @ [Npg](https://github.com/Wumpuspro)
+Version 4.0.8 | youtube, spotify , apple music , yandex api, jeosavan, lavamusic, lavasrc (All The plugins Latest Version)
+```bash
+      host: node.vortexcloud.xyz
+      password: Vortexcloud
+      port: 22111
+      identifier: Vortexcloud
+      secure: false
+```
+
+```bash
+  host: node.raidenbot.xyz
+      password: pwd
+      port: 5501
+      identifier: Raiden
+      secure: false
+```
+
+```bash
+host: node.vortexcloud.xyz
+      password: Npgontop
+      port: 22062
+      identifier: Ayami Node
+      secure: false
+```
+
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
 Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
