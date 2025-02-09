@@ -159,7 +159,7 @@ Password : "jmlitev4"
 Secure : false
 ```
 
-### Hosted by @ [Npg](https://github.com/Wumpuspro) 
+### Hosted by @ [Npg](https://github.com/Wumpuspro) | Version 4.0.8
 [Support Server](https://discord.gg/68EMdgg86b)
 ```bash
 Host : node.vortexcloud.xyz
