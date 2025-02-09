@@ -158,3 +158,17 @@ Port : 1027
 Password : "jmlitev4"
 Secure : false
 ```
+
+### Hosted by @ [Npg](https://github.com/Wumpuspro) 
+```bash
+Host : node.vortexcloud.xyz
+Port : 22062
+Password : "Npgontop"
+Secure : false
+```
+
+```bash
+Host : node.vortexcloud.xyz
+Port : 22111
+Password : "Vortexcloud"
+Secure : false
