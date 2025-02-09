@@ -160,6 +160,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Npg](https://github.com/Wumpuspro) 
+[Support Server](https://discord.gg/68EMdgg86b)
 ```bash
 Host : node.vortexcloud.xyz
 Port : 22062
