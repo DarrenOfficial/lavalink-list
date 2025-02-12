@@ -150,8 +150,9 @@ Password : "https://alya-project.me/"
 Secure : false
 ```
 
-### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](http://87.106.36.114:6281/)
+### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
 Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.4, lavalyrics-plugin:1.0.0, baldman-plugin:4.5.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
+Monitor the live usage, players, and more [here!](http://87.106.36.114:6281/)
 ```bash
 Host : 46.202.82.164 
 Port : 1027
