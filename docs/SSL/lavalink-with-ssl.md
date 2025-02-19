@@ -97,3 +97,10 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true    
 ```
+Version 4.0.8 | YouTube Supported | Lavalink by [Rhythmosync](rhythmosync.xyz)
+```bash
+Host : lavalink-v4.ffenjil.site
+Port : 443
+Password : "Jil#22"
+Secure : true    
+```
