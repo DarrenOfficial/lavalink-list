@@ -170,3 +170,10 @@ Port : 2333
 Password : "youshallnotpass"
 Secure : false
 ```
+Version 4.0.8 | Powered by [Rhythmosync](https://rhythmosync.xyz)
+```bash
+Host : lavalink-v4.ffenjil.site
+Port : 80
+Password : "Jil#22"
+Secure : false
+```
