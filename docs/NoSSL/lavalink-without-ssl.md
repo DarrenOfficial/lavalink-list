@@ -90,26 +90,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [Tooxic#4580](https://albinhakanson.se)
-Version 4.0.3
-```bash
-Host : lavalink1.albinhakanson.se
-Port : 1141
-Password : "albinhakanson.se"
-Secure : false
-```
-
-### Hosted by @ [Clxud](https://clxud.dev/)
-
-Version 4.0.7 <br />
-[Live Status](https://status.clxud.dev/status/lavalink) ・ ![statbadge](https://status.clxud.dev/api/badge/1/status) ・ ![uptimebadge](https://status.clxud.dev/api/badge/1/uptime)<br />
-```bash
-Host : lavalink.clxud.dev
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/87063efef7cb4252c86331f882451919/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
 Version 4 (Wasabi) | Plugin: salee-plugin, sponsorblock-plugin
@@ -120,15 +100,6 @@ Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
 Secure : false    
 ```
 
-### Hosted by @ [Anantix Network](https://www.anantix.network/en)
-If you need help of something please contact me on [discord](https://discord.gg/anantix) <br />
-Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
-```bash
-Host : lavalink.anantix.network 
-Port : 2335
-Password : "pg6|(}7fuD_:7d#QQq?9"
-Secure : false    
-```
 
 ### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
 Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
