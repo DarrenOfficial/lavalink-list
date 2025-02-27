@@ -16,11 +16,11 @@ theme:
     accent: deep orange
     scheme: slate
   custom_dir: overrides
-  logo: 'https://cdnid.ajieblogs.eu.org/images/spring-logo.svg'
+  logo: 'https://object-129.nanangmrk.com/cdn/r2/images/public/spring-logo.svg'
   include_search_page: false
   search_index_only: true
   favicon:
-    'https://ajieblogs.eu.org/dl/img/spring.ico'
+    'https://object-129.nanangmrk.com/cdn/r2/images/public/spring.ico'
   features:
     - tabs
     - instantsite
