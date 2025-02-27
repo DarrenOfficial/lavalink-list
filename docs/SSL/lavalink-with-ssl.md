@@ -67,14 +67,6 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
-### Hosted by @ [Weiss Owl](https://discord.alfari.id)
-Version 4.0.8
-```bash
-Host : lavalink.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
 ### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
 Version 4.0.8  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
 ```bash
