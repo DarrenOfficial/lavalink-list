@@ -94,7 +94,7 @@ Secure : false
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/54f9cdfd343fe9e63a0c04407ec36592/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
 Version 4 (Wasabi-rebuild) | Plugin: salee-plugin (Proxy)
 ```bash
-Host : lavalink.service.proxy.free.oreshi.com
+Host : proxy.oreshi.com
 Port : 2333
 Password : "https://discord.gg/RPCfvBSUuM"
 Secure : false    
