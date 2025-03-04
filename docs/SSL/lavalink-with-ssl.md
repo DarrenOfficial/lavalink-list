@@ -89,3 +89,12 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true    
 ```
+### Hosted by @ [Snowyy](https://snowyy.site)
+Version 3.7.12
+```bash
+Host : lava.snowyy.site
+Port : 443
+Password : "Lava1nk"
+Secure : true    
+```
+
