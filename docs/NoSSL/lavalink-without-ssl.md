@@ -91,12 +91,12 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/87063efef7cb4252c86331f882451919/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
-Version 4 (Wasabi) | Plugin: salee-plugin, sponsorblock-plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/54f9cdfd343fe9e63a0c04407ec36592/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
+Version 4 (Wasabi-rebuild) | Plugin: salee-plugin (Proxy)
 ```bash
-Host : lavalink.ipv4.oreshi.com
+Host : proxy.oreshi.com
 Port : 2333
-Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
+Password : "https://discord.gg/RPCfvBSUuM"
 Secure : false    
 ```
 
