@@ -36,7 +36,7 @@ Secure : false
 Version 3.7.13 | youtube-plugin (Proxy)
 ```bash
 Host : lavalink.jirayu.net
-Port : 13592
+Port : 13591
 Password : "youshallnotpass"
 Secure : false    
 ```
