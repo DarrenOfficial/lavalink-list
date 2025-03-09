@@ -126,7 +126,7 @@ Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, laval
 ```bash
 Host : 46.202.82.164 
 Port : 1027
-Password : "jmlitev4"
+Password : "jmlitelavalink"
 Secure : false
 ```
 
