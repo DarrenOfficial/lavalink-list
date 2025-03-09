@@ -25,9 +25,15 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
-See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
-Version 4.0.8 | salee-plugin
+Version 4.0.8 | salee-plugin (Proxy)
+```bash
+Host : lavalink.jirayu.net
+Port : 13592
+Password : "youshallnotpass"
+Secure : false    
+```
+
+Version 3.7.13 | youtube-plugin (Proxy)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
