@@ -128,7 +128,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
-Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, lavalyrics-plugin:1.0.0, baldman-plugin:4.5.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
+Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.4.2, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
 Host : 46.202.82.164 
 Port : 1027
