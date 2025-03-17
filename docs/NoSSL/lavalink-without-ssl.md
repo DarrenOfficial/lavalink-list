@@ -96,15 +96,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by Deepjyoti | [Uptime](https://hetrixtools.com/report/uptime/bfa54b2edf0823b720bf45f7bfc2afff/)
-version: 4
-```bash
-Host : noisemusic.root.sx
-Port : 25044
-Password : ".gg/WvfxX5NDyt"
-Secure : false
-```
-
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/54f9cdfd343fe9e63a0c04407ec36592/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
 Version 4 (Wasabi-rebuild) | Plugin: salee-plugin (Proxy)
@@ -113,16 +104,6 @@ Host : proxy.oreshi.com
 Port : 2333
 Password : "https://discord.gg/RPCfvBSUuM"
 Secure : false    
-```
-
-
-### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
-Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
-```bash
-Host : lava-v4.nextgencoders.xyz 
-Port : 2333
-Password : "freemenahimilta"
-Secure : false
 ```
 
 ### Hosted by @ [Alya Project](https://alya-project.me/) | [Uptime](https://status.masuru.in.th/report/uptime/3188c87fff29524380c8fd3cef7c299d/)
@@ -145,17 +126,6 @@ Password : "jmlitelavalink"
 Secure : false
 ```
 
-### Hosted by @ [Robinz.](https://robinz27-kappa.vercel.app/)
-
-Version 4.0.8
-[Live Status]((http://robinz_lavalink.4tunez.xyz:3000/lavalink-stats) | Powered by [4TUNEZ STUDIO](https://4tunez.xyz)
-```bash
-Host : robinz_lavalink.4tunez.xyz
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Catfein](https://catfein.co.id) ([iaMJ](https://mjba.my))
 Version 4.0.8 <br />
 Maintained by [iaMJ](https://mjba.my) | [Support Servers](https://catfein.co.id/discord) <br /> <br />
@@ -172,4 +142,13 @@ Host : lava-us.catfein.co.id
 Port : 5000
 Password : "catfein"
 Secure : false    
+```
+
+### Hosted by Deepjyoti | [Uptime](https://hetrixtools.com/report/uptime/bfa54b2edf0823b720bf45f7bfc2afff/)
+version: 4
+```bash
+Host : noisemusic.root.sx
+Port : 25044
+Password : ".gg/WvfxX5NDyt"
+Secure : false
 ```
