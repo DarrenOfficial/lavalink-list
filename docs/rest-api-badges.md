@@ -14,7 +14,7 @@ hide:
 
 ### Introductions
 
-Since reported much abusive activity on this Lavalink List, we have indentified lots of unauthorized request, spams.. Was caused by those unstable lavalink list scrapers, likely they using invalid Regex. So to resolve this please use this valid Rest API instead scraping lavalink causing spams, this api contains All Lavalink from this Lavalink Lists!
+Since reported much abusive activity on this Lavalink List, we have identified lots of unauthorized request, spams.. Was caused by those unstable lavalink list scrapers, likely they using invalid Regex. So to resolve this please use this valid Rest API instead scraping lavalink causing spams, this api contains All Lavalink from this Lavalink Lists!
 
 ### Lists REST API Docs
 
