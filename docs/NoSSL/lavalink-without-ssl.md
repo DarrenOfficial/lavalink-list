@@ -96,6 +96,15 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
+### Hosted by Deepjyoti | [Uptime](https://hetrixtools.com/report/uptime/bfa54b2edf0823b720bf45f7bfc2afff/)
+version: 4
+```bash
+Host : noisemusic.root.sx
+Port : 25044
+Password : ".gg/WvfxX5NDyt"
+Secure : false
+```
+
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
 See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/54f9cdfd343fe9e63a0c04407ec36592/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
 Version 4 (Wasabi-rebuild) | Plugin: salee-plugin (Proxy)
