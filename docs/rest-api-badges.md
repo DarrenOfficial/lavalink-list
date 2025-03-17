@@ -70,7 +70,7 @@ After Lavalink Added here, you also can get an Stats Badges!!, here the breakdow
 ```
 https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
 ```
-- `<unique-id>` - unique-id you can get unique-id at [**Lists REST API Docs**](https://lavalink.darrennathanael.com/rest-api-badges/#lists-rest-api-docs)<br />
+- `<unique-id>` - you can get unique-id at [**Lists REST API Docs**](https://lavalink.darrennathanael.com/rest-api-badges/#lists-rest-api-docs)<br />
 - `<type>` - Badge type, supported badge type are: `Players`, `Status`, `Load`
 
 Example: `https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Players` <br />
