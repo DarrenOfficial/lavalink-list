@@ -80,3 +80,5 @@ Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-
 Example: `https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Load` <br />
 Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Load)
 
+
+If need any support or question you can join our Discord!
