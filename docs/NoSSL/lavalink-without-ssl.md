@@ -143,3 +143,12 @@ Port : 5000
 Password : "catfein"
 Secure : false    
 ```
+
+### Hosted by Deepjyoti | [Uptime](https://hetrixtools.com/report/uptime/bfa54b2edf0823b720bf45f7bfc2afff/)
+version: 4
+```bash
+Host : noisemusic.root.sx
+Port : 25044
+Password : ".gg/WvfxX5NDyt"
+Secure : false
+```
