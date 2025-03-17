@@ -25,12 +25,18 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Jirayu](https://jirayu.net)
-See live stats of bandwidth usage [here](https://status.jirayu.net/report/uptime/a5b140d89f605d476a19732f80a70ff6/) <br />
-If you need help of something please contact me on [discord](https://discord.gg/RPCfvBSUuM) <br />
-Version 4.0.8 | salee-plugin
+Version 4.0.8 | salee-plugin (Proxy)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
+Password : "youshallnotpass"
+Secure : false    
+```
+
+Version 3.7.13 | youtube-plugin (Proxy)
+```bash
+Host : lavalink.jirayu.net
+Port : 13591
 Password : "youshallnotpass"
 Secure : false    
 ```
@@ -91,12 +97,12 @@ Secure : false
 ```
 
 ### Hosted by @ [SomboyTiger](https://chompubot.work)
-See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/87063efef7cb4252c86331f882451919/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
-Version 4 (Wasabi) | Plugin: salee-plugin, sponsorblock-plugin
+See live stats of bandwidth usage [here](https://status.oreshi.com/report/uptime/54f9cdfd343fe9e63a0c04407ec36592/) | Support server [here](https://discord.gg/RPCfvBSUuM) <br />
+Version 4 (Wasabi-rebuild) | Plugin: salee-plugin (Proxy)
 ```bash
-Host : lavalink.ipv4.oreshi.com
+Host : proxy.oreshi.com
 Port : 2333
-Password : "mfkdlgmklmlenrfmklsdmnfkldnslkansdlknfdlksnflksdnkf"
+Password : "https://discord.gg/RPCfvBSUuM"
 Secure : false    
 ```
 
@@ -122,12 +128,11 @@ Secure : false
 ```
 
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
-Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, lavalyrics-plugin:1.0.0, baldman-plugin:4.5.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
-Monitor the live usage, players, and more [here!](http://87.106.36.114:6281/)
+Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, lavasearch-plugin:1.0.0, lavasrc-plugin:4.4.2, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
 Host : 46.202.82.164 
 Port : 1027
-Password : "jmlitev4"
+Password : "jmlitelavalink"
 Secure : false
 ```
 
