@@ -53,7 +53,7 @@ nav:
   - Lavalink with ssl: SSL/lavalink-with-ssl.md
   - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
   - FAQs: FAQ/frequently-asked-questions.md
-  - Rest APi & Badges: rest-api-badges.md
+  - Rest API & Badges: rest-api-badges.md
 extra:
   social:
     - icon: 'fontawesome/brands/twitter'
