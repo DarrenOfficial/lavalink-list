@@ -106,16 +106,6 @@ Password : "https://discord.gg/RPCfvBSUuM"
 Secure : false    
 ```
 
-
-### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
-Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
-```bash
-Host : lava-v4.nextgencoders.xyz 
-Port : 2333
-Password : "freemenahimilta"
-Secure : false
-```
-
 ### Hosted by @ [Alya Project](https://alya-project.me/) | [Uptime](https://status.masuru.in.th/report/uptime/3188c87fff29524380c8fd3cef7c299d/)
 Version 4.0.8 | Lavalink by [Alya Project](https://alya-project.me/) | Powered by [Masuru](https://masuru.in.th)
 Plugin: providers-plugin, lavasrc-plugin, DuncteBot-plugin
@@ -133,16 +123,5 @@ Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.11.5, lavas
 Host : 46.202.82.164 
 Port : 1027
 Password : "jmlitelavalink"
-Secure : false
-```
-
-### Hosted by @ [Robinz.](https://robinz27-kappa.vercel.app/)
-
-Version 4.0.8
-[Live Status]((http://robinz_lavalink.4tunez.xyz:3000/lavalink-stats) | Powered by [4TUNEZ STUDIO](https://4tunez.xyz)
-```bash
-Host : robinz_lavalink.4tunez.xyz
-Port : 2333
-Password : "youshallnotpass"
 Secure : false
 ```
