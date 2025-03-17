@@ -18,7 +18,7 @@ Since reported much abusive activity on this Lavalink List, we have identified l
 
 ### Lists REST API Docs
 
-You can simply making request to these apis and get ```host```, ```port```, ```password```, ```secure```, and ```identifier``` object, there also ```version``` array which you want to pick for your supported clients, the API separated to SSL, NonSSL, even all of them...
+You can simply making request to these apis and get ```host```, ```port```, ```password```, ```secure```, and ```identifier```, there also ```version``` string which you want to pick for your supported clients, the API separated to SSL, NonSSL, even all of them...
 
 
 #### SSL List API
