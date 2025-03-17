@@ -62,6 +62,7 @@ Response example
 }
 ]
 ```
+Additional Notes: API List will updated per 10 Minutes to make sure, only online/active nodes being listed.
 
 ### Badges Docs
 
