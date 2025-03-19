@@ -25,8 +25,8 @@ hide:
 <center>
 [📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button } 
 [📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
-[Lavalink-List Uptime](https://status.ajieblogs.eu.org/status/public-lavalink-stats){ .md-button } 
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
+[Rest API & Badges](/rest-api-badges){ .md-button } 
 </center>
 
 ---
@@ -48,13 +48,13 @@ For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https:
 <!-- Temporary removal -->
 <!-- Repl.it users [repl.it/github/DarrenOfficial/lavalink-replit](https://repl.it/github/DarrenOfficial/lavalink-replit) -->
 
-
-### TunnelBroker Guide:
+<!-- Temporary removal due isnt work anymore, tunnelbroker flagged -->
+<!--  ### TunnelBroker Guide:
 
 For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
 
 For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan?utm_source=lavalink-list&utm_medium=home&utm_campaign=mainmd)
-
+-->
 
 
 <!-- inject image ad -->

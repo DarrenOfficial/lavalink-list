@@ -68,13 +68,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 ### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
-Version 4.0.8  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
-```bash
-Host : lavalink_v4.muzykant.xyz
-Port : 443
-Password : "https://discord.gg/v6sdrD9kPh"
-Secure : true    
-```
 Version 3.7.13  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
 ```bash
 Host : lavalink_v3.muzykant.xyz
