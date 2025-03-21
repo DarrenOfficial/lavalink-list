@@ -82,3 +82,39 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true    
 ```
+### Hosted by @ [RejectModders](https://discord.com/invite/28RuT8WsKT)
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-1.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-2.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-3.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-4.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-5.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
