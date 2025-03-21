@@ -153,3 +153,13 @@ Port : 25044
 Password : ".gg/WvfxX5NDyt"
 Secure : false
 ```
+
+### Hosted by [Unknownz](https://unknownzop.github.io/]
+
+version: 4.0.8
+```bash
+Host : unknownz.info.gf
+Port : 9146
+Password : "enterpasswordhere"
+Secure : false
+```
