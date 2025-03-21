@@ -168,7 +168,7 @@ Secure : false
 Version 4.0.8
 ```bash
 Host : unknownz.info.gf
-Port : 9376
-Password : "pokemon"
+Port : 9146
+Password : "unknownz"
 Secure : false    
 ```
