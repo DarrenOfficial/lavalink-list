@@ -82,3 +82,40 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true    
 ```
+### Hosted by @ [RejectModders](https://discord.com/users/418941954252996609) & [HD](https://discord.com/users/715406424947294290) & [joe?](https://discord.com/users/379395029086633985) & [Josh](https://discord.com/users/235926974558765056)
+[Website](https://disutils.com) | [Live Status](https://lavalink.disutils.com) | [Support server](https://discord.gg/28RuT8WsKT)
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-1.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-2.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-3.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-4.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
+Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
+```bash
+Host : lavalink-5.is-it.pink
+Port : 443
+Password : "https://disutils.com"
+Secure : true    
+```
