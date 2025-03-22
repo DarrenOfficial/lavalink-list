@@ -120,7 +120,7 @@ Password : "https://disutils.com"
 Secure : true    
 ```
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>)
-SSL Version [here](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br />
+NON SSL Version [here](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-nextgencoders) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br />
 Version 4.0.8 
 ```bash
 Host : lavalink.nextgencoders.xyz
