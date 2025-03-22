@@ -155,11 +155,11 @@ Secure : false
 ```
 
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>)
-See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br />
+SSL Version [here](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br />
 Version 4.0.8 
 ```bash
-Host : publicnode.nextgencoders.xyz
-Port : 2336
+Host : lavalink.nextgencoders.xyz
+Port : 80
 Password : "nextgencoders"
 Secure : false    
 ```
