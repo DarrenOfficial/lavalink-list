@@ -14,12 +14,11 @@ hide:
 
 ### Introductions
 
-Since reported much abusive activity on this Lavalink List, we have identified lots of unauthorized request, spams.. Was caused by those unstable lavalink list scrapers, likely they using invalid Regex. So to resolve this please use this valid Rest API instead scraping lavalink causing spams, this api contains All Lavalink from this Lavalink Lists!
+Since we have received reports of abusive activity on this Lavalink List, we have identified many unauthorized requests and spam. These issues were caused by unstable Lavalink list scrapers likely using invalid regex. To resolve this, please use the valid REST API instead of scraping the Lavalink list, as it contains all the Lavalink entries from this list!
 
 ### Lists REST API Docs
 
-You can simply making request to these apis and get ```host```, ```port```, ```password```, ```secure```, and ```identifier```, there also ```version``` string which you want to pick for your supported clients, the API separated to SSL, NonSSL, even all of them...
-
+You can simply make requests to these APIs to obtain the ```host```, ```port```, ```password```, ```secure```, and ```identifier``` information. There is also a ```version``` string that you can select for your supported clients. The API is separated into SSL, NonSSL, and a combined list.
 
 #### SSL List API
 ```bash
@@ -62,17 +61,17 @@ Response example
 }
 ]
 ```
-Additional Notes: API List will updated per 10 Minutes to make sure, only online/active nodes being listed.
+Additional Notes: The API list will be updated every 10 minutes to ensure that only online/active nodes are listed.
 
 ### Badges Docs
 
-After Lavalink Added here, you also can get an Stats Badges!!, here the breakdown:
+After adding Lavalink, you can also get Stats Badges! Below is the breakdown:
 
 ```
 https://lavalink-list-api.ajieblogs.eu.org/<unique-id>/badge/<type>
 ```
-- `<unique-id>` - you can get unique-id at [**Lists REST API Docs**](https://lavalink.darrennathanael.com/rest-api-badges/#lists-rest-api-docs)<br />
-- `<type>` - Badge type, supported badge type are: `Players`, `Status`, `Load`
+- `<unique-id>` - You can get the unique-id from the [**Lists REST API Docs**](https://lavalink.darrennathanael.com/rest-api-badges/#lists-rest-api-docs)<br />
+- `<type>` - Badge type. Supported badge types are: `Players`, `Status`, `Load`
 
 Example: `https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Players` <br />
 Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Players) <br />
@@ -84,4 +83,4 @@ Example: `https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-44
 Output: ![Players](https://lavalink-list-api.ajieblogs.eu.org/lava-v3-ajieblogs-eu-org-443/badge/Load)
 
 
-If need any support or question you can join our Discord!
+If need any support or question you can join our [Discord](https://discord.gg/CFbwj7YCPb)!
