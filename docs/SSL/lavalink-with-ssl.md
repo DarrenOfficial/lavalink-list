@@ -68,15 +68,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 
-### Hosted by @ [Muzykant](https://discord.gg/v6sdrD9kPh)
-Version 3.7.13 (NO YT)  | Lavalink by [Patryk](https://github.com/PatrykPatryk5)
-```bash
-Host : lavalink_v3_no_yt.muzykant.xyz
-Port : 443
-Password : "https://discord.gg/v6sdrD9kPh"
-Secure : true    
-```
-
 ### Hosted by @ [RejectModders](https://discord.com/users/418941954252996609) & [HD](https://discord.com/users/715406424947294290) & [joe?](https://discord.com/users/379395029086633985) & [Josh](https://discord.com/users/235926974558765056)
 [Website](https://disutils.com) | [Live Status](https://lavalink.disutils.com) | [Support server](https://discord.gg/28RuT8WsKT)
 Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
