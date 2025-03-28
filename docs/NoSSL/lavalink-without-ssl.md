@@ -25,7 +25,7 @@ hide:
 <!-- PLEASE READ -->
 
 
-### Hosted by @ [Jirayu](https://discord.com/users/1104190543120044123)
+### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
 Version 4.0.8 | youtube-plugin <br />
 ```bash
 Node Name: LavaLink Node
