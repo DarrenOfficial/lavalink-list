@@ -24,6 +24,18 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+
+### Hosted by @ [Jirayu](https://discord.com/users/1104190543120044123)
+Version 4.0.8 | youtube-plugin <br />
+```bash
+Node Name: LavaLink Node
+Host : lavalink-v2.pericsq.ro
+Port : 6677
+Password : "wwweasycodero"
+Secure : false    
+```
+
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
