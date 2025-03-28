@@ -25,16 +25,6 @@ hide:
 <!-- PLEASE READ -->
 
 
-### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
-Version 4.0.8 | youtube-plugin <br />
-```bash
-Host : lavalink-v2.pericsq.ro
-Port : 6677
-Password : "wwweasycodero"
-Secure : false    
-```
-
-
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
@@ -204,5 +194,14 @@ Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
 Host : lavalink-5-non-ssl.is-it.pink
 Port : 80
 Password : "https://disutils.com"
+Secure : false    
+```
+
+### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
+Version 4.0.8 | youtube-plugin <br />
+```bash
+Host : lavalink-v2.pericsq.ro
+Port : 6677
+Password : "wwweasycodero"
 Secure : false    
 ```
