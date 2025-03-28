@@ -28,7 +28,6 @@ hide:
 ### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
 Version 4.0.8 | youtube-plugin <br />
 ```bash
-Node Name: LavaLink Node
 Host : lavalink-v2.pericsq.ro
 Port : 6677
 Password : "wwweasycodero"
