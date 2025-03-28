@@ -24,8 +24,9 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ [Jirayu](https://jirayu.net)
-Version 4.0.8 | salee-plugin (Proxy)
+### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
+Version 4.0.8 | salee-plugin (Proxy) <br />
+![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13592
@@ -33,7 +34,8 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.13 | youtube-plugin (Proxy)
+Version 3.7.13 | youtube-plugin (Proxy) <br />
+![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Players)
 ```bash
 Host : lavalink.jirayu.net
 Port : 13591
