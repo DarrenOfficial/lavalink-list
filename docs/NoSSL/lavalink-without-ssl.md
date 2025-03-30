@@ -159,43 +159,6 @@ Port : 9146
 Password : "unknownz"
 Secure : false    
 ```
-### Hosted by @ [RejectModders](https://discord.com/users/418941954252996609) & [HD](https://discord.com/users/715406424947294290) & [joe?](https://discord.com/users/379395029086633985) & [Josh](https://discord.com/users/235926974558765056)
-[Website](https://disutils.com) | [Live Status](https://lavalink.disutils.com) | [Support server](https://discord.gg/28RuT8WsKT)
-Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
-```bash
-Host : lavalink-1-non-ssl.is-it.pink
-Port : 80
-Password : "https://disutils.com"
-Secure : false    
-```
-Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
-```bash
-Host : lavalink-2-non-ssl.is-it.pink
-Port : 80
-Password : "https://disutils.com"
-Secure : false    
-```
-Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
-```bash
-Host : lavalink-3-non-ssl.is-it.pink
-Port : 80
-Password : "https://disutils.com"
-Secure : false    
-```
-Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
-```bash
-Host : lavalink-4-non-ssl.is-it.pink
-Port : 80
-Password : "https://disutils.com"
-Secure : false    
-```
-Version 4.0.8 | Lavalink by [Disutils Team](https://disutils.com)
-```bash
-Host : lavalink-5-non-ssl.is-it.pink
-Port : 80
-Password : "https://disutils.com"
-Secure : false    
-```
 
 ### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
 Version 4.0.8 | youtube-plugin <br />
