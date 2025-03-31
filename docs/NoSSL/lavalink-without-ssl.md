@@ -139,7 +139,8 @@ Secure : false
 ```
 
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
-![Lavalink Status](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/status-json/0)  ![Lavalink Uptime](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/uptime-json/0)  ![Lavalink Players](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/players-json/0) <br>
+![status](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/status-json/0)
+  ![uptime](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/uptime-json/0)  ![players](https://img.shields.io/endpoint?url=https://node.nextgencoders.xyz/api/v1/badge/players-json/0) <br>
 SSL Version [here](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
 Version 4.0.8 
 
