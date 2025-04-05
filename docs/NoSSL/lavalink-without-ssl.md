@@ -173,7 +173,7 @@ Secure : false
 Version 4.0.8 | Lavaplayer: 2.2.2 
 Plugins (4): DuncteBot-plugin@1.7.0 youtube-plugin@1.12.0 lavasrc-plugin@4.4.2 ScarlettX-BlackVan <br />
 Status VM: https://hetrixtools.anantix.network/report/uptime/1325f3d98f91d452e7b156321582e416/
-ScarlettX-BlackVan: Self Service WAF and AntiBot
+ScarlettX-BlackVan: advanced audio quality management
 ```bash
 Host     : ipv4.digitalocean-sg.anantix.network
 Port     : 2333
