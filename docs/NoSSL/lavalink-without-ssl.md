@@ -168,3 +168,17 @@ Port : 6677
 Password : "wwweasycodero"
 Secure : false    
 ```
+
+### Hosted by @ [Anantix Network](https://github.com/anantix-network/)
+Version 4.0.8 | Lavaplayer: 2.2.2 
+Plugins (4): DuncteBot-plugin@1.7.0 youtube-plugin@1.12.0 lavasrc-plugin@4.4.2 ScarlettX-BlackVan <br />
+Status VM: https://hetrixtools.anantix.network/report/uptime/1325f3d98f91d452e7b156321582e416/
+ScarlettX-BlackVan: advanced audio quality management
+Discord Support: [link](https://discord.gg/anantix)
+```bash
+Host     : ipv4.digitalocean-sg.anantix.network
+Port     : 2333
+Password : "A-SCARLET-ROSE-AMONG-THORNS-ENVIED-BY-ALL"
+Secure   : false
+```
+
