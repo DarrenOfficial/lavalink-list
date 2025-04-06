@@ -182,3 +182,18 @@ Password : "A-SCARLET-ROSE-AMONG-THORNS-ENVIED-BY-ALL"
 Secure   : false
 ```
 
+### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
+Version 4.0.8 | Lavaplayer: 2.2.2 
+
+Plugins: lavasrc-plugin@4.4.2, youtube-plugin@1.12.0, lavalyrics-plugin@1.0.0, lavasearch-plugin@1.0.0, java-lyrics-plugin@1.6.5
+
+Status VM: https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/
+
+Discord Support: [here](https://discord.gg/K4CVv84VBC)
+```bash
+Host     : 38.22.104.155
+Port     : 1038
+Password : "yothisnodeishostedbymushroom0162"
+Secure   : false
+```
+
