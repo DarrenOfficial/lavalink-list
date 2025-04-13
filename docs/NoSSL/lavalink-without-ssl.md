@@ -164,11 +164,11 @@ Password : "nextgencoders"
 Secure : false    
 ```
 
-### Hosted by @ [Unknownz](https://unknownzop.github.io/)
+### Hosted by @ [Unknownz](https://github.com/Unknownzop)
 Version 4.0.8
 ```bash
-Host : unknownz.info.gf
-Port : 9376
-Password : "pokemon"
+Host : unknownzop.mooo.com
+Port : 25575
+Password : "yourpasswordhere"
 Secure : false    
 ```
