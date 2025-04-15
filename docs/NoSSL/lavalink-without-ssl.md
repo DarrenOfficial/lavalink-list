@@ -182,6 +182,7 @@ Password : "A-SCARLET-ROSE-AMONG-THORNS-ENVIED-BY-ALL"
 Secure   : false
 ```
 
+
 ### Hosted by @ [FUGAYT](https://discord.gg/8M2bAHZaQH)
 Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
@@ -190,3 +191,18 @@ Port : 9869
 Password : "https://discord.gg/8M2bAHZaQH"
 Secure : false
 ```
+### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
+Version 4.1.0-dev | Lavaplayer: 2.2.3
+
+Plugins: lavasrc-plugin@4.5.0, youtube-plugin@1.12.0, lavalyrics-plugin@1.0.0, lavasearch-plugin@1.0.0, java-lyrics-plugin@1.6.5
+
+Status VM: https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/
+
+Discord Support: [here](https://discord.gg/K4CVv84VBC)
+```bash
+Host     : 69.30.219.179
+Port     : 1038
+Password : "yothisnodeishostedbymushroom0162"
+Secure   : false
+```
+
