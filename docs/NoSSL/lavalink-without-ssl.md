@@ -154,9 +154,9 @@ Secure : false
 ### Hosted by @ [Unknownz](https://unknownzop.github.io/)
 Version 4.0.8
 ```bash
-Host : unknownz.info.gf
-Port : 9146
-Password : "unknownz"
+Host : unknownzop.mooo.com
+Port : 25575
+Password : "yourpasswordhere"
 Secure : false    
 ```
 
