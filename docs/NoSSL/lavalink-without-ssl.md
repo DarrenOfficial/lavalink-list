@@ -57,7 +57,7 @@ Secure : false
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/) | [Amane's Live Stats](https://lavalink-stats.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.7.12 (Unmaintained please use with your own risk) <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv3](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
 Port : 80
@@ -71,7 +71,7 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 Version 4.0.8 <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
 Host : lava-v4.ajieblogs.eu.org
 Port : 80
@@ -167,19 +167,6 @@ Host : lavalink-v2.pericsq.ro
 Port : 6677
 Password : "wwweasycodero"
 Secure : false    
-```
-
-### Hosted by @ [Anantix Network](https://github.com/anantix-network/)
-Version 4.0.8 | Lavaplayer: 2.2.2 
-Plugins (4): DuncteBot-plugin@1.7.0 youtube-plugin@1.12.0 lavasrc-plugin@4.4.2 ScarlettX-BlackVan <br />
-Status VM: https://hetrixtools.anantix.network/report/uptime/1325f3d98f91d452e7b156321582e416/
-ScarlettX-BlackVan: advanced audio quality management
-Discord Support: [link](https://discord.gg/anantix)
-```bash
-Host     : ipv4.digitalocean-sg.anantix.network
-Port     : 2333
-Password : "A-SCARLET-ROSE-AMONG-THORNS-ENVIED-BY-ALL"
-Secure   : false
 ```
 
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
