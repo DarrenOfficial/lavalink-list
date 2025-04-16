@@ -197,3 +197,11 @@ Password : "yothisnodeishostedbymushroom0162"
 Secure   : false
 ```
 
+### Hosted by @ [FUGAYT](https://discord.gg/8M2bAHZaQH)
+Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
+```bash
+Host :  dnode2.astrast.host
+Port : 9869
+Password : "https://discord.gg/8M2bAHZaQH"
+Secure : false
+```
