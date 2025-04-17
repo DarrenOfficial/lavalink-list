@@ -22,10 +22,10 @@ hide:
 
 
 ---
-[📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button .centerbut }
-[📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button .centerbut }
-[FAQs](FAQ/frequently-asked-questions.md){ .md-button .centerbut }
-[Rest API & Badges](/rest-api-badges){ .md-button .centerbut }
+[📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button }
+[📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button }
+[FAQs](FAQ/frequently-asked-questions.md){ .md-button }
+[Rest API & Badges](/rest-api-badges){ .md-button }
 ---
 
 ### Info
