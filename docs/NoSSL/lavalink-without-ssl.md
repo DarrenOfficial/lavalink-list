@@ -25,6 +25,16 @@ hide:
 <!-- PLEASE READ -->
 
 
+### Hosted by @ [ReedRoux Online Hosting](https://reedrouxhosting.com/)
+Version 4.0.8 |
+![status](https://status.reedrouxhosting.us)
+```bash
+Host : us-bhs.reedrouxhosting.com
+Port : 25565
+Password : "reedrouxhosting.com"
+Secure : false    
+```
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
