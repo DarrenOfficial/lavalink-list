@@ -78,3 +78,12 @@ Port : 443
 Password : "nextgencoders"
 Secure : true   
 ```
+
+### Hosted by @ [luke.gg](https://luke.gg)
+Version 4.0.8 | Spotify API
+```bash
+Host : lava.luke.gg
+Port : 443
+Password : "discordbotlist.com"
+Secure : true
+```
