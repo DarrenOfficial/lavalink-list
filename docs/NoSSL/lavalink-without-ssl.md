@@ -206,6 +206,22 @@ Password : "https://discord.gg/8M2bAHZaQH"
 Secure : false
 ```
 
+### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
+Lavalink v4 & v3 Non-SSL<br>
+[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [With SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-with-ssl/#hosted-by-devXcode)
+```bash
+Host : lavalink.devxcode.in
+Port : 80
+Password : "DevamOP"
+Secure : false   
+```
+```bash
+Host : lavalinkv3.devxcode.in
+Port : 80
+Password : "DevamOP"
+Secure : false
+```
+
 ### Hosted by @ [luke.gg](https://luke.gg)
 Version 4.0.8 | Spotify API
 ```bash
