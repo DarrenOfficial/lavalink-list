@@ -81,7 +81,12 @@ Secure : true
 
 ### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
 Lavalink v4 & v3 With SSL<br>
-[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-devXcode)
+[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-devxcode)
+<br />
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Status) 
+![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Load) 
+![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Players)
+
 ```bash
 Host : lavalink.devxcode.in
 Port : 443
