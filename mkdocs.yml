@@ -34,7 +34,6 @@ theme:
     - navigation.tabs
     - search.highlight
     - search.suggest
-    - attr_list
     - def_list
     - footnotes
 markdown_extensions:
