@@ -78,3 +78,28 @@ Port : 443
 Password : "nextgencoders"
 Secure : true   
 ```
+
+### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
+Lavalink v4 & v3 With SSL<br>
+[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-devXcode)
+```bash
+Host : lavalink.devxcode.in
+Port : 443
+Password : "DevamOP"
+Secure : true   
+```
+```bash
+Host : lavalinkv3.devxcode.in
+Port : 443
+Password : "DevamOP"
+Secure : true
+```
+
+### Hosted by @ [luke.gg](https://luke.gg)
+Version 4.0.8 | Spotify API
+```bash
+Host : lava.luke.gg
+Port : 443
+Password : "discordbotlist.com"
+Secure : true
+```

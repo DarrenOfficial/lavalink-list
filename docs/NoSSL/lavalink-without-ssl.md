@@ -24,7 +24,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
@@ -191,4 +190,39 @@ Host :  dnode2.astrast.host
 Port : 9869
 Password : "https://discord.gg/8M2bAHZaQH"
 Secure : false
+```
+
+### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
+Lavalink v4 & v3 Non-SSL<br>
+[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [With SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-with-ssl/#hosted-by-devXcode)
+```bash
+Host : lavalink.devxcode.in
+Port : 80
+Password : "DevamOP"
+Secure : false   
+```
+```bash
+Host : lavalinkv3.devxcode.in
+Port : 80
+Password : "DevamOP"
+Secure : false
+```
+
+### Hosted by @ [luke.gg](https://luke.gg)
+Version 4.0.8 | Spotify API
+```bash
+Host : lava.luke.gg
+Port : 80
+Password : "discordbotlist.com"
+Secure : false
+```
+
+### Hosted by @ [ReedRoux Online Hosting](https://reedrouxhosting.com/)
+Version 4.0.8 |
+![status](https://status.reedrouxhosting.us)
+```bash
+Host : us-bhs.reedrouxhosting.com
+Port : 25565
+Password : "reedrouxhosting.com"
+Secure : false    
 ```
