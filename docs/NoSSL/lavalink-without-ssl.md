@@ -98,17 +98,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [Alya Project](https://alya-project.me/) | [Uptime](https://status.masuru.in.th/report/uptime/3188c87fff29524380c8fd3cef7c299d/)
-Version 4.0.8 | Lavalink by [Alya Project](https://alya-project.me/) | Powered by [Masuru](https://masuru.in.th)
-Plugin: providers-plugin, lavasrc-plugin, DuncteBot-plugin
-Providers-Plugin: Self service storage song in cloud & more source manager
-```bash
-Host : lavalink.alya-project.me
-Port : 2333
-Password : "https://alya-project.me/"
-Secure : false
-```
-
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Players) <br />
 Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.12.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.5.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
