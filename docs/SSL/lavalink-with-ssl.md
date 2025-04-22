@@ -1,3 +1,4 @@
+```markdown
 ---
 title: Lavalink with SSL
 description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
@@ -31,7 +32,7 @@ Version 3.x (Unmaintained please use with your own risk) <br />
 Host : lava-v3.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-Secure : true   
+Secure : true
 ```
 ```bash
 Host : lavalinkv3-id.serenetia.com
@@ -45,13 +46,13 @@ Version 4.x <br />
 Host : lava-v4.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-Secure : true 
+Secure : true
 ```
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-
+Secure : true
 ```
 Version 3.x & 4.x <br />
 Works on both lavalink client that uses v3 and v4 connections
@@ -59,7 +60,7 @@ Works on both lavalink client that uses v3 and v4 connections
 Host : lava-all.ajieblogs.eu.org
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-Secure : true 
+Secure : true
 ```
 ```bash
 Host : lavalink.serenetia.com
@@ -71,31 +72,40 @@ Secure : true
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
 ![Lavalink Status](https://node.nextgencoders.xyz/api/v1/badge/status/0)  ![Lavalink Uptime](https://node.nextgencoders.xyz/api/v1/badge/uptime/0)  ![Lavalink Players](https://node.nextgencoders.xyz/api/v1/badge/players/0) <br>
 NON SSL Version [here](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-nextgencoders) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
-Version 4.0.8 
+Version 4.0.8
 ```bash
 Host : lavalink.nextgencoders.xyz
 Port : 443
 Password : "nextgencoders"
-Secure : true   
+Secure : true
 ```
 
 ### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
 Lavalink v4 & v3 With SSL<br>
 [Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-devxcode)
 <br />
-![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Status) 
-![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Load) 
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Status)
+![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Load)
 ![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Players)
-
 ```bash
 Host : lavalink.devxcode.in
 Port : 443
 Password : "DevamOP"
-Secure : true   
+Secure : true
 ```
 ```bash
 Host : lavalinkv3.devxcode.in
 Port : 443
 Password : "DevamOP"
 Secure : true
+```
+
+### Hosted by @ [luke.gg](https://luke.gg)
+Version 4.0.8 | Spotify API
+```bash
+Host : lava.luke.gg
+Port : 443
+Password : "discordbotlist.com"
+Secure : true
+```
 ```
