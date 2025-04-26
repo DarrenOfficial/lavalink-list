@@ -53,9 +53,9 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/) | [Amane's Live Stats](https://lavalink-stats.serenetia.com/)<br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
-Version 3.7.12 (Unmaintained please use with your own risk) <br />
+Version 3.x (Unmaintained please use with your own risk) <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv3](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
 ```bash
 Host : lava-v3.ajieblogs.eu.org
@@ -69,7 +69,7 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-Version 4.0.8 <br />
+Version 4.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
 Host : lava-v4.ajieblogs.eu.org

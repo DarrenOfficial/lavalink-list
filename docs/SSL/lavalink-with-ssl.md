@@ -23,7 +23,7 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/) | [Amane's Live Stats](https://lavalink-stats.serenetia.com/)<br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.x (Unmaintained please use with your own risk) <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
