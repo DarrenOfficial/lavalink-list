@@ -135,7 +135,7 @@ Version 4.0.8
 ```bash
 Host : lavalink.nextgencoders.xyz
 Port : 80
-Password : "nextgencoders"
+Password : "nextgencoderspvt"
 Secure : false    
 ```
 
