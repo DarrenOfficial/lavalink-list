@@ -23,7 +23,7 @@ hide:
 <!-- PLEASE READ -->
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/) | [Amane's Live Stats](https://lavalink-stats.serenetia.com/)<br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-amane-ajiedev) <br />
 Version 3.x (Unmaintained please use with your own risk) <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players)
@@ -82,6 +82,10 @@ Secure : true
 ### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
 Lavalink v4 & v3 With SSL<br>
 [Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-without-ssl/#hosted-by-devXcode)
+<br />
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Status)
+![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Load)
+![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Players)
 ```bash
 Host : lavalink.devxcode.in
 Port : 443
