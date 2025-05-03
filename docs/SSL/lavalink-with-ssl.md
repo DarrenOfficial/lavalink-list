@@ -107,3 +107,18 @@ Port : 443
 Password : "discordbotlist.com"
 Secure : true
 ```
+
+### Hosted by @ [Alfari](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Version 4.0.8 
+```bash
+Host : pool-us.alfari.id
+Port : 443
+Password : "alfari"
+Secure : true
+```
+```bash
+Host : pool-sg.alfari.id
+Port : 443
+Password : "alfari"
+Secure : true
+```
