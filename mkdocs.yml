@@ -49,8 +49,8 @@ markdown_extensions:
       smart_enable: all
 nav:
   - Home: index.md
-  - Lavalink with ssl: SSL/lavalink-with-ssl.md
-  - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
+  - Lavalink with ssl: SSL/Lavalink-SSL.md
+  - Lavalink without ssl: NoSSL/Lavalink-NonSSL.md
   - FAQs: FAQ/frequently-asked-questions.md
   - Rest API & Badges: rest-api-badges.md
 extra:

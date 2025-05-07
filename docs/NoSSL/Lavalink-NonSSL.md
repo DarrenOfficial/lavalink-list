@@ -21,6 +21,7 @@ hide:
 
 <!-- PLEASE READ -->
 <!-- PLEASE READ --> <!-- SUPPORT OTHER CONTRIBUTORS BY PLACING THE NEW LAVALINK AT THE VERY BOTTOM OF THE OTHERS! --> <!-- PLEASE READ -->
+<!-- DO NOT SCRAPE THIS FILE, PLEASE USE THE API INSTEAD! -->
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
@@ -106,24 +107,6 @@ Host : 46.202.82.164
 Port : 1027
 Password : "jmlitelavalink"
 Secure : false
-```
-
-### Hosted by @ [Catfein](https://catfein.co.id) ([iaMJ](https://mjba.my))
-Version 4.0.8 <br />
-Maintained by [iaMJ](https://mjba.my) | [Support Servers](https://catfein.co.id/discord) <br /> <br />
-Catfein Singapore
-```bash
-Host : lava-sg.catfein.co.id
-Port : 5000
-Password : "catfein"
-Secure : false    
-```
-Catfein US
-```bash
-Host : lava-us.catfein.co.id
-Port : 5000
-Password : "catfein"
-Secure : false    
 ```
 
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
