@@ -55,7 +55,7 @@ Secure : false
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
-[SSL version](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/#hosted-by-amane-ajiedev) <br />
+[SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
 Version 3.x (Unmaintained please use with your own risk) <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv3](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
 ```bash
@@ -111,7 +111,7 @@ Secure : false
 
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
 ![Lavalink Status](https://node.nextgencoders.xyz/api/v1/badge/status/0)  ![Lavalink Uptime](https://node.nextgencoders.xyz/api/v1/badge/uptime/0)  ![Lavalink Players](https://node.nextgencoders.xyz/api/v1/badge/players/0) <br>
-SSL Version [here](https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
+SSL Version [here](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-nextgencoders) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
 Version 4.0.8 
 
 
@@ -166,7 +166,7 @@ Secure : false
 
 ### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
 Lavalink v4 & v3 Non-SSL<br>
-[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [With SSL](https://lavalink.darrennathanael.com/NoSSL/lavalink-with-ssl/#hosted-by-devXcode)
+[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [With SSL](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-devxcode)
 <br />
 ![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-80/badge/Status)
 ![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-80/badge/Load)
