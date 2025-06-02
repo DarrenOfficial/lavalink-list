@@ -141,16 +141,16 @@ Secure : false
 ```
 
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
-Version 4.1.0-dev | Lavaplayer: 2.2.3
+Lavalink Version: V4, v4.1.0-647b0b9 | Lavaplayer: 2.2.3
 
-Plugins: lavasrc-plugin@4.5.0, youtube-plugin@1.12.0, lavalyrics-plugin@1.0.0, lavasearch-plugin@1.0.0, java-lyrics-plugin@1.6.5
+Plugins: lavasrc-plugin@4.7.0, youtube-plugin@1.13.2, lavalyrics-plugin@1.0.0, lavasearch-plugin@1.0.0, java-lyrics-plugin@1.6.5, skybot-plugin@1.7.0, xm-plugin@0.27
 
-Status VM: https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/
+![Lavalink Uptime](https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/)
 
 Discord Support: [here](https://discord.gg/K4CVv84VBC)
 ```bash
-Host     : 69.30.219.179
-Port     : 1038
+Host     : 69.30.219.180
+Port     : 1047
 Password : "yothisnodeishostedbymushroom0162"
 Secure   : false
 ```
