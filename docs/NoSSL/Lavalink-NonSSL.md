@@ -99,16 +99,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Players) <br />
-Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.13.2, lavasearch-plugin:1.0.0, lavasrc-plugin:4.6.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
-```bash
-Host : 46.202.82.164 
-Port : 1027
-Password : "jmlitelavalink"
-Secure : false
-```
-
 ### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
 ![Lavalink Status](https://node.nextgencoders.xyz/api/v1/badge/status/0)  ![Lavalink Uptime](https://node.nextgencoders.xyz/api/v1/badge/uptime/0)  ![Lavalink Players](https://node.nextgencoders.xyz/api/v1/badge/players/0) <br>
 SSL Version [here](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-nextgencoders) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
