@@ -202,3 +202,15 @@ Port : 25565
 Password : "reedrouxhosting.com"
 Secure : false    
 ```
+
+### Hosted by @ [lost](https://discord.gg/jwZCyYMPBb)
+Version 4.0.8 | Plugins: jiosaavn-plugin:1.0.3, skybot-lavalink-plugin:1.7.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.7.0, sponsorblock-plugin:3.0.1, youtube-plugin:1.13.2
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-20046/badge/Status)
+![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-20046/badge/Load)
+![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-20046/badge/Players)
+```bash
+Host : 207.231.109.91
+Port : 20046
+Password : "youshallnotpass"
+Secure : false
+```
