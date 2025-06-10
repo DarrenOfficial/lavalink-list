@@ -35,15 +35,6 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.13 | youtube-plugin (Proxy) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13591/badge/Players)
-```bash
-Host : lavalink.jirayu.net
-Port : 13591
-Password : "youshallnotpass"
-Secure : false    
-```
-
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
 Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
@@ -109,28 +100,6 @@ Password : "jmlitelavalink"
 Secure : false
 ```
 
-### Hosted by @ [Nextgencoders](<https://discord.com/users/619756609337425950>) <br>
-![Lavalink Status](https://node.nextgencoders.xyz/api/v1/badge/status/0)  ![Lavalink Uptime](https://node.nextgencoders.xyz/api/v1/badge/uptime/0)  ![Lavalink Players](https://node.nextgencoders.xyz/api/v1/badge/players/0) <br>
-SSL Version [here](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-nextgencoders) | See live stats of bandwidth usage [here](https://node.nextgencoders.xyz/) | Support server [here](https://discord.gg/9J9X4fzhSt) <br>
-Version 4.0.8 
-
-
-```bash
-Host : lavalink.nextgencoders.xyz
-Port : 80
-Password : "nextgencoderspvt"
-Secure : false    
-```
-
-### Hosted by @ [Unknownz](https://unknownzop.github.io/)
-Version 4.0.8
-```bash
-Host : unknownzop.mooo.com
-Port : 25575
-Password : "yourpasswordhere"
-Secure : false    
-```
-
 ### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
 Version 4.0.8 | youtube-plugin <br />
 ```bash
@@ -145,7 +114,7 @@ Lavalink Version: V4, v4.1.0-647b0b9 | Lavaplayer: 2.2.3
 
 Plugins: lavasrc-plugin@4.7.0, youtube-plugin@1.13.2, lavalyrics-plugin@1.0.0, lavasearch-plugin@1.0.0, java-lyrics-plugin@1.6.5, skybot-plugin@1.7.0, xm-plugin@0.27
 
-![Lavalink Uptime](https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/)
+[Lavalink Uptime](https://hetrixtools.com/report/uptime/dc9f8e4ca24c02e309b96a1cebfb14e8/)
 
 Discord Support: [here](https://discord.gg/K4CVv84VBC)
 ```bash
@@ -153,15 +122,6 @@ Host     : 69.30.219.180
 Port     : 1047
 Password : "yothisnodeishostedbymushroom0162"
 Secure   : false
-```
-
-### Hosted by @ [FUGAYT](https://discord.gg/8M2bAHZaQH)
-Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
-```bash
-Host :  dnode2.astrast.host
-Port : 9869
-Password : "https://discord.gg/8M2bAHZaQH"
-Secure : false
 ```
 
 ### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
@@ -191,16 +151,6 @@ Host : lava.luke.gg
 Port : 80
 Password : "discordbotlist.com"
 Secure : false
-```
-
-### Hosted by @ [ReedRoux Online Hosting](https://reedrouxhosting.com/)
-Version 4.0.8 |
-![status](https://status.reedrouxhosting.us)
-```bash
-Host : us-bhs.reedrouxhosting.com
-Port : 25565
-Password : "reedrouxhosting.com"
-Secure : false    
 ```
 
 ### Hosted by @ [Nyxel](https://notflix.nyxel.site)
