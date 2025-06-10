@@ -202,3 +202,12 @@ Port : 25565
 Password : "reedrouxhosting.com"
 Secure : false    
 ```
+
+### Hosted by @ [Nyxel](https://notflix.nyxel.site)
+Version 4.1.1
+```bash
+Host : panel.nyxel.site
+Port : 1212
+Password : "nyxel.site"
+Secure : false
+```
