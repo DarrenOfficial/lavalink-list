@@ -154,7 +154,7 @@ Secure : false
 ```
 
 ### Hosted by @ [Nyxel](https://notflix.nyxel.site)
-Version 4.1.1
+Version 4.1.1 <br />
 ![Status](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Status)
 ![Load](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Load)
 ![Players](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Players)
