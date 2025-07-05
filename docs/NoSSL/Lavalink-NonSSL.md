@@ -164,3 +164,19 @@ Port : 1212
 Password : "nyxel.site"
 Secure : false
 ```
+
+### Hosted by @ [Patryk (Muzykant)](https://discord.gg/v6sdrD9kPh)
+Version 4.x 
+```bash
+Host : lavalink_v4.muzykant.xyz
+Port : 80
+Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false
+```
+Version 3.x 
+```bash
+Host : lavalink_v3.muzykant.xyz
+Port : 80
+Password : "https://discord.gg/v6sdrD9kPh"
+Secure : false
+```
