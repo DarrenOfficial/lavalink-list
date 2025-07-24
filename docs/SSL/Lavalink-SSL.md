@@ -128,3 +128,14 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true
 ```
+
+### Hosted by @ [Mur Lee](https://discord.gg/XzE9hSbsNb)<br>
+Join my [discord server](https://discord.gg/XzE9hSbsNb) for any issues or queries.<br>
+
+Version 4.1.1 
+```bash
+Host : lavalink.pepper.mrbotz.com
+Port : 25704
+Password : "https://discord.gg/XzE9hSbsNb"
+Secure : true
+```
