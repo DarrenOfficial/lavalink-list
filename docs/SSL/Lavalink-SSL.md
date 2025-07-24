@@ -132,7 +132,7 @@ Secure : true
 ### Hosted by @ [Mur Lee](https://discord.gg/XzE9hSbsNb)<br>
 Join my [discord server](https://discord.gg/XzE9hSbsNb) for any issues or queries.<br>
 
-Version 4.1.1 
+Version 4.1.1 | Spotify and Apple Music
 ```bash
 Host : lavalink.pepper.mrbotz.com
 Port : 25704
