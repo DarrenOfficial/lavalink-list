@@ -100,15 +100,6 @@ Password : "jmlitelavalink"
 Secure : false
 ```
 
-### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
-Version 4.0.8 | youtube-plugin <br />
-```bash
-Host : lavalink-v2.pericsq.ro
-Port : 6677
-Password : "wwweasycodero"
-Secure : false    
-```
-
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
 Lavalink Version: V4, v4.1.0-647b0b9 | Lavaplayer: 2.2.3
 
