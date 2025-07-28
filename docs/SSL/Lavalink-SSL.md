@@ -135,7 +135,7 @@ Join my [discord server](https://discord.gg/XzE9hSbsNb) for any issues or querie
 Version 4.1.1 | Spotify and Apple Music
 ```bash
 Host : lavalink.pepper.mrbotz.com
-Port : 25704
+Port : 443
 Password : "https://discord.gg/XzE9hSbsNb"
 Secure : true
 ```
