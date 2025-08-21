@@ -25,6 +25,16 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
+Version 3.7.10 | salee-plugin (Proxy) <br />
+![Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+```bash
+Host : 139.59.109.24
+Port : 7800
+Password : "https://discord.gg/mjS5J2K3ep"
+Secure : false    
+```
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
