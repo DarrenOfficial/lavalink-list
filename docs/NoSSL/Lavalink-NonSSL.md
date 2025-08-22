@@ -47,20 +47,6 @@ Secure : false
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
-Version 3.x (Unmaintained please use with your own risk) <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv3](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
-```bash
-Host : lava-v3.ajieblogs.eu.org
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-```bash
-Host : lavalinkv3-id.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
 Version 4.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
@@ -71,20 +57,6 @@ Secure : false
 ```
 ```bash
 Host : lavalinkv4.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-Version 3.x & 4.x <br />
-Works on both lavalink client that uses v3 and v4 connections
-```bash
-Host : lava-all.ajieblogs.eu.org
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false 
-```
-```bash
-Host : lavalink.serenetia.com
 Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
