@@ -173,7 +173,7 @@ Secure : false
 ```
 
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
-Version 3.7.10 | salee-plugin (Proxy) <br />
+Version 3.7.10 <br />
 ![Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
 ```bash
 Host : 139.59.109.24
