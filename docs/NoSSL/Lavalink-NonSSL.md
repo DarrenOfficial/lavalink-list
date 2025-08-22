@@ -171,3 +171,11 @@ Port : 80
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : false
 ```
+
+### Hosted By Zhongli  |  Version:4.1.1
+```bash
+Host: beathit.hs.vc
+Port: 5003
+Password: beathit
+Secure: false
+```
