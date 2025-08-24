@@ -25,6 +25,7 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
@@ -71,6 +72,8 @@ Port : 1027
 Password : "jmlitelavalink"
 Secure : false
 ```
+
+
 
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
 Lavalink Version: V4, v4.1.0-647b0b9 | Lavaplayer: 2.2.3
@@ -144,6 +147,8 @@ Password : "https://discord.gg/v6sdrD9kPh"
 Secure : false
 ```
 
+
+
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
 Version 3.7.10 <br />
 ![Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
@@ -152,4 +157,18 @@ Host : 139.59.109.24
 Port : 7800
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false    
+```
+
+
+
+Working Lavalink Hosted for Public by [Evolution Development](https://discord.gg/KxbUHVU5eY]
+
+### Hosted by @ [Abhi](https://discord.com/users/1390894184512356392)
+Version 4.0.8 | Supports:- Youtubr, Spotify, Soundcloud, Jio Savan and many more Platforms <br/>
+[status](https://discord.gg/KxbUHVU5eY) [players](https://discord.gg/KxbUHVU5eY)
+```bash
+Host : darli.hidencloud.com
+Port : 24589
+Password : "freefromabhi"
+Secure : false
 ```
