@@ -180,3 +180,12 @@ Port : 80
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : false
 ```
+
+### Hosted by @ [ Yumi Team ](https://camming.xyz)
+Version 4.1.1
+```bash
+Host : 173.249.0.115
+Port : 13592
+Password : "https://camming.xyz"
+Secure : false
+```
