@@ -156,7 +156,7 @@ Secure : false
 
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
 Version 4.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/28/status))
+![Status](https://g-status.ecoguardiao.tech/api/badge/1/status)
 ```bash
 Host : 181.215.45.8
 Port : 2333
@@ -164,7 +164,7 @@ Password : "kirito"
 Secure : false    
 ```
 Version 3.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/29/status)
+![Status](https://g-status.ecoguardiao.tech/api/badge/2/status)
 ```bash
 Host : 181.215.45.8
 Port : 2334
