@@ -144,7 +144,7 @@ Password : "https://discord.gg/v6sdrD9kPh"
 Secure : false
 ```
 
-### Hosted by @ [AneFaiz.Studios](https://discord.com/users/762337438869225533)
+### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
 Version 3.7.10 <br />
 [Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
 ```bash
