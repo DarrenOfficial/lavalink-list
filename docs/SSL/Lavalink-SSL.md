@@ -100,3 +100,14 @@ Port : 443
 Password : "https://discord.gg/v6sdrD9kPh"
 Secure : true
 ```
+
+
+### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
+Version 4.x <br />
+![Status](https://g-status.ecoguardiao.tech/api/badge/7/status) 
+```bash
+Host : lavalink-v4.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
