@@ -47,20 +47,6 @@ Secure : false
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
-Version 3.x (Unmaintained please use with your own risk) <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv3](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv3](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
-```bash
-Host : lava-v3.ajieblogs.eu.org
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
-```bash
-Host : lavalinkv3-id.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
 Version 4.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
@@ -75,38 +61,15 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
-Version 3.x & 4.x <br />
-Works on both lavalink client that uses v3 and v4 connections
-```bash
-Host : lava-all.ajieblogs.eu.org
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false 
-```
-```bash
-Host : lavalink.serenetia.com
-Port : 80
-Password : "https://dsc.gg/ajidevserver"
-Secure : false
-```
 
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Players) <br />
-Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.13.3, lavasearch-plugin:1.0.0, lavasrc-plugin:4.6.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
+Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.13.4, lavasearch-plugin:1.0.0, lavasrc-plugin:4.6.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
 Host : 46.202.82.164 
 Port : 1027
 Password : "jmlitelavalink"
 Secure : false
-```
-
-### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
-Version 4.0.8 | youtube-plugin <br />
-```bash
-Host : lavalink-v2.pericsq.ro
-Port : 6677
-Password : "wwweasycodero"
-Secure : false    
 ```
 
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
@@ -188,4 +151,12 @@ Host : 173.249.0.115
 Port : 13592
 Password : "https://camming.xyz"
 Secure : false
-```
+
+### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
+Version 3.7.10 <br />
+[Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+```bash
+Host : 139.59.109.24
+Port : 7800
+Password : "https://discord.gg/mjS5J2K3ep"
+Secure : false   
