@@ -144,12 +144,21 @@ Password : "https://discord.gg/v6sdrD9kPh"
 Secure : false
 ```
 
+### Hosted by @ [ Yumi Team ](https://camming.xyz)
+Version 4.1.1
+```bash
+Host : 173.249.0.115
+Port : 13592
+Password : "https://camming.xyz"
+Secure : false
+```
+
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
 Version 3.7.10 <br />
-![Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+[Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
 ```bash
 Host : 139.59.109.24
 Port : 7800
 Password : "https://discord.gg/mjS5J2K3ep"
-Secure : false    
+Secure : false
 ```
