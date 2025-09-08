@@ -41,35 +41,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 
-### Hosted by @ [DevXcode](<https://dsc.gg/devxcode>)<br>
-Lavalink v4 & v3 With SSL<br>
-[Live Stats](https://uptime.devxcode.in) | [Support Server](https://dsc.gg/Devxcode) | [Non-SSL](https://lavalink.darrennathanael.com/NoSSL/Lavalink-NonSSL/#hosted-by-devxcode)
-<br />
-![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Status)
-![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Load)
-![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-devxcode-in-443/badge/Players)
-```bash
-Host : lavalink.devxcode.in
-Port : 443
-Password : "DevamOP"
-Secure : true   
-```
-```bash
-Host : lavalinkv3.devxcode.in
-Port : 443
-Password : "DevamOP"
-Secure : true
-```
-
-### Hosted by @ [luke.gg](https://luke.gg)
-Version 4.0.8 | Spotify API
-```bash
-Host : lava.luke.gg
-Port : 443
-Password : "discordbotlist.com"
-Secure : true
-```
-
 ### Hosted by @ [Alfari](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Version 4.0.8 
 ```bash
