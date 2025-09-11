@@ -75,7 +75,7 @@ Secure : true
 
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
 Version 4.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/7/status) 
+![Status](https://g-status.ecoguardiao.tech/api/badge/7/status) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/7/uptime)
 ```bash
 Host : lavalink-v4.triniumhost.com
 Port : 443
