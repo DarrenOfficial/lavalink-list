@@ -74,7 +74,7 @@ Secure : true
 
 
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
-[Live Stats](https://lavalink-status.triniumhost.com/)
+[Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
 Version 4.x <br />
 ![Status](https://g-status.ecoguardiao.tech/api/badge/7/status) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/7/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/7/ping) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
