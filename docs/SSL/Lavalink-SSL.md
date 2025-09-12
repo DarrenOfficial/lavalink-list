@@ -82,3 +82,12 @@ Port : 443
 Password : "free"
 Secure : true
 ```
+Version 3.x <br />
+![Status](https://g-status.ecoguardiao.tech/api/badge/8/status) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/8/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/8/ping) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
+```bash
+Host : lavalink-v3.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true    
+```
+
