@@ -93,7 +93,7 @@ Secure : false
 
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
 Version 4.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/1/status)
+![Status](https://g-status.ecoguardiao.tech/api/badge/1/status) ![Players](https://lavalink-list-api.ajieblogs.eu.org/181-215-45-8-2333/badge/Players) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/1/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/1/ping)
 ```bash
 Host : 181.215.45.8
 Port : 2333
@@ -101,7 +101,7 @@ Password : "kirito"
 Secure : false    
 ```
 Version 3.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/2/status)
+![Status](https://g-status.ecoguardiao.tech/api/badge/2/status) ![Players](https://lavalink-list-api.ajieblogs.eu.org/181-215-45-8-2334/badge/Players) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/2/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/2/ping)
 ```bash
 Host : 181.215.45.8
 Port : 2334
