@@ -77,7 +77,7 @@ Secure : true
 [Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
 Version 4.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/7/status) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/7/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/7/ping) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
+![Status](https://status.triniumhost.com/api/badge/24/status) ![Uptime](https://status.triniumhost.com/api/badge/24/uptime) ![Ping](https://status.triniumhost.com/api/badge/24/ping) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
 ```bash
 Host : lavalink-v4.triniumhost.com
 Port : 443
@@ -85,7 +85,7 @@ Password : "free"
 Secure : true
 ```
 Version 3.x <br />
-![Status](https://g-status.ecoguardiao.tech/api/badge/8/status) ![Uptime](https://g-status.ecoguardiao.tech/api/badge/8/uptime) ![Ping](https://g-status.ecoguardiao.tech/api/badge/8/ping) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
+![Status](https://status.triniumhost.com/api/badge/22/status) ![Uptime](https://status.triniumhost.com/api/badge/22/uptime) ![Ping](https://status.triniumhost.com/api/badge/22/ping) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
 ```bash
 Host : lavalink-v3.triniumhost.com
 Port : 443
