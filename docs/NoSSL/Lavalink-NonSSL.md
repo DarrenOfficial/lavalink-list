@@ -85,8 +85,8 @@ Secure : false
 Version 3.7.10 <br />
 [Website](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
 ```bash
-Host : 194.102.181.219
-Port : 3956
+Host : 139.59.225.114
+Port : 19126
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
 ```
