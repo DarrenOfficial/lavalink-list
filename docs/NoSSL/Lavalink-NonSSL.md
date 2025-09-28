@@ -80,6 +80,14 @@ Port : 19126
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
 ```
+Version 4.1.1 <br />
+[www.millodj.my.id](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+```bash
+Host : 104.167.222.158
+Port : 2192
+Password : "https://discord.gg/mjS5J2K3ep"
+Secure : false
+```
 
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
 [Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
