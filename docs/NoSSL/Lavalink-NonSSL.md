@@ -114,8 +114,8 @@ Secure : false
 ![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-chippy-info-24664/badge/Status)
 ![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-chippy-info-24664/badge/Load)
 ```bash
-Host : lavalink.chippy.info
-Port : 24664
+Host : audio.chippy.info
+Port : 24597
 Password : "youshallnotpass"
 Secure : false
 ```
