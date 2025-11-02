@@ -108,3 +108,13 @@ Port : 2334
 Password : "free"
 Secure : false    
 ```
+### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588)
+![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-chippy-info-30051/badge/Players)
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-chippy-info-30051/badge/Status)
+![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-chippy-info-30051/badge/Load)
+![Sources](https://chippy.info)
+```
+Host : lavalink.chippy.info
+Port : 30051
+Password : "youshallnotpass"
+Secure : false
