@@ -106,6 +106,7 @@ Secure : true
 
 ### Hosted by @ [br0kE](https://discord.com/users/1350452524196429958)
 Version 4.1.1 | LavaLyrics, LavaSearch, LavaSrc, YouTube <br />
+[NoSSL version](https://lavalink.darrennathanael.com/NoSSL/Lavalink-NonSSL/#hosted-by-br0ke) <br />
 [Status](https://status.br0k3.me)
 ```bash
 Host : v4.lavalink.br0k3.me
