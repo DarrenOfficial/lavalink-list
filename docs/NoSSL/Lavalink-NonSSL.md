@@ -117,5 +117,5 @@ Version 4.1.1 | LavaLyrics, LavaSearch, LavaSrc, YouTube <br />
 Host : v4.lavalink.br0k3.me
 Port : 80
 Password : "youshallnotpass"
-Secure : true
+Secure : false
 ```
