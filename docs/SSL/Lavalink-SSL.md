@@ -111,6 +111,6 @@ Version 4.1.1 | LavaLyrics, LavaSearch, LavaSrc, YouTube <br />
 ```bash
 Host : v4.lavalink.br0k3.me
 Port : 443
-Password : "youshallnotpass-ssl"
+Password : "youshallnotpass"
 Secure : true
 ```
