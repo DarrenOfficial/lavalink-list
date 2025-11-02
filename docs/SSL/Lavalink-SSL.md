@@ -103,3 +103,13 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted by @ [br0kE](https://discord.com/users/1350452524196429958)
+Version 4.1.1 | LavaLyrics, LavaSearch, LavaSrc, YouTube <br />
+[Status](https://status.br0k3.me)
+```bash
+Host : v4.lavalink.br0k3.me
+Port : 443
+Password : "youshallnotpass-ssl"
+Secure : true
+```
