@@ -119,9 +119,3 @@ Port : 24664
 Password : "youshallnotpass"
 Secure : false
 ```
-```bash
-Host : lavalink2.chippy.info
-Port : 30051
-Password : "youshallnotpass"
-Secure : false
-```
