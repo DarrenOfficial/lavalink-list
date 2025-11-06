@@ -108,13 +108,13 @@ Port : 2334
 Password : "free"
 Secure : false    
 ```
-### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588) | [Sources](https://chippy.info)
-![Players](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Players)
-![Status](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Status)
-![Load](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Load)
+### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588) | [Sources](https://chippy.info/sources)
+![Players](https://lavalink-list-api.ajieblogs.eu.org/music-chippy-info-80/badge/Players)
+![Status](https://lavalink-list-api.ajieblogs.eu.org/music-chippy-info-80/badge/Status)
+![Load](https://lavalink-list-api.ajieblogs.eu.org/music-chippy-info-80/badge/Load)
 ```bash
-Host : audio.chippy.info
-Port : 24597
+Host : music.chippy.info
+Port : 80
 Password : "youshallnotpass"
 Secure : false
 ```
