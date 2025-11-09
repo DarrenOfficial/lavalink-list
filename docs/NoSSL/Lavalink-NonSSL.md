@@ -73,10 +73,10 @@ Secure : false
 ```
 
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
-Version 3.7.10 <br />
+Version 3.7.13 <br />
 [www.millodj.my.id](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
 ```bash
-Host : 107.150.58.122
+Host : pxd1.ajieblogs.eu.org
 Port : 4006
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
