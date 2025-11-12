@@ -97,7 +97,7 @@ Version 4.x <br />
 ```bash
 Host : 140.238.179.182
 Port : 2333
-Password : "kirito"
+Password : "free"
 Secure : false    
 ```
 Version 3.x <br />
