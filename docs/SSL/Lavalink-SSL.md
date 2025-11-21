@@ -106,7 +106,7 @@ Secure : true
 
 ### Hosted by @ [Southctrl](https://discord.gg/PF5WN3FEA5)
 [Website](https://chippy.info)
-version 4x
+version 4x Plugins: youtube-plugin:1.16.0, skybot-lavalink-plugin:1.7.0, lavasrc-plugin:1.0.7, sponsorblock-plugin:3.0.1, lavalyrics-plugin:1.1.0, lavasearch-plugin:1.0.0, LavaDSPX-Plugin:0.0.5, lava-xm-plugin:0.2.8, java-lyrics-plugin:1.6.6
 ```bash
 Host : public.chippy.info
 Port : 443
