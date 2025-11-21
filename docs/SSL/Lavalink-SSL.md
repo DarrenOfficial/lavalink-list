@@ -103,3 +103,13 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted by @ [Southctrl](https://discord.gg/PF5WN3FEA5)
+[Website](https://chippy.info)
+version 4x
+```bash
+Host : public.chippy.info
+Port : 443
+Password : youshallnotpass
+Secure : True
+```
