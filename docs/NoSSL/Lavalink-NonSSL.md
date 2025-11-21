@@ -118,3 +118,15 @@ Port : 24597
 Password : "youshallnotpass"
 Secure : false
 ```
+### Hosted by @ [Delusion](https://www.instagram.com/antivirus454)
+[Live Status](https://lavlainkxd.pikapod.net/status/bot) | [Support Server](https://discord.gg/2YUEyJ6sPC)<br />
+Version 3.7.10<br />
+![Status](https://img.shields.io/badge/Status-Online-green) 
+![Players](https://img.shields.io/badge/Players-15-blue)
+![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen)
+```bash
+Host : lavalink.ddns.net
+Port : 7106
+Password : "discord.gg/FqEQtEtUc9"
+Secure : false
+```
