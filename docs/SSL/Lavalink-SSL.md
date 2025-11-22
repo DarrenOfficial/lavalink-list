@@ -103,3 +103,11 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+### Hosted by @ [BaggyBlue)](https://baggyblue.fun) (SOUNDCLOUD BASED)
+Version 4.x 
+```bash
+Host : lavalink.baggyblue.fun
+Port : 443
+Password : "e"
+Secure : true
+```
