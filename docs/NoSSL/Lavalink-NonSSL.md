@@ -118,3 +118,12 @@ Port : 24597
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) 
+Version 4.1.1 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
+```bash
+Host : lavalink.aiko-project.xyz
+Port : 2333
+Password : "Rikka"
+Secure : false
+```
