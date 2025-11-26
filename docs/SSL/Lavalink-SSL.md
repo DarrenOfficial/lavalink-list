@@ -105,9 +105,9 @@ Secure : true
 ```
 
 ### Hosted by @ [Southctrl](https://discord.gg/PF5WN3FEA5)
-[Website](https://chippy.info) [status](https://chippy.info/status) [info](https://chippy.info/info)
+[Website](https://rive.wtf) [status](https://rive.wtf/status)
 ```bash
-Host : public.chippy.info
+Host : public.rive.wtf
 Port : 443
 Password : youshallnotpass
 Secure : True
