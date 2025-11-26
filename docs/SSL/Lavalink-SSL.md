@@ -103,3 +103,13 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+
+### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
+Version 3.7.13 <br />
+[lavalink.millohost.my.id](https://lavalink.millohost.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+```bash
+Host : lava-v3.millohost.my.id
+Port : 443
+Password : "https://discord.gg/mjS5J2K3ep"
+Secure : true
+```
