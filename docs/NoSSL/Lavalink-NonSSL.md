@@ -136,3 +136,16 @@ Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavas
 Host : 46.202.82.164 
 Port : 1026
 Password : "jmlitev4"
+
+### Hosted by @ [Delusion](https://www.instagram.com/antivirus454)
+[Live Status](https://lavlainkxd.pikapod.net/status/bot) | [Support Server](https://discord.gg/2YUEyJ6sPC)<br />
+Version 3.7.10<br />
+![Status](https://img.shields.io/badge/Status-Online-green) 
+![Players](https://img.shields.io/badge/Players-15-blue)
+![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen)
+```bash
+Host : lavalink.ddns.net
+Port : 7106
+Password : "discord.gg/FqEQtEtUc9"
+Secure : false
+```
