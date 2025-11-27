@@ -100,6 +100,7 @@ Port : 2333
 Password : "kirito"
 Secure : false    
 ```
+
 Version 3.x <br />
 ![Status](https://status.triniumhost.com/api/badge/21/status) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/21/uptime) ![Ping](https://status.triniumhost.com/api/badge/21/ping)
 ```bash
@@ -148,5 +149,16 @@ Version 3.7.10<br />
 Host : lavalink.ddns.net
 Port : 7106
 Password : "discord.gg/FqEQtEtUc9"
+Secure : false
+```
+### Hosted by @ DTEmpire (https://ankitgupta.com.np/)
+[Live Status](https://lavalink.ankitgupta.com.np/) | [Support Server](https://discord.gg/JYNCNAxPx7)<br />
+Version 4.1.1 <br />
+![Status](https://img.shields.io/badge/Status-Online-green) 
+![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen)
+```bash
+Host : panel.ankitgupta.com.np
+Port : 25574
+Password : "DTEmpire"
 Secure : false
 ```
