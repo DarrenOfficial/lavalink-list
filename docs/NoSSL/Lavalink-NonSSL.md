@@ -96,8 +96,8 @@ Version 4.x <br />
 ![Status](https://status.triniumhost.com/api/badge/23/status) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/23/uptime) ![Ping](https://status.triniumhost.com/api/badge/23/ping)
 ```bash
 Host : 140.238.179.182
-Port : 2333
-Password : "kirito"
+Port : 4333
+Password : "free"
 Secure : false    
 ```
 Version 3.x <br />
