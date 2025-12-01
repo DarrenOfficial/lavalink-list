@@ -93,7 +93,7 @@ Secure : false
 [Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
 Version 4.x <br />
-![Status](https://status.triniumhost.com/api/badge/23/status) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/23/uptime) ![Ping](https://status.triniumhost.com/api/badge/23/ping)
+![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/23/uptime) ![Ping](https://status.triniumhost.com/api/badge/23/ping)
 ```bash
 Host : 140.238.179.182
 Port : 4333
@@ -101,7 +101,7 @@ Password : "free"
 Secure : false    
 ```
 Version 3.x <br />
-![Status](https://status.triniumhost.com/api/badge/21/status) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/21/uptime) ![Ping](https://status.triniumhost.com/api/badge/21/ping)
+![Status](https://lavalink-api-status.triniumhost.com/v3/badge/status) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/21/uptime) ![Ping](https://status.triniumhost.com/api/badge/21/ping)
 ```bash
 Host : 140.238.179.182
 Port : 2334
