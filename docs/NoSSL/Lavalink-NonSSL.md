@@ -89,6 +89,15 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
 ```
 
+### Hosted by @ [ urfavteddybear ](https://github.com/urfavteddybear)
+Version 4.1.1
+```bash
+Host : ll.wpcreative.my.id
+Port : 22233
+Password : "youshallnotpass"
+Secure : false
+```
+
 ### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
 [Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
