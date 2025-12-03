@@ -109,6 +109,6 @@ Secure : true
 ```bash
 Host : public.rive.wtf
 Port : 443
-Password : youshallnotpass
+Password : "youshallnotpass"
 Secure : True
 ```
