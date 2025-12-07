@@ -147,3 +147,12 @@ Port : 7106
 Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
+
+### Hosted by @ [ urfavteddybear ](https://github.com/urfavteddybear)
+Version 4.1.1
+```bash
+Host : ll.wpcreative.my.id
+Port : 22233
+Password : "youshallnotpass"
+Secure : false
+```
