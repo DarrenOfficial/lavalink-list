@@ -37,11 +37,11 @@ Secure : false
 ```
 
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
-Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
+Version 4.0.8 Plugins: youtube-plugin:1.16.0, lavalyrics-plugin:7d60077, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0 with Spotify API, Apple Music API, and YouTube OAuth2
 ```bash
 Host :  lavahatry4.techbyte.host
 Port : 3000
-Password : "NAIGLAVA-dash.techbyte.host"
+Password : "naig.is-a.dev"
 Secure : false
 ```
 
