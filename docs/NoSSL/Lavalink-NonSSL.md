@@ -63,6 +63,15 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
+### Hosted by @ [dawgcodes](https://github.com/dawgcodes)
+Version 4x
+```bash
+Host : 207.180.224.35
+Port : 2444
+Password : "com.dawg.lava"
+Secure : false
+```
+
 ### Hosted by @ [ Yumi Team ](https://camming.xyz)
 Version 4.1.1
 ```bash
