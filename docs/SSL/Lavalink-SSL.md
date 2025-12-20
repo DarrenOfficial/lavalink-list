@@ -104,14 +104,6 @@ Password : "youshallnotpass"
 Secure : true
 ```
 
-### Hosted by @ [Southctrl](https://discord.gg/PF5WN3FEA5)
-[Website](https://rive.wtf) [status](https://rive.wtf/status)
-```bash
-Host : public.rive.wtf
-Port : 443
-Password : "youshallnotpass"
-Secure : True
-```
 ### Hosted by @ [AneFaiz](https://discord.gg/mjS5J2K3ep)
 [Website](https://millodj.my.id) [status](https://lavalink.millohost.my.id)
 ```bash
