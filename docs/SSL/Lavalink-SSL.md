@@ -120,3 +120,12 @@ Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : True
 ```
+### Hosted by @ [GGLVXD](https://gglvxd.net)
+Version 4.x
+[Support](https://discord.gg/h3fcwMUQhu) 
+```bash
+Host : lavalink.fryde.org
+Port : 443
+Password : "https://dsc.gg/fryde"
+Secure : True
+```
