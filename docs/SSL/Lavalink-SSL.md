@@ -112,3 +112,14 @@ Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : True
 ```
+
+### Hosted by @ [southctrl](https://discord.com/users/1252001166703853588)
+[Website](https://rive.wtf) <br />
+Version 4.1.2 <br />
+![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Players)
+```bash
+Host : lavalink.rive.wtf
+Port : 443
+Password : youshallnotpass
+Secure: True
+```
