@@ -107,10 +107,10 @@ Secure : true
 ### Hosted by @ [AneFaiz](https://discord.gg/mjS5J2K3ep)
 [Website](https://millodj.my.id) [status](https://lavalink.millohost.my.id)
 ```bash
-Host : v3.millohost.my.id
+Host : lava-v3.millohost.my.id
 Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
-Secure : True
+Secure : true
 ```
 
 ### Hosted by @ [southctrl](https://discord.com/users/1252001166703853588)
