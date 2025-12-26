@@ -121,5 +121,5 @@ Version 4.1.2 <br />
 Host : lavalink.rive.wtf
 Port : 443
 Password : youshallnotpass
-Secure: True
+Secure : True
 ```
