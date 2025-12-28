@@ -133,6 +133,7 @@ Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavas
 Host : 46.202.82.164 
 Port : 1026
 Password : "jmlitev4"
+Secure : false
 ```
 
 ### Hosted by @ [Delusion](https://www.instagram.com/antivirus454)
