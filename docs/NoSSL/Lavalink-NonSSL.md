@@ -37,11 +37,11 @@ Secure : false
 ```
 
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
-Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
+Version 4.0.8 Plugins: youtube-plugin:1.16.0, lavalyrics-plugin:7d60077, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0 with Spotify API, Apple Music API, and YouTube OAuth2
 ```bash
 Host :  lavahatry4.techbyte.host
 Port : 3000
-Password : "NAIGLAVA-dash.techbyte.host"
+Password : "naig.is-a.dev"
 Secure : false
 ```
 
@@ -108,13 +108,10 @@ Port : 2334
 Password : "free"
 Secure : false    
 ```
-
-### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588) | [Sources](https://chippy.info)
-![Players](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Players)
-![Status](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Status)
-![Load](https://lavalink-list-api.ajieblogs.eu.org/audio-chippy-info-24597/badge/Load)
+### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588) | [Website](https://rive.wtf)
+![Players](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Players) ![Status](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Status) ![Load](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Load)
 ```bash
-Host : audio.chippy.info
+Host : audio.rive.wtf
 Port : 24597
 Password : "youshallnotpass"
 Secure : false
@@ -131,11 +128,12 @@ Secure : false
 
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Players) <br />
-Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.6.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
+Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
 Host : 46.202.82.164 
 Port : 1026
 Password : "jmlitev4"
+Secure : false
 ```
 
 ### Hosted by @ [Delusion](https://www.instagram.com/antivirus454)
@@ -148,5 +146,14 @@ Version 3.7.10<br />
 Host : lavalink.ddns.net
 Port : 7106
 Password : "discord.gg/FqEQtEtUc9"
+Secure : false
+```
+
+### Hosted by @ [ urfavteddybear ](https://github.com/urfavteddybear)
+Version 4.1.1
+```bash
+Host : ll.wpcreative.my.id
+Port : 22233
+Password : "youshallnotpass"
 Secure : false
 ```

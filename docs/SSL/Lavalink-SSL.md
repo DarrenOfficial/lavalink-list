@@ -104,12 +104,22 @@ Password : "youshallnotpass"
 Secure : true
 ```
 
-### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
-Version 3.7.13 <br />
-[lavalink.millohost.my.id](https://lavalink.millohost.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
+### Hosted by @ [AneFaiz](https://discord.gg/mjS5J2K3ep)
+[Website](https://millodj.my.id) [status](https://lavalink.millohost.my.id)
 ```bash
 Host : lava-v3.millohost.my.id
 Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
+```
+
+### Hosted by @ [southctrl](https://discord.com/users/1252001166703853588)
+[Website](https://rive.wtf) <br />
+Version 4.1.2 <br />
+![status](https://status.rive.wtf/badge/status) ![load](https://status.rive.wtf/badge/memory) ![players](https://status.rive.wtf/badge/players) ![Uptime](https://status.rive.wtf/badge/uptime)
+```bash
+Host : lavalink.rive.wtf
+Port : 443
+Password : youshallnotpass
+Secure : True
 ```
