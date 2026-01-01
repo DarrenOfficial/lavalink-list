@@ -43,58 +43,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
 
-### Hosted by @ [Alfari](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-Version 4.0.8 
-```bash
-Host : pool-us.alfari.id
-Port : 443
-Password : "alfari"
-Secure : true
-```
-```bash
-Host : pool-sg.alfari.id
-Port : 443
-Password : "alfari"
-Secure : true
-```
-
-### Hosted by @ [Patryk (Muzykant)](https://discord.gg/v6sdrD9kPh)
-Version 4.x 
-```bash
-Host : lavalink_v4.muzykant.xyz
-Port : 443
-Password : "https://discord.gg/v6sdrD9kPh"
-Secure : true
-```
-Version 3.x 
-```bash
-Host : lavalink_v3.muzykant.xyz
-Port : 443
-Password : "https://discord.gg/v6sdrD9kPh"
-Secure : true
-```
-
-
-### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
-[Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
-
-Version 4.x <br />
-![Status](https://status.triniumhost.com/api/badge/24/status) ![Uptime](https://status.triniumhost.com/api/badge/24/uptime) ![Ping](https://status.triniumhost.com/api/badge/24/ping) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
-```bash
-Host : lavalink-v4.triniumhost.com
-Port : 443
-Password : "free"
-Secure : true
-```
-Version 3.x <br />
-![Status](https://status.triniumhost.com/api/badge/22/status) ![Uptime](https://status.triniumhost.com/api/badge/22/uptime) ![Ping](https://status.triniumhost.com/api/badge/22/ping) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
-```bash
-Host : lavalink-v3.triniumhost.com
-Port : 443
-Password : "free"
-Secure : true    
-```
-
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 [Website](https://provider.jirayu.net) <br />
 Version 4.0.8 | salee-plugin (Proxy) <br />
