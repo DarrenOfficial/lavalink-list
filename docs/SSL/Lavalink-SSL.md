@@ -116,10 +116,10 @@ Secure : true
 ### Hosted by @ [southctrl](https://discord.com/users/1252001166703853588)
 [Website](https://rive.wtf) <br />
 Version 4.1.2 <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-rive-wtf-443/badge/Players)
+![status](https://status.rive.wtf/badge/status) ![load](https://status.rive.wtf/badge/memory) ![players](https://status.rive.wtf/badge/players) ![Uptime](https://status.rive.wtf/badge/uptime)
 ```bash
 Host : lavalink.rive.wtf
 Port : 443
 Password : youshallnotpass
-Secure: True
+Secure : True
 ```
