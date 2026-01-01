@@ -29,13 +29,15 @@ hide:
 Version 4.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
-Host : lava-v4.ajieblogs.eu.org
+Host : lavalinkv4.serenetia.com
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
-Secure : true 
+Secure : true
 ```
+Version 3.x <br />
+![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
 ```bash
-Host : lavalinkv4.serenetia.com
+Host : lavalinkv3.serenetia.com
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true
