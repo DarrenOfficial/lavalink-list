@@ -65,15 +65,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [ Yumi Team ](https://camming.xyz)
-Version 4.1.1
-```bash
-Host : 173.249.0.115
-Port : 13592
-Password : "https://camming.xyz"
-Secure : false
-```
-
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
 Version 3.7.10 <br />
 [www.millodj.my.id](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
@@ -81,41 +72,6 @@ Version 3.7.10 <br />
 Host : 107.150.58.122
 Port : 4006
 Password : "https://discord.gg/mjS5J2K3ep"
-Secure : false
-```
-Version 4.1.1 <br />
-```bash
-Host : 5.39.63.207
-Port : 8893
-Password : "https://discord.gg/mjS5J2K3ep"
-Secure : false
-```
-
-### Hosted by @ [TriniumHost](https://links.triniumhost.com/)
-[Live Stats](https://lavalink-status.triniumhost.com/) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
-
-Version 4.x <br />
-![Status](https://status.triniumhost.com/api/badge/23/status) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/23/uptime) ![Ping](https://status.triniumhost.com/api/badge/23/ping)
-```bash
-Host : 140.238.179.182
-Port : 2333
-Password : "kirito"
-Secure : false    
-```
-Version 3.x <br />
-![Status](https://status.triniumhost.com/api/badge/21/status) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections) ![Uptime](https://status.triniumhost.com/api/badge/21/uptime) ![Ping](https://status.triniumhost.com/api/badge/21/ping)
-```bash
-Host : 140.238.179.182
-Port : 2334
-Password : "free"
-Secure : false    
-```
-### Hosted by @ [Southctrl](https://discord.com/users/1252001166703853588) | [Website](https://rive.wtf)
-![Players](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Players) ![Status](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Status) ![Load](https://lavalink-list-api.ajieblogs.eu.org/audio-rive-wtf-24597/badge/Load)
-```bash
-Host : audio.rive.wtf
-Port : 24597
-Password : "youshallnotpass"
 Secure : false
 ```
 
@@ -135,19 +91,6 @@ Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavas
 Host : 46.202.82.164 
 Port : 1026
 Password : "jmlitev4"
-Secure : false
-```
-
-### Hosted by @ [Delusion](https://www.instagram.com/antivirus454)
-[Live Status](https://lavlainkxd.pikapod.net/status/bot) | [Support Server](https://discord.gg/2YUEyJ6sPC)<br />
-Version 3.7.10<br />
-![Status](https://img.shields.io/badge/Status-Online-green) 
-![Players](https://img.shields.io/badge/Players-15-blue)
-![Uptime](https://img.shields.io/badge/Uptime-24/7-brightgreen)
-```bash
-Host : lavalink.ddns.net
-Port : 7106
-Password : "discord.gg/FqEQtEtUc9"
 Secure : false
 ```
 
