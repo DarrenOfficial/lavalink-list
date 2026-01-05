@@ -104,7 +104,8 @@ Secure : false
 ```
 
 ### Hosted by @ [TriniumHost](https://triniumhost.com)
-[Live Stats](https://lavalink-status.triniumhost.com) [Support](lavalink-status.triniumhost.com/suporte) [Arthur Website](https://adssousag.is-a.dev/)
+[Live Stats](https://lavalink-status.triniumhost.com) | [Support](lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+
 Version 4.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections)
