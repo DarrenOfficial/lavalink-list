@@ -102,3 +102,26 @@ Port : 22233
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [TriniumHost](https://triniumhost.com)
+[Live Stats](https://lavalink-status.triniumhost.com) | [Support](lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+
+Version 4.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections)
+```bash
+Host : lavalink.triniumhost.com
+Port : 4333
+Password : "free"
+Secure : false
+```
+
+Version 3.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v3/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v3/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections)
+```bash
+Host : lavalink.triniumhost.com
+Port : 2334
+Password : "free"
+Secure : false
+```
