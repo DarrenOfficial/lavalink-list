@@ -125,3 +125,21 @@ Port : 2334
 Password : "free"
 Secure : false
 ```
+
+### Hosted by @ [Tapao]([https://discord.com/users/1089356674764120125](https://github.com/Tapao-NonSen))
+[Website](https://tapao.nyxbot.app) <br />
+Version 4.x.x | NodeLink | Youtube | Spotify | SoundCloud | Apple Music | Deezer | Twitch<br />
+![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Players)
+```bash
+Host : sg1-nodelink.nyxbot.app
+Port : 3000
+Password : "nyxbot.app/support"
+Secure : false    
+```
+
+```bash
+Host : sg2-nodelink.nyxbot.app
+Port : 3000
+Password : "nyxbot.app/support"
+Secure : false    
+```
