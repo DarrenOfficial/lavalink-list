@@ -126,10 +126,10 @@ Password : "free"
 Secure : false
 ```
 
-### Hosted by @ [Tapao]([https://github.com/Tapao-NonSen](https://github.com/Tapao-NonSen))
+### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
 [Website](https://tapao.nyxbot.app/free-nodelink) <br />
 Version 4.x.x | NodeLink | Youtube | Spotify | SoundCloud | Apple Music | Deezer | Twitch<br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink.nyxbot.app:3000/badge/Players)
+![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
 ```bash
 Host : sg1-nodelink.nyxbot.app
 Port : 3000
@@ -137,6 +137,7 @@ Password : "nyxbot.app/support"
 Secure : false    
 ```
 
+![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
 ```bash
 Host : sg2-nodelink.nyxbot.app
 Port : 3000
