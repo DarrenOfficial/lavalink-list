@@ -127,20 +127,23 @@ Secure : false
 ```
 
 ### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
-[Website](https://tapao.nyxbot.app/free-nodelink) <br />
-Version 4.x.x | NodeLink | Youtube | Spotify | SoundCloud | Apple Music | Deezer | Twitch<br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
+[Website](https://tapao.nyxbot.app/free-nodelink)
+
+Version: 4.x.x
+Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+
+![Status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![Load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![Players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
 ```bash
-Host : sg1-nodelink.nyxbot.app
-Port : 3000
-Password : "nyxbot.app/support"
-Secure : false    
+Host: sg1-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
 ```
 
-![status](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Players)
+![Status](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Status) ![Load](https://list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Load) ![Players](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-nyxbot-app-3000/badge/Players)
 ```bash
-Host : sg2-nodelink.nyxbot.app
-Port : 3000
-Password : "nyxbot.app/support"
-Secure : false    
+Host: sg2-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
 ```
