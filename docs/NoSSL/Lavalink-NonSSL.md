@@ -88,7 +88,7 @@ Secure : false
 ![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Players) <br />
 Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
-Host : 46.202.82.164 
+Host : 46.202.82.147 
 Port : 1026
 Password : "jmlitev4"
 Secure : false
