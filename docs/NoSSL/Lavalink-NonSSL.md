@@ -64,6 +64,13 @@ Port : 80
 Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
+Version 3.x / 4.x <br />
+```bash
+Host : lavalink.serenetia.com
+Port : 80
+Password : "https://dsc.gg/ajidevserver"
+Secure : false
+```
 
 ### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
 Version 3.7.10 <br />
