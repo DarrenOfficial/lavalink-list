@@ -154,7 +154,6 @@ Secure: false
 ```
 
 ### Hosted by @ [dchu096](https://dchu096.me)
-[Website](https://tapao.nyxbot.app/free-nodelink)
 
 Version: 4.1.2
 
