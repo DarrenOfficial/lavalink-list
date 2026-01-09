@@ -85,10 +85,10 @@ Secure : false
 ```
 
 ### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1026/badge/Players) <br />
+![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Players) <br />
 Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
 ```bash
-Host : 46.202.82.164 
+Host : 46.202.82.147 
 Port : 1026
 Password : "jmlitev4"
 Secure : false
@@ -101,4 +101,47 @@ Host : ll.wpcreative.my.id
 Port : 22233
 Password : "youshallnotpass"
 Secure : false
+```
+
+### Hosted by @ [TriniumHost](https://triniumhost.com)
+[Live Stats](https://lavalink-status.triniumhost.com) | [Support](lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+
+Version 4.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections)
+```bash
+Host : lavalink.triniumhost.com
+Port : 4333
+Password : "free"
+Secure : false
+```
+
+Version 3.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v3/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v3/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v3/badge/connections)
+```bash
+Host : lavalink.triniumhost.com
+Port : 2334
+Password : "free"
+Secure : false
+```
+
+### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
+[Website](https://tapao.nyxbot.app/free-nodelink)
+
+Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
+Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+
+```bash
+Host: sg1-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
+```
+
+```bash
+Host: sg2-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
 ```
