@@ -78,7 +78,7 @@ Secure : True
 [Website](https://free-nodelink.nyxbot.app)
 
 Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
-Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://free-nodelink.nyxbot.app)
 
 ```bash
 Host: sg1-nodelink-ssl.nyxbot.app
