@@ -42,6 +42,13 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true
 ```
+Version 3.x / 4.x <br />
+```bash
+Host : lavalink.serenetia.com
+Port : 443
+Password : "https://dsc.gg/ajidevserver"
+Secure : true
+```
 
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 [Website](https://provider.jirayu.net) <br />
