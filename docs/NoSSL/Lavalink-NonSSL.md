@@ -152,3 +152,14 @@ Port: 3000
 Password: nyxbot.app/support
 Secure: false
 ```
+
+### Hosted by @ [dchu096](https://dchu096.me)
+
+Version: 4.1.2
+
+```bash
+Host: 130.94.114.129
+Port: 3777
+Password: youshallnotpass
+Secure: false
+```
