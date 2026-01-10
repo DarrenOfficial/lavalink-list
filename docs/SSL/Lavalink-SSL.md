@@ -95,5 +95,3 @@ Port: 443
 Password: nyxbot.app/support
 Secure: false
 ```
-
-![Nodelink](https://free-nodelink.nyxbot.app/api/nodes/widget?host=sg1-nodelink.nyxbot.app) ![Nodelink](https://free-nodelink.nyxbot.app/api/nodes/widget?host=sg2-nodelink.nyxbot.app)
