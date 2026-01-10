@@ -80,6 +80,7 @@ Secure : True
 Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
 Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://free-nodelink.nyxbot.app)
 
+![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
 ```bash
 Host: sg1-nodelink-ssl.nyxbot.app
 Port: 443
@@ -87,6 +88,7 @@ Password: nyxbot.app/support
 Secure: false
 ```
 
+![status](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-ssl-nyxbot-app-443/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg2-nodelink-ssl-nyxbot-app-443/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg2-nodelink-ssl-nyxbot-app-443/badge/Players)
 ```bash
 Host: sg2-nodelink-ssl.nyxbot.app
 Port: 443
