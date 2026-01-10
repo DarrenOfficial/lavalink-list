@@ -78,6 +78,7 @@ Secure : True
 [Website](https://free-nodelink.nyxbot.app)
 
 Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
+
 Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://free-nodelink.nyxbot.app)
 
 ![status](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Status) ![load](https://list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/sg1-nodelink-nyxbot-app-3000/badge/Players)
