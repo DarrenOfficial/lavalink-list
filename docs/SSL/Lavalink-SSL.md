@@ -80,3 +80,10 @@ Port : 443
 Password : youshallnotpass
 Secure : True
 ```
+### Hosted by @ [Jijjsjsjs](https://github.com/Jijjsjsjs)
+```bash
+Host : lavalink-latest-dac1.onrender.com
+Port : 56000
+Password : FREE_LAVALINK
+Secure : true
+```
