@@ -107,3 +107,12 @@ Port : 2334
 Password : "free"
 Secure : false    
 ```
+### Hosted by @ [Yuvraj.apk] | ![Website](https://nodepulse.qzz.io) | ![Support](https://discord.gg/pxXtr4Ajz8) 
+Version 4.1.2
+
+```bash
+Host : zac.hidencloud.com
+Port : 24577‎
+Password : "harmonix-wheremusicalive"
+Secure : false
+```
