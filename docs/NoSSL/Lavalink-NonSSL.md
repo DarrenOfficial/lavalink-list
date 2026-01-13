@@ -108,6 +108,7 @@ Password : "free"
 Secure : false    
 ```
 ### Hosted by @ [Yuvraj.apk] | ![Website](https://nodepulse.qzz.io) | ![Support](https://discord.gg/pxXtr4Ajz8) 
+Apple Music | JioSaavn | Spotify | YouTube | YouTube Music | SoundCloud |YandexMusic | Qobuz and many more... 
 Version 4.1.2
 
 ```bash
