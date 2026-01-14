@@ -23,6 +23,16 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+### Hosted by @ [devbeni](https://devbeni.lol)
+[Website & Live Stats](https://status.devbeni.lol)
+Version 4.x <br />
+```bash
+Host : lavalink.devbeni.lol
+Port : 443
+Password : "youshallnotpassMEOW"
+Secure : true
+```
+
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/Lavalink-NonSSL/#hosted-by-amane-ajiedev) <br />
