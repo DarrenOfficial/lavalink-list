@@ -108,12 +108,12 @@ Password : "free"
 Secure : false    
 ```
 ### Hosted by @ [Yuvraj.apk] | ![Website](https://nodepulse.qzz.io) | ![Support](https://discord.gg/pxXtr4Ajz8) 
-Apple Music | JioSaavn | Spotify | YouTube | YouTube Music | SoundCloud |YandexMusic | Qobuz and many more... 
+Apple Music | JioSaavn | Deezer| Spotify | YouTube | YouTube Music | SoundCloud |YandexMusic | Qobuz and 13 more... 
 Version 4.1.2
 
 ```bash
-Host : zac.hidencloud.com
-Port : 24577‎
-Password : "harmonix-wheremusicalive"
+Host : pnode1.danbot.host
+Port : 1186‎
+Password : "Kaun.Yuvraj"
 Secure : false
 ```
