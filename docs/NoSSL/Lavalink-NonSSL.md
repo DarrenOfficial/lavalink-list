@@ -82,12 +82,18 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
 ```
 
-### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) 
-Version 4.1.1 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
+### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) | [Beta](https://cloud.aiko-project.xyz/d/lvl/)
+Version 4.1.2 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
 ```bash
-Host : lavalink.aiko-project.xyz
+Host : ca.lavalink.yumistack.net
 Port : 2333
-Password : "Rikka"
+Password : "Sakura"
+Secure : false
+```
+```bash
+Host : sgp.lavalink.yumistack.net
+Port : 2333
+Password : "Sakura"
 Secure : false
 ```
 
