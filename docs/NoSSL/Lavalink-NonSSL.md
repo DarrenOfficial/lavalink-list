@@ -107,13 +107,3 @@ Port : 2334
 Password : "free"
 Secure : false    
 ```
-### Hosted by @ [Yuvraj.apk] | ![Website](https://nodepulse.qzz.io) | ![Support](https://discord.gg/pxXtr4Ajz8) 
-Apple Music | JioSaavn | Deezer| Spotify | YouTube | YouTube Music | SoundCloud |YandexMusic | Qobuz and 13 more... 
-Version 4.1.2
-
-```bash
-Host : pnode1.danbot.host
-Port : 1186‎
-Password : "Kaun.Yuvraj"
-Secure : false
-```
