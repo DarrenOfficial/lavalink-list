@@ -72,16 +72,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
-Version 3.7.10 <br />
-[www.millodj.my.id](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
-```bash
-Host : 107.150.58.122
-Port : 4006
-Password : "https://discord.gg/mjS5J2K3ep"
-Secure : false
-```
-
 ### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) 
 Version 4.1.1 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
 ```bash
