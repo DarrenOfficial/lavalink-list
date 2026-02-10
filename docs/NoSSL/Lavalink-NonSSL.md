@@ -158,3 +158,26 @@ Port: 3000
 Password: nyxbot.app/support
 Secure: false
 ```
+
+# 🌋 LavaLink V4 By [Ariato](https://discord.gg/3k3t6KeFvh)
+
+### 🚀 Available Nodes
+| Location | Status | Spec | Host | Port |
+| :--- | :--- | :--- | :--- | :--- |
+| **Singapore** | 🟢 [Online](https://cloud.aiko-project.xyz/d/lvl/) | 4Core / 8Gb / 400Mbps | `sgp.lavalink.yumistack.net` | 2333 |
+| **Canada** | 🟢 [Online](https://cloud.aiko-project.xyz/d/lvl/) | 6Core / 12Gb / 1Gbps | `ca.lavalink.yumistack.net` | 2333 |
+
+---
+
+### 🔑 Credentials
+**Password:** `Sakura` | **Secure:** `false`
+
+**Last Update:** <relative-time datetime="2026-02-10T20:54:00Z">February 10, 2026</relative-time>
+
+---
+
+### 🛠 Supported Platforms
+- YouTube, Spotify (limit 30 tracks), Apple Music, SoundCloud, Deezer, Direct Link
+
+> **Note:** Use it for a better music experience. React and show some love! ❤️  
+> Found a problem? DM me anytime (GMT +7).
