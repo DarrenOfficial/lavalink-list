@@ -82,12 +82,18 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : false
 ```
 
-### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) 
-Version 4.1.1 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
+### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) | [Beta](https://cloud.aiko-project.xyz/d/lvl/)
+Version 4.1.2 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
 ```bash
-Host : lavalink.aiko-project.xyz
+Host : ca.lavalink.yumistack.net
 Port : 2333
-Password : "Rikka"
+Password : "Sakura"
+Secure : false
+```
+```bash
+Host : sgp.lavalink.yumistack.net
+Port : 2333
+Password : "Sakura"
 Secure : false
 ```
 
@@ -152,3 +158,26 @@ Port: 3000
 Password: nyxbot.app/support
 Secure: false
 ```
+
+# 🌋 LavaLink V4 By [Ariato](https://discord.gg/3k3t6KeFvh)
+
+### 🚀 Available Nodes
+| Location | Status | Spec | Host | Port |
+| :--- | :--- | :--- | :--- | :--- |
+| **Singapore** | 🟢 [Online](https://cloud.aiko-project.xyz/d/lvl/) | 4Core / 8Gb / 400Mbps | `sgp.lavalink.yumistack.net` | 2333 |
+| **Canada** | 🟢 [Online](https://cloud.aiko-project.xyz/d/lvl/) | 6Core / 12Gb / 1Gbps | `ca.lavalink.yumistack.net` | 2333 |
+
+---
+
+### 🔑 Credentials
+**Password:** `Sakura` | **Secure:** `false`
+
+**Last Update:** <relative-time datetime="2026-02-10T20:54:00Z">February 10, 2026</relative-time>
+
+---
+
+### 🛠 Supported Platforms
+- YouTube, Spotify (limit 30 tracks), Apple Music, SoundCloud, Deezer, Direct Link
+
+> **Note:** Use it for a better music experience. React and show some love! ❤️  
+> Found a problem? DM me anytime (GMT +7).
