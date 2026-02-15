@@ -69,6 +69,12 @@ Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
 ```
+```bash
+Host : lava-v4.millohost.my.id
+Port : 443
+Password : "https://discord.gg/mjS5J2K3ep"
+Secure : true
+```
 
 ### Hosted by @ [southctrl](https://discord.com/users/1252001166703853588)
 [Website](https://rive.wtf) <br />
