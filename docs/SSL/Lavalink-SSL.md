@@ -80,3 +80,13 @@ Port : 443
 Password : youshallnotpass
 Secure : True
 ```
+
+### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
+Version 4.1.2 <br />
+[Website](https://chanom.kasawa.pro)
+```bash
+Host : lava.kasawa.pro
+Port : 2333
+Password : youshallnotpass
+Secure : True
+```
