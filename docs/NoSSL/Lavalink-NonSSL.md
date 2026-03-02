@@ -154,7 +154,7 @@ Secure: false
 ```
 
 ### Hosted by @ [G3V](https://g3v.co.uk) | [Status](https://status.g3v.co.uk) 
-Version 4.1.2 | Plugins: youtube-plugin, lavasrc-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
+Version 4.2.1 | Plugins: youtube-plugin, lavasrc-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
 ```bash
 Host : lava.g3v.co.uk
 Port : 9000
