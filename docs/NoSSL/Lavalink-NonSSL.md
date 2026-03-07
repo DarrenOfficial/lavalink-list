@@ -72,32 +72,12 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [AneFaiz](https://discord.com/users/762337438869225533)
-Version 3.7.10 <br />
-[www.millodj.my.id](https://millodj.my.id) | Need help? Join the [Support Server](https://discord.gg/mjS5J2K3ep)
-```bash
-Host : 107.150.58.122
-Port : 4006
-Password : "https://discord.gg/mjS5J2K3ep"
-Secure : false
-```
-
 ### Hosted by @ [Ariato](https://discord.com/users/612581588370325529) | [Status](https://status.aiko-project.xyz) 
 Version 4.1.1 | Need Help? Join The [Support Discord](https://discord.gg/Wx4RGS2TMh).
 ```bash
 Host : lavalink.aiko-project.xyz
 Port : 2333
 Password : "Rikka"
-Secure : false
-```
-
-### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-147-1026/badge/Players) <br />
-Version 4.1.1 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.16.0, lavasearch-plugin:1.0.0, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
-```bash
-Host : 46.202.82.147 
-Port : 1026
-Password : "jmlitev4"
 Secure : false
 ```
 
