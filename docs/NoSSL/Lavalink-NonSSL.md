@@ -46,14 +46,14 @@ Secure : false
 ```
 
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
-[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
+[Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://seretia.link/discord) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
 Version 4.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
 ```bash
 Host : lavalinkv4.serenetia.com
 Port : 80
-Password : "https://dsc.gg/ajidevserver"
+Password : "https://seretia.link/discord"
 Secure : false
 ```
 Version 3.x <br />
@@ -61,14 +61,14 @@ Version 3.x <br />
 ```bash
 Host : lavalinkv3.serenetia.com
 Port : 80
-Password : "https://dsc.gg/ajidevserver"
+Password : "https://seretia.link/discord"
 Secure : false
 ```
 Version 3.x / 4.x <br />
 ```bash
 Host : lavalink.serenetia.com
 Port : 80
-Password : "https://dsc.gg/ajidevserver"
+Password : "https://seretia.link/discord"
 Secure : false
 ```
 
