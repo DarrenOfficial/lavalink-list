@@ -96,7 +96,7 @@ Secure: false
 Version 4.2.1 | Plugins: youtube-plugin, lavasrc-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
 ```bash
 Host : lava.g3v.co.uk
-Port : 9000
+Port : 9008
 Password : "lavalinklol"
 Secure : false
 ```
