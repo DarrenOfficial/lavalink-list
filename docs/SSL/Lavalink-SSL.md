@@ -64,7 +64,7 @@ Secure : true
 ### Hosted by @ [AneFaiz](https://discord.gg/mjS5J2K3ep)
 [Website](https://millodj.my.id) [status](https://lavalink.millohost.my.id)
 ```bash
-Host : lava-v3.millohost.my.id
+Host : lava-v4.millohost.my.id
 Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
