@@ -27,24 +27,9 @@ hide:
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://seretia.link/discord) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/Lavalink-NonSSL/#hosted-by-amane-ajiedev) <br />
 Version 4.x <br />
-![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v4/badge/Bandwidth)
+![stat](https://ajieblogs.eu.org/lavalink/v4/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v4/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v4/badge/Players)
 ```bash
 Host : lavalinkv4.serenetia.com
-Port : 443
-Password : "https://seretia.link/discord"
-Secure : true
-```
-Version 3.x <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
-```bash
-Host : lavalinkv3.serenetia.com
-Port : 443
-Password : "https://seretia.link/discord"
-Secure : true
-```
-Version 3.x / 4.x <br />
-```bash
-Host : lavalink.serenetia.com
 Port : 443
 Password : "https://seretia.link/discord"
 Secure : true
