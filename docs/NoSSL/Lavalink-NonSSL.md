@@ -85,3 +85,13 @@ Port : 9008
 Password : "lavalinklol"
 Secure : false
 ```
+
+
+### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
+Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
+```bash
+Host     : n3.nexcloud.in
+Port     : 2026
+Auth     : "https://nexcloud.in"
+Secure   : false
+```
