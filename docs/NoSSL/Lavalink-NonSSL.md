@@ -92,6 +92,6 @@ Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | Fo
 ```bash
 Host     : n3.nexcloud.in
 Port     : 2026
-Auth     : "https://nexcloud.in"
+Auth     : "nexcloud"
 Secure   : false
 ```
