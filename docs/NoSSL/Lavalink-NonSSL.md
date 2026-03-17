@@ -39,7 +39,7 @@ Secure : false
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
 Version 4.0.8 Plugins: youtube-plugin:1.16.0, lavalyrics-plugin:7d60077, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0 with Spotify API, Apple Music API, and YouTube OAuth2
 ```bash
-Host :  lavahatry4.techbyte.host
+Host : lavahatry4.techbyte.host
 Port : 3000
 Password : "naig.is-a.dev"
 Secure : false
@@ -64,17 +64,17 @@ Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/
 Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
 
 ```bash
-Host: sg1-nodelink.nyxbot.app
-Port: 3000
-Password: nyxbot.app/support
-Secure: false
+Host : sg1-nodelink.nyxbot.app
+Port : 3000
+Password : nyxbot.app/support
+Secure : false
 ```
 
 ```bash
-Host: sg2-nodelink.nyxbot.app
-Port: 3000
-Password: nyxbot.app/support
-Secure: false
+Host : sg2-nodelink.nyxbot.app
+Port : 3000
+Password : nyxbot.app/support
+Secure : false
 ```
 
 ### Hosted by @ [G3V](https://g3v.co.uk) | [Status](https://status.g3v.co.uk) 
@@ -106,5 +106,14 @@ Version 3.x.x
 Host : lavalink.triniumhost.com
 Port : 2334
 Password : "free"
+Secure : false
+```
+
+### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
+Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
+```bash
+Host : n3.nexcloud.in
+Port : 2026
+Password : "nexcloud"
 Secure : false
 ```
