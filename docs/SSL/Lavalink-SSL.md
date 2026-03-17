@@ -54,3 +54,26 @@ Port : 443
 Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
 ```
+
+### Hosted by @ [TriniumHost](https://triniumhost.com)
+[Live Stats](https://lavalink-status.triniumhost.com) | [Support](lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+
+Version 4.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v4ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
+```bash
+Host : lavalink-v4.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
+
+Version 3.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/v3ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v3ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
+```bash
+Host : lavalink-v3.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
