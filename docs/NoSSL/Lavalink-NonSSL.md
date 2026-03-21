@@ -86,6 +86,15 @@ Password : "lavalinklol"
 Secure : false
 ```
 
+### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
+Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
+```bash
+Host : n3.nexcloud.in
+Port : 2026
+Password : "nexcloud"
+Secure : false
+```
+
 ### Hosted by @ [TriniumHost](https://triniumhost.com)
 [Live Stats](https://lavalink-status.triniumhost.com) | [Support](lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
@@ -106,14 +115,5 @@ Version 3.x.x
 Host : lavalink.triniumhost.com
 Port : 2334
 Password : "free"
-Secure : false
-```
-
-### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
-Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
-```bash
-Host : n3.nexcloud.in
-Port : 2026
-Password : "nexcloud"
 Secure : false
 ```
