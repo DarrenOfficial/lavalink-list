@@ -117,3 +117,12 @@ Port : 2026
 Password : "nexcloud"
 Secure : false
 ```
+
+### Hosted by @ [VexaNode](https://vexanode.cloud)
+Version 4.x | Miami US Node
+
+```bash
+Host : omega.vexanode.cloud
+Port : 2031
+Password : "https://discord.vexanode.cloud"
+Secure : false
