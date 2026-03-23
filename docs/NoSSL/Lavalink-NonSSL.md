@@ -36,15 +36,6 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
-Version 4.0.8 Plugins: youtube-plugin:1.16.0, lavalyrics-plugin:7d60077, lavasrc-plugin:4.8.1, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0 with Spotify API, Apple Music API, and YouTube OAuth2
-```bash
-Host : lavahatry4.techbyte.host
-Port : 3000
-Password : "naig.is-a.dev"
-Secure : false
-```
-
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://seretia.link/discord) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
@@ -126,3 +117,4 @@ Host : omega.vexanode.cloud
 Port : 2031
 Password : "https://discord.vexanode.cloud"
 Secure : false
+```
