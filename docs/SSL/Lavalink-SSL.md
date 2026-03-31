@@ -67,13 +67,3 @@ Port : 443
 Password : "free"
 Secure : true
 ```
-
-Version 3.x.x
-
-![Status](https://lavalink-api-status.triniumhost.com/v3ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v3ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v3ssl/badge/connections)
-```bash
-Host : lavalink-v3.triniumhost.com
-Port : 443
-Password : "free"
-Secure : true
-```
