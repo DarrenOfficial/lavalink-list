@@ -90,6 +90,14 @@ Password : "free"
 Secure : false
 ```
 
+![Status](https://lavalink-api-status.triniumhost.com/v4off/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4off/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4off/badge/connections)
+```bash
+Host : lavalink.triniumhost.com
+Port : 2333
+Password : "kirito"
+Secure : false
+```
+
 ### Hosted by @ [Kartik](https://nexcloud.in) | [Status](https://discord.gg/FmHm7d5BuF) 
 Version: 4.2.1 | Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [Discord](https://discord.gg/FmHm7d5BuF)
 ```bash
