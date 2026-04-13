@@ -116,3 +116,14 @@ Port : 2031
 Password : "https://discord.vexanode.cloud"
 Secure : false
 ```
+
+
+### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
+Version 4.x
+[Website](https://chanom.kasawa.pro)
+```bash
+Host : lava.kasawa.pro
+Port : 2333
+Password : youshallnotpass
+Secure : False
+```
