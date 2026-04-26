@@ -98,6 +98,7 @@ Password : "kirito"
 Secure : false
 ```
 Version: Nodelink 3.0.7
+
 ![Status](https://lavalink-api-status.triniumhost.com/nodelink1/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink1/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink1/badge/connections)
 ```bash
 Host : lavalink.triniumhost.com
