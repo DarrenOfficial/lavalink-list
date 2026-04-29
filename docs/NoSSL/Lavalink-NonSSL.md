@@ -126,6 +126,6 @@ Version 4.x
 ```bash
 Host : lava.kasawa.pro
 Port : 2333
-Password : youshallnotpass
-Secure : False
+Password : "youshallnotpass"
+Secure : false
 ```
