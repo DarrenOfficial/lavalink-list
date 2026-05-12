@@ -25,6 +25,16 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+### Hosted by @ [MineCuta](https://minecuta.com)
+[Live Stats](https://lavastatus.minecuta.com/) | [Support server](https://discord.gg/gKuXdHs)<br />
+Version 4.x | youtube-plugin
+```bash
+Host : lavav4.minecuta.com
+Port : 2333
+Password : "discord.gg/gKuXdHs"
+Secure : false
+```
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 [Website](https://provider.jirayu.net) <br />
 Version 4.0.8 | salee-plugin (Proxy) <br />
