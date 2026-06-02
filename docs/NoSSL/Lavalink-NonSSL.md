@@ -127,3 +127,13 @@ Port : 2333
 Password : youshallnotpass
 Secure : False
 ```
+
+### Hosted by @ [East112](https://github.com/East112)
+[Dashboard](http://157.254.192.15:3001) <br />
+Version 4.2.2 | Plugins: YouTube Source v1.18.1, SponsorBlock v3.0.1 <br />
+```bash
+Host : 157.254.192.15
+Port : 2333
+Password : "youshallnotpass"
+Secure : false
+```
