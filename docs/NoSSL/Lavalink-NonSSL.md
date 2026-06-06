@@ -25,14 +25,27 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+### Hosted by @ [nerkoux](https://github.com/nerkoux)
+[Website](https://letsroti.com) <br />
+ | Version 4.2.2 | <br />
+![status](https://lavalinkstats.akshatmehta.com/badge/e2adcfd3-0423-41a2-95d5-3dbba806604e/status.svg) ![players](https://lavalinkstats.akshatmehta.com/badge/e2adcfd3-0423-41a2-95d5-3dbba806604e/players.svg)
+
+```bash
+Host : node.akshatmehta.com
+Port : 25566
+Password : "vexrnode"
+Secure : false    
+```
+
+
 ### Hosted by @ [Jirayu](https://discord.com/users/1089356674764120125)
 [Website](https://provider.jirayu.net) <br />
 Version 4.0.8 | salee-plugin (Proxy) <br />
 ![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
 ```bash
-Host : lavalink.jirayu.net
-Port : 13592
-Password : "youshallnotpass"
+Host : lavalink.akshatmehta.com
+Port : 25566
+Password : "vexrnode"
 Secure : false    
 ```
 
