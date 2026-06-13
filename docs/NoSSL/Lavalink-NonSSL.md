@@ -119,7 +119,7 @@ Secure : false
 
 
 ### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
-Version 4.x
+Version 4.x | TH Node
 [Website](https://chanom.kasawa.pro)
 ```bash
 Host : lava2.kasawa.pro
