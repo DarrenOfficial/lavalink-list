@@ -122,8 +122,8 @@ Secure : false
 Version 4.x
 [Website](https://chanom.kasawa.pro)
 ```bash
-Host : lava.kasawa.pro
-Port : 2333
+Host : lava2.kasawa.pro
+Port : 2334
 Password : "youshallnotpass"
 Secure : false
 ```
