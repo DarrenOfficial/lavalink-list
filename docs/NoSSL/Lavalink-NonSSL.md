@@ -144,3 +144,13 @@ Port : 2334
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [MineCuta](https://minecuta.com)
+[Live Stats](https://lavastatus.minecuta.com/) | [Support server](https://discord.gg/gKuXdHs)<br />
+Version 4.x | youtube-plugin
+```bash
+Host : lavav4.minecuta.com
+Port : 2333
+Password : "discord.gg/gKuXdHs"
+Secure : false
+```
