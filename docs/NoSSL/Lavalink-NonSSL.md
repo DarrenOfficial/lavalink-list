@@ -136,11 +136,11 @@ Secure : false
 
 
 ### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
-Version 4.x
+Version 4.x | TH Node
 [Website](https://chanom.kasawa.pro)
 ```bash
-Host : lava.kasawa.pro
-Port : 2333
-Password : youshallnotpass
-Secure : False
+Host : lava2.kasawa.pro
+Port : 2334
+Password : "youshallnotpass"
+Secure : false
 ```
