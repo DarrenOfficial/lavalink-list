@@ -97,7 +97,7 @@ Port : 2333
 Password : "kirito"
 Secure : false
 ```
-Version: Nodelink 3.0.7
+Version: Nodelink 3.x.x
 
 ![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
 ```bash
