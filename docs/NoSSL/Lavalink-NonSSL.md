@@ -99,7 +99,7 @@ Secure : false
 ```
 Version: Nodelink 3.0.7
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink1/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink1/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink1/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
 ```bash
 Host : lavalink.triniumhost.com
 Port : 9008
@@ -107,7 +107,7 @@ Password : "free"
 Secure : false
 ```
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink2/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink2/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink2/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
 ```bash
 Host : lavalink.triniumhost.com
 Port : 6000
