@@ -67,3 +67,21 @@ Port : 443
 Password : "free"
 Secure : true
 ```
+
+Version: Nodelink 3.x.x
+
+![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
+```bash
+Host : nodelink.triniumhost.com
+Port : 443
+Password : "free"
+Secure : true
+```
+
+![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
+```bash
+Host : nodelink-02.triniumhost.com
+Port : 443
+Password : "trinium"
+Secure : true
+```
