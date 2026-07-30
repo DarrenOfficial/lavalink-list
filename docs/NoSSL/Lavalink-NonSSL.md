@@ -164,3 +164,12 @@ Port : 2333
 Password : "youshallnotpass"
 Secure : false
 ```
+
+### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
+[INFO](https://gdjkhp.github.io/nodelink.txt)
+```bash
+Host : nodelink.gdjkhp.com
+Port : 3000
+Password : "youshallnotpass"
+Secure : false
+```
