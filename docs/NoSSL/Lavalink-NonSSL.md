@@ -166,7 +166,7 @@ Secure : false
 ```
 
 ### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
-[INFO](https://gdjkhp.github.io/nodelink.txt)
+Lavalink v4 | Nodelink v3-dev | [INFO](https://gdjkhp.github.io/nodelink.txt)
 ```bash
 Host : nodelink.gdjkhp.com
 Port : 3000
