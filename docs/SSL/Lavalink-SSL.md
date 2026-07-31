@@ -93,6 +93,6 @@ Lavalink V4.2.2 (Proxy)
 ```bash
 Host : lavalink.robloxbot.us.kg
 Port: 443
-Password : youshallnotpass
+Password : "youshallnotpass"
 Secure: true
 ```
