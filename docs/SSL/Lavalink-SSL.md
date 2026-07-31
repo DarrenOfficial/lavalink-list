@@ -85,3 +85,14 @@ Port : 443
 Password : "trinium"
 Secure : true
 ```
+
+### Hosted by @ [Robloxbot Team](https://location.us.kg)
+[Lavalink Status Page](https://our-lavalink.robloxbot.us.kg/) & [Support Portal](https://support.location.us.kg)
+
+Lavalink V4.2.2 (Proxy)
+```bash
+Host : lavalink.robloxbot.us.kg
+Port: 443
+Password : youshallnotpass
+Secure: true
+```
