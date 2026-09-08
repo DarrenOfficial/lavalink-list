@@ -55,12 +55,12 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
 ```
 
-### Hosted by @ [TriniumHost](https://triniumhost.com)
-[Live Stats](https://lavalink-status.triniumhost.com) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+### Hosted by @ [TriniumHost](https://triniumhost.indevs.in)
+[Live Stats](https://lavalink-status.triniumhost.indevs.in) | [Support](https://lavalink-status.triniumhost.indevs.in/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
 Version 4.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/v4ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4ssl/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/v4ssl/badge/connections)
 ```bash
 Host : lavalink-v4.triniumhost.com
 Port : 443
@@ -70,18 +70,10 @@ Secure : true
 
 Version: Nodelink 3.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/connections)
 ```bash
 Host : nodelink.triniumhost.com
 Port : 443
 Password : "free"
-Secure : true
-```
-
-![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
-```bash
-Host : nodelink-02.triniumhost.com
-Port : 443
-Password : "trinium"
 Secure : true
 ```

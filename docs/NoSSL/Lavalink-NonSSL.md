@@ -77,12 +77,12 @@ Password : "lavalinklol"
 Secure : false
 ```
 
-### Hosted by @ [TriniumHost](https://triniumhost.com)
-[Live Stats](https://lavalink-status.triniumhost.com) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
+### Hosted by @ [TriniumHost](https://triniumhost.indevs.in)
+[Live Stats](https://lavalink-status.triniumhost.indevs.in) | [Support](https://lavalink-status.triniumhost.indevs.in/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
 Version 4.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/v4/badge/connections)
 ```bash
 Host : lavalink.triniumhost.com
 Port : 4333
@@ -90,28 +90,13 @@ Password : "free"
 Secure : false
 ```
 
-![Status](https://lavalink-api-status.triniumhost.com/v4off/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/v4off/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/v4off/badge/connections)
-```bash
-Host : lavalink.triniumhost.com
-Port : 2333
-Password : "kirito"
-Secure : false
-```
 Version: Nodelink 3.x.x
 
-![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/connections)
 ```bash
 Host : lavalink.triniumhost.com
 Port : 9008
 Password : "free"
-Secure : false
-```
-
-![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
-```bash
-Host : lavalink.triniumhost.com
-Port : 6000
-Password : "trinium"
 Secure : false
 ```
 
