@@ -85,3 +85,12 @@ Port : 443
 Password : "trinium"
 Secure : true
 ```
+
+### Hosted by @ [naig](https://naig.me)
+[Website](https://naig.me) [Github](https://github.com/charlesnaig) 
+```bash
+Host : lavalink.naig.me
+Port : 443
+Password : "naig1229"
+Secure : true
+```
