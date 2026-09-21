@@ -85,3 +85,34 @@ Port : 443
 Password : "trinium"
 Secure : true
 ```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+[Website](https://github.com/knownasrazi/nazha-free-lavalink) | [Support server](https://discord.gg/XeSCnk57ZF) <br />
+Version 4.2.2 | Plugins: nazha-source (45+ sources: YouTube, Spotify, Apple Music, Deezer, Tidal, Amazon Music, Pandora, Audiomack, Internet Archive, and more) <br />
+```bash
+Host : lavalink.nazha.online
+Port : 443
+Password : "nazhafreelava"
+Secure : true
+```
+
+```bash
+Host : sg-1.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
+
+```bash
+Host : sg-2.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
+
+```bash
+Host : sg-3.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
