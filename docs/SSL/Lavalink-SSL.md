@@ -116,3 +116,12 @@ Port : 443
 Password : "https://discord.gg/XeSCnk57ZF"
 Secure : true
 ```
+
+### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
+Lavalink v4 | Nodelink v3-dev | [INFO](https://gdjkhp.github.io/nodelink.txt)
+```bash
+Host : nodelink.gdjkhp.com
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
