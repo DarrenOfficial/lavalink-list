@@ -164,6 +164,18 @@ Port : 2333
 Password : "youshallnotpass"
 Secure : false
 ```
+### Hosted by @ [Vinster](https://discord.com/users/1237795909656641603)
+[Website](http://78.154.103.43:11247/)  
+Version 4.0.8 | YouTube Plugin (OAuth2) | Spotify Support
+
+[![Lavalink Status](http://78.154.103.43:11247/api/v1/badge/status/0)](http://78.154.103.43:11247/)
+
+```bash
+Host : budget-us7.bot.heavencloud.in
+Port : 6706
+Password : "youshallnotpass"
+Secure : false
+```
 
 ### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
 Lavalink v4 | Nodelink v3-dev | [INFO](https://gdjkhp.github.io/nodelink.txt)
