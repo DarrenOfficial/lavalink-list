@@ -173,3 +173,12 @@ Port : 3000
 Password : "youshallnotpass"
 Secure : false
 ```
+### Hosted by @ [Vinster](https://discord.com/users/1237795909656641603)
+Version 4.0.8 | YouTube Plugin (OAuth2) | Spotify Support
+
+```bash
+Host : budget-us7.bot.heavencloud.in
+Port : 6706
+Password : "youshallnotpass"
+Secure : false
+```
