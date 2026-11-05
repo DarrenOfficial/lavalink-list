@@ -70,10 +70,39 @@ Secure : true
 
 Version: Nodelink 3.x.x
 
-![Status](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.indevs.in/nodelink/badge/connections)
+![Status](https://lavalink-api-status.triniumhost.com/nodelink/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink/badge/connections)
 ```bash
 Host : nodelink.triniumhost.com
 Port : 443
 Password : "free"
+Secure : true
+```
+
+![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
+```bash
+Host : nodelink-02.triniumhost.com
+Port : 443
+Password : "trinium"
+Secure : true
+```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+[Website](https://github.com/knownasrazi/nazha-free-lavalink) | [Support server](https://discord.gg/XeSCnk57ZF) | Plugins: nazha-source (45+ sources) <br />
+Version 4.2.2
+
+![Status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-nazha-online-443/badge/Status) ![Load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-nazha-online-443/badge/Load) ![Players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-nazha-online-443/badge/Players)
+```bash
+Host : lavalink.nazha.online
+Port : 443
+Password : "nazhafreelava"
+Secure : true
+```
+
+### Hosted by @ [GDjkhp](https://gdjkhp.github.io)
+Lavalink v4 | Nodelink v3-dev | [INFO](https://gdjkhp.github.io/nodelink.txt)
+```bash
+Host : nodelink.gdjkhp.com
+Port : 443
+Password : "youshallnotpass"
 Secure : true
 ```
