@@ -106,3 +106,12 @@ Port : 443
 Password : "youshallnotpass"
 Secure : true
 ```
+### Hosted by @ [Vinster](https://discord.com/users/1237795909656641603)
+Version: 4.2.1 | Sources: YouTube | YouTube Music | Spotify | Apple Music | SoundCloud | Deezer | Tidal | Qobuz | JioSaavn | Gaana | Amazon Music | Yandex Music | VK Music | Bandcamp | Twitch | HTTP | Flowery TTS
+```bash
+Host     : freelavalinkvinster.in
+Port     : 443
+Password : youshallnotpass
+Secure   : true
+```
+
