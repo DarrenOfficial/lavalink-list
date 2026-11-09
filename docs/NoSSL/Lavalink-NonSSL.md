@@ -181,3 +181,11 @@ Port     : 9018
 Password : youshallnotpass
 Secure   : false
 ```
+### Hosted by @ [Christian Rodríguez](https://github.com/christianrodrigueznivar4-create)
+Version: 4.2.2 | Sources: YouTube | Radio Stream URL
+```bash
+Host : de4.bot-hosting.cloud
+Port : 26245
+Password : "glaceyt"
+Secure : false
+```
