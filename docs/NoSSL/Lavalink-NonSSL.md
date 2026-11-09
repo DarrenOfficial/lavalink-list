@@ -181,3 +181,13 @@ Port     : 9018
 Password : youshallnotpass
 Secure   : false
 ```
+### Hosted by @[Christian](https://bot-hosting.net/)
+Version: 4.2.2 | Sources: YouTube | Radio Stream URL
+
+![Status](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/status) ![Load](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/load) ![Players](https://lavalink-api-status.triniumhost.com/nodelink_canary/badge/connections)
+```bash
+Host : de4.bot-hosting.cloud
+Port : 26245
+Password : "glaceyt"
+Secure : false
+```
