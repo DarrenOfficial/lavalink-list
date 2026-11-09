@@ -183,6 +183,7 @@ Secure   : false
 ```
 ### Hosted by @ [Christian Rodríguez](https://github.com/christianrodrigueznivar4-create)
 Version: 4.2.2 | Sources: YouTube | Radio Stream URL
+![status](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Load) ![players](https://lavalink-list-api.ajieblogs.eu.org/lavalink-jirayu-net-13592/badge/Players)
 ```bash
 Host : de4.bot-hosting.cloud
 Port : 26245
